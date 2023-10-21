@@ -1,0 +1,77 @@
+{
+    "data": {
+        "event": {
+            "id": "1e38e7bf-74e4-4706-a197-9b5c65074b11",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/259/video/thumbs/poster.jpg",
+            "title": "Imagerie oncologique : Comment améliorer la détection des lésions avec l'IA",
+            "start": "2023-10-14T12:30+02:00",
+            "end": "2023-10-14T13:30+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e02843a5-b34f-4824-97b2-11da14758403",
+                        "title": "Introduction",
+                        "start": "2023-10-14T12:30+02:00",
+                        "end": "2023-10-14T12:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "ab853b61-ff5a-44f4-ad05-4004e9d1dccb",
+                        "title": "Diagnostic du cancer de la prostate parIRM implémentée par l'IA: les attentes du radiologue",
+                        "start": "2023-10-14T12:42+02:00",
+                        "end": "2023-10-14T12:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "1e608a98-b7f3-45b9-a719-f5a205cdff95",
+                        "title": "L'Intelligence Artificielle appliquée à un examen IRM de prostate: PI-CAI Grand Challenge",
+                        "start": "2023-10-14T12:54+02:00",
+                        "end": "2023-10-14T13:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "3d2eae8f-e7a9-4fa0-a021-aee3e8b4139b",
+                        "title": "Métastases hépatiques de cancers colorectaux  IA au service des radiologues, résultats prometteurs",
+                        "start": "2023-10-14T13:06+02:00",
+                        "end": "2023-10-14T13:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "3a7db0d5-49d6-4450-afee-f6dea130882d",
+                        "title": "Détection du cancer du pancréas : Nouvelle approche avec l'IA",
+                        "start": "2023-10-14T13:18+02:00",
+                        "end": "2023-10-14T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "df9ecadb-eaa7-40d1-b1ec-0faaf4901e7e",
+                        "title": "Questions&Réponses",
+                        "start": "2023-10-14T13:30+02:00",
+                        "end": "2023-10-14T13:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

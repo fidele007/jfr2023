@@ -1,0 +1,200 @@
+{
+    "data": {
+        "event": {
+            "id": "9ed9b95f-c21a-4da0-a403-b80ce4725ae1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/585/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales Recherche en Radiologie Interventionnelle",
+            "start": "2023-10-14T16:15+02:00",
+            "end": "2023-10-14T17:15+02:00",
+            "objectives": [
+                "<p>Connaitre les innovations technologiques pour le guidage en RI</p>",
+                "<p>Comprendre les nouvelles approches techniques et pédagogiques en radiologie interventionnelle.&nbsp;</p>",
+                "<p>Etre sensibilisé à l'impact environnemental de la radiologie interventionnelle.&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1d3cb3a3-3528-42ce-a29f-5e178e600168",
+                        "title": "Accuracy of a Cone Beam CT-based Liver-directed Therapy Planning Software for Perfused Parenchyma Prediction",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T16:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0fa73db0-60c4-4c9b-ae25-7cf1db134cf9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/585/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/585/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/585/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fc2a2be1-ca09-4604-bf2a-9e7774290e18",
+                        "title": "Comparaison du guidage par réalité augmentée versus échographie pour la ponction d’un fantôme abdominal",
+                        "start": "2023-10-14T16:24+02:00",
+                        "end": "2023-10-14T16:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dcfe56b1-c964-4627-9ed0-1f1c28bf1f03",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/586/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/586/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/586/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d1aed9f2-f7d7-4a26-ad15-32693197389b",
+                        "title": "Développement et évaluation d'un fantôme procédural de vertébroplastie",
+                        "start": "2023-10-14T16:33+02:00",
+                        "end": "2023-10-14T16:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6768d34f-920e-4389-add9-7899458442c3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/587/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/587/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/587/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "109e31da-17eb-462e-b8cd-3793e90ee3f4",
+                        "title": "Mesure du DFG par mesure de clairance en ursocanner versus en laboratoire",
+                        "start": "2023-10-14T16:42+02:00",
+                        "end": "2023-10-14T16:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "db281031-aed4-4b26-a65f-512ee9b6f4fb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/588/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/588/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/588/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4406531c-33c8-413f-b296-fe7359c3ea4c",
+                        "title": "Product Environmental Footprint : un premier cas d'usage en radiologie",
+                        "start": "2023-10-14T16:51+02:00",
+                        "end": "2023-10-14T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "713ac81f-a7a1-45d9-9e21-be9c0fee8508",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/589/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/589/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/589/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2a7716fd-f09e-498c-9922-e4d6a1aea4a3",
+                        "title": "Utilisation des Lunettes de Réalité Virtuelle pour les patients  en Radiologie Interventionnelle",
+                        "start": "2023-10-14T17:00+02:00",
+                        "end": "2023-10-14T17:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c8412abf-2293-4f8a-ab18-686e052e44d8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1491/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1491/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1491/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

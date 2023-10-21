@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "175631f8-b36a-4cf8-b29b-a8f2a4d44b6b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/251/video/thumbs/poster.jpg",
+            "title": "Masse des tissus mous de l'enfant/adolescent : comment s'y prendre ?",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [
+                "<p>Connaître la fréquence relative des lésions pseudotumorales, bénignes et&nbsp;malignes&nbsp;</p>",
+                "<p>connaître l'approche clinique et la stratégie d'imagerie de premièr intention</p>",
+                "<p>savoir reconnaître&nbsp;les lésions bénignes les plus fréquentes&nbsp;</p>",
+                "<p>connaître les critères clinico-radiologiques d'agressivité devant conduire à adresser en centre spécialisé</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9c79041f-0b36-4162-b22d-5a923954bbb8",
+                        "title": "Premiers pas: bien orienter le diagnostic",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3bc1a354-4683-4712-b186-e32293dffecb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/251/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/251/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/251/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b698a61c-3fcf-43f2-812c-886fa693a0d1",
+                        "title": "Ce qu'il faut savoir des sarcomes de l'enfant",
+                        "start": "2023-10-14T15:45+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a01eca6f-5a46-4b03-8518-f1b7ec1a5bad",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/252/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/252/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/252/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "049febe6-c858-445d-b1b6-2491e8ab9585",
+                        "title": "Intérêt d'une consultation spécialisée",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4dbf1d4f-0f5d-4e17-ae0a-f7339e3e07f1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/253/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/253/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/253/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9d55a61d-97a1-4d01-a963-782598345e6b",
+                        "title": "Discussion générale : Masse des tissus mous de l'enfant/adolescent : comment s'y prendre ?",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9f4d5908-8313-4b18-9f67-4f0321616fba",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/254/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/254/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/254/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

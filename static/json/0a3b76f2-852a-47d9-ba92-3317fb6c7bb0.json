@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "0a3b76f2-852a-47d9-ba92-3317fb6c7bb0",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1111/video/thumbs/poster.jpg",
+            "title": "Tumeurs de vessie  : le VI RADS",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<p>Connaître la classification VI RADS</p>",
+                "<p>Connaitre ses impértifs techniques&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Comprendre son rôle pour la modification de la prise en charge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Comprendre le défi de sa mise en oeuvre au quotidien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7953720a-da45-4874-aaf1-501aa5658f50",
+                        "title": "Qu’attend l’urologue de l’imagerie",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T17:58+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "62ff897b-45d2-4cc2-a22e-700869b843f9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1074/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1074/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1074/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "53e54869-588c-4e9f-b60b-940c10cbe7ec",
+                        "title": "Classification anatomopathologique et ses difficultés",
+                        "start": "2023-10-14T17:58+02:00",
+                        "end": "2023-10-14T18:11+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7d74a3ac-b789-47bc-9fba-ae4e87153318",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1075/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1075/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1075/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e8fb4044-9c3d-4a9b-a836-3a17836599ca",
+                        "title": "Présentation de la classification VI RADS",
+                        "start": "2023-10-14T18:11+02:00",
+                        "end": "2023-10-14T18:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d20b2272-c73f-4358-b0fd-d1efe8889b4a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1111/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1111/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1111/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6fcda44b-e605-4a5c-9d71-dcba3ad4dc68",
+                        "title": "Classification VI RADS : retour d'expérience",
+                        "start": "2023-10-14T18:20+02:00",
+                        "end": "2023-10-14T18:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "08f7924c-6352-4e44-8135-1b96f8c633b3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1076/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1076/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1076/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8affba43-b55e-42f1-a95d-c68d6eb7ec97",
+                        "title": "Discussion générale : Quel impact pour le quotidien",
+                        "start": "2023-10-14T18:36+02:00",
+                        "end": "2023-10-14T18:43+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cebac927-1de7-4e69-9e0b-92254a1f57ae",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1138/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1138/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1138/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

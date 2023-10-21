@@ -1,0 +1,268 @@
+{
+    "data": {
+        "event": {
+            "id": "9a0d0c58-d846-4a6d-b892-a0df8c27692c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/283/video/thumbs/poster.jpg",
+            "title": "JFR 365 - Restitution de cas cliniques",
+            "start": "2023-10-14T10:45+02:00",
+            "end": "2023-10-14T12:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "ffa1e54f-0798-48f9-a32b-3a0b041a437a",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/283/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/283/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/283/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a4a747e6-dcbe-41d6-9c89-cb1cccd287a6",
+                        "title": "Introduction",
+                        "start": "2023-10-14T10:45+02:00",
+                        "end": "2023-10-14T10:46+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "16b9bcf1-9b4d-4fdc-9aa3-e1d5580ebab8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2111/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2111/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2111/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ed5873c1-e31a-4744-8281-6bd94b02dfe4",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T10:46+02:00",
+                        "end": "2023-10-14T10:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "eb0ccc88-318e-42e4-912e-c43ec7d7d10d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1766/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1766/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1766/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d71668ac-d4b9-443f-bc7e-f1c13c25e325",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T10:56+02:00",
+                        "end": "2023-10-14T11:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "25ec1555-c8e1-4d73-b04f-c4e4a6185ea4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1768/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1768/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1768/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "16bf356a-b0c2-4cde-990e-d1a71357da46",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T11:06+02:00",
+                        "end": "2023-10-14T11:16+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8adc55e9-b06d-4de6-89e8-21d7d7483d0d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1767/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1767/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1767/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3d479b79-3221-4c92-a80a-bd849c1fba0b",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T11:16+02:00",
+                        "end": "2023-10-14T11:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e49ae28d-0c06-4fb3-9233-647ca1291b16",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1040/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1040/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1040/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "381a4551-cd38-47e3-b98d-284ded7ef92c",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T11:26+02:00",
+                        "end": "2023-10-14T11:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8c84400c-74fe-4872-8550-55999835c263",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1769/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1769/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1769/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d07c0f77-ae73-4148-acf6-c1b79b2e237c",
+                        "title": "Restitution des cas",
+                        "start": "2023-10-14T11:36+02:00",
+                        "end": "2023-10-14T11:46+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9d9f90f3-e0a5-431e-85b1-3f700a80c30c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1770/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1770/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1770/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d7cebe36-e0b2-413f-a59f-d5c5a77be4c3",
+                        "title": "Remise des prix",
+                        "start": "2023-10-14T11:46+02:00",
+                        "end": "2023-10-14T12:01+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9a24940a-a35e-4bce-8c31-e9bb8ed3b11b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1878/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1878/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1878/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "event": {
+            "id": "54247730-9811-49dd-9cbd-c4b38cc3a804",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/288/video/thumbs/poster.jpg",
+            "title": "Imagerie de la femme : sénologie - BIRADS 3 multimodalité",
+            "start": "2023-10-15T08:45+02:00",
+            "end": "2023-10-15T09:30+02:00",
+            "objectives": [
+                "<p>Le classement BIRADS 3 en imagerie mammaire correspond à une catégorie d’anomalies mammographiques, échographiques ou IRM obéissant à des critères précis et dont la valeur prédictive positive doit être inférieure à 2%. Elles vont faire l’objet d’une surveillance rapprochée.</p>",
+                "<p>L’objectif de l’atelier est de bien différencier les anomalies qui peuvent être classées BIRADS 3 dans les 3 modalités, de celles qui ne peuvent pas l’être afin de classer de façon adéquate et conserver la confiance des correspondants souvent perturbés par ce classement.&nbsp; Le mode de surveillance est également rappelé.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "62f30846-8820-472d-aace-e32b7a70f014",
+                        "title": "BIRADS 3 multimodalité",
+                        "start": "2023-10-15T08:45+02:00",
+                        "end": "2023-10-15T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b61ca2f7-8971-4507-82ab-130a89765272",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/288/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/288/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/288/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

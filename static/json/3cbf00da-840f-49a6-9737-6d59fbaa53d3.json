@@ -1,0 +1,104 @@
+{
+    "data": {
+        "event": {
+            "id": "3cbf00da-840f-49a6-9737-6d59fbaa53d3",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/454/video/thumbs/poster.jpg",
+            "title": "JFR 365 Aspects normaux et complications post-TAVI, post-TMVI",
+            "start": "2023-10-16T15:00+02:00",
+            "end": "2023-10-16T16:00+02:00",
+            "objectives": [
+                "<p>Connaitre les indications actuelles du TAVI et TMVI</p>",
+                "<p>Connaitres les aspect normaux post-TAVI et post-TMVI</p>",
+                "<p>Savoir reconnaitre&nbsp;les complications post-TAVI et post-TMVI</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d821872c-e840-459f-8605-b1d8182c2ace",
+                        "title": "Indications actuelles du TAVI et TMVI",
+                        "start": "2023-10-16T15:00+02:00",
+                        "end": "2023-10-16T15:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "12225db5-6ee3-458c-a292-f4b0354c8987",
+                        "title": "Aspects normaux post-TAVI et post-TMVI",
+                        "start": "2023-10-16T15:15+02:00",
+                        "end": "2023-10-16T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fa92207c-c198-4216-a4f5-18431612a077",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/455/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/455/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/455/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "05af4f9b-be9f-48bc-b9f2-cf04ae04d6de",
+                        "title": "Complications post-TAVI et post-TMVI",
+                        "start": "2023-10-16T15:30+02:00",
+                        "end": "2023-10-16T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5eb608b2-7c96-42c3-b914-def46ea09189",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/456/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/456/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/456/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7641483f-9648-43d2-8fa6-8e83a36ed29d",
+                        "title": "Discussion générale :  JFR 365 Aspects normaux et complications post-TAVI, post-TMVI",
+                        "start": "2023-10-16T15:45+02:00",
+                        "end": "2023-10-16T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "data": {
+        "event": {
+            "id": "1fd52889-6ad6-4034-a415-1996615cc4c9",
+            "picture": null,
+            "title": "Imagerie de la femme : gynécologie - Myomes utérins",
+            "start": "2023-10-14T14:15+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5e0d24d6-a51e-4889-85f8-201799112795",
+                        "title": "Myomes utérins",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

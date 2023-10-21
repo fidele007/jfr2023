@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "81c9fb1f-3344-4df5-a220-871b21a1a260",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1658/video/thumbs/poster.jpg",
+            "title": "Macrobiopsie sous guidage échographique",
+            "start": "2023-10-15T14:05+02:00",
+            "end": "2023-10-15T14:35+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ccfa2df6-1e7e-420b-8265-6c1da49e30fc",
+                        "title": "Macrobiopsie sous guidage échographique",
+                        "start": "2023-10-15T14:05+02:00",
+                        "end": "2023-10-15T14:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

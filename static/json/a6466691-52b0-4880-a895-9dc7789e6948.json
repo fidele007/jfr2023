@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "a6466691-52b0-4880-a895-9dc7789e6948",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1635/video/thumbs/poster.jpg",
+            "title": "Exploration des artères des membres supérieurs",
+            "start": "2023-10-14T13:10+02:00",
+            "end": "2023-10-14T13:40+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a126fe88-8c77-4fb1-b8ef-31f180bcef0d",
+                        "title": "Exploration des artères des membres supérieurs",
+                        "start": "2023-10-14T13:10+02:00",
+                        "end": "2023-10-14T13:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

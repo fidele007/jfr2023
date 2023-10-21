@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "0061b8ee-8343-4a9c-83b7-0f213150669d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1596/video/thumbs/poster.jpg",
+            "title": "Syndromes hypertrophiques liés au gène PIK3CA :  savoir y penser ! Diagnostic et nouveautés thérapeuthiques",
+            "start": "2023-10-13T14:30+02:00",
+            "end": "2023-10-13T15:30+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous saurez</p>",
+                "<p>Evoquer cliniquement un variant PIK3CA sur l'association d'une hypertrophie cérébrale ou extra-cérébrale, de lésions vasculaires superficielles, d'anomalie des extrémités ou d'une scoliose en connaissant l'expression clinique très large de cette entité liée à une mutation somatique en mosaïque.</p>",
+                "<p>Reconnaître les particularités en imagerie cérébrale et extracérébrale de syndrome d'hypertrophie focale lié PIK3CA et adapter votre protocole d'imagerie en IRM afin d'optimiser l'évaluation anatomique de cette entité.</p>",
+                "<p>Connaître les possibilités thérapeutiques, en particulier grâce à une molécule antiangiogénique ciblée, permettant la prise en charge de ce syndrome d'hypertrophie corporelle focale, très invalidant dans son expression phénotypique la plus complète.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "58b61304-ce2a-42d4-9362-7b792a15fc73",
+                        "title": "PROS : Qu'est-ce que c'est ?... Comment l'évoquer cliniquement ?",
+                        "start": "2023-10-13T14:30+02:00",
+                        "end": "2023-10-13T14:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e9b525f4-77eb-4ab5-84c2-f0b63ec21834",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1596/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1596/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1596/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8c4b2702-67ae-411f-8ae9-582c4bcf2a79",
+                        "title": "Apport de l'imagerie au phénotypage du PROS extra-cérébral",
+                        "start": "2023-10-13T14:42+02:00",
+                        "end": "2023-10-13T14:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aebf65c0-bfdc-4804-847c-5abe3f6a8af6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1597/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1597/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1597/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d3beebf0-1bfc-49fd-8933-90b2f169d7ab",
+                        "title": "PROS à expression encéphalique : Comment et quand l’évoquer",
+                        "start": "2023-10-13T14:54+02:00",
+                        "end": "2023-10-13T15:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f6d0acdb-9f81-46fe-8dbe-21e82c676a2f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1598/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1598/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1598/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4fb0e20f-ac1f-49a6-b017-b86317c2f0fa",
+                        "title": "PROS : du génotypage à une thérapie ciblée anti-angiogénique",
+                        "start": "2023-10-13T15:06+02:00",
+                        "end": "2023-10-13T15:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cc42dfec-c7ce-46e6-bce3-58deed5bf259",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1599/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1599/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1599/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c5696cec-3fa7-49d8-b6fc-9b33c9792ef5",
+                        "title": "Discussion générale : PROS à expression encéphalique : Comment et quand l’évoquer",
+                        "start": "2023-10-13T15:18+02:00",
+                        "end": "2023-10-13T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "55f292fa-2369-4d64-8263-4688719a675e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1600/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1600/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1600/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

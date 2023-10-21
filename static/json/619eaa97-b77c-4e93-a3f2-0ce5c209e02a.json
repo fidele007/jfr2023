@@ -1,0 +1,87 @@
+{
+    "data": {
+        "event": {
+            "id": "619eaa97-b77c-4e93-a3f2-0ce5c209e02a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/5/video/thumbs/poster.jpg",
+            "title": "Rencontre SFR-SFC - CMH sarcomérique",
+            "start": "2023-10-12T10:00+02:00",
+            "end": "2023-10-12T11:30+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8c3de79a-66f7-4071-b739-86027931f2bb",
+                        "title": "Introduction",
+                        "start": "2023-10-12T10:00+02:00",
+                        "end": "2023-10-12T10:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "524dbcab-0f07-45cf-b0f2-73fab490d8ba",
+                        "title": "Cas cliniques juniors cardio-radio Bordeaux",
+                        "start": "2023-10-12T10:10+02:00",
+                        "end": "2023-10-12T10:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "65e0811d-2813-4248-8908-0dc141768655",
+                        "title": "Epidémiologie, génétique, classification (symétrique, asymétrique...)",
+                        "start": "2023-10-12T10:24+02:00",
+                        "end": "2023-10-12T10:37+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "fe1580d1-a927-4c9d-b1c1-91138cbeeddc",
+                        "title": "Exploration échographie cardiaque en 2023",
+                        "start": "2023-10-12T10:37+02:00",
+                        "end": "2023-10-12T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "1edea4c4-a4c0-4f8a-81b6-0bfdea5cccea",
+                        "title": "IRM quantification de la fibrose :  intérêt et méthode",
+                        "start": "2023-10-12T10:50+02:00",
+                        "end": "2023-10-12T11:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "941c6c32-0f01-4312-8db4-05ad8dcd9487",
+                        "title": "Traitement de la CMH",
+                        "start": "2023-10-12T11:03+02:00",
+                        "end": "2023-10-12T11:16+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "a7e986a7-2d46-4868-b98f-82667c44b0cd",
+                        "title": "Solution de cas cliniques",
+                        "start": "2023-10-12T11:16+02:00",
+                        "end": "2023-10-12T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "data": {
+        "event": {
+            "id": "ecc4ad0c-7696-4bda-b650-705a3fea9c39",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/556/video/thumbs/poster.jpg",
+            "title": "La consultation en radiologie, une nécessité éthique ?",
+            "start": "2023-10-14T08:30+02:00",
+            "end": "2023-10-14T10:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Appréhender les différents type de consultation dans lesquelles les radiologues s'investissent&nbsp;</p>",
+                "<p>Discuter des particularités et des difficultés de la consultation en radiologie&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Envisager les questions et enjeux éthiques de ces consultations&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c43786e4-b892-4a80-b835-9d053013daeb",
+                        "title": "La consultation pour le radiologue interventionnel: assurer information et surveillance",
+                        "start": "2023-10-14T08:30+02:00",
+                        "end": "2023-10-14T08:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "abba4a85-0911-4fa6-8c39-da4318f536c2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/556/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/556/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/556/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "78b443a7-4e1d-4def-9bae-53852104afb2",
+                        "title": "Le rôle du radiologue au centre de la consultation diagnostique: exemple du projet HOPE",
+                        "start": "2023-10-14T08:40+02:00",
+                        "end": "2023-10-14T08:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57f4a500-a2f0-4d5f-bf3f-908b2da0b194",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/557/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/557/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/557/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "46644e78-455a-4cae-b1d7-a765caeee9cb",
+                        "title": "Téléconsultation en radiologie: gadget ou pratique d'avenir?",
+                        "start": "2023-10-14T08:50+02:00",
+                        "end": "2023-10-14T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "868c4c5a-9bae-4434-b952-0cd539ec9f39",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/558/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/558/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/558/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6858f1c0-4ad7-4dfa-9f07-e83fb3122631",
+                        "title": "L’échographie est une consultation : exemple de la sénologie",
+                        "start": "2023-10-14T09:00+02:00",
+                        "end": "2023-10-14T09:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2b1eb6c7-c907-40e4-a684-ddf4e18406d7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/560/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/560/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/560/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2d058da7-b004-42fe-ab91-d76b918e87e3",
+                        "title": "Vulnérabilités et droits des patients dans les consultations en radiologie : intimité et information",
+                        "start": "2023-10-14T09:10+02:00",
+                        "end": "2023-10-14T09:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f347a959-b343-4eac-b4eb-62b39e15389a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/559/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/559/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/559/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a6b0816b-1c43-421b-b457-b82a19f55ce5",
+                        "title": "Discussion générale  :  Et si la consultation était le coeur du métier de radiologue ?",
+                        "start": "2023-10-14T09:40+02:00",
+                        "end": "2023-10-14T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "af00dfcf-6295-4ad4-9b6a-8fdfc7a45eb3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/561/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/561/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/561/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

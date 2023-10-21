@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "b6954845-d385-4ab9-9db8-616c6b1a85e3",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1718/video/thumbs/poster.jpg",
+            "title": "Comment je fais : Embolisation d’arthrose de genou",
+            "start": "2023-10-13T16:50+02:00",
+            "end": "2023-10-13T17:20+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4b7042c4-a699-4941-9e6e-1c986a44abff",
+                        "title": "Comment debuter : connaitre ses classiques",
+                        "start": "2023-10-13T16:50+02:00",
+                        "end": "2023-10-13T17:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d3b7ebe1-0ed4-4ba1-bd1a-f10ad2a05e52",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1717/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1717/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1717/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a83a02aa-7824-4f3e-b9e7-89b9a5f6e04c",
+                        "title": "Comment aller plus loin , le futur",
+                        "start": "2023-10-13T17:05+02:00",
+                        "end": "2023-10-13T17:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7fe5c4b8-2002-481a-8ddb-f280c677722f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1718/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1718/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1718/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

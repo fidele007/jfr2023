@@ -1,0 +1,258 @@
+{
+    "data": {
+        "event": {
+            "id": "59ddf589-b9ef-4707-ac7e-adf73c0c85d9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1401/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie oncologique",
+            "start": "2023-10-15T10:45+02:00",
+            "end": "2023-10-15T12:00+02:00",
+            "objectives": [
+                "<p>- connaitre la conduite à tenir devant une opacité pulmonaire en verre dépoli (En Anglais)</p>",
+                "<p>- connaitre l’apport d’un compte rendu structuré Li RADS</p>",
+                "<p>- connaitre les dernières nouveautés thérapeutiques en radiologie&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "68121286-2e80-4dfd-8bee-fe4758a156be",
+                        "title": "Pulmonary Ground Glass Opacities; Benign or Malignant! Role of Radiology",
+                        "start": "2023-10-15T10:45+02:00",
+                        "end": "2023-10-15T10:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "48dcc4db-e04c-4fa0-9043-850cca69d183",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1401/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1401/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1401/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a7e4aa15-0d36-4318-a5ad-cbdf919981db",
+                        "title": "Apport  de CR structurés LIRADS sur la qualité des rapports diagnostiques du CHC en tomodensitométrie",
+                        "start": "2023-10-15T10:57+02:00",
+                        "end": "2023-10-15T11:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "05d2485d-96e0-4169-8c45-3716a1556f01",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1290/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1290/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1290/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ec944e99-e5f7-4e3b-bd5e-12c1aab46e6f",
+                        "title": "Biopsies osseuses percutanées robotisees : évaluation de la faisabilité et de la securite",
+                        "start": "2023-10-15T11:06+02:00",
+                        "end": "2023-10-15T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b4ce07e6-c782-465d-8ce4-c3222fbb1c78",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1291/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1291/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1291/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2e857e60-eb56-4307-acae-214192518635",
+                        "title": "Percutaneous ablation of local and nodal prostate cancer recurrence: a single-center experience",
+                        "start": "2023-10-15T11:15+02:00",
+                        "end": "2023-10-15T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0b3be919-eeaa-4153-bcf1-6312496464d0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1292/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1292/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1292/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "98d07a0f-012e-4007-9022-a6c1935076ba",
+                        "title": "Simultaneous Portal Embolization and Percutaneous Biliary Drainage prior to Hepatectomy in patients with hilar cholangiocarcinoma",
+                        "start": "2023-10-15T11:24+02:00",
+                        "end": "2023-10-15T11:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "71505316-f21e-4fa7-95ab-4e40b2d15c74",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1293/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1293/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1293/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "550bbd8b-e4fd-4003-a9ab-53afe52a996c",
+                        "title": "Conditionnement ischémique par embolisation avant œsophagectomie ou chirurgies rectales ou coliques gauches",
+                        "start": "2023-10-15T11:33+02:00",
+                        "end": "2023-10-15T11:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "de85494d-0ea0-4094-ac05-cc81891e768b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1294/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1294/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1294/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b46df72f-621d-4196-b804-142f11730219",
+                        "title": "Temporary Transvenous Pacer to Avoid Hypertensive Crisis during Percutaneous Ablation of Adrenal Metastasis",
+                        "start": "2023-10-15T11:42+02:00",
+                        "end": "2023-10-15T11:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "56414b84-f364-4901-885b-8105dd9e96d6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1295/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1295/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1295/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cfef623d-2ea9-42ab-884b-47ae70045317",
+                        "title": "Radioembolisation chez les patients atteints de tumeurs hépatiques primaires et secondaires en France",
+                        "start": "2023-10-15T11:51+02:00",
+                        "end": "2023-10-15T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "93981fd2-b27a-40ff-ad37-54a333fe4f94",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1400/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1400/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1400/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "bc7b358d-3280-4775-ad6d-7df0c6cbcaea",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1655/video/thumbs/poster.jpg",
+            "title": "cyto ponction mammaire et ganglionnaire et repérages sous échographie",
+            "start": "2023-10-15T12:15+02:00",
+            "end": "2023-10-15T12:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "85ac82ba-4664-41bd-8e42-91cb56181199",
+                        "title": "cyto ponction mammaire et ganglionnaire et repérages sous échographie",
+                        "start": "2023-10-15T12:15+02:00",
+                        "end": "2023-10-15T12:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19bf0f04-6e4f-4160-90cb-12a6b47a4277",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1655/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1655/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1655/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

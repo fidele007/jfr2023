@@ -1,0 +1,167 @@
+{
+    "data": {
+        "event": {
+            "id": "9e729f1f-694d-4473-8302-f8e1673e8f21",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2135/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques - imagerie de la verge",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8114934a-f5a2-40e9-8202-dcd62601bda2",
+                        "title": "Introduction",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f13713a4-52d6-4ba3-8aa5-60f5f78e2032",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2135/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2135/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2135/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dafe0491-d0e3-4395-ace9-e78d24729d7c",
+                        "title": "Dossiers commentés en imagerie de la verge",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6c45c269-565f-4697-8603-10c22f60892f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/517/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/517/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/517/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5d0d0522-13ff-4ce5-986b-62f47db61569",
+                        "title": "Dossiers commentés en imagerie de la verge",
+                        "start": "2023-10-15T15:45+02:00",
+                        "end": "2023-10-15T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "23580d39-6889-4acc-be3e-6361f8a74d8c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1842/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1842/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1842/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fac66511-aa4b-4ed8-827b-d0aefd5a97aa",
+                        "title": "Dossiers commentés en imagerie de la verge",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "da7d0cc3-c518-4b7c-a284-c551a461e7dd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1843/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1843/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1843/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "88c53334-578f-458f-81d2-43c3cd49f006",
+                        "title": "Dossiers commentés en imagerie de la verge",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e694c414-0970-4c90-b615-5d15869da616",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1844/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1844/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1844/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

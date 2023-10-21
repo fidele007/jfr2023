@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "cb1651cd-4cb5-4be7-8025-fdb65b79cdcf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1943/video/thumbs/poster.jpg",
+            "title": "Séance QVCT : Equilibre vie professionnelle vie personnelle",
+            "start": "2023-10-15T10:40+02:00",
+            "end": "2023-10-15T11:10+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e5c09f59-fe54-467d-a1e2-60540e962431",
+                        "title": "Equilibre vie professionnelle vie personnelle",
+                        "start": "2023-10-15T10:40+02:00",
+                        "end": "2023-10-15T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "92b27ab5-8aa6-40fc-a35f-5b0d6f9650ed",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1943/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1943/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1943/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

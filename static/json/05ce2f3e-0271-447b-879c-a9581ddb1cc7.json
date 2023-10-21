@@ -1,0 +1,109 @@
+{
+    "data": {
+        "event": {
+            "id": "05ce2f3e-0271-447b-879c-a9581ddb1cc7",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1729/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur le sein et la radiologie interventionnelle",
+            "start": "2023-10-14T16:10+02:00",
+            "end": "2023-10-14T16:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "16b23cd1-8f45-4676-9906-38c1713bb181",
+                        "title": "Macrobiopsie d'éxérèse",
+                        "start": "2023-10-14T16:10+02:00",
+                        "end": "2023-10-14T16:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3bb51019-b295-40b6-b2b3-7f89ea8517b5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1728/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1728/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1728/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7fa4d7c7-d836-4fc3-b8a0-268dc3e42eca",
+                        "title": "Le repérage : du harpon au clip magnétique",
+                        "start": "2023-10-14T16:25+02:00",
+                        "end": "2023-10-14T16:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "926ec1f8-b79d-4234-aaf3-c55c480a4e10",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1729/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1729/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1729/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "35dd4e02-0ced-4a49-9a1e-7ae7ebd26b18",
+                        "title": "Ablation percutanée",
+                        "start": "2023-10-14T16:40+02:00",
+                        "end": "2023-10-14T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d09c8fe4-9fa4-4cc9-bd3d-021ee6cb906e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1730/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1730/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1730/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

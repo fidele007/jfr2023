@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "a4bfc4b5-b9a9-49e7-b1f7-ef359639e47a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1868/video/thumbs/poster.jpg",
+            "title": "Table Ronde Sociétés Savantes et Compte Rendu structuré",
+            "start": "2023-10-14T12:00+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4a49381a-4ca4-48f8-8259-8e52749b49d4",
+                        "title": "Table Ronde Sociétés Savantes et Compte Rendu structuré",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

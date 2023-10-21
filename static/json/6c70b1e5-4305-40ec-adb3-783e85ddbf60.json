@@ -1,0 +1,259 @@
+{
+    "data": {
+        "event": {
+            "id": "6c70b1e5-4305-40ec-adb3-783e85ddbf60",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1055/video/thumbs/poster.jpg",
+            "title": "Cas cliniques en Radiographies ostéoarticulaires",
+            "start": "2023-10-15T17:00+02:00",
+            "end": "2023-10-15T18:00+02:00",
+            "objectives": [
+                "<p>- Connaitre&nbsp;la sémiologie radiographique ostéoarticulaire utile</p>",
+                "<p>- Préciser&nbsp;l'intérêt et les limites des radiographies</p>",
+                "<p>- Insister sur certains signes radiographiques subtiles&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e2dd37d5-1e03-4295-88d7-f73efa535459",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:00+02:00",
+                        "end": "2023-10-15T17:07+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d662dd82-f48d-4a4b-9bea-a26d19b0253a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1055/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1055/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1055/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5a804623-83ba-4452-9a65-5a0e624932f8",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:07+02:00",
+                        "end": "2023-10-15T17:14+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a9ce7bc9-c92c-41fb-aebd-8e8de5856564",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1845/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1845/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1845/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fdbec55f-2a80-437e-88e7-536d47d0f7d4",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:14+02:00",
+                        "end": "2023-10-15T17:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "991189f7-7873-449c-b609-5107447ab972",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1846/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1846/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1846/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6b88cbb7-4405-4010-96bb-6b698cd07a03",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:21+02:00",
+                        "end": "2023-10-15T17:28+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a0a394a0-d771-46f3-9418-d24cc9a15312",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1847/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1847/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1847/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "52cbaac1-dd43-4d32-90a0-25c83efa9e5d",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:28+02:00",
+                        "end": "2023-10-15T17:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "238b7834-179d-440f-af31-1bd1589a8e24",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1848/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1848/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1848/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9b22df32-b6ae-4ee4-9710-c8ea2b7fe0b0",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:35+02:00",
+                        "end": "2023-10-15T17:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "168001ee-34c1-4cdc-93cf-51ddbdc32cce",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1849/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1849/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1849/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c5bdb9b8-c984-413f-ac33-79ed02711bbd",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:42+02:00",
+                        "end": "2023-10-15T17:49+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b283d7c5-a206-417a-a5ff-4a7a90a300ba",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1850/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1850/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1850/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "35b72795-f2d0-4240-bdc3-b048e5993894",
+                        "title": "Dossiers commentés : Radiographies ostéoarticulaires",
+                        "start": "2023-10-15T17:49+02:00",
+                        "end": "2023-10-15T17:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "33759090-1fd1-4dba-aab4-d37722510744",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1851/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1851/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1851/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

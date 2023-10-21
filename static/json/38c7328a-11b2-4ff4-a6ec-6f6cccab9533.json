@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "38c7328a-11b2-4ff4-a6ec-6f6cccab9533",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/669/video/thumbs/poster.jpg",
+            "title": "Le manipulateur investi au delà de sa communauté",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<p>Distinguer des approches collaboratives<br>",
+                "Intégrer la pluri professionnalité comme valeur du soin<br>",
+                "Identifier des perspectives profesionnelles</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8fbced18-6608-46da-bdf2-bb484e82a845",
+                        "title": "Introduction",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:02+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6db24717-b342-45ab-95ef-8c72d8dcbb90",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/669/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/669/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/669/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1c3bf93a-bc2a-4656-b098-f6df7d6bb073",
+                        "title": "SIMS-PRO-Bloc :  collaborer pour former autrement",
+                        "start": "2023-10-15T14:02+02:00",
+                        "end": "2023-10-15T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f53c15ca-3999-42ac-898d-0aa1761badca",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/670/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/670/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/670/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8dce0ba8-40f9-4b15-b3a2-1e1ca8c19a5d",
+                        "title": "Le tutorat: d'une mission à une professionnalité",
+                        "start": "2023-10-15T14:12+02:00",
+                        "end": "2023-10-15T14:22+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ed1b12b0-90c3-4b32-94e1-b09123458fdc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/671/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/671/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/671/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "49072819-cc81-47f0-ad98-908d876ea02b",
+                        "title": "Role du manipulateur en recherche clinique (MERC) dans un service d'imagerie",
+                        "start": "2023-10-15T14:22+02:00",
+                        "end": "2023-10-15T14:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "46059eb5-d1d6-42c3-bd93-48e80f064012",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/672/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/672/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/672/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0be30c70-ebe9-4019-984a-1d1118c9ccb6",
+                        "title": "Expertise radiologique au sein du bloc opératoire - binôme technicien-ne en radiologie médicale et physicien-ne",
+                        "start": "2023-10-15T14:32+02:00",
+                        "end": "2023-10-15T14:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "184ad7b6-d57e-4d08-a5ef-307f83c9987b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/673/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/673/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/673/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "703802e7-a9dd-4ca3-a5fd-1494d377a3e3",
+                        "title": "Discussion générale",
+                        "start": "2023-10-15T14:42+02:00",
+                        "end": "2023-10-15T14:52+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "090df665-b7d2-44bf-b283-71750ad7927e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/674/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/674/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/674/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c2d846d3-2a9c-4f35-b26c-abaf033c77c6",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-15T14:52+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0f25a538-1f69-481d-8a99-d8d18c4355c1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/675/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/675/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/675/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

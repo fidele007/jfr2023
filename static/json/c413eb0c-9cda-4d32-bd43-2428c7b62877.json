@@ -1,0 +1,145 @@
+{
+    "data": {
+        "event": {
+            "id": "c413eb0c-9cda-4d32-bd43-2428c7b62877",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/298/video/thumbs/poster.jpg",
+            "title": "Accréditation en Imagerie interventionnelle: la démarche qualité comme une évidence pour tous",
+            "start": "2023-10-15T09:00+02:00",
+            "end": "2023-10-15T10:00+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Présenter l’historique de la démarche qualité dans l’unité</li>",
+                "\t<li>Présenter la norme d’accréditation et ses différents chapitres, permettant de créer un cadre de mise en œuvre</li>",
+                "\t<li>Présenter les éléments nécessaires et analysés lors de la planification d'une procédure en RI</li>",
+                "\t<li>Présenter le travail en équipe en salle d’imagerie interventionnelle&nbsp;et les&nbsp;actions de sécurisation lors de la mise en place de nouvelles techniques</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "bfa442bc-64a4-4d56-ba66-48810edd1654",
+                        "title": "L’accréditation en imagerie interventionnelle : Un levier managérial de choix",
+                        "start": "2023-10-15T09:00+02:00",
+                        "end": "2023-10-15T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6e3e5475-97d6-4f48-b022-79099179af66",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/298/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/298/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/298/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9dd2ea19-17c9-4104-b303-857fff881a7e",
+                        "title": "Procédure de planification optimisée et sécurisée en oncologie interventionnelle",
+                        "start": "2023-10-15T09:15+02:00",
+                        "end": "2023-10-15T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aa30d864-558d-49bc-8c2b-4534718b9307",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/299/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/299/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/299/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a049afa5-b772-4f03-8326-df798286f1a3",
+                        "title": "Le jour J: les balises permettant la prise en charge optimisée du patient",
+                        "start": "2023-10-15T09:30+02:00",
+                        "end": "2023-10-15T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dbed5ef2-b6fa-48bb-977f-a05a8db9a7f5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/300/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/300/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/300/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fac26330-911e-4189-9ae1-c2035ccca51c",
+                        "title": "Discussion générale : Accréditation en Imagerie interventionnelle: la démarche qualité comme une évidence pour tous",
+                        "start": "2023-10-15T09:45+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "824e6c8a-b6f8-4a30-831b-67191210e27d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/301/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/301/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/301/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

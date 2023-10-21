@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "f9aa6a55-a391-4fb7-98b7-6adad14c46a3",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/231/video/thumbs/poster.jpg",
+            "title": "Imagerie de la prostate et diagnostic intégré",
+            "start": "2023-10-14T11:15+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [
+                "<p>- Comprendre les forces et les limites des calculateurs de risque actuels pour le diagnostic du cancer de prostate</p>",
+                "<p>- Connaitre les résultats actuels des algorithmes d'intelligence artificielle en IRM de prostate, ainsi que leurs limites</p>",
+                "<p>- Connaitre les perspectives d'évolution dans le domaine des applications d'intelligence artificielle pour le diagnostic du cancer de prostate</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0aeea856-1e52-4019-b38b-2e45483f5934",
+                        "title": "Intérêt des calculateurs de risque dans la prédiction du risque de cancer prostatique",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "35144785-0700-4c1e-b033-df7685af0614",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/231/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/231/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/231/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "096d0278-2aec-4af3-9e43-50b3f6b532ed",
+                        "title": "Détection automatique du cancer de prostate en imagerie ; ou en sommes-nous en 2023",
+                        "start": "2023-10-14T11:30+02:00",
+                        "end": "2023-10-14T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7ac20195-d2a1-4a6d-9ee7-fbde349ef18b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/232/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/232/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/232/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4ce468e8-08d4-409d-8fb9-4b4fad4a148c",
+                        "title": "IA et diagnostic du cancer de prostate : Challenge, perspective , la vision du futur",
+                        "start": "2023-10-14T11:45+02:00",
+                        "end": "2023-10-14T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ceda5720-5ee7-453a-a61b-00620d3d51aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/233/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/233/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/233/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "93cee1e9-f049-4fa0-b1f9-e87d4a15689f",
+                        "title": "Discussion générale :  Imagerie de la prostate et diagnostic intégré",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f553116c-8345-4471-aa02-2962a11e08d3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/234/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/234/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/234/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

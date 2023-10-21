@@ -1,0 +1,37 @@
+{
+    "data": {
+        "event": {
+            "id": "02f242a0-68e6-410e-9862-222e816e6374",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/363/video/thumbs/poster.jpg",
+            "title": "Actualités et ambitions à l’horizon 2025",
+            "start": "2023-10-14T12:30+02:00",
+            "end": "2023-10-14T13:30+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "06fe8fe8-6c03-49f6-8ec3-6a87706346f8",
+                        "title": "Introduction et  contextualisation",
+                        "start": "2023-10-14T12:30+02:00",
+                        "end": "2023-10-14T13:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "0352e4d7-ef76-4bd2-bd4e-204e040cf119",
+                        "title": "Actualités et ambitions à l’horizon 2025",
+                        "start": "2023-10-14T13:00+02:00",
+                        "end": "2023-10-14T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

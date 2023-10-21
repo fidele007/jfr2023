@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "b4e7653e-3591-4997-b0e7-b855d5043f4a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2137/video/thumbs/poster.jpg",
+            "title": "Les beaux cas de l'IA en radiologie libérale. Retour d'expérience Excellence Imagerie",
+            "start": "2023-10-15T16:00+02:00",
+            "end": "2023-10-15T16:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "12cba5f7-1712-4421-aec3-1f982ea57efc",
+                        "title": "Les beaux cas de l'IA en radiologie libérale. Retour d'expérience Excellence Imagerie-Milvue",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "642091c5-6f47-470e-8905-1c982bbc24d4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2137/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2137/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2137/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "0f517c0a-d26c-460a-a56b-bdc5e6dffe4c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1618/video/thumbs/poster.jpg",
+            "title": "Exploration des varicocèles : trucs et astuces",
+            "start": "2023-10-13T12:15+02:00",
+            "end": "2023-10-13T12:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8757143a-3f1c-4057-b0af-098d79ce50bd",
+                        "title": "Exploration des varicocèles : trucs et astuces",
+                        "start": "2023-10-13T12:15+02:00",
+                        "end": "2023-10-13T12:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "30401b3e-c3da-4e11-89a3-7caf0e5f3d9b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1618/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1618/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1618/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

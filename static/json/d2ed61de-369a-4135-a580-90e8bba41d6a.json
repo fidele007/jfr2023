@@ -1,0 +1,187 @@
+{
+    "data": {
+        "event": {
+            "id": "d2ed61de-369a-4135-a580-90e8bba41d6a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1576/video/thumbs/poster.jpg",
+            "title": "Téléradiologie et diagnostic intégré",
+            "start": "2023-10-13T09:45+02:00",
+            "end": "2023-10-13T10:45+02:00",
+            "objectives": [
+                "<p>Évaluer la place de la téléradiologie dans le dépistage</p>",
+                "<p>Apprécier la place des manipulateurs en téléradiologie</p>",
+                "<p>Échanger sur&nbsp; l’experiences allemande du teleAVC</p>",
+                "<p>Comment valoriser la télé expertise radiologique&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0eef7ea5-3a20-46a9-a595-017212af80e4",
+                        "title": "Téléradiologie et dépistage du cancer du sein",
+                        "start": "2023-10-13T09:45+02:00",
+                        "end": "2023-10-13T09:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6389c036-223b-49c9-8ed8-e84859a942ea",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1576/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1576/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1576/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e0611adf-f254-4e1a-aa97-ff1a285750ac",
+                        "title": "Télé AVC -  L’intégration facilitée des équipes pour un diagnostic toujours plus précis et rapide : l’expérience allemande",
+                        "start": "2023-10-13T09:55+02:00",
+                        "end": "2023-10-13T10:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f1ebe802-a60e-4a5f-94aa-e6d15ce312dc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1577/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1577/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1577/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e298d0dd-2a93-49fb-bc15-3d5e273f394d",
+                        "title": "Télé imagerie d’urgence : comment maintenir un lien fort entre manipulateurs , radiologues et médecins demandeurs",
+                        "start": "2023-10-13T10:05+02:00",
+                        "end": "2023-10-13T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b15276ab-e320-40b6-ad07-3207c37878a2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1578/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1578/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1578/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "03863649-38f6-42d1-aaa7-59207ebbf55b",
+                        "title": "L’importance du 2 ème avis: la plateforme idéale de télé expertise",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T10:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6afeb306-d338-4af9-a445-105fb564f269",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1579/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1579/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1579/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c27e5dac-06b6-4d83-8b2e-d898878768fa",
+                        "title": "Valorisation de la téléradiologie : où en est on en 2023 ?",
+                        "start": "2023-10-13T10:25+02:00",
+                        "end": "2023-10-13T10:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "790e97cd-1969-4c30-bda6-d544c08ab6b2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1580/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1580/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1580/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6157edb7-efbe-4cf2-9e7d-a3f4726fc1ef",
+                        "title": "Discussion générale :  Téléradiologie et diagnostic intégré",
+                        "start": "2023-10-13T10:35+02:00",
+                        "end": "2023-10-13T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

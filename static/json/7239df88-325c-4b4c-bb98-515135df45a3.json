@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "7239df88-325c-4b4c-bb98-515135df45a3",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/458/video/thumbs/poster.jpg",
+            "title": "Les drainages abdomino-pelviens",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "77077182-3545-41c8-86e4-52fead5de0b4",
+                        "title": "Les drainages abdomino-pelviens",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f4f9bcd6-bae6-4d4f-9458-11a630888c7d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/458/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/458/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/458/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

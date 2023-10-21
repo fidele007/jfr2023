@@ -1,0 +1,129 @@
+{
+    "data": {
+        "event": {
+            "id": "f0a3a9d4-8f92-44b1-8079-99dcbcbe41d8",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/239/video/thumbs/poster.jpg",
+            "title": "Coupe du monde 2023 !!!  Imagerie de la pathologie du rugby",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [
+                "<p>A l’occasion de la coupe du monde de rugby 2023, familiariser le radiologue avec les principales lésions de l’appareil locomoteur rencontrées chez les rugbymen amateurs ou professionnels<br>",
+                "Rappeler les risques potentiels des différentes phases de jeu et leurs atteintes spécifiques<br>",
+                "Connaître la pertinence des différents examens d’imagerie<br>",
+                "Préciser la place de l’imagerie du rachis cervical dans le bilan d’aptitude en particulier chez les joueurs de première ligne</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9c4ca4c2-9dd3-45be-b408-68adf19372c2",
+                        "title": "Lésions de la main du rugbyman",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6b83ff47-5d00-49f9-abc3-60f8ab03024e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/239/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/239/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/239/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "172c4d15-6ece-4519-9c1c-10036d93e73e",
+                        "title": "Lésion du genou et de la cheville du rugbyman",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "501b03dd-d27f-484d-9a40-8bdd5bf4151e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/240/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/240/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/240/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e00cd37-9397-4dc5-8c81-53e342d03558",
+                        "title": "Lésion du rachis du rugbyman",
+                        "start": "2023-10-14T14:30+02:00",
+                        "end": "2023-10-14T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f649c233-8446-4bb0-8b18-2119429a433e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/241/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/241/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/241/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ee4c793d-cc59-4fbb-9fb7-52b0c5184217",
+                        "title": "Discussion générale :  COUPE DU MONDE 2023  !!! : IMAGERIE DE LA PATHOLOGIE DU RUGBY",
+                        "start": "2023-10-14T14:45+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

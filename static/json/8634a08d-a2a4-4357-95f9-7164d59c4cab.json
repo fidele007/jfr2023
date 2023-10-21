@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "8634a08d-a2a4-4357-95f9-7164d59c4cab",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1006/video/thumbs/poster.jpg",
+            "title": "Intelligence artificielle et imagerie de la femme :  Mammographie",
+            "start": "2023-10-14T10:00+02:00",
+            "end": "2023-10-14T11:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1c9c3635-6900-4484-8dab-71efbf750faa",
+                        "title": "Actualités DRIM France IA ;  Pourquoi et comment choisir un système d'IA en mammographie ?",
+                        "start": "2023-10-14T10:00+02:00",
+                        "end": "2023-10-14T10:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ca08e22f-e42f-44f0-bda1-2babebf436d9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1006/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1006/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1006/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "45753ba0-2c04-4769-abbb-3eb45dd8ea51",
+                        "title": "Intelligence Artificielle pour la détection du cancer du sein :  Quelles données de la littérature, quel vécu au quotidien ?",
+                        "start": "2023-10-14T10:20+02:00",
+                        "end": "2023-10-14T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "79af451c-3ca1-404d-814b-0d88b9e786fd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1007/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1007/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1007/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fecdcd7d-6c91-40dd-a2d7-408cc2e58232",
+                        "title": "Intelligence Artificielle pour la prédiction du risque ;  quelles données de la littérature ? Comment j'informe ma patiente ?",
+                        "start": "2023-10-14T10:40+02:00",
+                        "end": "2023-10-14T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5af134ee-7210-4a78-807f-a47a3f44489e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1008/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1008/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1008/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "348eb609-bd14-4111-8aba-746dd303d65e",
+                        "title": "Table ronde",
+                        "start": "2023-10-14T11:00+02:00",
+                        "end": "2023-10-14T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ddfa629e-0c22-419c-bb5b-1a9b18da8470",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1009/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1009/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1009/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

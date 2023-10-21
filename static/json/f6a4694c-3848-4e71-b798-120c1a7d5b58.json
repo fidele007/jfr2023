@@ -1,0 +1,173 @@
+{
+    "data": {
+        "event": {
+            "id": "f6a4694c-3848-4e71-b798-120c1a7d5b58",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/67/video/thumbs/poster.jpg",
+            "title": "Pourquoi l'échographie abdominale aux urgences reste t elle indispensable ?",
+            "start": "2023-10-14T17:00+02:00",
+            "end": "2023-10-14T18:00+02:00",
+            "objectives": [
+                "<p>Connaitre&nbsp;les performances des différents examens en cas d'urgences abdominales.</p>",
+                "<p>Savoir identifier les indications de chacune des modalités.</p>",
+                "<p>Connaitre le point de vue du chirurgien</p>",
+                "<p>&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8e842af8-6206-44dc-857e-dbee11bc78a2",
+                        "title": "Introduction",
+                        "start": "2023-10-14T17:00+02:00",
+                        "end": "2023-10-14T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "51512dec-77e1-4b3a-a67c-c20b359f0fc3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2064/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2064/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2064/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "21f8f867-09dd-40dd-9d90-eb94b0230de7",
+                        "title": "L'échographie reste indispensable dans l'imagerie des urgences abdominales",
+                        "start": "2023-10-14T17:00+02:00",
+                        "end": "2023-10-14T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7d7668fa-4369-4ef6-8027-4706f143d043",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/67/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/67/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/67/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "33798277-dc16-4acc-b93b-09f1a5d84e9c",
+                        "title": "Le scanner low dose permet de remplacer l'échographie abdominale aux urgences dans certaines indications, expérience genevoise.",
+                        "start": "2023-10-14T17:15+02:00",
+                        "end": "2023-10-14T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a5999940-8041-4847-a963-613dc030dd27",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/68/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/68/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/68/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d5907faf-6c98-4f29-a8c6-aaadd755c7bd",
+                        "title": "Comment gagner la confiance des cliniciens en échographie ? L'avis d'un chirurgien.",
+                        "start": "2023-10-14T17:30+02:00",
+                        "end": "2023-10-14T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d677e349-2ccd-4251-97ab-cb153a3ce13e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/69/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/69/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/69/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b217fe02-21a1-4de3-b5f6-9161c6013e1d",
+                        "title": "Discussion générale : Pourquoi l'échographie abdominale aux urgences reste t elle indispensable ?",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e29013b7-e3ed-4b1a-8a0f-6a535d13f6a6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/70/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/70/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/70/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

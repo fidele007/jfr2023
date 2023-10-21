@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "599c3522-fc56-424a-9555-c8a45dcf2464",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1706/video/thumbs/poster.jpg",
+            "title": "Les débats du VRI : Comment aborder des lésions proches des nerfs ?",
+            "start": "2023-10-13T11:50+02:00",
+            "end": "2023-10-13T12:50+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "755c08b5-b2f4-4561-a1cd-247ee955e1a6",
+                        "title": "Techniques de protection",
+                        "start": "2023-10-13T11:50+02:00",
+                        "end": "2023-10-13T12:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b93065c6-58a4-4023-be98-2c1edf00c4ff",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1706/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1706/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1706/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4be2a814-7f01-4b11-9877-fd5b4c751e94",
+                        "title": "Neuromonitoring 2.0",
+                        "start": "2023-10-13T12:05+02:00",
+                        "end": "2023-10-13T12:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d2c04924-feca-4456-9b00-6c8d76194ce3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1707/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1707/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1707/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a0bd996f-056b-4ef1-9e55-0d6d5387f938",
+                        "title": "Embolisation tumoral",
+                        "start": "2023-10-13T12:20+02:00",
+                        "end": "2023-10-13T12:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b78282ff-45ab-4a9c-8b60-26dd0e6348f1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1708/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1708/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1708/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "53b6b8db-36b7-42ea-862e-e90f127c4b0d",
+                        "title": "Electrochimio",
+                        "start": "2023-10-13T12:35+02:00",
+                        "end": "2023-10-13T12:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "faf12017-6603-4d2b-98b6-799ab1c815fb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1709/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1709/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1709/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

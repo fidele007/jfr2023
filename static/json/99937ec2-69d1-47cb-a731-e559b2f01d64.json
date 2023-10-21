@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "99937ec2-69d1-47cb-a731-e559b2f01d64",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1651/video/thumbs/poster.jpg",
+            "title": "La jonction chef long et chef court du biceps fémoral et son insertion distale",
+            "start": "2023-10-15T10:00+02:00",
+            "end": "2023-10-15T10:05+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "739c5a3e-4cd4-4ee7-9371-dc54e2d00865",
+                        "title": "La jonction chef long et chef court du biceps fémoral et son insertion distale",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "253ca391-bc67-45ad-92b3-6a7a8d619387",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1651/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1651/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1651/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

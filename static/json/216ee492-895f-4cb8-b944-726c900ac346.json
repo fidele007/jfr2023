@@ -1,0 +1,157 @@
+{
+    "data": {
+        "event": {
+            "id": "216ee492-895f-4cb8-b944-726c900ac346",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1032/video/thumbs/poster.jpg",
+            "title": "Les bases anatomiques de  l'imagerie cardiaque",
+            "start": "2023-10-14T14:30+02:00",
+            "end": "2023-10-14T15:30+02:00",
+            "objectives": [
+                "<p>Connaitre l'anatomie de l'aorte thoracique ascendante et de la crosse et de l'aorte thoracique descendante, connaitre les origines embriologiques de ces différents segments ce qui permet de comprendre les spécificités des affections de chaques segment</p>",
+                "<p>Connaitre l'anatomie modale et les variantes anatomiques des vaisseaux coronaires ainsi que les variantes qui sont à risque d'événements cardiovasculaire.</p>",
+                "<p>Connaitre l'anatomie du ventricule gauche: muscles ventriculaire gauche, organisation et orientation des fibres, réseau éléctrique ventriculaire.&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f0ce937c-ddab-429a-be2f-0b5ba80749aa",
+                        "title": "Anatomie de l'aorte thoracique ascendante et comment faut il la mesurer",
+                        "start": "2023-10-14T14:30+02:00",
+                        "end": "2023-10-14T14:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6f891e70-208f-43e6-8675-5c16729a2801",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1032/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1032/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1032/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c8f39c70-b438-4cf4-9823-f206fe7a2622",
+                        "title": "Anatomie appliqué  du réseau electrique cardiaque et organisation du réseau electrique cardiaque les base anatomique des trouble de la conduction et des arrythmie et lien avec l'imagerie",
+                        "start": "2023-10-14T14:42+02:00",
+                        "end": "2023-10-14T14:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "20ae8024-62cc-41eb-9679-53dad6ed8245",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1033/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1033/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1033/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bd7c25b9-5ba2-46e2-98a4-12d13daef216",
+                        "title": "Le péricarde et les anomalies pericardiques (absence rupture et masse)",
+                        "start": "2023-10-14T14:54+02:00",
+                        "end": "2023-10-14T15:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "10cae0a8-afe5-417c-9705-4a298cbbb246",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1034/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1034/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1034/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6a9a1305-c59c-4b82-a18b-d5a4ed6f8bc9",
+                        "title": "Les coronaires variante anatomique et comment évaluer le risque de ces variantes",
+                        "start": "2023-10-14T15:06+02:00",
+                        "end": "2023-10-14T15:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e9d9ed6e-e96c-45bb-ac55-fda5fc30644c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1035/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1035/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1035/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c030ebc0-9531-49a0-8733-f432c31c256d",
+                        "title": "Discussion générale :  Les bases anatomiques de  l'imagerie cardiaque",
+                        "start": "2023-10-14T15:18+02:00",
+                        "end": "2023-10-14T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

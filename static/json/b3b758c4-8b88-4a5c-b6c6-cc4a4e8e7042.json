@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "b3b758c4-8b88-4a5c-b6c6-cc4a4e8e7042",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/474/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Optimisation des paramètres de réglage en écho-Doppler",
+            "start": "2023-10-14T08:45+02:00",
+            "end": "2023-10-14T09:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e3beac4c-880e-4fb6-a2f7-b3a76b7ba78d",
+                        "title": "Optimisation des paramètres de réglage en écho-Doppler",
+                        "start": "2023-10-14T08:45+02:00",
+                        "end": "2023-10-14T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f3359c73-63f4-4bec-a471-fb926479470f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/474/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/474/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/474/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

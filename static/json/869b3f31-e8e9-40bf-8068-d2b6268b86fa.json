@@ -1,0 +1,140 @@
+{
+    "data": {
+        "event": {
+            "id": "869b3f31-e8e9-40bf-8068-d2b6268b86fa",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1695/video/thumbs/poster.jpg",
+            "title": "Intelligence Artificielle et Radiologie DRIM une stratégie ambitieuse",
+            "start": "2023-10-13T16:00+02:00",
+            "end": "2023-10-13T17:00+02:00",
+            "objectives": [
+                "<p>Indiquer la place de DRIM France IA dans l’évaluation des solutions d’IA pour les radiologues et les prochaines étapes ambitieuses &nbsp;de tiers de confiance.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2cb61b9a-4c86-4255-a5f3-97920283580f",
+                        "title": "Grille Evaluation solution IA publiée",
+                        "start": "2023-10-13T16:00+02:00",
+                        "end": "2023-10-13T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ff93310a-f029-436b-991a-ac01c7bf84f3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1695/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1695/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1695/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9db62ed0-9450-4e5a-ba32-f9906e2256fc",
+                        "title": "DRIM France IA : une nouvelle étape dans l’évaluation",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b40b4326-4cf8-49ea-a2bb-c36538130ff6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1696/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1696/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1696/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "55d71eaf-77b4-4a5f-8c5d-aea08463dade",
+                        "title": "La garantie humaine en IA en radiologie : une obligation pour tous",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c3befcf1-2d57-4455-babb-1aee896eccb5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1697/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1697/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1697/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6232739c-b9da-4b40-9931-9ea5da5de7db",
+                        "title": "Discussion générale :  Intelligence Artificielle et Radiologie DRIM une stratégie ambitieuse",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c4557264-2e1d-487f-bb65-f7a8d12b55b7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1703/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1703/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1703/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

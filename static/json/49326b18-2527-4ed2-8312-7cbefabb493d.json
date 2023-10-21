@@ -1,0 +1,32 @@
+{
+    "data": {
+        "event": {
+            "id": "49326b18-2527-4ed2-8312-7cbefabb493d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/312/video/thumbs/poster.jpg",
+            "title": "Imagerie cardiovasculaire -  Aspects normaux et complications post TAVI, post TMVI",
+            "start": "2023-10-15T10:15+02:00",
+            "end": "2023-10-15T11:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "802b6685-ff00-4775-a626-57f9c050ed84",
+                        "title": "Aspects normaux et complications post TAVI, post TMVI",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

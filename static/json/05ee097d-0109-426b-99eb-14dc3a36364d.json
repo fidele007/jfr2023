@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "05ee097d-0109-426b-99eb-14dc3a36364d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/41/video/thumbs/poster.jpg",
+            "title": "HyperParathyroïdie Primaire : de l'imageur à l'expert endocrinologue",
+            "start": "2023-10-13T08:45+02:00",
+            "end": "2023-10-13T09:45+02:00",
+            "objectives": [
+                "<p>Connaître le diagnostic biologique d'hyperparathyroidie.</p>",
+                "<p>Connaître le trépied diagnostic biologique echoDoppler et fonctionnel pour le radiologue.</p>",
+                "<p>Savoir reconnaître un adénome parathyroidien intra thyroïdien.</p>",
+                "<p>Savoir reconnaitre un adénome parathyroidien dans la zone P, extra thyroidienne.</p>",
+                "<p>Savoir reconnaitre les adénomes parathyroidiens atypiques et la parathyroïdomatose.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ab74c4c8-3709-44fc-8ac2-a9e11159996d",
+                        "title": "Aspects typiques de l'adénome parathyroïdien orthotopique (y compris intra thyroïdien)",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7ec99873-d8cb-468b-aa62-f48c0595c416",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/41/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/41/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/41/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "584e195b-d2c5-4c3f-ba07-84c734a1341a",
+                        "title": "Aspects typiques de l'adénome parathyroïdien ectopique et de la parathyroïdomatose.",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3904f869-319f-41b4-be09-0bf01ef48cc3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/532/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/532/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/532/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9782a3c5-b5d8-48b7-8dce-e536b4ff127e",
+                        "title": "Hyperparathyroïdie primaire: le point de vue de l'endocrinologue.",
+                        "start": "2023-10-13T09:15+02:00",
+                        "end": "2023-10-13T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "de08c14a-b1e2-4652-b818-73322dacd9fd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/533/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/533/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/533/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ebde76ae-cf37-4bd7-b8a4-f7f5cde81444",
+                        "title": "Discussion générale :  HyperParathyroïdie Primaire : de l'imageur à l'expert endocrinologue",
+                        "start": "2023-10-13T09:30+02:00",
+                        "end": "2023-10-13T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "56282d61-e3db-44ab-9433-89d64e201619",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/534/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/534/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/534/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "data": {
+        "event": {
+            "id": "98a413ae-5704-4f9f-b5f9-e8f37ab606a8",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/224/video/thumbs/poster.jpg",
+            "title": "Le coeur dans le thorax :  l'essentiel pour ceux qui ne font pas d'imagerie cardiaque",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>1- Connaître les éléments indispensables d’interprétation, les pièges et les astuces concernant&nbsp; le cœur et les coronaires sur un scanner thoracique</p>",
+                "<p>2- Connaître les variantes anatomiques et les principales pathologies du péricarde&nbsp;&nbsp;</p>",
+                "<p>3- Connaître les aspects du retentissement pulmonaire des pathologies cardiaques et leur diagnostic différentiel&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "de9f7ebc-06e3-4257-9682-c44810dbb3e1",
+                        "title": "Que regarder au niveau cardiaque sur un scanner thoracique",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a9449b57-64c9-4549-8abd-e279931a3284",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/223/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/223/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/223/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "49ca2b18-2673-4979-825a-aad280fd7762",
+                        "title": "Le péricarde sous toutes ses formes",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "49d9ebd5-c1a4-4ecf-9e60-0c217e7a3ddb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/224/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/224/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/224/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f6894d5c-3b68-4f6e-8cae-c9715a131008",
+                        "title": "Œdème pulmonaire cardiogénique: aspects et diagnostic différentiel",
+                        "start": "2023-10-14T14:30+02:00",
+                        "end": "2023-10-14T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "4740862d-f713-49d6-ab92-7b3d5adb0c94",
+                        "title": "Discussion générale : Questions diverses sur l'approche diagnostique des pathologies cardio-péricardiques et leur retentissement en scanner thoracique",
+                        "start": "2023-10-14T14:45+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

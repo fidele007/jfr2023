@@ -1,0 +1,116 @@
+{
+    "data": {
+        "event": {
+            "id": "c3053063-c247-4a85-9f1a-6f87c261b910",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/48/video/thumbs/poster.jpg",
+            "title": "Imagerie cardiaque : nouvelles techniques",
+            "start": "2023-10-13T09:45+02:00",
+            "end": "2023-10-13T10:45+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Identifier les dernières techniques d'IRM de diffusion cardiaque et et d'imagerie des cicatrices cardiaques&nbsp; ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Résumer la valeur clinique ajoutée de chaque technique&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Donner des exemples de cas cliniques dans lesquels ces techniques peuvent être utiles&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Identifier les limites de chaque technique.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Comprendre les spécificités des préparations en diffusion cardio compatibles et la gestion du mouvement respiratoire + cardio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "64fee6c3-2ade-4508-a0dd-ce76aeecfe41",
+                        "title": "IRM de diffusion cardiaque : enjeux physiopathologiques et thérapeutiques",
+                        "start": "2023-10-13T09:45+02:00",
+                        "end": "2023-10-13T10:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19e5fc92-af83-446d-b991-98cdad66d83a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/48/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/48/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/48/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0f3e6c1f-5f71-4606-a20f-32c922c597a2",
+                        "title": "Détection et quantification des cicatrices cardiaques",
+                        "start": "2023-10-13T10:05+02:00",
+                        "end": "2023-10-13T10:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "29420e68-ccce-473c-aa26-8a9d4399bc45",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/49/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/49/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/49/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5289e143-1614-4108-9fe6-d21b8c06cfc0",
+                        "title": "Discussion générale :  Apport des nouvelles techniques d'IRM pour les maladies cardiaques",
+                        "start": "2023-10-13T10:25+02:00",
+                        "end": "2023-10-13T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9d3df66b-fd89-4919-aabb-821c0ded11f6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/50/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/50/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/50/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

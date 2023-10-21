@@ -1,0 +1,225 @@
+{
+    "data": {
+        "event": {
+            "id": "08f27f73-5f4d-4ff7-aa08-2825710f658f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2053/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie digestive",
+            "start": "2023-10-13T09:45+02:00",
+            "end": "2023-10-13T10:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "052135cd-ef4a-4818-befe-5f527a6401a1",
+                        "title": "Introduction",
+                        "start": "2023-10-13T09:45+02:00",
+                        "end": "2023-10-13T09:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "99e024f7-837b-4e21-8ea4-dbeb0e99f15c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2053/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2053/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2053/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "03915297-b069-42f7-a262-22554e5af6db",
+                        "title": "Comparaison gadopiclenol / gadobutrol en imagerie par résonance magnétique (IRM) hépatique",
+                        "start": "2023-10-13T09:47+02:00",
+                        "end": "2023-10-13T09:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0ba0e9d2-3663-44a7-b02a-1159be0231af",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1153/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1153/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1153/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5bd7220d-d821-4c3e-b38b-1e00cf5ab041",
+                        "title": "Impact d’un centre de diagnostic rapide et multidisciplinaire des tumeurs hépatiques",
+                        "start": "2023-10-13T09:56+02:00",
+                        "end": "2023-10-13T10:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4a8ac5c6-86c7-475e-ae09-438bde6c6712",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1152/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1152/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1152/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e476bd45-8f55-4d5c-86df-db7eb21be398",
+                        "title": "Automatic quantification of hepatobiliary contrast uptake in benign hepatocellular tumors: preliminary report",
+                        "start": "2023-10-13T10:05+02:00",
+                        "end": "2023-10-13T10:14+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2356a2c1-083f-4565-a1fb-a2444dcd7b2f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1154/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1154/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1154/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6bf1ccfd-4c81-479f-986b-ee0b5c5a8e6e",
+                        "title": "Comparaison prospective de l'ATI et du CAP pour le diagnostic de la stéatose hépatique chez",
+                        "start": "2023-10-13T10:14+02:00",
+                        "end": "2023-10-13T10:23+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2ef7856c-eea9-4aef-ac6a-9ceb57bcfbfb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1155/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1155/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1155/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "15598ff2-396f-4dee-947d-01b9366b81c6",
+                        "title": "Algorithme de Deep-learning pour la détection des métastases hépatiques de cancer colorectal: comparison au radiologue",
+                        "start": "2023-10-13T10:23+02:00",
+                        "end": "2023-10-13T10:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e5a3edd3-ec93-4a22-aab4-2f157956f0a9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1156/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1156/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1156/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "df31a7ca-1d3f-4a56-8dce-8f079f698f93",
+                        "title": "Variation du diamètre du conduit pancréatique et réponse au traitement neoadjuvant des cancers du pancréas",
+                        "start": "2023-10-13T10:32+02:00",
+                        "end": "2023-10-13T10:41+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ba7c5754-a26f-46b6-84ca-920360ae50f5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1157/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1157/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1157/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

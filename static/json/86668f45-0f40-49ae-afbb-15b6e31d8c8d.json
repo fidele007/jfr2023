@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "86668f45-0f40-49ae-afbb-15b6e31d8c8d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/686/video/thumbs/poster.jpg",
+            "title": "Manipulateurs / Radiologues : un binome créateur de compétences et d'innovations",
+            "start": "2023-10-16T15:30+02:00",
+            "end": "2023-10-16T16:30+02:00",
+            "objectives": [
+                "<p>Connaitre les rôles de chaque acteur de santé<br>",
+                "Comprendre les collaborations interprofessionnelles<br>",
+                "Développer des protocoles de coopération</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f61899d4-0973-423d-8c9b-6ea1d243c7a3",
+                        "title": "Introduction",
+                        "start": "2023-10-16T15:30+02:00",
+                        "end": "2023-10-16T15:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "42f0f109-2bb0-45ae-a00f-312d9126cf09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/685/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/685/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/685/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "337f2b41-12ae-44fc-b19a-063b91b9bb9d",
+                        "title": "Coopération radiologue - Manipulateur en Echographie : Retour d'expérience chez Océan Imagerie",
+                        "start": "2023-10-16T15:32+02:00",
+                        "end": "2023-10-16T15:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6a52fbaf-6add-4a41-bca3-3653c7f7eeb1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/686/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/686/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/686/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "df6a4c55-0f14-48d8-af30-fed99c559320",
+                        "title": "Nouveau protocole de coopération manipulateurs",
+                        "start": "2023-10-16T15:42+02:00",
+                        "end": "2023-10-16T15:52+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aaebca09-9b5d-4bb1-895b-003f239a6d43",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/687/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/687/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/687/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ce7f6260-3bd0-4cda-a5e1-2d4bb5d6b305",
+                        "title": "Actualités en matière de prothèses mammaires",
+                        "start": "2023-10-16T15:52+02:00",
+                        "end": "2023-10-16T16:02+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d86249ae-ecc1-4262-8b54-e42695f868f8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/688/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/688/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/688/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "76f75def-bccb-4987-9941-7b4158e4a8cd",
+                        "title": "Changement de sonde de Néphrostomie et de Mono J Création et mise en place d'un protocole de coopération entre radiologues interventionnels et Manipulateur",
+                        "start": "2023-10-16T16:02+02:00",
+                        "end": "2023-10-16T16:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7e0d0f23-0239-472a-85c7-ba4892cc2e01",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/689/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/689/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/689/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8a7f58d8-c316-460e-bd66-484c3ab23ff5",
+                        "title": "Discussion générale",
+                        "start": "2023-10-16T16:12+02:00",
+                        "end": "2023-10-16T16:22+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "60f17b0e-aa31-49ac-9b76-36f7fc02018b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/690/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/690/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/690/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "27dba21e-2827-4dbf-9c0e-3b81e5f72429",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-16T16:22+02:00",
+                        "end": "2023-10-16T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "df1274f5-2da8-4a31-aba4-25da00a334ef",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/691/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/691/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/691/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "data": {
+        "event": {
+            "id": "3e37cd83-df43-4c1b-b25a-0811946d8336",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1146/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales - Actualités en uro-radiologie",
+            "start": "2023-10-15T11:00+02:00",
+            "end": "2023-10-15T12:00+02:00",
+            "objectives": [
+                "<p>découvrir et discuter des nouveautés en imagerie uro néphrologique&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "dc2f3e37-a441-4968-b20a-15b849c8b6eb",
+                        "title": "Introduction",
+                        "start": "2023-10-15T11:00+02:00",
+                        "end": "2023-10-15T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "47d9c439-b0a5-4593-8fbf-15c981b52cee",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2134/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2134/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2134/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1e57a070-fb5c-44a7-b324-ef7863c98f32",
+                        "title": "Développement et évaluation d’un système d’intelligence artificielle pour la segmentation automatique des reins polykystiques sur des images IRM pondérées T2",
+                        "start": "2023-10-15T11:00+02:00",
+                        "end": "2023-10-15T11:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e0349c83-0b34-493e-9451-3456d9e0bb24",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1146/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1146/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1146/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "af1d4cc5-44b2-4206-8f3a-e3447e27570f",
+                        "title": "Thermo-ablative treatment of de novo tumor in kidney allograft",
+                        "start": "2023-10-15T11:09+02:00",
+                        "end": "2023-10-15T11:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0cde85bb-24f3-4eda-8669-0f8abf2aeb16",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1147/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1147/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1147/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d8daa26a-2c53-4335-9809-d9a652efc473",
+                        "title": "Place de l’urétrocystographie rétrograde dans l'exploration du bas appareil urinaire à propos de 116 cas",
+                        "start": "2023-10-15T11:18+02:00",
+                        "end": "2023-10-15T11:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "a5412324-6b72-4f03-b38c-4b8e72f120e7",
+                        "title": "Imagerie multiparamétrique des tumeurs testiculaires involuées",
+                        "start": "2023-10-15T11:27+02:00",
+                        "end": "2023-10-15T11:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "bb658086-bd63-4ac4-a757-d4faa005e9c9",
+                        "title": "Differentiation of testicular seminoma and nonseminomatous germ cell tumor on magnetic resonance imaging",
+                        "start": "2023-10-15T11:36+02:00",
+                        "end": "2023-10-15T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0d5aa167-9d5d-4200-80bd-5bbed556b06a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1150/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1150/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1150/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b9bd146e-00b6-453c-bc32-841b57c38099",
+                        "title": "IA pour la détection et le diagnostic du cancer de la prostate",
+                        "start": "2023-10-15T11:45+02:00",
+                        "end": "2023-10-15T11:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "40f4f2ec-45fb-40d6-89a2-e22aeb0bf7af",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1151/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1151/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1151/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

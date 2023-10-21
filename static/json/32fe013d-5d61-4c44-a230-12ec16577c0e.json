@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "32fe013d-5d61-4c44-a230-12ec16577c0e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/481/video/thumbs/poster.jpg",
+            "title": "Radioprotection en sénologie",
+            "start": "2023-10-13T11:15+02:00",
+            "end": "2023-10-13T12:15+02:00",
+            "objectives": [
+                "<p>de maitriser les notions de prédisposition au cancer, radiosensibilité et radiosusceptibilité</p>",
+                "<p>de connaitre les évolutions technologiques et dosimétriques en sénologie</p>",
+                "<p>d’en comprendre les conséquences pratiques pour le diagnostic et le dépistage</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3ddee781-3468-4bd9-abc5-fd33fa10561a",
+                        "title": "Prédisposition au cancer, radiosensibilité et radiosusceptibilité",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57a393c6-2e2a-4477-bb0a-b649bc13db5e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/481/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/481/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/481/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d0c3a78e-1220-4a89-a891-e94ad0e1f202",
+                        "title": "Mammographie : contrôle de qualité et dosimétrie",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2ba4250a-ad03-486b-ac48-034f995179f3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/482/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/482/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/482/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9b209f8f-697b-4980-91de-4385dd543f91",
+                        "title": "Les conséquences pour la clinique",
+                        "start": "2023-10-13T11:45+02:00",
+                        "end": "2023-10-13T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a8e0bc4c-169b-4bdd-9c79-dca6b25c24ad",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/483/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/483/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/483/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fba9779a-8ba3-4699-b4b4-c419cd0e1499",
+                        "title": "Discussion générale : Radioprotection et sénologie",
+                        "start": "2023-10-13T12:00+02:00",
+                        "end": "2023-10-13T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "51afb9c1-490f-4ee6-97e0-f23b468d88b5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/484/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/484/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/484/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

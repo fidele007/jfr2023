@@ -1,0 +1,128 @@
+{
+    "data": {
+        "event": {
+            "id": "f345c929-9560-4487-8f70-a6ca4fdda030",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/55/video/thumbs/poster.jpg",
+            "title": "Le retour de la radiographie thoracique",
+            "start": "2023-10-13T09:45+02:00",
+            "end": "2023-10-13T10:45+02:00",
+            "objectives": [
+                "<p>Savoir reconnaitre les principales anomalies parenchymateuses en radiographie thoracique</p>",
+                "<p>Connaitre la sémiologie des pathologies pleurales en radiographie thoracique</p>",
+                "<p>Savoir identifier les anomalies diaphragmatiques en radiographie thoracique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c128944f-ccab-40c5-a9ab-ba844439ac86",
+                        "title": "Les pièges en pathologie parenchymateuse",
+                        "start": "2023-10-13T09:45+02:00",
+                        "end": "2023-10-13T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "764fef7f-06ae-4832-9c5e-5fb7688042aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/55/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/55/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/55/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "be855138-bfae-47b9-a7ff-64de01e72b48",
+                        "title": "Plèvre et diaphragme, regardons la périphérie",
+                        "start": "2023-10-13T10:00+02:00",
+                        "end": "2023-10-13T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "21aa89c3-eafa-4094-9e65-3be43b1285db",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/56/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/56/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/56/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7327b9e3-5f44-4f41-8847-b3f91e2f82d8",
+                        "title": "A vous de jouer",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a2508168-49e0-4dc6-ad7c-0ca9bf4a3fae",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/57/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/57/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/57/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "800bc4aa-0dd3-453c-897c-119dca363420",
+                        "title": "Discussion générale : Le retour de la radiographie thoracique",
+                        "start": "2023-10-13T10:30+02:00",
+                        "end": "2023-10-13T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

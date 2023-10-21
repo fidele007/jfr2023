@@ -1,0 +1,107 @@
+{
+    "data": {
+        "event": {
+            "id": "8841c92f-7a0e-49d4-bbf8-c3c0f9e6f8ed",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1449/video/thumbs/poster.jpg",
+            "title": "Journée CERF-FLI : Adapter l'imagerie, les système et les acquisitions aux populations gériatriques",
+            "start": "2023-10-12T10:00+02:00",
+            "end": "2023-10-12T12:15+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "84f5e845-09de-4cf6-846a-d4c6bc57d54c",
+                        "title": "Ouverture de la journée",
+                        "start": "2023-10-12T10:00+02:00",
+                        "end": "2023-10-12T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "7b459322-2927-4d3b-b52d-0d5132dd3d77",
+                        "title": "Introduction :  Imagerie d’opportunité et nouvelles stratégies de prévention en imagerie : de nouvelles réponses aux défis démographiques ?",
+                        "start": "2023-10-12T10:15+02:00",
+                        "end": "2023-10-12T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "6f8f327e-6b8b-4071-9c0a-83372bb75794",
+                        "title": "La radiologie de proximité : innover pour mieux soigner",
+                        "start": "2023-10-12T10:30+02:00",
+                        "end": "2023-10-12T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "b56f81c6-c84e-4440-96da-b5dfc62fe8b3",
+                        "title": "La radiologie mobile : Scanner IRM mobile du futur",
+                        "start": "2023-10-12T10:45+02:00",
+                        "end": "2023-10-12T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "518160ce-0999-4915-bb80-2b4f2188b882",
+                        "title": "Discussion : Imagerie mobile pour quels besoins ? Quelles pertinences ? Quelles organisations ?",
+                        "start": "2023-10-12T11:00+02:00",
+                        "end": "2023-10-12T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "c3cbfae4-0c62-428e-b2b4-14434a438391",
+                        "title": "La Tomographie par Emission de Positons : Apport de la TEP pour le diagnostic et le développement de traitements de la maladie d’Alzheimer",
+                        "start": "2023-10-12T11:15+02:00",
+                        "end": "2023-10-12T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "6f19d5f3-a55e-4658-b9ca-3bdd2df60bd9",
+                        "title": "IRM multimodalités rapide : les techniques de Fingerprinting pour accélérer l’acquisition des données",
+                        "start": "2023-10-12T11:30+02:00",
+                        "end": "2023-10-12T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "25b885fa-dfd3-476c-94ff-b6cf7993340e",
+                        "title": "IRM multimodalités rapide : techniques de reconstruction d’images accélérée",
+                        "start": "2023-10-12T11:45+02:00",
+                        "end": "2023-10-12T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "e66d20a7-b6cb-4cd9-a249-8e1c4ea0d307",
+                        "title": "BigData et IA pour la modélisation de l'anatomie du cerveau tout au long de la vie",
+                        "start": "2023-10-12T12:00+02:00",
+                        "end": "2023-10-12T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

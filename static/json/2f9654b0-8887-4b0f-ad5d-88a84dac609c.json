@@ -1,0 +1,152 @@
+{
+    "data": {
+        "event": {
+            "id": "2f9654b0-8887-4b0f-ad5d-88a84dac609c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/402/video/thumbs/poster.jpg",
+            "title": "Aspergilloses pulmonaires chroniques: une approche multidisciplinaire",
+            "start": "2023-10-16T10:30+02:00",
+            "end": "2023-10-16T11:30+02:00",
+            "objectives": [
+                "<p>- Connaître la classification actuelle des différentes formes d'aspergillose pulmonaire chronique (APC), le terrain sur lequel elle se développe et les grands axes de la démarche diagnostique&nbsp;</p>",
+                "<p>- Connaître les différents aspects en scanner de l'APC, ses profils évolutifs et les critères de réponse en imagerie&nbsp;</p>",
+                "<p>- Comprendre dans quelles situations un recours à la radiologie interventionnelle ou à la chirurgie est nécessaire ainsi que les résultats attendus</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "cb7474e8-1131-4aa7-9c64-f13b0d1d98dd",
+                        "title": "Aspergillose pulmonaire chronique: le point de vue du clinicien",
+                        "start": "2023-10-16T10:30+02:00",
+                        "end": "2023-10-16T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "dad02b46-0f06-4862-8b82-b952b12b5579",
+                        "title": "Diagnostic et suivi : la place est au scanner",
+                        "start": "2023-10-16T10:45+02:00",
+                        "end": "2023-10-16T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "922cef04-153f-4296-8a6c-233125c240a5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/403/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/403/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/403/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e225470c-1c00-4183-b481-74a7c71b5ce1",
+                        "title": "Quand les antifungiques ne suffisent plus : le rôle du chirurgien, le rôle du radiologue",
+                        "start": "2023-10-16T11:00+02:00",
+                        "end": "2023-10-16T11:08+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2ee1f1b5-ee9e-444c-918a-4207e3fca8ed",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2165/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2165/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2165/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f7c2c229-7bf7-4c87-9abd-ca1574a263fa",
+                        "title": "Quand les antifungiques ne suffisent plus : le rôle du chirurgien, le rôle du radiologue",
+                        "start": "2023-10-16T11:08+02:00",
+                        "end": "2023-10-16T11:16+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7ebc5a0f-1835-46d8-b2cd-89550159c8e1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/404/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/404/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/404/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f0b86c63-0aeb-4c15-a643-91da5fc883d8",
+                        "title": "Discussion générale : Aspergilloses pulmonaires chroniques: une approche multidisciplinaire",
+                        "start": "2023-10-16T11:16+02:00",
+                        "end": "2023-10-16T11:31+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f938edd-0db5-4e57-8349-26b0a485398e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/405/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/405/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/405/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

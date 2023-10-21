@@ -1,0 +1,152 @@
+{
+    "data": {
+        "event": {
+            "id": "09175ad4-1b78-447f-add6-33cfc520b53b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/47/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques -  Imagerie prostatique",
+            "start": "2023-10-13T09:45+02:00",
+            "end": "2023-10-13T10:45+02:00",
+            "objectives": [
+                "<p>- Connaitre les critères élémentaires PI-RADS v2.1</p>",
+                "<p>- Comprendre la démarche diagnostique pour la caractérisation des lésions focales vues en IRM de prostate</p>",
+                "<p>- Comprendre les différences séméiologiques entre les cancers de la zone périphérique et ceux de la zone de transition</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4333fbe8-73c9-4536-9625-6567afe98332",
+                        "title": "Dossiers commentés en imagerie prostatique",
+                        "start": "2023-10-13T09:45+02:00",
+                        "end": "2023-10-13T09:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9f9c5235-5be7-4847-bc25-1c14f115760b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1786/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1786/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1786/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "24455b07-a921-4511-95f7-73e91e19f96b",
+                        "title": "Dossiers commentés en imagerie prostatique",
+                        "start": "2023-10-13T09:57+02:00",
+                        "end": "2023-10-13T10:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "c6faed1d-6cfd-4a79-a953-e11580b0f970",
+                        "title": "Dossiers commentés en imagerie prostatique",
+                        "start": "2023-10-13T10:09+02:00",
+                        "end": "2023-10-13T10:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "43f09d0d-a5cf-4d39-b165-f3791d9620f0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1787/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1787/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1787/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2431e896-c5e8-45fb-9d93-aceb535c4475",
+                        "title": "Dossiers commentés en imagerie prostatique",
+                        "start": "2023-10-13T10:21+02:00",
+                        "end": "2023-10-13T10:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aa1b9339-a49f-48cc-9625-44234e136eaa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1785/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1785/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1785/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a298ad9d-2453-4a05-b491-6d03323ec172",
+                        "title": "Dossiers commentés en imagerie prostatique",
+                        "start": "2023-10-13T10:33+02:00",
+                        "end": "2023-10-13T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3fe3cfcd-e8c2-4243-b9fa-ff15e3b27de0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1788/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1788/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1788/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "data": {
+        "event": {
+            "id": "7374bca7-78c9-452a-8429-9814bc6f0e99",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/535/video/thumbs/poster.jpg",
+            "title": "Retour à la base : les biopsies percutanées et endo-vasculaires",
+            "start": "2023-10-13T08:45+02:00",
+            "end": "2023-10-13T09:45+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Présenter les outils, les techniques et&nbsp;les possibles complications des biopsies des organes parenchymateuux&nbsp;(poumon, foie, rein)</p>",
+                "<p>Présenter les outils, les techniques et&nbsp;les règles à suivre lors de la rèalisation&nbsp;des biopsies osseuses</p>",
+                "<p>Présenter les indications, les outils, la technique et les possibles complications&nbsp;des biopsies endovasculaire des organes parenchymateux (rein, foie)</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "551ac20e-a250-4058-bf02-3a96ef5c9784",
+                        "title": "Biopsies parenchymateuses : sélection du matériel, technique, et complications",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "97c21da4-e3ac-497a-8259-f0cdf8b413b3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/42/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/42/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/42/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "41f9a54a-d74d-4daa-99fa-0067f86aa827",
+                        "title": "Biopsies osseuses : sélection du matériel, technique, et complications",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ebeb32ab-0d48-49a5-8a7a-fb101b83e2b6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/535/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/535/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/535/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9fa9d7ea-34f6-44a6-8b1a-cb78b2d90654",
+                        "title": "Les biopsies endovasculaires : sélection du matériel, technique et complications",
+                        "start": "2023-10-13T09:15+02:00",
+                        "end": "2023-10-13T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70893491-39d3-4357-86e7-319b1f438c6f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/536/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/536/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/536/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8298e4b2-f229-44e0-ac3f-8f00905593de",
+                        "title": "Discussion générale : Retour à la base : les biopsies percutanées et endo-vasculaires",
+                        "start": "2023-10-13T09:30+02:00",
+                        "end": "2023-10-13T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

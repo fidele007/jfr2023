@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "c2b85a5e-9caf-4837-9232-46338948b06c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/462/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Aorte et artères des membres inférieurs (initiation)",
+            "start": "2023-10-14T10:15+02:00",
+            "end": "2023-10-14T11:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "bb397443-e299-4a5f-a75f-79eef8c8ad66",
+                        "title": "Aorte et artères des membres inférieurs (initiation)",
+                        "start": "2023-10-14T10:15+02:00",
+                        "end": "2023-10-14T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ffc51b53-4620-4ae2-9779-e5049dec2ab2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/462/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/462/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/462/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "0d3975f8-87df-4700-bc79-5139c100e010",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/568/video/thumbs/poster.jpg",
+            "title": "Prise en charge des hémoptysies",
+            "start": "2023-10-14T15:45+02:00",
+            "end": "2023-10-14T16:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f54a842e-70e0-4857-beef-c835f8ea4d68",
+                        "title": "Physiopathologie circulatoire pulmonaire et prise en charge des hémoptysies",
+                        "start": "2023-10-14T15:45+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19f38694-4055-4f78-bc86-d414c9e88661",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/568/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/568/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/568/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b282461d-44bf-4ee0-97c8-4dac6f499a59",
+                        "title": "Apport de la bronchoscopie dans la prise en charge des hémoptysies",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "986a9411-dd0c-424f-a7c5-62f3041e8c04",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/569/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/569/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/569/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0ff71e2d-56be-4a43-9312-e8ea475dfea9",
+                        "title": "Hémoptysies d'origine artérielle pulmonaire",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "60f8ee57-42d6-4838-9336-48074579dcc9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/570/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/570/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/570/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "066fbec3-76fb-4263-98ce-1c5948db1a6e",
+                        "title": "Synthèse et discussion générale :  Prise en charge des hémoptysies",
+                        "start": "2023-10-14T16:30+02:00",
+                        "end": "2023-10-14T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "76ba3f54-6fec-4424-ba52-e90b5c488e64",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/571/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/571/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/571/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "f647bfd7-d770-4231-a493-ed1e00c5cf0f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/965/video/thumbs/poster.jpg",
+            "title": "Méthodologie d'évaluation des solutions d'IA en mammographie : Retour d'experience DRIM IA",
+            "start": "2023-10-15T17:00+02:00",
+            "end": "2023-10-15T18:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de :&nbsp;</p>",
+                "<p>1) connaitre la grille élaboré par DRIM IA pour aider les radiologues à chosir et mettre en place une solution d'IA</p>",
+                "<p>2) être en mesure de correctement analyser les éléments de performance des solutions d'IA&nbsp;</p>",
+                "<p>3) comprendre les éléments méthodologiques importants à évaluer dans une publication portant sur l'IA&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0fcbc4a4-e89a-423e-acc8-08ef0a2bc2a0",
+                        "title": "Présentation de la grille DRIM IA",
+                        "start": "2023-10-15T17:00+02:00",
+                        "end": "2023-10-15T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "59e16cd4-d37b-448f-8269-5b752baf92ca",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/965/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/965/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/965/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4b87ca6d-7e88-4c6e-b867-22aa0f61ef87",
+                        "title": "Retour d’expérience d’une start up (démarche, critères de la grille…)",
+                        "start": "2023-10-15T17:15+02:00",
+                        "end": "2023-10-15T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "36461003-0fed-49f9-9257-bb91e76d8cb2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/966/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/966/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/966/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e2c036f-6a89-4bcf-b095-2b421915e290",
+                        "title": "Critères d’évaluation spécifiques aux algorithmes d’IA utilisé en mammographie",
+                        "start": "2023-10-15T17:30+02:00",
+                        "end": "2023-10-15T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "64c00134-d0cd-40db-a322-ac066d53dfaf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/967/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/967/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/967/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "91546d56-a988-4431-a218-c252df06c6f6",
+                        "title": "Discussion générale :  Intelligence Artificielle en mammographie au quotidien",
+                        "start": "2023-10-15T17:45+02:00",
+                        "end": "2023-10-15T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d9de7107-b4f8-4141-b127-d1642b25fee7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/968/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/968/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/968/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

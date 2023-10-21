@@ -1,0 +1,175 @@
+{
+    "data": {
+        "event": {
+            "id": "e0e70fb4-79cd-4c26-af71-9189b2a62870",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/343/video/thumbs/poster.jpg",
+            "title": "Appendicite aigue de l'enfant : quoi de neuf en 2023",
+            "start": "2023-10-15T14:30+02:00",
+            "end": "2023-10-15T15:45+02:00",
+            "objectives": [
+                "<p>Connaitre les signes cliniques des pathologies appendiculaires chez l’enfant et la place des examens biologiques</p>",
+                "<p>Savoir faire une échographie appendiculaire chez l’enfant</p>",
+                "<p>Connaitre les signes échographiques de l’appendicite aigue et de ses complications</p>",
+                "<p>Connaitre la place restreinte des autres techniques d’imagerie et notamment du scanner en pédiatrie</p>",
+                "<p>Connaitre la prise en charge des pathologies appendiculaires de l’enfant&nbsp;</p>",
+                "<p>&nbsp;</p>",
+                "<p>Remise de la Médaille de la SFR : Lors de cette séance le Professeur Olivier Hélénon remettra&nbsp;la Médaille d'Honneur de la SFR au Professeur Jean François Chateil</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "004b0bf1-8e8b-49d6-84f2-8224002ca90d",
+                        "title": "Diagnostic d’appendicite aigue de l’enfant : la clinique et la biologie ont-ils une utilité ?",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0822f2c8-8fa5-4dde-8a07-0d54083d0214",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/343/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/343/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/343/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "147c6752-1ebf-4ff9-8b4f-f020e46e3f19",
+                        "title": "Imagerie de l’appendicite aigue de l’enfant: une échographie sinon rien ?",
+                        "start": "2023-10-15T14:45+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2362b484-34c0-46e9-8f6c-374fc90047f5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/344/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/344/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/344/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9e65954c-c065-4931-a8f6-e869956548e1",
+                        "title": "Prise en charge de l’appendicite aigue : le point de vue du chirurgien",
+                        "start": "2023-10-15T15:00+02:00",
+                        "end": "2023-10-15T15:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "02a6a6d0-7fdc-4894-8006-fece36256775",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/345/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/345/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/345/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "41a0bf44-b8f9-4a38-ad20-a25f52cb545d",
+                        "title": "Discussion générale : Appendicite aigue de l'enfant : quoi de neuf en 2023",
+                        "start": "2023-10-15T15:15+02:00",
+                        "end": "2023-10-15T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "94ce9408-5613-4706-9915-51e635005fa1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/346/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/346/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/346/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "51cf2fef-d52d-4d10-9c0c-cee3363cd7fb",
+                        "title": "Remise de la Médaille d'Honneur de la SFR à Jean François Chateil",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "99bb2bc5-8af4-4aac-b097-d9acad776c93",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1692/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1692/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1692/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

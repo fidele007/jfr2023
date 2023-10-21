@@ -1,0 +1,159 @@
+{
+    "data": {
+        "event": {
+            "id": "ee13bbaa-1a13-40e9-83e4-3f1f2d1762e7",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2021/video/thumbs/poster.jpg",
+            "title": "Imagerie de l'épilepsie, de la première crise à la pharmacorésistance",
+            "start": "2023-10-13T11:15+02:00",
+            "end": "2023-10-13T12:15+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Connaitre les principales causes à rechercher selon le contexte clinique</li>",
+                "\t<li>Maitriser les séquences optimales pour améliorer le dépistage et le diagnostic</li>",
+                "\t<li>Identifier les éléments clés devant figurer dans un compte-rendu d’imagerie pour épilepsie.</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3d8df331-39b0-4840-aded-4cff2a994d7f",
+                        "title": "Introduction",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "30e419cf-c442-4e0d-820b-fd1fb85a638f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2021/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2021/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2021/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "718df848-e329-4c12-869a-63afabcd90be",
+                        "title": "Imagerie de la première crise comitiale",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bda6b747-542f-4acc-9d30-f964a5df5e9e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/81/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/81/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/81/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "41d7342b-8d8c-4065-ac5a-f14d2662da22",
+                        "title": "Imagerie de l'épilepsie chronique",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "10590147-0747-49c5-9c11-0318f1d0726c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/82/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/82/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/82/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "329bd05a-fbf5-4cf4-b534-fa5ecd4b80d7",
+                        "title": "Imagerie de l'épilepsie chronique - Cas cliniques",
+                        "start": "2023-10-13T11:45+02:00",
+                        "end": "2023-10-13T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "02a7ba15-01b2-4939-813f-32d96acbe24d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/83/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/83/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/83/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9d41cf91-9a76-4fb4-9184-4f54b9048bdd",
+                        "title": "Discussion générale : Imagerie de l'épilepsie, de la première crise à la pharmacorésistance",
+                        "start": "2023-10-13T12:00+02:00",
+                        "end": "2023-10-13T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

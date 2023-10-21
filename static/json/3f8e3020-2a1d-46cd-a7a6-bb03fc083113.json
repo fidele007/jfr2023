@@ -1,0 +1,297 @@
+{
+    "data": {
+        "event": {
+            "id": "3f8e3020-2a1d-46cd-a7a6-bb03fc083113",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/414/video/thumbs/poster.jpg",
+            "title": "Challenge éloquence",
+            "start": "2023-10-13T12:45+02:00",
+            "end": "2023-10-13T13:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "85e4ae8a-97a5-4a39-8635-f294289c717a",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/414/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/414/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/414/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e17bbbdd-8179-417d-aa36-83d1b6fed11c",
+                        "title": "Introduction",
+                        "start": "2023-10-13T12:45+02:00",
+                        "end": "2023-10-13T12:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "98e5cd09-fd47-4d22-8791-8bc4e6d9b9ca",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2078/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2078/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2078/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ca8d3ea5-806d-493c-9ce6-8dec64b70ab0",
+                        "title": "Equipe des TUD ( Thorax, Uro, Digestif)",
+                        "start": "2023-10-13T12:50+02:00",
+                        "end": "2023-10-13T12:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aadb2ddb-0666-4206-bbfc-f3157771e42d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2079/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2079/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2079/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "892eace4-482e-44fc-8b47-f755f5da530e",
+                        "title": "Equipe des NOV ( Neuro diagnostique, os, vasculaire)",
+                        "start": "2023-10-13T12:56+02:00",
+                        "end": "2023-10-13T13:02+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b16de183-c100-48cf-ac8b-20c5bfb88a23",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2081/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2081/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2081/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a121098e-107a-4f6e-91dd-08e3ca725c3f",
+                        "title": "Equipe des TUD ( Thorax, Uro, Digestif)",
+                        "start": "2023-10-13T13:02+02:00",
+                        "end": "2023-10-13T13:08+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8b5f48f4-c69b-43cf-a840-21d3530481a7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1532/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1532/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1532/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b737c228-8f83-4db6-a045-1b07962f09e5",
+                        "title": "Equipe des NOV ( Neuro diagnostique, os, vasculaire)",
+                        "start": "2023-10-13T13:08+02:00",
+                        "end": "2023-10-13T13:14+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ba10c460-c9a3-46fd-bc29-2ea23424a67d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2082/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2082/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2082/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cf55346d-6c44-44e8-8728-05cefc41a201",
+                        "title": "Equipe des TUD ( Thorax, Uro, Digestif)",
+                        "start": "2023-10-13T13:14+02:00",
+                        "end": "2023-10-13T13:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a9e60b70-1ea5-438a-a816-9e93dcd386f9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2080/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2080/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2080/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8ae7316a-54aa-4034-82bf-3e13dd84faef",
+                        "title": "Equipe des NOV ( Neuro diagnostique, os, vasculaire)",
+                        "start": "2023-10-13T13:20+02:00",
+                        "end": "2023-10-13T13:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4fa3351d-6ffb-4302-ba74-350a67f64bf7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1533/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1533/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1533/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c9d75a7b-804c-478f-8641-92b117063996",
+                        "title": "Equipe des TUD ( Thorax, Uro, Digestif) - Final",
+                        "start": "2023-10-13T13:26+02:00",
+                        "end": "2023-10-13T13:29+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fc863942-dc24-4906-9806-1551186bd310",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2083/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2083/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2083/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b021e9c1-65b9-4963-90de-c4fc03cd53ff",
+                        "title": "Equipe des NOV ( Neuro diagnostique, os, vasculaire) - Final",
+                        "start": "2023-10-13T13:29+02:00",
+                        "end": "2023-10-13T13:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "399c5cb7-a2cb-460d-bb98-cd639c7552e4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2084/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2084/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2084/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

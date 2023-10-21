@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "55c1d8d2-1d02-493c-b77e-690e52ab2af2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1139/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en Radioprotection",
+            "start": "2023-10-15T09:00+02:00",
+            "end": "2023-10-15T10:00+02:00",
+            "objectives": [
+                "<p>Connaitre les évolutions des Niveaux de Référence Diagnostiques</p>",
+                "<p>Fournir les éléments nécessaires à l'optimisation des expositions en radiologie diagnostique et thérapeutique</p>",
+                "<p>Connaitre les éléments de radioprotection en scannographie</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "af389505-841e-4709-b598-b66d7fb06a34",
+                        "title": "Recueil et analyse des données relatives aux niveaux de référence diagnostiques : bilan triennal 2019-2021",
+                        "start": "2023-10-15T09:00+02:00",
+                        "end": "2023-10-15T09:08+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7006b92c-1512-4d08-a00f-32ed46f518a7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1139/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1139/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1139/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dc1dfa2c-1d3f-4150-9b9e-f7b113474bd8",
+                        "title": "Niveaux de référence diagnostiques en tomographie volumique à faisceau conique ou CBCT dentaire",
+                        "start": "2023-10-15T09:08+02:00",
+                        "end": "2023-10-15T09:16+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7c557910-f1f4-4f92-812f-e205e3a64d09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1140/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1140/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1140/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fa9cc8f5-47b1-41a5-b567-0fd27995aa07",
+                        "title": "Etude multicentrique des outils de protection des organes-à-risque en scanographie :  radioprotection et qualité image",
+                        "start": "2023-10-15T09:16+02:00",
+                        "end": "2023-10-15T09:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1196310d-263c-4e8d-964f-45145078b2a6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1141/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1141/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1141/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "077c715b-3835-4cfb-a4c4-9f7897dc7b62",
+                        "title": "Brain image quality according to beam collimation width and image reconstruction algorithm: A phantom study",
+                        "start": "2023-10-15T09:24+02:00",
+                        "end": "2023-10-15T09:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b19c96bf-765d-4d38-9646-39849132521d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1142/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1142/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1142/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "af2cb11d-8715-4823-ba9e-190192df94b3",
+                        "title": "Retrospective Analysis of Doses Delivered during Embolization Procedures over the Last 10 Years",
+                        "start": "2023-10-15T09:32+02:00",
+                        "end": "2023-10-15T09:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "76036f74-47e1-4a50-9b7b-baec51ba7b5b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1143/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1143/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1143/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fd9e4e68-4b8a-4a90-b992-1fec8a0bcb3b",
+                        "title": "Intérêt du port du tablier plombé lors des actes interventionnels scannoguidés: étude dosimétrique",
+                        "start": "2023-10-15T09:40+02:00",
+                        "end": "2023-10-15T09:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "716d1ad3-fcc5-49a3-8cf5-daf2298ba1c3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1144/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1144/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1144/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b8c4a9d8-1900-4100-a0c3-949a50040f07",
+                        "title": "Retrospective analysis of dosimetric data from oral and maxillofacial examinations with dedicated CBCT",
+                        "start": "2023-10-15T09:48+02:00",
+                        "end": "2023-10-15T09:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "223fd189-ca9c-465c-8f1d-2a386b3e0abe",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1145/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1145/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1145/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

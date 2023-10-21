@@ -1,0 +1,167 @@
+{
+    "data": {
+        "event": {
+            "id": "3956f882-d6bc-452e-9ea4-18f1b966474a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1690/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie ORL",
+            "start": "2023-10-15T14:30+02:00",
+            "end": "2023-10-15T15:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3b9d7f56-7124-4fed-a8de-2f11b5bc74f3",
+                        "title": "Multiparametric Imaging in the Differential Diagnosis of Parotid Masses",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2f9d1c84-5852-41b3-93a8-3cc2be35f94e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1690/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1690/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1690/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c799ac11-a891-4eab-b1cd-9cdecabedd7c",
+                        "title": "Dual energy CT, MRI and pathology correlation in the staging of laryngeal SCC. Presented at ASNR 2023 as educational exhibit and winner of international merit award.",
+                        "start": "2023-10-15T14:40+02:00",
+                        "end": "2023-10-15T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "65908ea9-ff9c-4a1c-b595-0d8d5b6ead6e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1691/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1691/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1691/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1b544947-f9c1-4c94-be41-b169020fec81",
+                        "title": "Repérage échographique pré-opératoire pour la détection d’une artère lusoria avant cervicotomie",
+                        "start": "2023-10-15T14:50+02:00",
+                        "end": "2023-10-15T14:59+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "18aadd19-58c7-489f-9747-a89ab3ca4274",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1297/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1297/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1297/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a223122b-fac3-4bf9-bf83-e1bdb0ebb1f7",
+                        "title": "Pseudo-lésions et variantes de la normale dans le diagnostic différentiel des pathologies osseuses intra-orales",
+                        "start": "2023-10-15T14:59+02:00",
+                        "end": "2023-10-15T15:08+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "da0b4f6e-32cb-4dac-9a64-d6c1001d96e5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1298/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1298/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1298/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cf637dbb-a11f-4031-82cf-126aca77fc74",
+                        "title": "Évaluation tomodensitométrique de la Difficulté d’accès à la fenêtre ronde Lors de l’implantation cochléaire chez  L’enfant",
+                        "start": "2023-10-15T15:08+02:00",
+                        "end": "2023-10-15T15:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0958ac5b-7af3-42df-bda9-7dc105374d39",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1300/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1300/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1300/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "data": {
+        "event": {
+            "id": "0edc9d5e-52b9-469f-884e-127a743cc15a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/983/video/thumbs/poster.jpg",
+            "title": "Ecoresponsabilité en imagerie médicale",
+            "start": "2023-10-13T10:15+02:00",
+            "end": "2023-10-13T11:30+02:00",
+            "objectives": [
+                "<p>Face à l’effondrement de la biodiversité, au réchauffement climatique, la transition écologique s’impose à notre génération et restera le défi des décennies à venir. Si l’éthique médicale, primum non nocere, nous engage à ne pas nuire au patient par l’acte de soin, il est temps d’élargir notre responsabilité morale et éthique à l’ensemble du vivant, dans le temps et dans l’espace.</p>",
+                "<p>La quantité limitée des ressources, énergétique et en matière première sont autant d’éléments venant inciter à repenser nos pratiques et nos usages aussi en tant de professionnel de santé. Car «&nbsp;mieux vaut prendre le changement par la main avant qu’il ne nous prenne à la gorge&nbsp;».</p>",
+                "<p>Nous proposons ici plusieurs pistes d’action et de raisonnement pour s’engager dans l’éco-responsabilité</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ea34d5c4-578a-4204-b56f-a7d984a46ea1",
+                        "title": "Mise en action à l’hôpital ou au sein d’un cabinet de Radiologie",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9a692b07-d0d5-482e-be0c-34ca0a00cc3b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/983/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/983/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/983/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1c3419c0-8f12-4069-ab28-4c4c373a2402",
+                        "title": "Le numérique : quelle empreinte, quelles attentes ?",
+                        "start": "2023-10-13T10:30+02:00",
+                        "end": "2023-10-13T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ee44f59a-1d2f-4989-be46-eb09546e6058",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/984/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/984/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/984/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4734f272-5ed6-4baa-91bd-2dabecab3127",
+                        "title": "Numérique éthique et responsable",
+                        "start": "2023-10-13T10:45+02:00",
+                        "end": "2023-10-13T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a600397d-941f-4f61-8536-7549f03c8927",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/985/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/985/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/985/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "48ade96c-b74d-4ff1-b732-702c87d69c36",
+                        "title": "Climate Change and Radiology: Impetus for Change and a Toolkit for Action",
+                        "start": "2023-10-13T11:00+02:00",
+                        "end": "2023-10-13T11:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f2b23aa9-6cbb-4648-a917-969e903cc9b0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/986/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/986/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/986/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c7c8b7b8-170e-4f3a-acde-ddb815a74185",
+                        "title": "Discussion générale :  Ecoresponsabilité en imagerie médicale",
+                        "start": "2023-10-13T11:12+02:00",
+                        "end": "2023-10-13T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

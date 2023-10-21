@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "91194627-1cb8-4526-b80d-4e08f9e1f04b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/133/video/thumbs/poster.jpg",
+            "title": "Imagerie de la femme : Gynécologie - Echographie endométriose",
+            "start": "2023-10-13T14:15+02:00",
+            "end": "2023-10-13T15:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8984e598-9e33-4e11-a2f9-1a11011b6eb7",
+                        "title": "Echographie endométriose",
+                        "start": "2023-10-13T14:15+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3d7c81b3-9131-470f-b2c6-35d08d274cb3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/133/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/133/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/133/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

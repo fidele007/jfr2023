@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "b56880b9-2515-4fe4-b1bd-8be293696f36",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/605/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie cardiaque",
+            "start": "2023-10-13T11:15+02:00",
+            "end": "2023-10-13T12:15+02:00",
+            "objectives": [
+                "<p>Connaître les développements récents en scanner cardiaque</p>",
+                "<p>Connaître les développements récents en IRM cardiaque</p>",
+                "<p>Connaître de nouvelles apllications cliniques de l'imagerie cardiaque</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9f92b022-414c-4abe-bf42-60ed233b38d9",
+                        "title": "Scanner pré-tavi : études des facteurs anatomiques à risque de trouble du rythme post interventionnel",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ebff2f91-7a4f-4e03-8ac7-66c642eaebba",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/600/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/600/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/600/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c5fdc44a-7168-4746-a256-45423c9fb537",
+                        "title": "Exercise-induced myocardial T1 increase and right ventricular dysfunction in recreational cyclists: a CMR study",
+                        "start": "2023-10-13T11:24+02:00",
+                        "end": "2023-10-13T11:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9b37390e-cb32-4540-8fb1-7e46dd712f26",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/601/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/601/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/601/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "00b4335e-f9c1-4c6e-8a4e-dadb3f5b8650",
+                        "title": "Evaluation of virtual monochromatic imaging for coronary artery imaging with a spectral photon-counting CT",
+                        "start": "2023-10-13T11:33+02:00",
+                        "end": "2023-10-13T11:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ec88b0e1-967a-4e48-bf0e-4ad98735e2b7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/602/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/602/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/602/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4197d1f1-2cba-4e38-8577-01923d19bfe0",
+                        "title": "Free-running 5D whole-heart MRI with ferumoxytol enhancement to evaluate cardiac function in congenital heart disease",
+                        "start": "2023-10-13T11:42+02:00",
+                        "end": "2023-10-13T11:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "daae6fe1-20e2-460a-8ca9-b848c7cf4fa6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/603/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/603/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/603/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1b000e54-4d88-476d-a011-dbfabfaf546a",
+                        "title": "Spectral photon counting CT coronary angiography: evaluation of ultra-high resolution low mono-energetic imaging in Human",
+                        "start": "2023-10-13T11:51+02:00",
+                        "end": "2023-10-13T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1ef43f97-6d3b-4a48-a436-e7ec8aaf4fdb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/604/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/604/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/604/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "313bdf41-4dcf-42b5-95a6-cdca35bc2e87",
+                        "title": "AI-powered detection and quantification of myocardial scar through advanced bright- and black-blood LGE imaging",
+                        "start": "2023-10-13T12:00+02:00",
+                        "end": "2023-10-13T12:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c94e8349-1f5f-4ff5-81d4-376b8e593966",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/605/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/605/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/605/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5f66e941-ee31-40b5-b8f1-b61c3cfbb75c",
+                        "title": "INCAPS-4",
+                        "start": "2023-10-13T12:09+02:00",
+                        "end": "2023-10-13T12:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4f117ebb-51c3-4876-bc6a-bdf9644a3c77",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2106/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2106/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2106/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

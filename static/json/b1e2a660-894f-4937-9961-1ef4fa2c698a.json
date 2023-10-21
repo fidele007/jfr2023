@@ -1,0 +1,169 @@
+{
+    "data": {
+        "event": {
+            "id": "b1e2a660-894f-4937-9961-1ef4fa2c698a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2020/video/thumbs/poster.jpg",
+            "title": "Vertiges périphériques: intégrer la radiologie dans la démarche diagnostique",
+            "start": "2023-10-13T08:15+02:00",
+            "end": "2023-10-13T09:15+02:00",
+            "objectives": [
+                "<p>L'objectif de cette séance pédagogique est d'intégrer les dernières innovations en imagerie des vertiges périphériques dans une démarche diagnostique plus globale pour augmenter le service rendu au patient en permettant au médecin otologiste de personnaliser le parcours de soin thérapeutique.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "dc8352c6-f024-46bb-9b26-09eb7d6efdb8",
+                        "title": "Introduction",
+                        "start": "2023-10-13T08:15+02:00",
+                        "end": "2023-10-13T08:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d5a94384-d237-4cef-a3d5-a56838d7df08",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2020/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2020/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2020/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b61fc7dd-5d26-4b47-bd69-ec9d080cf0a8",
+                        "title": "Imager les causes et conséquences des vestibulopathies: distinguer l'œuf de la poule",
+                        "start": "2023-10-13T08:15+02:00",
+                        "end": "2023-10-13T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8df106b8-8202-486f-a653-4055d5269857",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/523/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/523/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/523/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c26fbadb-49b8-498e-a1e8-480e9ca5c95c",
+                        "title": "L'IRM et le patient vertigineux: peut on se passer de gadolinium?",
+                        "start": "2023-10-13T08:30+02:00",
+                        "end": "2023-10-13T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2341b18b-d369-48dc-a1b2-9cbfa18b6b14",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/524/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/524/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/524/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2a8600f7-366d-48e4-8dda-2d795892e0dc",
+                        "title": "Médecine de précision en otologie",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ed258b2a-4fb2-4617-bfef-6e1a9056eb11",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/525/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/525/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/525/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c946d576-528e-478a-827c-2c1864938198",
+                        "title": "Discussion générale :  Le diagnostic intégré des patients vertigineux: radiologues et otologistes mains dans la main",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f883063f-6ba4-42e3-bba0-351cfd9feb24",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/526/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/526/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/526/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

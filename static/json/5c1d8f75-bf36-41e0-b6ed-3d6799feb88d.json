@@ -1,0 +1,37 @@
+{
+    "data": {
+        "event": {
+            "id": "5c1d8f75-bf36-41e0-b6ed-3d6799feb88d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/348/video/thumbs/poster.jpg",
+            "title": "La technologie IA pour lutter contre le cancer du sein et les maladies cardiovasculaires",
+            "start": "2023-10-14T12:30+02:00",
+            "end": "2023-10-14T13:30+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "01ec21cd-c44b-40a3-93ef-2c587173c4a1",
+                        "title": "Impact de l'IA pour la détection du cancer du sein au quotidien Revue de cas cliniques - Conclusion",
+                        "start": "2023-10-14T12:30+02:00",
+                        "end": "2023-10-14T13:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "314f016a-426c-41c8-93f6-76f22f551f8d",
+                        "title": "Évaluer le risque cardio-vasculaire par l’IA et la mammographie  - Etude clinique - Questions",
+                        "start": "2023-10-14T13:00+02:00",
+                        "end": "2023-10-14T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

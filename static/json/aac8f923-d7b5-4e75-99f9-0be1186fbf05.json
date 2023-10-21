@@ -1,0 +1,258 @@
+{
+    "data": {
+        "event": {
+            "id": "aac8f923-d7b5-4e75-99f9-0be1186fbf05",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/642/video/thumbs/poster.jpg",
+            "title": "Etat de la recherche pour les manipulateurs",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T16:00+02:00",
+            "objectives": [
+                "<p>Préciser la démarche de recherche paramédicale<br>",
+                "Appréhender les différentes phases d'un projet de Recherche au travers de sas concrets<br>",
+                "Comprendre la place du manipulateur en recherche</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4476be4f-414f-4575-bc91-f499845f4a4c",
+                        "title": "Introduction",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9f2089a6-a10e-49a9-a843-f0fa6244af88",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2037/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2037/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2037/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "22fe7e1a-7e07-43e8-b5df-519e9aa9a8cb",
+                        "title": "Mise en perspective globale de la recherche Manipulateur",
+                        "start": "2023-10-13T14:05+02:00",
+                        "end": "2023-10-13T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c2b4989f-e6f8-4bb7-9a99-ba7d7e472ef0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/640/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/640/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/640/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "08d4a2cc-d231-4bdb-ba97-909ece39e391",
+                        "title": "Retour d'expérience :  construction/lancement d'un PHRIP",
+                        "start": "2023-10-13T14:20+02:00",
+                        "end": "2023-10-13T14:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "aa9a911f-6de4-4a5a-a595-5d2c8f8e887f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/641/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/641/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/641/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fee1f8ea-e0bf-45c8-9604-141c5f75bdbc",
+                        "title": "Retour expérience sur la réalisation d'un PHRIP",
+                        "start": "2023-10-13T14:35+02:00",
+                        "end": "2023-10-13T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b0475923-e7af-4362-a158-8f17259d901d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/642/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/642/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/642/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "13fb3a78-c231-4a52-a6aa-90eab4b63295",
+                        "title": "Retour expérience sur l'écriture d'article scientifique",
+                        "start": "2023-10-13T14:50+02:00",
+                        "end": "2023-10-13T15:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b2fc1697-9072-4e2e-ac99-94cf660233cc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/643/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/643/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/643/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "322ee466-d458-4b42-8a04-09cf267af109",
+                        "title": "Retour d'expérience DU Manipulateur et dépôts appels à projets",
+                        "start": "2023-10-13T15:05+02:00",
+                        "end": "2023-10-13T15:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "51e41df8-6760-45e1-9b5e-33ee4a28a4c3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/644/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/644/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/644/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c5c03b00-379b-435b-8654-cc5d3a37658c",
+                        "title": "Table ronde :  quelles perspectives pour les manipulateurs en recherche",
+                        "start": "2023-10-13T15:20+02:00",
+                        "end": "2023-10-13T15:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9a0c0033-e626-4c89-b0ca-aacc999f5d98",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/645/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/645/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/645/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2bcb9e4f-63e3-4b7b-8095-1f2c77da201e",
+                        "title": "Temps d\"évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-13T15:50+02:00",
+                        "end": "2023-10-13T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "baf2accc-be8b-4b32-a6c6-4b926a2c4e4e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/646/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/646/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/646/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

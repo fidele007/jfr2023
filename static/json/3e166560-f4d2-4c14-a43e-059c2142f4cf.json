@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "3e166560-f4d2-4c14-a43e-059c2142f4cf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/473/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Exploration écho-Doppler des thromboses veineuses",
+            "start": "2023-10-15T10:15+02:00",
+            "end": "2023-10-15T11:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "da6a60d1-025a-40b5-848a-0c0fad6f84fa",
+                        "title": "Exploration écho-Doppler des thromboses veineuses",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "950a5df6-0f41-474b-9ad8-dbbe498f2352",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/473/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/473/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/473/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

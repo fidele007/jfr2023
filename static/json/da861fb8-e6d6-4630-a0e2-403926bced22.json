@@ -1,0 +1,258 @@
+{
+    "data": {
+        "event": {
+            "id": "da861fb8-e6d6-4630-a0e2-403926bced22",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/633/video/thumbs/poster.jpg",
+            "title": "IRM : un technologie toujours plus performante pour les manipulateurs",
+            "start": "2023-10-13T10:15+02:00",
+            "end": "2023-10-13T11:30+02:00",
+            "objectives": [
+                "<p>Maitriser de nouvelles techniques d'acquisition<br>",
+                "Optimiser la réalisation des examen IRM<br>",
+                "Assurer une prise en charge optimisée du patient</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e0c7ad0c-176e-475b-bb9d-ed181fe183db",
+                        "title": "Introduction",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T10:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6fc43565-211d-4145-a87c-57744ab139c2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/633/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/633/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/633/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c93dcc6d-6b12-419e-95cb-3977cd877777",
+                        "title": "Apport du Deep Learning pour l’exploration du pancréas en IRM avec les séquences 3DT1 injectées",
+                        "start": "2023-10-13T10:17+02:00",
+                        "end": "2023-10-13T10:29+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b16d1fe5-b796-4a53-b6aa-16556b5c0011",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/634/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/634/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/634/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c57c4383-ed27-4419-b85a-04cb8e48a38e",
+                        "title": "Exploration IRM \"pseudo-CT\" sur échantillons osseux ex vivo et comparaison avec images scanographiques",
+                        "start": "2023-10-13T10:29+02:00",
+                        "end": "2023-10-13T10:41+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cc30f8bf-5b1e-434f-9e28-7af86b943597",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/635/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/635/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/635/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "17357507-3359-43be-89a0-19f6ede4573a",
+                        "title": "Prévention globale des risques liés aux champs électromagnétiques intenses (IRM) dans une institution hospitalière",
+                        "start": "2023-10-13T10:41+02:00",
+                        "end": "2023-10-13T10:53+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a6f09d44-e045-4653-a2a4-ef10051302db",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/636/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/636/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/636/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c0fbaafc-fcd2-4acb-887e-447f9a370a3a",
+                        "title": "Impact d'un suivi individuel par exposimétrie magnétique sur les bonnes pratiques en IRM",
+                        "start": "2023-10-13T10:53+02:00",
+                        "end": "2023-10-13T11:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9ee3459f-58c4-43a8-b5b7-aeaa5697b501",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/637/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/637/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/637/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "80c61739-b108-48e2-b21a-0346789b9c75",
+                        "title": "Magnéto protection entre ultra haut champ et pratique clinique",
+                        "start": "2023-10-13T11:05+02:00",
+                        "end": "2023-10-13T11:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "db12c7ad-4847-42f8-93e6-c5b65428e3af",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1668/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1668/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1668/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "01376499-9d92-4ab5-b259-7b455d82ca36",
+                        "title": "Question / réponses",
+                        "start": "2023-10-13T11:17+02:00",
+                        "end": "2023-10-13T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4460dae8-a295-4a3c-afb4-f90c8e197638",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/638/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/638/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/638/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7a3fc7fa-940b-47af-8539-c607aa7f52a7",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-13T11:24+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "949293b1-0909-4c95-b3da-11d99f1f3c8e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/639/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/639/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/639/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

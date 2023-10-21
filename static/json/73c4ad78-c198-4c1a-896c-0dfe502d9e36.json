@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "73c4ad78-c198-4c1a-896c-0dfe502d9e36",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1694/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie vasculaire diagnostique et interventionnelle",
+            "start": "2023-10-15T09:00+02:00",
+            "end": "2023-10-15T10:15+02:00",
+            "objectives": [
+                "<p>Comprendre l'intérêt des nouvelles modalités d'acquisition en imagerie vasculaire</p>",
+                "<p>Comprendre l'intérêt des nouvelles modalités de reconstruction en imagerie vasculaire</p>",
+                "<p>Comprendre de nouvelles modalités de guidage en interventionnel vasculaire</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1e36ac08-e82f-443f-8be7-2b5f02a287ba",
+                        "title": "Imaging of Peripheral Arterial Disease",
+                        "start": "2023-10-15T09:00+02:00",
+                        "end": "2023-10-15T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8cb2d5db-86b7-472a-9a93-c00a728b2dd4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1694/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1694/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1694/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ebbf5ecb-d054-4065-ab38-095359855c47",
+                        "title": "Intérêt de la séquence IRM « 4D Flow » dans le diagnostic des lésions d’endofibrose",
+                        "start": "2023-10-15T09:15+02:00",
+                        "end": "2023-10-15T09:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6deaf94e-dc06-4dd0-a0f6-48a7b3ed016b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/606/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/606/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/606/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0560c4d5-f4d8-4106-90a2-6bf4cc89c1af",
+                        "title": "Feasibility, safety and efficacy of image-guided anterograde endovascular occluded digestive arteries recanalization using steerable sheath",
+                        "start": "2023-10-15T09:24+02:00",
+                        "end": "2023-10-15T09:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b6050652-cc93-4a33-8e6c-bdcabc4bd91c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/607/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/607/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/607/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8ebad04e-5ca1-46bd-a625-74073708fb5c",
+                        "title": "Feasibility and safety of anterograde endovascular digestive arteries using three dimensional pre interventional CTA-per interventional CBCT image fusion-guidance in chronic mesenteric ischemia",
+                        "start": "2023-10-15T09:33+02:00",
+                        "end": "2023-10-15T09:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "20f732e0-8248-4e61-b61a-d7fc6e82986e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/608/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/608/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/608/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fc38988f-e448-49a4-b86a-8e22cc39bfdf",
+                        "title": "Contribution of fast kV-switching derived monoenergetic reconstructions to EVAR follow-up",
+                        "start": "2023-10-15T09:42+02:00",
+                        "end": "2023-10-15T09:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "609c6f13-be67-4406-bf41-c4b39e1317f3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/609/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/609/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/609/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1532b3d5-f8c6-4051-82da-eca0d02fcbaa",
+                        "title": "Interet du scanner spectral haut pitch pour reduire dosimetrie et quantité d'iode injecté",
+                        "start": "2023-10-15T09:51+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0cec3e74-0dda-4b25-9c13-94ff0ad4b428",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/610/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/610/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/610/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4af8387b-2860-43a1-a6f8-578a9ec7ef8a",
+                        "title": "Dual-energy CT angiography of the lower extremities using reduced contrast media volume",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "06574352-57ff-4be2-b761-84388d1acc39",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/611/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/611/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/611/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

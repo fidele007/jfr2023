@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "11bb8ee8-33f7-476b-a74f-8bbbbe4ff531",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1733/video/thumbs/poster.jpg",
+            "title": "Session 3 du JENI : Cas commentés de thrombectomie mécanique",
+            "start": "2023-10-15T10:55+02:00",
+            "end": "2023-10-15T11:25+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "71f9ca98-62da-409f-92fa-26d12e72917c",
+                        "title": "Cas commentés de thrombectomie mécanique",
+                        "start": "2023-10-15T10:55+02:00",
+                        "end": "2023-10-15T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "173e0768-5729-48f8-95e6-39c5c98e59da",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1733/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1733/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1733/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

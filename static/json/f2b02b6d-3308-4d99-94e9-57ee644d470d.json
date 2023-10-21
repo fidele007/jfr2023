@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "f2b02b6d-3308-4d99-94e9-57ee644d470d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/507/video/thumbs/poster.jpg",
+            "title": "Nouveaux algorithmes de prise en charge aux urgences : disparition de la radiographie standard?",
+            "start": "2023-10-14T11:15+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [
+                "<p>Faire le point sur l'efficacité des logiciels d'IA de détection des fractures</p>",
+                "<p>&nbsp;</p>",
+                "<p>Analyser les points faibles et les points forts des solutions d'IA chez l'enfant et chez l'adulte</p>",
+                "<p>Discuter de l'apport de ces solutions, de leur intégration dans la prise en charge SAU-Imagerie et des modifications de pratique</p>",
+                "<p>Souligner les implications médico-légales et éthiques</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "312cd178-6dd2-48ec-95f3-7fa2adf1e9dd",
+                        "title": "Disparition de la radiographie standard du rachis? place du scanner et de l'IRM",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d43d6286-c607-4b6f-9d5a-6cd714cdf024",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/507/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/507/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/507/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d77a662d-4f8d-4d5c-a064-952526839fa0",
+                        "title": "Disparition de l'ASP: place du FAST scan abdo low dose ?",
+                        "start": "2023-10-14T11:30+02:00",
+                        "end": "2023-10-14T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "02ec9cef-8538-478d-a195-3800e3551358",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/508/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/508/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/508/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "db2c2a59-5661-4858-bcbe-faf6c048f9f7",
+                        "title": "Disparition de la radiographie du thorax au profit du scanner thoracique ultra low dose (ULD)",
+                        "start": "2023-10-14T11:45+02:00",
+                        "end": "2023-10-14T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dc2486fc-78e7-486c-9578-fab9aa88d353",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/509/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/509/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/509/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a8e25abd-bb7f-4ad9-bb56-ed164d97d0ee",
+                        "title": "Discussion générale :  Faut il passer au tout scanner au SAU? Reste t il une place pour les radiographies standard pour le rachis et le thorax?",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "af32496c-6b41-4e57-b8ff-925623eb1248",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/510/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/510/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/510/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "9c24d960-9e1f-459c-bd4e-840d0959613b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1514/video/thumbs/poster.jpg",
+            "title": "Le nerf médian au coude et à l'avant bras",
+            "start": "2023-10-13T11:30+02:00",
+            "end": "2023-10-13T11:35+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2768c5da-503b-47c3-92eb-51ad81eebc75",
+                        "title": "Le nerf médian au coude et à l'avant bras",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ca3572c4-3333-4c84-ac7c-d64e12287e4b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1514/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1514/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1514/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

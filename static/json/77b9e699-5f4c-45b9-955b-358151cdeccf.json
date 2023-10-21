@@ -1,0 +1,123 @@
+{
+    "data": {
+        "event": {
+            "id": "77b9e699-5f4c-45b9-955b-358151cdeccf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/43/video/thumbs/poster.jpg",
+            "title": "La revolution numerique en radiologie : implications technologiques, sociologiques et economiques",
+            "start": "2023-10-13T08:45+02:00",
+            "end": "2023-10-13T09:45+02:00",
+            "objectives": [
+                "<p>Connaître les avantages et risques technologiques&nbsp;spécifiques à l'imagerie médicale digitale</p>",
+                "<p>Savoir reconnaitre les effets et enjeux sociologiques de l’IA en radiologie</p>",
+                "<p>Connaitre les déterminants nationaux et mondiaux de l'économie du numerique&nbsp;en radiologie</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5019f75a-9509-46d4-ba6d-799b7a2bcc7a",
+                        "title": "L’innovation technologique en radiologie, distinguer l’efficience de l’efficacité",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "c91165b3-bac2-4c19-b0bf-4bd2a6f754ed",
+                        "title": "L’adoption des logiciels d’IA à visée de détection en radiologie en France : dimensions sociologiques",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1c8e8394-e911-4a31-8830-509adcf27092",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/44/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/44/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/44/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6a4cab2f-fc58-4bc3-b7f2-851fc647c546",
+                        "title": "Economie de la e-santé et radiologie : quels enjeux face au GAFAM ?",
+                        "start": "2023-10-13T09:15+02:00",
+                        "end": "2023-10-13T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7a7f6c02-69d4-4fe1-8aaf-178c15ed5317",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/45/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/45/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/45/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6a0cbb2a-680e-4cdb-aee4-09762de75113",
+                        "title": "Discussion générale :  La revolution numerique en radiologie : implications technologiques, sociologiques et economiques",
+                        "start": "2023-10-13T09:30+02:00",
+                        "end": "2023-10-13T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5176bb44-211b-4c99-ae2e-25b8f45520a0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/46/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/46/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/46/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

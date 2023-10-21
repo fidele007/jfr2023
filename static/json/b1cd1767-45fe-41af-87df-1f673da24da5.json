@@ -1,0 +1,169 @@
+{
+    "data": {
+        "event": {
+            "id": "b1cd1767-45fe-41af-87df-1f673da24da5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/992/video/thumbs/poster.jpg",
+            "title": "La radiologie au féminin",
+            "start": "2023-10-14T09:30+02:00",
+            "end": "2023-10-14T10:30+02:00",
+            "objectives": [
+                "<p>La féminisation de la profession de&nbsp;radiologue en imagerie diagnostique&nbsp;et interventionnelle ne cesse de croître. L'objectif de cette séance est de faire un état des lieux sur la place&nbsp;des femmes dans notre spécialité, de parler des spécificités de leur parcours en radiologie avec des témoignages de médecins issus de différents types de pratiques privées et publiques.&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1e2cfba0-661a-4d8e-b05d-5a1a721abca7",
+                        "title": "Discrimination, sexisme, harcèlement, féminisme … Ne pas tout confondre",
+                        "start": "2023-10-14T09:30+02:00",
+                        "end": "2023-10-14T09:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "236ec735-fb1e-4ac3-b28d-c4859027dca3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/991/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/991/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/991/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d5d8e12e-3318-49a8-bae6-8757056bd23e",
+                        "title": "Carrière des femmes en activité universitaire et en activité libérale: les vraies difficultés",
+                        "start": "2023-10-14T09:40+02:00",
+                        "end": "2023-10-14T09:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1546ea70-f482-412f-982c-82dbfc5e8dc0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/993/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/993/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/993/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3166f26d-bc39-4878-bf89-411d246d49d4",
+                        "title": "Spécificités de l'activité professionnelles liées au sexe, vues par le conseil de l'ordre: contrats et clauses, activité, relations inter-professionnelles",
+                        "start": "2023-10-14T09:50+02:00",
+                        "end": "2023-10-14T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b717a810-f38a-4cf9-bafb-87901fe46046",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/992/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/992/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/992/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3d14f79b-3326-408a-aee2-c5227ca0a83e",
+                        "title": "Quels facteurs orientent  les choix de carrière des internes en radiologie ? Retour d’enquête et Spécificités liées au genre",
+                        "start": "2023-10-14T10:00+02:00",
+                        "end": "2023-10-14T10:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ea0ebeaf-dbb0-4047-849f-2186b10b995d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/994/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/994/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/994/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4a7dd57b-9612-45d9-a8c1-4efb64a1d42a",
+                        "title": "Table ronde",
+                        "start": "2023-10-14T10:10+02:00",
+                        "end": "2023-10-14T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0555d4fc-b1b6-4110-94b5-08b133c10086",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/995/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/995/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/995/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

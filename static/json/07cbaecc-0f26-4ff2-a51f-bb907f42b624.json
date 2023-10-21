@@ -1,0 +1,109 @@
+{
+    "data": {
+        "event": {
+            "id": "07cbaecc-0f26-4ff2-a51f-bb907f42b624",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1744/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur la veine insuffisante ou comprimée",
+            "start": "2023-10-15T17:10+02:00",
+            "end": "2023-10-15T17:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3576e7ea-58b7-4c52-829a-abf226af7cf2",
+                        "title": "La varicocèle",
+                        "start": "2023-10-15T17:10+02:00",
+                        "end": "2023-10-15T17:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "11af0708-6ed2-47a3-a51e-8482cc6b4c43",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1743/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1743/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1743/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "798af60b-9614-4ae0-bb30-00579c1663c0",
+                        "title": "La congestion pelvienne",
+                        "start": "2023-10-15T17:25+02:00",
+                        "end": "2023-10-15T17:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7b5b5fe6-c972-4130-9784-1ee8b4be7134",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1744/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1744/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1744/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b3973e35-e4f3-4eca-8d80-16f0b13c071a",
+                        "title": "interventions veineuses en oncologie",
+                        "start": "2023-10-15T17:40+02:00",
+                        "end": "2023-10-15T17:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e0e01cb9-b5a7-4969-a646-3181aede38d2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1745/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1745/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1745/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

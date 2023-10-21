@@ -1,0 +1,109 @@
+{
+    "data": {
+        "event": {
+            "id": "f2eb5715-0b60-4fe5-9237-786760faf1ae",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1735/video/thumbs/poster.jpg",
+            "title": "Savoir tout infiltrer",
+            "start": "2023-10-15T13:45+02:00",
+            "end": "2023-10-15T14:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f4846880-2633-4470-b4e4-f1649399b0c1",
+                        "title": "Le rachis",
+                        "start": "2023-10-15T13:45+02:00",
+                        "end": "2023-10-15T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e624146c-d1cb-4f57-80dc-c17359e66e15",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1735/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1735/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1735/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6483048a-79b6-40bc-b76a-8237d8083c41",
+                        "title": "Le membre inférieur",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "898f91b7-4598-4c38-a215-88f407045cf9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1736/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1736/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1736/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dff958ae-9197-4f16-8657-5c22ffab21d2",
+                        "title": "Le membre supérieur",
+                        "start": "2023-10-15T14:15+02:00",
+                        "end": "2023-10-15T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3d2d7444-884c-4929-ba7f-9c7fd64c804d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1737/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1737/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1737/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

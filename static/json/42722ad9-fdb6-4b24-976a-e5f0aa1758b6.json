@@ -1,0 +1,140 @@
+{
+    "data": {
+        "event": {
+            "id": "42722ad9-fdb6-4b24-976a-e5f0aa1758b6",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1010/video/thumbs/poster.jpg",
+            "title": "Nouveaux biomarqueurs en oncologie. Quelle stratégie ? Comment éviter les biais pour la validation",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:45+02:00",
+            "objectives": [
+                "<p>Avec la participation de&nbsp;CERCARE MEDICAL</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e565a326-21dd-454c-a196-13c0b51c16c2",
+                        "title": "Radiomics et big data en oncologie : défis méthodologiques pour la validation de biomarqueurs",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9956ecab-239e-4519-b131-1e081cdc6727",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1010/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1010/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1010/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8b5548a0-9f32-444f-a8eb-554033ddf313",
+                        "title": "L'intelligence artificielle : une avancée diagnostique et prognostique dans l'évaluation des cancers solides",
+                        "start": "2023-10-14T14:20+02:00",
+                        "end": "2023-10-14T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0acee220-da61-4e72-a7ac-2fe12c058d72",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1011/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1011/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1011/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7373189a-a420-4791-a6c1-403f1e2ece4b",
+                        "title": "L'intelligence artificielle : vers une meilleure évaluation de la réponse aux traitements",
+                        "start": "2023-10-14T14:40+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "da8fdf9a-77a2-481b-bd51-1fe106bfac40",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1012/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1012/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1012/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1191246d-628e-41cb-8055-4461e492c674",
+                        "title": "Table ronde",
+                        "start": "2023-10-14T15:00+02:00",
+                        "end": "2023-10-14T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "16f0f1a2-4df9-4c5e-bd16-9265b9f7de65",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1013/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1013/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1013/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

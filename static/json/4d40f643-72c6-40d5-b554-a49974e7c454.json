@@ -1,0 +1,77 @@
+{
+    "data": {
+        "event": {
+            "id": "4d40f643-72c6-40d5-b554-a49974e7c454",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/24/video/thumbs/poster.jpg",
+            "title": "Rencontre SFR-SFC - La battle IRM vs US :  strain et imagerie 3D",
+            "start": "2023-10-12T15:20+02:00",
+            "end": "2023-10-12T16:40+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1dc8c74a-a319-4e9b-8410-7a65ff3104cd",
+                        "title": "Cas cliniques juniors cardio radio Clermont Ferrand",
+                        "start": "2023-10-12T15:20+02:00",
+                        "end": "2023-10-12T15:34+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "05cfb5f3-430e-4fcd-9b6e-ad04cfcf0e32",
+                        "title": "Strain en échographie :  techniques et limites",
+                        "start": "2023-10-12T15:34+02:00",
+                        "end": "2023-10-12T15:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "9ff02835-80a0-46f7-8c26-42adab61264e",
+                        "title": "Strain en IRM : techniques et limites",
+                        "start": "2023-10-12T15:47+02:00",
+                        "end": "2023-10-12T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "ad602a93-697f-4a3c-8a0f-a7aa9f14ddc8",
+                        "title": "Echo 3D : techniques, intérêt et limites",
+                        "start": "2023-10-12T16:00+02:00",
+                        "end": "2023-10-12T16:13+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "074377fe-f715-4173-8a5b-bfa170034579",
+                        "title": "3D whole heart MRI / 4D flow (function VG VD)",
+                        "start": "2023-10-12T16:13+02:00",
+                        "end": "2023-10-12T16:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "66da8b5a-3a17-4d6d-b51e-34226952e710",
+                        "title": "Solution de cas cliniques",
+                        "start": "2023-10-12T16:26+02:00",
+                        "end": "2023-10-12T16:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

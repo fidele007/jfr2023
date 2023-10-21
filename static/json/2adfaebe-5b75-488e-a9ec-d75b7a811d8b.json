@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "2adfaebe-5b75-488e-a9ec-d75b7a811d8b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/659/video/thumbs/poster.jpg",
+            "title": "Prendre soin en tant que manipulateur",
+            "start": "2023-10-15T08:45+02:00",
+            "end": "2023-10-15T09:45+02:00",
+            "objectives": [
+                "<p>Mener une réflexion éthique face aux pratiques professionnelles<br>",
+                "Améliorer la prise en soins des patients<br>",
+                "Veiller au bien-être du binôme patient/soignant</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "562dbf22-6422-48bc-961e-004751ce793a",
+                        "title": "Introduction",
+                        "start": "2023-10-15T08:45+02:00",
+                        "end": "2023-10-15T08:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4a9db478-df45-4d7f-a9a4-976915938567",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/659/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/659/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/659/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "363543f7-66da-4f50-b08b-08f356721b60",
+                        "title": "Patients sourds et malentendants :  quand les manipulateurs signent",
+                        "start": "2023-10-15T08:47+02:00",
+                        "end": "2023-10-15T08:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0d70ca6d-beed-40ed-809f-f2b9c4d935a4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/660/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/660/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/660/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "10377882-e137-4abc-88f2-a528c33c7dd6",
+                        "title": "Effets de l’hypnose sur la douleur et la consommation de morphine lors d’embolisation de fibromes utérins",
+                        "start": "2023-10-15T08:57+02:00",
+                        "end": "2023-10-15T09:07+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "352c22dd-ec5f-482e-82dd-7c49ee1cd031",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1467/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1467/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1467/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2f1b279d-e4af-49bd-9698-dcf53501140e",
+                        "title": "Le patient âgé et son double digital : prendre soin du patient réel avant son avatar numérique",
+                        "start": "2023-10-15T09:07+02:00",
+                        "end": "2023-10-15T09:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "906aedac-b045-461b-9494-cd30ee5901ef",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1468/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1468/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1468/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c52ab43f-d423-42e6-8d47-224510d30b1f",
+                        "title": "Manutention des malades versus aide à la mobilité - du manip manutentionnaire au manip soignant",
+                        "start": "2023-10-15T09:17+02:00",
+                        "end": "2023-10-15T09:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "98dfff43-6ec4-4e06-ad83-a47f38ffdf05",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1469/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1469/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1469/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "40c2c32c-cb88-4832-9a7e-7b4c92a06ce2",
+                        "title": "Discussion générale",
+                        "start": "2023-10-15T09:27+02:00",
+                        "end": "2023-10-15T09:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "805a1a33-2f76-40f2-a6f6-619fb9625d93",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/661/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/661/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/661/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4b9dc2f-f341-4106-b9a2-2e690b14b5d2",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-15T09:40+02:00",
+                        "end": "2023-10-15T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "86983355-daa9-4d9e-ae12-33b36669f88e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/662/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/662/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/662/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

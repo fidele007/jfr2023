@@ -1,0 +1,196 @@
+{
+    "data": {
+        "event": {
+            "id": "b81805e8-88cc-450a-bd46-4be4209769bf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/573/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie des urgences",
+            "start": "2023-10-14T08:15+02:00",
+            "end": "2023-10-14T09:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "505c6353-b056-491f-a663-628a547a6442",
+                        "title": "Détection en scanner par intelligence artificielle des fractures vertébrales thoraciques, lombaires et sacrées",
+                        "start": "2023-10-14T08:15+02:00",
+                        "end": "2023-10-14T08:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9cadcab0-0d0b-44a7-a8d3-5fe5a8cf01c7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/573/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/573/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/573/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "27cbc4d8-d281-460a-b1c2-10983c48b98d",
+                        "title": "Deep learning-based rib fracture detection from CT using the stingray image reformation",
+                        "start": "2023-10-14T08:24+02:00",
+                        "end": "2023-10-14T08:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f913165e-db9f-40cf-b6f3-34d0744f84a9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/574/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/574/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/574/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5ca4db06-cd39-4a93-8801-59ae6290a657",
+                        "title": "Apport de l’IA en traumatologie pédiatrique",
+                        "start": "2023-10-14T08:33+02:00",
+                        "end": "2023-10-14T08:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fb7404e2-dcbe-452f-9508-632485c8f2ce",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/575/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/575/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/575/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "65c2386e-6641-4992-9825-87224d14c08a",
+                        "title": "Performance d'un logiciel d'IA pour la radiographie thoracique",
+                        "start": "2023-10-14T08:42+02:00",
+                        "end": "2023-10-14T08:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "99a4f257-3307-4a2a-af4a-1eb8ef79624a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/576/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/576/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/576/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "31fc79ae-242d-4f6a-abe3-ad1d0a0b2e9e",
+                        "title": "Luxation gléno-humérale antérieure: performance de la règle Fresno-Québec pour limiter le recours à la radiographie",
+                        "start": "2023-10-14T08:51+02:00",
+                        "end": "2023-10-14T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8d125f61-a186-4fd4-972e-b38a13eebca5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/577/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/577/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/577/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ae187911-047b-4c02-9f6b-30871fa9f2a2",
+                        "title": "L’Angioscanner basse dose dans le diagnostic de l’embolie pulmonaire sur un 16 barrettes avec FBP",
+                        "start": "2023-10-14T09:00+02:00",
+                        "end": "2023-10-14T09:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1aa699c3-9deb-4f55-bb63-64e89f585559",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/578/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/578/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/578/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

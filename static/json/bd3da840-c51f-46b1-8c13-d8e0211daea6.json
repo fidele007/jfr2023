@@ -1,0 +1,149 @@
+{
+    "data": {
+        "event": {
+            "id": "bd3da840-c51f-46b1-8c13-d8e0211daea6",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1688/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques en imagerie prénatale",
+            "start": "2023-10-15T10:15+02:00",
+            "end": "2023-10-15T11:30+02:00",
+            "objectives": [
+                "<p><strong>Objectifs pédagogiques</strong></p>",
+                "<p>Savoir reconnaitre des structures anatomiques normales en échographie obstétricale</p>",
+                "<p>Apprendre à raisonner devant une image inhabituelle, à l’intégrer dans un contexte clinique et à adapter l’examen échographique autour d’une recherche spécifique.</p>",
+                "<p>Préciser les indications d’examens complémentaires en imagerie fœtale (IRM et scanner) et apprendre leur intérêt dans les indications abordées .</p>",
+                "<p><strong>Texte de présentation </strong></p>",
+                "<p>A travers plusieurs cas cliniques, nous reprendrons les images normales d’échographie fœtale de dépistage et vous montrerons des images inhabituelles et pathologiques que nous vous apprendrons à identifier et à interpréter. Ensuite, afin d’intégrer les données échographiques dans un contexte clinique, nous vous montrerons quels éléments anatomiques plus spécifiques doivent être recherchés en échographie diagnostique.</p>",
+                "<p>Enfin, nous vous présenterons les techniques d’imagerie fœtales en coupes (scanner et ou IRM) complémentaires à l’échographie. Nous en préciserons l’apport et définirons les bonnes indications&nbsp; en fonction des situations cliniques rencontrées.</p>",
+                "<p>Cette démarche diagnostique d’imagerie sera intégrée dans un contexte plus large en intégrant des données génétiques, biologiques ou infectieuses qui font partie du diagnostic prénatal.</p>",
+                "<p>&nbsp;</p>",
+                "<p>Remise de la Médaille de la SFR : Lors de cette séance le Professeur Marie France Bellin remettra&nbsp;la Médaille d'Honneur de la SFR au Professeur Catherine Adamsbaum</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4fe1af90-a2a2-4305-b6e7-165d06f506ff",
+                        "title": "Remise de la Médaille d'Honneur de la SFR à Catherine Adamsbaum",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T10:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "217f6bb3-c50c-4ca5-bd2e-e0bc06e62d46",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1688/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1688/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1688/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ab1cbfcb-241b-4a4e-a21e-03b1bb5b94dd",
+                        "title": "Dossiers commentés en imagerie prénatale",
+                        "start": "2023-10-15T10:25+02:00",
+                        "end": "2023-10-15T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9c835765-308f-4c30-a392-4ee09e31e064",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/323/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/323/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/323/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f65d4593-1960-41b9-9f05-23e27cb5cfe0",
+                        "title": "Dossiers commentés en imagerie prénatale",
+                        "start": "2023-10-15T10:45+02:00",
+                        "end": "2023-10-15T11:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d88d0af0-2ec0-4457-aa3d-80fa06cab706",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1840/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1840/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1840/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "76265a89-5999-48f3-ae4a-4f03dc1f06b2",
+                        "title": "Dossiers commentés en imagerie prénatale",
+                        "start": "2023-10-15T11:05+02:00",
+                        "end": "2023-10-15T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d80d154c-22cb-46b8-af4c-61c712a15039",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1841/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1841/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1841/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

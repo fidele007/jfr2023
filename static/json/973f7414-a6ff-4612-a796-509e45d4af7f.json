@@ -1,0 +1,37 @@
+{
+    "data": {
+        "event": {
+            "id": "973f7414-a6ff-4612-a796-509e45d4af7f",
+            "picture": null,
+            "title": "Assemblée Générale de la SIAD",
+            "start": "2023-10-14T18:00+02:00",
+            "end": "2023-10-14T19:00+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "fe5b5fcc-5f69-4324-bd81-9a4e5e4a1e96",
+                        "title": "Assemblée Générale SIAD",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "f46d2d9f-17b1-4a04-ad10-6c6651b257b0",
+                        "title": "Assemblée Générale SIAD",
+                        "start": "2023-10-14T18:50+02:00",
+                        "end": "2023-10-14T19:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

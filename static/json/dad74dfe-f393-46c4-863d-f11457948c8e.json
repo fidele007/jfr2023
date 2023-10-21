@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "dad74dfe-f393-46c4-863d-f11457948c8e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1105/video/thumbs/poster.jpg",
+            "title": "Echographie musculosquelettique - Nerfs du membre supérieur",
+            "start": "2023-10-15T16:15+02:00",
+            "end": "2023-10-15T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a3546a70-558e-4122-aff2-e341be24904d",
+                        "title": "Nerfs du membre supérieur",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3e2eaed3-2e0c-4072-aba3-59ec39647efb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1105/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1105/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1105/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

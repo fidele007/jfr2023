@@ -1,0 +1,140 @@
+{
+    "data": {
+        "event": {
+            "id": "05a9dcd4-19df-4215-88d8-ecb8d2bfd037",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1700/video/thumbs/poster.jpg",
+            "title": "La DRIMbox ou l'accès à la radiologie à partir du DMP",
+            "start": "2023-10-14T17:30+02:00",
+            "end": "2023-10-14T18:30+02:00",
+            "objectives": [
+                "<p>Comprendre la place et l’intérêt de la DRIMbox ou l’accès à la radiologie à partir du DMP.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "19e4d2a4-1537-4961-9ed7-a8fe1c6c447d",
+                        "title": "Drimbox : la stratégie du ministère de la santé",
+                        "start": "2023-10-14T17:30+02:00",
+                        "end": "2023-10-14T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4d1fe712-7499-4724-ae8c-417b4cf0756f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1699/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1699/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1699/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9f14c927-c9d9-4ee7-b4fc-57477cc6ed16",
+                        "title": "Drimbox : la vision des radiologues de ville",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "84f6d0c5-642e-4b76-a027-0ce12a150327",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1700/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1700/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1700/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5898ecb5-f3db-4354-9c3e-d36fda29f69a",
+                        "title": "La vision des radiologues hospitaliers",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a49bd401-04af-49b9-bf73-9c63d6279079",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1701/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1701/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1701/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "969d153d-425e-41f4-a45a-8df24a36275f",
+                        "title": "Discussion générale :  La DRIMbox ou l'accès à la radiologie à partir du DMP",
+                        "start": "2023-10-14T18:15+02:00",
+                        "end": "2023-10-14T18:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9bcfe6f0-1171-41ec-9467-6d99c45e1cd6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1702/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1702/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1702/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "data": {
+        "event": {
+            "id": "1d453641-5dbd-4569-a126-41011a97b402",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1502/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en intelligence artificielle",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0b920f19-3228-4359-a75f-bb79a7f1f324",
+                        "title": "Hétérogénéité interlésionnelle intrapatient en radiomique : les lésions pulmonaires différentes de celles d'autres organes",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "05bd7a64-44c0-4cd2-ae22-132a7f831b04",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1502/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1502/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1502/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "331ed61f-3964-46c5-b8da-00b0c7019fa0",
+                        "title": "Approche quasi-automatisée de quantification de la nodularité de la surface hépatique dans la cirrhose",
+                        "start": "2023-10-16T14:09+02:00",
+                        "end": "2023-10-16T14:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "04a59314-aacc-41f2-ace4-b8e04cff9c87",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1503/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1503/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1503/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ec7939c6-69be-4d2a-ac48-243182fe7b8d",
+                        "title": "Apprendre à diagnostiquer la cirrhose à l'aide de méthodes de pré-entraînement faiblement et auto-supervisées",
+                        "start": "2023-10-16T14:18+02:00",
+                        "end": "2023-10-16T14:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "48a906ee-f6d3-40ea-b915-04227dac1fe7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1504/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1504/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1504/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "adda7dad-c405-4a6d-8970-087264e642cf",
+                        "title": "Analyse des erreurs dans les algorithmes de radiomique pour le diagnostic du sarcome utérin",
+                        "start": "2023-10-16T14:27+02:00",
+                        "end": "2023-10-16T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f04b6487-f1ce-41c6-896b-323c1e8305cb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1505/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1505/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1505/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bcc752dd-76cf-4891-bca1-0d1334e20c7c",
+                        "title": "Comment la variabilité inter-annotateur influence les performances d'un algorithme de deep-learning en IRM de prostate",
+                        "start": "2023-10-16T14:36+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3455cf18-dccf-4f5b-8bbc-c674d2c1eeb7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1506/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1506/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1506/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d120a829-5bfb-4957-8e1c-c684f38d3969",
+                        "title": "Impact of population size and validation method on the performance of radiomics models: application to",
+                        "start": "2023-10-16T14:45+02:00",
+                        "end": "2023-10-16T14:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2f6b82c1-60c1-48f9-ba5a-38d818fdbf49",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1507/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1507/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1507/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8b5a6e64-8c1d-492d-b10d-13addd059ee9",
+                        "title": "Volume de l'anévrisme aortique et mesures du diamètre maximal par segment: Automatisation complète par l'IA",
+                        "start": "2023-10-16T14:54+02:00",
+                        "end": "2023-10-16T15:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6ead7e7d-d371-4f7b-ab9d-a9b2e8ea41bc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1508/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1508/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1508/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b478d202-3e66-4574-ad47-8eaf5877815f",
+                        "title": "Évaluation de réseaux de neurones pour la segmentation du rehaussement tardif des myocardites aiguës",
+                        "start": "2023-10-16T15:03+02:00",
+                        "end": "2023-10-16T15:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8033f30a-b5a6-4e59-8b4d-2d5cc05f8dd9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1509/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1509/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1509/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

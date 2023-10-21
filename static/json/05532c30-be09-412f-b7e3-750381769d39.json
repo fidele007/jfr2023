@@ -1,0 +1,145 @@
+{
+    "data": {
+        "event": {
+            "id": "05532c30-be09-412f-b7e3-750381769d39",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/281/video/thumbs/poster.jpg",
+            "title": "Pathologie Inflammatoire des Glandes salivaires",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<p>Connaitre la radio-anatomie canalaire des glandes salivaires principales (Parotide/ Sous Maxillaire/Sublingual)&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre le principe de la Sialo IRM, hydro IRM appliquée aux canaux salivaires, et l'aspect normal</p>",
+                "<p>Connaitre la pathologie lithiasique&nbsp; des glandes salivaires et ses complications&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Savoir faire le dignostic et le bilan des&nbsp; sialodochites, non lithiasiques: sténose/mégacanaux salivaires/ compression extrinsèque.&nbsp;&nbsp;</p>",
+                "<p>Connaitre la présentation radiologique des principales sialdénites/sialadénoses: Infectieuses/Goujerôt Sjögren/Sarcoidose/Ig G4/Kimura&nbsp;</p>",
+                "<p>A la fin de la séance, vous serez en mesure de faire le diagnostic positif et différentiel des sialadénites/ sialodochites lithiasiques et non lithiasiques et&nbsp; le bilan des lithiases salivaires</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8c73b539-af60-412f-8e5d-be026ee9af5b",
+                        "title": "Radio anatomie des  Glandes Salivaires (Parotide/ Sous Maxillaires / Sublingual) et Sialo-IRM",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c67647d3-0c6a-4931-aa0b-3006515641d4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/281/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/281/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/281/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9e79d86b-0327-41d8-a743-e1d1baaea1ef",
+                        "title": "Sialodochite (obstruction canalaire) lithiasique et complications/ non lithiasique (Sténose; mégacanaux salivaires)",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6816da1a-87a3-4313-a27c-85fc69277c16",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1027/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1027/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1027/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5cdca842-5d0e-477e-96af-9fe11784ff0a",
+                        "title": "Sialadénite: Infectieuse/ Goujerôt-Sjöegren  /sarcoïdose /Ig G4/ Kimura",
+                        "start": "2023-10-14T18:15+02:00",
+                        "end": "2023-10-14T18:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a3105cb1-a7fb-42d0-b47b-3b3f2a71b7f5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/282/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/282/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/282/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "459da57d-cc2a-48cb-821d-fe130c4278a7",
+                        "title": "Discussion générale :  Discuter la place des diffèrentes techniques d'imagerie (indications/limites, place de la sialographie ?) dans la prise en charge de patients atteints de gonflements douloureux des glandes salivaires",
+                        "start": "2023-10-14T18:30+02:00",
+                        "end": "2023-10-14T18:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "05d8b791-3f28-4449-b242-488a5e57fe49",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/283/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/283/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/283/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

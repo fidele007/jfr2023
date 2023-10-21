@@ -1,0 +1,149 @@
+{
+    "data": {
+        "event": {
+            "id": "fea3f2f8-a27a-4a5b-a6d0-642b64509bf2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2136/video/thumbs/poster.jpg",
+            "title": "Imagerie Prostatique post thérapeutique",
+            "start": "2023-10-16T09:45+02:00",
+            "end": "2023-10-16T10:45+02:00",
+            "objectives": [
+                "<p>Connaitre les différents traitements des cancers de prostate</p>",
+                "<p>Connaitre la stratégie diagniostique , et les recommandations sur la place de l'imagerie en post thérapeutique&nbsp;</p>",
+                "<p>Connaitre les protocoles d'acquisition de l'imagerie post thérapeutique&nbsp; des cancers de prostate</p>",
+                "<p>Connaitre les critères de lecture et d'interprétation de l'imagerie post thérapeutique&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "af1fb670-bdce-4e2d-9ba0-9d1098eb928f",
+                        "title": "Introduction",
+                        "start": "2023-10-16T09:45+02:00",
+                        "end": "2023-10-16T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2bd840f1-96bc-4431-aaa7-37a67651067b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2136/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2136/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2136/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f4dba697-24f7-4a81-951b-ef636fbdbccf",
+                        "title": "MR Imaging before and after enbolization of prostatic arteries (EPA) in Benign Prostatic Hyperplasia:  What the Radiologist Needs to Know”",
+                        "start": "2023-10-16T09:45+02:00",
+                        "end": "2023-10-16T09:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "407eae0c-f7bb-49e4-92ce-7d12feb886bf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1065/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1065/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1065/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ca2dab52-a524-4e4a-ad9b-c14ca9524b50",
+                        "title": "Imagerie après traitement focale",
+                        "start": "2023-10-16T09:57+02:00",
+                        "end": "2023-10-16T10:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "36f21a2d-b514-4514-874f-ef5a3cdbb624",
+                        "title": "Imagerie après Prostatectomie Radicale",
+                        "start": "2023-10-16T10:09+02:00",
+                        "end": "2023-10-16T10:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "f0795fce-9365-4ba7-9645-c02e145e2a3d",
+                        "title": "Imagerie après Radiothérapie et Curiethérapie",
+                        "start": "2023-10-16T10:21+02:00",
+                        "end": "2023-10-16T10:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a42e7c5f-9ccf-4ace-b974-3bf1dcfabf26",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1068/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1068/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1068/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "06208c9b-a869-4970-bb8a-302ef5680fbe",
+                        "title": "Discussion générale : Imagerie Prostatique post thérapeutique",
+                        "start": "2023-10-16T10:33+02:00",
+                        "end": "2023-10-16T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

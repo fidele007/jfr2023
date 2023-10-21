@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "7c43922b-80c0-43b6-af19-97fd8a948852",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1101/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Comment je fais un écho-Doppler des vaisseaux supra-aortiques (initiation)",
+            "start": "2023-10-14T14:15+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0720c751-f5ba-42f0-9747-0614ad04dc3f",
+                        "title": "Comment je fais un écho-Doppler des vaisseaux supra-aortiques (initiation)",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "559cc5ff-d3a7-421b-88b0-9ff8144c72eb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1101/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1101/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1101/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "a2f058bb-06e4-4ed2-8f8c-cf6a768d4956",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1631/video/thumbs/poster.jpg",
+            "title": "Le ligament talo-fibulaire antérieur et le ligament calcanéo-fibulaire",
+            "start": "2023-10-14T10:45+02:00",
+            "end": "2023-10-14T10:50+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7221bec5-aaed-4985-b062-a1ba20479ef5",
+                        "title": "Le ligament talo-fibulaire antérieur et le ligament calcanéo-fibulaire",
+                        "start": "2023-10-14T10:45+02:00",
+                        "end": "2023-10-14T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a97eedd0-5e5c-4cda-b270-de059e5b6f13",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1631/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1631/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1631/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "2c820d68-300e-4bd4-a9ed-5af8fc3dcbde",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1070/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur la radiologie interventionnelle pédiatrique",
+            "start": "2023-10-14T11:50+02:00",
+            "end": "2023-10-14T12:50+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "59dd0b6a-5b9a-4654-b2f9-79f3d14c28e6",
+                        "title": "La voie biliaire",
+                        "start": "2023-10-14T11:50+02:00",
+                        "end": "2023-10-14T12:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1484de3e-31fc-4f1c-a121-8c2e08672c0f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1070/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1070/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1070/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "51b50e3d-e2ba-4412-853d-69fb147aa7a1",
+                        "title": "Vasculaire pédiatrique",
+                        "start": "2023-10-14T12:05+02:00",
+                        "end": "2023-10-14T12:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2f3f7d23-4d94-4cad-b4c0-ba57d00a8593",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1071/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1071/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1071/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1e0bfc9f-7552-41b0-bafd-ac721fe97142",
+                        "title": "Ablation et oncopédiatrie",
+                        "start": "2023-10-14T12:20+02:00",
+                        "end": "2023-10-14T12:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f8c0bc26-4bdc-499b-a402-f3bfb4572adf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1072/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1072/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1072/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b451f5ac-6210-47e5-8876-8e5e3c59e1df",
+                        "title": "Traitement radiologique des malformations vasculaires",
+                        "start": "2023-10-14T12:35+02:00",
+                        "end": "2023-10-14T12:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19610349-434f-42c8-b40f-c6be6f8f3d87",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1420/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1420/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1420/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

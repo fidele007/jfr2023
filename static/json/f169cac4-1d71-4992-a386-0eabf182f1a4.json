@@ -1,0 +1,37 @@
+{
+    "data": {
+        "event": {
+            "id": "f169cac4-1d71-4992-a386-0eabf182f1a4",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1752/video/thumbs/poster.jpg",
+            "title": "Session Test - Practice Stage",
+            "start": "2023-10-12T20:00+02:00",
+            "end": "2023-10-12T21:00+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5099d615-f4ea-475a-bb9f-f5ace0ddd77c",
+                        "title": "Presentation  Test - Practice Stage",
+                        "start": "2023-10-12T20:00+02:00",
+                        "end": "2023-10-12T20:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "f956b29f-12c6-4484-97d8-c6b0b6cf1011",
+                        "title": "Test Natalia",
+                        "start": "2023-10-12T20:10+02:00",
+                        "end": "2023-10-12T20:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "data": {
+        "event": {
+            "id": "33b6dfbb-582c-4e77-bfb5-0a109fc250ea",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/408/video/thumbs/poster.jpg",
+            "title": "Angiomammographie au quotidien",
+            "start": "2023-10-16T11:15+02:00",
+            "end": "2023-10-16T12:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de :</p>",
+                "<p>Comprendre la technique d'Angiomammographie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaître les indications de l'Angiomammographie en 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Savoir appliquer l'atlas Bi-rads dédié à l'Angiomammographie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Recommander et discuter l'Angiommographie ou l'IRM mammaire en fonction du contexte clinique&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "dfb082e0-4b4f-4811-b259-70023185c051",
+                        "title": "Technique et indications de l’angiomammographie (dont registre national et cotation)",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a0d964ff-34e5-4e6e-9261-6b8a890958d5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/406/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/406/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/406/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "380c233e-8339-45f2-a780-4fa630d9fdf8",
+                        "title": "Illustration de l’atlas Bi-rads Angiomammographie",
+                        "start": "2023-10-16T11:30+02:00",
+                        "end": "2023-10-16T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d6b6fb7f-02d3-4b12-8c10-ac13d806e66f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/407/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/407/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/407/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d8e1f825-2b11-47a6-b329-8de4aedfdd94",
+                        "title": "IRM mammaire  versus Angiomammographie",
+                        "start": "2023-10-16T11:45+02:00",
+                        "end": "2023-10-16T11:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5462d6bf-93c6-4c26-aadd-d0a47db62477",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/408/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/408/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/408/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "db97f602-8447-4922-b554-679f628772e0",
+                        "title": "Angiomammographie versus IRM mammaire : POUR L'ANGIOMAMMOGRAPHIE",
+                        "start": "2023-10-16T11:55+02:00",
+                        "end": "2023-10-16T12:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "991cf61c-9d27-4808-aff3-145815cd9f9d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/409/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/409/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/409/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5f730706-ff29-4778-b3bd-5849b3e771cf",
+                        "title": "Discussion générale :  Angiomammographie au quotidien",
+                        "start": "2023-10-16T12:05+02:00",
+                        "end": "2023-10-16T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "45de4cac-2e72-47ac-8897-db08c69cde2d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/410/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/410/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/410/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

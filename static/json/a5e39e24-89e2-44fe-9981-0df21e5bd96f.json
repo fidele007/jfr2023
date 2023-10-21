@@ -1,0 +1,153 @@
+{
+    "data": {
+        "event": {
+            "id": "a5e39e24-89e2-44fe-9981-0df21e5bd96f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/551/video/thumbs/poster.jpg",
+            "title": "Néoplasies Neuro Endocrines du diagnostic à la thérapeutique",
+            "start": "2023-10-16T10:45+02:00",
+            "end": "2023-10-16T11:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0f7681e9-8783-443f-8f0f-31cc5350780f",
+                        "title": "Aspects anatomo-pathologiques, classification OMS 2022 et principales nouveautés",
+                        "start": "2023-10-16T10:45+02:00",
+                        "end": "2023-10-16T10:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f478b6d0-1000-4a98-a77f-b8917bb43dff",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/551/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/551/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/551/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "47eff57d-c3fb-4ec3-9052-6563ff47e556",
+                        "title": "Imagerie TEP/TDM pour le diagnostic et la théranostique",
+                        "start": "2023-10-16T10:57+02:00",
+                        "end": "2023-10-16T11:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0aa8a8c2-c7f8-42ca-b331-a6052ae0311b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/552/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/552/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/552/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "777e0b3f-0659-47e4-8f10-546ee4043890",
+                        "title": "Imagerie pré-thérapeutique",
+                        "start": "2023-10-16T11:09+02:00",
+                        "end": "2023-10-16T11:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e22c68e4-4338-469b-addc-a68783b3066b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/553/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/553/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/553/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c46fa243-50bd-4dc8-8a86-d4b30f4be971",
+                        "title": "Imagerie Diagnostique",
+                        "start": "2023-10-16T11:21+02:00",
+                        "end": "2023-10-16T11:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "84b19ced-1853-4e3d-a549-354c3197a027",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/554/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/554/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/554/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3aae1530-5a10-4f30-9e92-d97d533ae00e",
+                        "title": "Discussion générale :  Néoplasies Neuro Endocrines du diagnostic à la thérapeutique",
+                        "start": "2023-10-16T11:33+02:00",
+                        "end": "2023-10-16T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

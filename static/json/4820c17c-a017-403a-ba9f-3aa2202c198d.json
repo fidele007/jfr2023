@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "4820c17c-a017-403a-ba9f-3aa2202c198d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1640/video/thumbs/poster.jpg",
+            "title": "La face postérieure de la hanche",
+            "start": "2023-10-14T15:05+02:00",
+            "end": "2023-10-14T15:10+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d23e542a-8649-4c4f-9a0d-0e250890c98d",
+                        "title": "La face postérieure de la hanche",
+                        "start": "2023-10-14T15:05+02:00",
+                        "end": "2023-10-14T15:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "886dfc63-64b2-4dd1-9645-878809203bbc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1640/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1640/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1640/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

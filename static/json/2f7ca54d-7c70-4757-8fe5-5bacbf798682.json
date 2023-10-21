@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "2f7ca54d-7c70-4757-8fe5-5bacbf798682",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2094/video/thumbs/poster.jpg",
+            "title": "Session 7 JURI : Guidage écho vs Rayons X",
+            "start": "2023-10-16T09:30+02:00",
+            "end": "2023-10-16T10:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "aff3538a-3094-4c8c-b82e-700232d4e929",
+                        "title": "Introduction",
+                        "start": "2023-10-16T09:30+02:00",
+                        "end": "2023-10-16T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f33c127b-5f64-4204-9b1e-f8767bef5898",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2094/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2094/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2094/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4104e538-8fcd-4f3e-91ec-1d0f79a4f5f6",
+                        "title": "Pour et contre",
+                        "start": "2023-10-16T09:30+02:00",
+                        "end": "2023-10-16T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bbff4a8f-b54d-48dc-b2c8-b60328469ee5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1746/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1746/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1746/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "data": {
+        "event": {
+            "id": "47e60571-c8c3-4b7d-b898-da69aa13483f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1390/video/thumbs/poster.jpg",
+            "title": "Echographie et grossesse : quels mots pour quelles annonces ?",
+            "start": "2023-10-13T11:00+02:00",
+            "end": "2023-10-13T12:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Les échographistes sont confrontés à des annonces qui peuvent s’avérer difficiles.<br>",
+                "ors de cette séance, nous parlerons de différentes situations complexes : malformation fœtales, grossesse arrêtée, grossesse inattendue de l’adolescente.<br>",
+                "A partir d’expériences vécues, nous donnerons des pistes pour aider les échographistes dans leur pratique.&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5045f04d-5530-4a50-b558-5743820842eb",
+                        "title": "Annonce d'une malformation fœtale à l'échographie",
+                        "start": "2023-10-13T11:00+02:00",
+                        "end": "2023-10-13T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2f79253f-50a5-413c-a143-a7e5ae765bd8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1390/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1390/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1390/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "50041a5f-c3f3-46e8-9f85-395681c76e68",
+                        "title": "Annonce d'une malformation fœtale à l'échographie",
+                        "start": "2023-10-13T11:10+02:00",
+                        "end": "2023-10-13T11:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b577a0b4-0793-47eb-a074-70e331e5a4d5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1391/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1391/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1391/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9788b2d5-3d6e-472c-8f80-80a18ebe5b3d",
+                        "title": "Annonce d'une grossesse arrétée",
+                        "start": "2023-10-13T11:20+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "912ecebf-f664-4931-a8aa-4090033468dd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1392/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1392/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1392/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1c6c6dd1-7c0a-459b-b1ef-2af4e47f0b6c",
+                        "title": "Annonce d'une grossesse innatendue, annonce de l'absence d'utérus chez l'adolescente",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "cf25ea60-8c53-4986-b934-1f3f2bf0bdd4",
+                        "title": "Discussion générale :  Grossesse et annonces  difficiles : les mots pour le dire",
+                        "start": "2023-10-13T11:40+02:00",
+                        "end": "2023-10-13T11:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

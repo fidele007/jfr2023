@@ -1,0 +1,182 @@
+{
+    "data": {
+        "event": {
+            "id": "8a9407d4-81b9-4f95-9981-2284f234db60",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1537/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques en imagerie de la femme",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1cad0e21-026c-4c69-a8c3-79ddc7c986af",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1dead07e-2577-4b0b-9262-e93d90e32140",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1537/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1537/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1537/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7e2aaa95-88cc-4708-89e7-8e568c4e3b78",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T15:40+02:00",
+                        "end": "2023-10-14T15:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a1fbe857-cdb4-4def-aefe-83b5624b3c66",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1807/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1807/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1807/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bb47397e-7894-4a60-a100-1c3cdc297aea",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T15:50+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "fcb2431b-7a06-4d7e-9e1c-b1abe1da4c21",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3afaa205-7910-49cf-ab87-f8b1812b47c8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1809/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1809/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1809/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "18c7655b-e129-4387-95ef-85f79592ac11",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T16:10+02:00",
+                        "end": "2023-10-14T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "82fbb532-dc4f-454a-94cc-3e45b63b6a81",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1810/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1810/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1810/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8b314f19-d2c6-4bc5-af7a-f68d5b5b3ae2",
+                        "title": "Dossiers commentés en imagerie de la femme",
+                        "start": "2023-10-14T16:20+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cedab8e9-ddbf-4cc9-8fd1-58a0e6f1e491",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1811/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1811/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1811/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

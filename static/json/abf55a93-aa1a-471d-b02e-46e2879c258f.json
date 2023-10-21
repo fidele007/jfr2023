@@ -1,0 +1,139 @@
+{
+    "data": {
+        "event": {
+            "id": "abf55a93-aa1a-471d-b02e-46e2879c258f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1726/video/thumbs/poster.jpg",
+            "title": "MITBO : La radiologie interventionnelle dans l'espace \"Saison 2\"",
+            "start": "2023-10-14T14:45+02:00",
+            "end": "2023-10-14T15:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "964b947a-c451-4231-8d02-21b28f271c24",
+                        "title": "Introduction",
+                        "start": "2023-10-14T14:45+02:00",
+                        "end": "2023-10-14T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "16947372-5186-42af-9a07-127afc965933",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1726/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1726/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1726/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a9da8c79-bfa9-4631-89c8-f2c99531f86c",
+                        "title": "Mission Artémis et au-delà",
+                        "start": "2023-10-14T14:48+02:00",
+                        "end": "2023-10-14T14:58+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "e517c6d8-b927-44ee-9bf6-dc58fa76cebf",
+                        "title": "Mission Asclépios III. Présentation et retour d'expérience en présence des astronautes analogues",
+                        "start": "2023-10-14T14:58+02:00",
+                        "end": "2023-10-14T15:28+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7bec7b2c-867d-4600-af86-4df782692fcd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1757/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1757/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1757/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bc4a4572-3eda-4980-a3ee-29c7408bb97c",
+                        "title": "Présentation du projet \"test MITBO\" en vol parabolique 2024",
+                        "start": "2023-10-14T15:28+02:00",
+                        "end": "2023-10-14T15:38+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "d2553379-afbe-4d06-b6e4-0fc881457f84",
+                        "title": "Conclusion Q&A",
+                        "start": "2023-10-14T15:38+02:00",
+                        "end": "2023-10-14T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8874c4de-c51e-4db6-927f-0e9a16532098",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1759/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1759/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1759/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

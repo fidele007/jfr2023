@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "ffc38de1-2699-4b22-b21a-53d56671d54e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1724/video/thumbs/poster.jpg",
+            "title": "Session 2 du JENI : Cas commentés de traitement endovasculaire d'anévrisme",
+            "start": "2023-10-14T10:55+02:00",
+            "end": "2023-10-14T11:25+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e1e8f4f0-a9eb-4d05-931e-451d574db10b",
+                        "title": "Cas commentés de stenting carotidien par voie radiale",
+                        "start": "2023-10-14T10:55+02:00",
+                        "end": "2023-10-14T11:07+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "666aa0fe-c564-49a4-bee0-c17f8de46d27",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2123/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2123/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2123/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9fae8843-6ab0-417b-8cc9-aba1d3f0b93a",
+                        "title": "Cas commentés de traitement endovasculaire d'anévrisme",
+                        "start": "2023-10-14T11:07+02:00",
+                        "end": "2023-10-14T11:19+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "58b1697e-8da0-41cb-b71c-b8a9cab4920c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1724/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1724/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1724/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

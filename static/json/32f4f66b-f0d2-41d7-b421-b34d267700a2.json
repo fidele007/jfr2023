@@ -1,0 +1,175 @@
+{
+    "data": {
+        "event": {
+            "id": "32f4f66b-f0d2-41d7-b421-b34d267700a2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/256/video/thumbs/poster.jpg",
+            "title": "Syndrome de congestion pelvienne : vers une prise en charge holistique",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [
+                "<p>- Comprendre les symptômes du syndrome de congestion pelvienne et les critères de diagnostic utilisés pour la confirmation.</p>",
+                "<p>- Connaître les différentes options de traitement disponibles pour le syndrome de congestion pelvienne, y compris les avantages et les inconvénients de chaque option.</p>",
+                "<p>- Savoir évaluer l'efficacité du traitement et choisir la meilleure option pour chaque patiente.</p>",
+                "<p>- Comprendre la nécessité de travailler en équipe pour prendre en charge les patientes atteintes de ce syndrome, ainsi que les différents professionnels de santé impliqués dans le traitement.</p>",
+                "<p>- Apprendre à utiliser les différents types de communication pour une prise en charge optimale et favoriser la coordination des soins entre les différents professionnels impliqués.</p>",
+                "<p>&nbsp;</p>",
+                "<p>Remise de la Médaille de la SFR : Lors de cette séance le Professeur Jean Paul Beregi remettra&nbsp;la Médaille d'Honneur de la SFR au Professeur Frédéric Thony</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b202fe2d-a003-4811-815e-3a67cc87213f",
+                        "title": "Remise de la Médaille d'Honneur de la SFR à Frédéric Thony",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a8dfae95-7006-482c-9df8-d68500902c33",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1689/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1689/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1689/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a1690704-602b-4bb6-83f5-38b3a02a8032",
+                        "title": "Diagnostic, de la clinique à l’imagerie",
+                        "start": "2023-10-14T15:40+02:00",
+                        "end": "2023-10-14T15:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e9a32eab-64a6-4faa-8c11-42c36281d393",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/255/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/255/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/255/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "954bed05-cd21-4d6a-bb3a-da0733fb592e",
+                        "title": "Prise en soin et évaluation de la réponse thérapeutique",
+                        "start": "2023-10-14T15:55+02:00",
+                        "end": "2023-10-14T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4625d532-a03c-475c-b651-60116732e7cf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/256/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/256/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/256/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "95d257e6-c1ec-4639-8de7-62ec8f88ca5b",
+                        "title": "Constitution de réseau de soin et communication : vers des recommandations HAS",
+                        "start": "2023-10-14T16:10+02:00",
+                        "end": "2023-10-14T16:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4529c81f-1322-49b7-84de-08eed4a015ab",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/257/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/257/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/257/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1453d14c-7ea3-4685-a6fe-d44c6c4fc602",
+                        "title": "Discussion générale :  Syndrome de congestion pelvienne : vers une prise en charge holistique",
+                        "start": "2023-10-14T16:25+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8e2e72e9-2d92-4f8a-ba79-02d0412b8192",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/258/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/258/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/258/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "data": {
+        "event": {
+            "id": "fdbee2ba-8142-4449-b65d-68ed193dcdea",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/408/video/thumbs/poster.jpg",
+            "title": "Séance Inaugurale des JFR 2023",
+            "start": "2023-10-13T17:30+02:00",
+            "end": "2023-10-13T19:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "5b4b06e0-a785-43f3-8be5-c6ab73fe7df4",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/408/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/408/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/408/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "86f9266c-d342-43e7-ba98-88ddb3fb564b",
+                        "title": "Introduction du Président des JFR 2023",
+                        "start": "2023-10-13T17:30+02:00",
+                        "end": "2023-10-13T17:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ca7299c9-8b78-4e64-b2ab-d141838bcd54",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1548/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1548/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1548/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a5dfc122-6d30-4879-9463-aa661219f865",
+                        "title": "Remise des médailles aux membres d'honneur internationaux et aux pays à l'honneur",
+                        "start": "2023-10-13T17:35+02:00",
+                        "end": "2023-10-13T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6bbcaead-9251-44f6-84b9-6ee964be9d1d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1549/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1549/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1549/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9953e611-51f2-46c0-bfef-45fcd2286c95",
+                        "title": "Performance de la compagnie Pockemon Crew",
+                        "start": "2023-10-13T18:15+02:00",
+                        "end": "2023-10-13T18:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "078e8312-31a1-4d9b-871d-7fa0df5404cc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1550/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1550/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1550/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8d050e52-5973-4b7b-b2cd-4972efae0028",
+                        "title": "Conclusion du Président des JFR 2023",
+                        "start": "2023-10-13T18:55+02:00",
+                        "end": "2023-10-13T19:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bb1c1e25-d5b8-4aaf-b235-394c7a8d5456",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1551/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1551/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1551/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

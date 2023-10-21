@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "7a9ee636-a426-4519-90df-c703471f4054",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/197/video/thumbs/poster.jpg",
+            "title": "Consolidations osseuses par vissage percutané : Comment débuter l’activité ?",
+            "start": "2023-10-14T09:15+02:00",
+            "end": "2023-10-14T10:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Connaitre les differences une osteosynthese chirurgicale, percutanée, unen fixation, une cimentoplastie armée</p>",
+                "<p>Connaitre le materiel necessaire pour réaliser un vissage percutané&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre les indications d'une fixation par vissage&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Avoir les bases suffisante pour debuter dans votre centre.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "132b6246-e951-434d-ac8e-34d2c0fd1102",
+                        "title": "Généralités : c’est quoi exactement une consolidation ? Une osteosynthese ?",
+                        "start": "2023-10-14T09:15+02:00",
+                        "end": "2023-10-14T09:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1a7e1b4d-0982-4c42-b998-1e858c003327",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/197/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/197/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/197/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f2b3dbe7-b23b-418a-b269-8d6e24369ca4",
+                        "title": "Comment et quand faire une osteosynthese ? Boite a outils et indications.",
+                        "start": "2023-10-14T09:27+02:00",
+                        "end": "2023-10-14T09:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b606d3f9-1d1b-4842-b457-da946e90cb3a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/198/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/198/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/198/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "02fdc2b5-e02c-4d66-85cc-0dcf19c265ce",
+                        "title": "Comment se jeter à l’eau et débuter en fixation percutané : l’expérience Clermontoise",
+                        "start": "2023-10-14T09:39+02:00",
+                        "end": "2023-10-14T09:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "09a4db2b-4dc4-4a93-8a2d-4a6bf3e1a3cf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/199/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/199/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/199/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6bc06c6f-d7be-4d40-8195-0d191e629e8b",
+                        "title": "Discussion générale; Consolidations osseuses par vissage percutané : Comment débuter l’activité ?",
+                        "start": "2023-10-14T09:51+02:00",
+                        "end": "2023-10-14T10:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19ebdd33-9ccf-4b46-aa28-b4700ec3fa65",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/200/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/200/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/200/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

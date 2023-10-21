@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "72536556-e9f0-4a72-949c-ce8035743f08",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/678/video/thumbs/poster.jpg",
+            "title": "Radiologie interventionnelle et ses avancées technologiques :  place du manipulateur",
+            "start": "2023-10-16T08:45+02:00",
+            "end": "2023-10-16T09:45+02:00",
+            "objectives": [
+                "<p>Identifier des outils d'optimisation des procédures<br>",
+                "Indiquer de nouvelles approches thérapeuthiques<br>",
+                "Estimer l'intérêt de la gestion d'une base de données</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d609d58e-27e4-49c3-b19f-c2cbb4834667",
+                        "title": "Introduction",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T08:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ebede1ad-dd1f-499f-8cf1-00e0cdfa0cc1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/678/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/678/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/678/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d766cf72-2767-4def-80d7-75a5dbef5dba",
+                        "title": "Comment protéger les organes à risque pendant les gestes de thermoablation ?",
+                        "start": "2023-10-16T08:47+02:00",
+                        "end": "2023-10-16T08:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3fbc0438-d6ae-4800-bb72-43004c6a9fb7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/679/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/679/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/679/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "568b06b5-26bd-451e-94e4-1ac1a68d8546",
+                        "title": "Embolisation ostéoarticulaire du membre supérieur à visée antagique",
+                        "start": "2023-10-16T08:57+02:00",
+                        "end": "2023-10-16T09:07+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6311bb1f-0133-40f4-a1ab-e9b32a308cd1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/680/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/680/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/680/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "972bd8b9-8485-4af7-88e7-a591b5adc823",
+                        "title": "Oncologie : la cimentoplastie des os périphériques",
+                        "start": "2023-10-16T09:07+02:00",
+                        "end": "2023-10-16T09:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3b498b44-0121-459e-9214-613cb7bb063a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/681/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/681/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/681/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ca993698-6f1e-402d-a5ae-c2e38c94e47b",
+                        "title": "Utilisation de l'hydrodissection en radiologie interventionnelle",
+                        "start": "2023-10-16T09:17+02:00",
+                        "end": "2023-10-16T09:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "17046728-7d83-4a1b-9dc0-455d7039947f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/682/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/682/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/682/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7be0f649-07d3-4deb-920c-dfd4f87a6311",
+                        "title": "Discussion générale",
+                        "start": "2023-10-16T09:27+02:00",
+                        "end": "2023-10-16T09:37+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "866a740d-b9c7-4277-8493-7268aa9a9f05",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/683/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/683/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/683/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e2344e9-1f39-42f3-8ecb-d2a5963d802f",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-16T09:37+02:00",
+                        "end": "2023-10-16T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "422c9da2-241d-45ac-9e62-a3894f2e6f37",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/684/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/684/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/684/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

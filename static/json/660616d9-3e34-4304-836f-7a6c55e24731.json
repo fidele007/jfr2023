@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "660616d9-3e34-4304-836f-7a6c55e24731",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2067/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité d'imagerie digestive - Coloscopie virtuelle",
+            "start": "2023-10-15T10:15+02:00",
+            "end": "2023-10-15T11:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e58ee4f8-30c8-4b4f-a531-4e426626a8bc",
+                        "title": "Introduction",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "eaa5f3b9-a4a4-4bc9-9d04-169bc1d14a43",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2067/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2067/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2067/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cbd94296-2e0f-4b80-9f1d-9540714bc551",
+                        "title": "Coloscopie virtuelle",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "af5fa808-a5ab-4af9-8445-94c66523f8aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/311/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/311/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/311/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

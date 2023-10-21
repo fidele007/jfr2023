@@ -1,0 +1,254 @@
+{
+    "data": {
+        "event": {
+            "id": "4ff7b65c-5a4e-4040-8c84-8be50ab5adfc",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1493/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en intelligence artificielle",
+            "start": "2023-10-14T17:15+02:00",
+            "end": "2023-10-14T18:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d1044373-724e-4a3f-8c92-ca8b7ffa4081",
+                        "title": "Détermination par deep learning de l'âge osseux selon Greulich et Pyle : une étude rétrospective",
+                        "start": "2023-10-14T17:15+02:00",
+                        "end": "2023-10-14T17:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7fc18bc4-ad04-43ff-b6e8-69cc430a7282",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1493/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1493/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1493/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3b2bbb63-9863-4e9e-9561-64cd1f8b2fd5",
+                        "title": "Validation of an AI system for automatic calculation of bone age in pediatric hand xrays:",
+                        "start": "2023-10-14T17:24+02:00",
+                        "end": "2023-10-14T17:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e738993b-b580-4dcc-85b4-075096611e53",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1494/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1494/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1494/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e5ee821c-76a4-48ca-9bc7-5ec2a6f675b6",
+                        "title": "Evaluation de la fiabilité d'une solution de deep learning pour les mesures de radiopodométrie",
+                        "start": "2023-10-14T17:33+02:00",
+                        "end": "2023-10-14T17:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fd9116f7-041b-4aca-bfb0-41400055b9e8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1495/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1495/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1495/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fad5bc64-4f79-40e3-9e38-eea54f66b5a2",
+                        "title": "Segmentation automatique des articulations des mains par réseau de neurones convolutif",
+                        "start": "2023-10-14T17:42+02:00",
+                        "end": "2023-10-14T17:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b206b6d7-1dce-479c-b9e9-c5e5e449b194",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1496/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1496/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1496/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "63d3ff81-e435-4f86-b820-f80e1b725d5e",
+                        "title": "Fiabilité de la mesure automatique de l'angle CSA par une solution d'intelligence artificielle",
+                        "start": "2023-10-14T17:51+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2929e1ea-75ec-4f9c-8719-fbb6fa8e83c7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1497/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1497/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1497/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a01feb24-de5a-4d78-a39b-ab55f437a44e",
+                        "title": "Automatisation par deep learning de l'évaluation combinée de l'équilibre spino-pelvien coronal et sagittal",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "11c89f40-858d-4189-8f10-6a56302cc606",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1498/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1498/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1498/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cd4f8648-bd81-48b2-a4c2-cb4777999229",
+                        "title": "Les méthodes de détection des images médicales hors-distribution au banc d’essai : un protocole d’évaluation",
+                        "start": "2023-10-14T18:09+02:00",
+                        "end": "2023-10-14T18:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e82f8cd9-4072-453b-b613-bdb215f13052",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1499/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1499/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1499/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "db416de6-bbd9-4442-b7f3-20687bdc4cc2",
+                        "title": "Développement d’algorithmes d’intelligence artificielle pour la construction automatique de cohorte d’imagerie",
+                        "start": "2023-10-14T18:18+02:00",
+                        "end": "2023-10-14T18:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b14acf53-63bc-436f-b497-1c2b13a8e070",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1500/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1500/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1500/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

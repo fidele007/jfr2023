@@ -1,0 +1,124 @@
+{
+    "data": {
+        "event": {
+            "id": "75145804-8305-485d-a6fb-cec83912f6f7",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1526/video/thumbs/poster.jpg",
+            "title": "Point d'avancement sur les travaux du Ségur numérique",
+            "start": "2023-10-13T16:30+02:00",
+            "end": "2023-10-13T17:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "73f4edef-569a-4322-8ea7-0a5d0587ee47",
+                        "title": "Actualités sur le déploiement du couloir radiologique du Ségur Numérique",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d6e1a069-99d3-4c2c-bf3a-60275a2b84a7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1525/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1525/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1525/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e5b6a9be-441b-46e2-bc6a-dd74d9c742c4",
+                        "title": "Premiers retours, difficultés et perspectives pour le déploiement de la vague 1 en libéral",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "583c2ef8-318c-41c8-9e08-0c67b7424735",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1526/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1526/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1526/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "67766b6d-f642-4235-8a5d-48b2a5e87985",
+                        "title": "Premiers retours, difficultés et perspectives pour le déploiement de la vague 1 en hospitalier",
+                        "start": "2023-10-13T17:00+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "96a3bbd5-d66f-4dde-baf8-2643d7d5309e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1527/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1527/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1527/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "00d95022-d6bd-4cc9-a687-d1a1fefd5f7a",
+                        "title": "Attente des cliniciens sur les échanges avec les radiologues : compte-rendu, images, demande connectée",
+                        "start": "2023-10-13T17:15+02:00",
+                        "end": "2023-10-13T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

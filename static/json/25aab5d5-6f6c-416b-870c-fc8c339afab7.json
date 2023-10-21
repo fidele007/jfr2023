@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "25aab5d5-6f6c-416b-870c-fc8c339afab7",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1659/video/thumbs/poster.jpg",
+            "title": "Les tendons extenseurs des doigts",
+            "start": "2023-10-15T15:15+02:00",
+            "end": "2023-10-15T15:45+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "cc434c2d-acfa-4109-a4e0-da86f51f96ed",
+                        "title": "Les tendons extenseurs des doigts",
+                        "start": "2023-10-15T15:15+02:00",
+                        "end": "2023-10-15T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

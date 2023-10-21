@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "3dd99ce9-b22b-44b8-b192-6e4757e10cd5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1876/video/thumbs/poster.jpg",
+            "title": "Amélioration du Diagnostic en oncologie via l’imagerie de perfusion et l’Intelligence Artificielle. Partie 2",
+            "start": "2023-10-15T12:20+02:00",
+            "end": "2023-10-15T12:35+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "93c504cb-788e-41e7-897b-6f7899caa97c",
+                        "title": "Amélioration du Diagnostic en oncologie via l’imagerie de perfusion et l’Intelligence Artificielle. Partie 2",
+                        "start": "2023-10-15T12:20+02:00",
+                        "end": "2023-10-15T12:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "data": {
+        "event": {
+            "id": "cc35f6f0-618c-43ed-a638-0a02a60c6727",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/438/video/thumbs/poster.jpg",
+            "title": "Organisation des urgences et impact sur la qualité de vie des radiologues",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<p>Connaitre les grands schémas organisationnels de permanence des soins.</p>",
+                "<p>Connaitre les alternatives et innovation francaises internationales : IA, délégation de taches, PIMM, téléradiologie publique ou privée.</p>",
+                "<p>Connaitre l'impact de la permanence des soins sur la qualité de vie au travail et les normes sécurité associées.</p>",
+                "<p>&nbsp;</p>",
+                "<p>&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a7d9f954-cf46-4c1d-a08a-e2bb5d1ceaf0",
+                        "title": "Présentations des résultats de l’étude pds G4– grands schémas organisationnels et cartographie française.",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "018cb42a-fbbc-432f-9a26-a17fe9480fcb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/438/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/438/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/438/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "230bb5ed-6dac-43b7-acac-d07aacc7d8d0",
+                        "title": "Schémas innovants en France et à l’étranger",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "21835d83-c857-4f61-98f7-63b08f2729d7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/439/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/439/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/439/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "641f3563-9a86-41c5-b9cc-e27bca752313",
+                        "title": "Qualité de vie au travail, sécurité des radiologues et des patients",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "dc837b0f-26b8-4684-89a0-553fd4448e81",
+                        "title": "Discussion générale :  Organisation des urgences et impact sur la qualité de vie des radiologues",
+                        "start": "2023-10-16T14:45+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1f391e2e-603d-43ae-9f8f-9981b4830001",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/441/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/441/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/441/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

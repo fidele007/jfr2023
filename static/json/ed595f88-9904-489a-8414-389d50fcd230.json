@@ -1,0 +1,63 @@
+{
+    "data": {
+        "event": {
+            "id": "ed595f88-9904-489a-8414-389d50fcd230",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1086/video/thumbs/poster.jpg",
+            "title": "Cours de DES - Pneumopathies interstitielles diffuses -  Partie 3",
+            "start": "2023-10-12T13:30+02:00",
+            "end": "2023-10-12T15:10+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Comprendre la formation des images élémentaires et leur association en patterns scanographiques</li>",
+                "\t<li>Connaitre les présentations TDM classiques des principales Pneumopathies Interstitielles Diffuses</li>",
+                "\t<li>Savoir intégrer les données clinico-biologiques aux images TDM afin de parvenir au diagnostic et proposer une conduite à tenir</li>",
+                "</ul>"
+            ],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5c380661-48fa-4ad8-b624-f2046be10bab",
+                        "title": "Pneumopathies d'hypersensibilité",
+                        "start": "2023-10-12T13:30+02:00",
+                        "end": "2023-10-12T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "d7d8b171-a1c3-44ae-b104-15728a897bd4",
+                        "title": "PID associées aux connectivites et vascularites",
+                        "start": "2023-10-12T14:00+02:00",
+                        "end": "2023-10-12T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "6f37f52c-42fc-45c7-96bf-0b2f5fa1a02f",
+                        "title": "Poumon du fumeur",
+                        "start": "2023-10-12T14:30+02:00",
+                        "end": "2023-10-12T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "ff15b121-9b50-492a-b154-be78bc558c06",
+                        "title": "Pneumopathies kystiques",
+                        "start": "2023-10-12T14:50+02:00",
+                        "end": "2023-10-12T15:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

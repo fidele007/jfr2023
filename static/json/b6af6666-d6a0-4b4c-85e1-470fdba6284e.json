@@ -1,0 +1,63 @@
+{
+    "data": {
+        "event": {
+            "id": "b6af6666-d6a0-4b4c-85e1-470fdba6284e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1090/video/thumbs/poster.jpg",
+            "title": "Cours de DES - Pneumopathies interstitielles diffuses -  Partie 4",
+            "start": "2023-10-12T15:30+02:00",
+            "end": "2023-10-12T17:10+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Comprendre la formation des images élémentaires et leur association en patterns scanographiques</li>",
+                "\t<li>Connaitre les présentations TDM classiques des principales Pneumopathies Interstitielles Diffuses</li>",
+                "\t<li>Savoir intégrer les données clinico-biologiques aux images TDM afin de parvenir au diagnostic et proposer une conduite à tenir</li>",
+                "</ul>"
+            ],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "41990122-e594-4ac2-ae97-41f310fe2a23",
+                        "title": "PID de l'immunodéprimé",
+                        "start": "2023-10-12T15:30+02:00",
+                        "end": "2023-10-12T15:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "92cf0e85-5cba-4ed3-833a-2f924cec1b43",
+                        "title": "Pneumonies médicamenteuses, PID rares",
+                        "start": "2023-10-12T15:55+02:00",
+                        "end": "2023-10-12T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "75f70162-fc51-4059-9f2d-2d10029831b7",
+                        "title": "Pièges diagnostiques dans les PID",
+                        "start": "2023-10-12T16:20+02:00",
+                        "end": "2023-10-12T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "2134a8e4-7ac2-43ec-8f34-f82352aba693",
+                        "title": "Post-test : résultats des cas cliniques",
+                        "start": "2023-10-12T16:45+02:00",
+                        "end": "2023-10-12T17:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

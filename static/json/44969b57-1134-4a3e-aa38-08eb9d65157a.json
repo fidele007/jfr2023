@@ -1,0 +1,95 @@
+{
+    "data": {
+        "event": {
+            "id": "44969b57-1134-4a3e-aa38-08eb9d65157a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2168/video/thumbs/poster.jpg",
+            "title": "Les débats du VRI : Intelligence artificielle et radiologie interventionnelle",
+            "start": "2023-10-16T10:25+02:00",
+            "end": "2023-10-16T10:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f15a1aca-7fc2-4b1d-b1b8-8ae3d691a081",
+                        "title": "Les débats du VRI : Intelligence artificielle et radiologie interventionnelle",
+                        "start": "2023-10-16T10:25+02:00",
+                        "end": "2023-10-16T10:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c30b6ab1-57e9-4570-bb89-4e9ac27e8798",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1747/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1747/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1747/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3d69a8a1-3bf6-4b56-a582-1e288d6c60a6",
+                        "title": "Les débats du VRI : Intelligence artificielle et radiologie interventionnelle",
+                        "start": "2023-10-16T10:55+02:00",
+                        "end": "2023-10-16T11:02+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "121246b8-3c21-49e7-b500-5c2c7c9a5208",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2168/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2168/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2168/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3a718723-c88a-4771-896c-4dcc92133e15",
+                        "title": "Les débats du VRI : Intelligence artificielle et radiologie interventionnelle",
+                        "start": "2023-10-16T11:02+02:00",
+                        "end": "2023-10-16T11:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

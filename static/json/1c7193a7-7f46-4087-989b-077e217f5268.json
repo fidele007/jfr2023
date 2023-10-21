@@ -1,0 +1,199 @@
+{
+    "data": {
+        "event": {
+            "id": "1c7193a7-7f46-4087-989b-077e217f5268",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/977/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie de la femme",
+            "start": "2023-10-13T16:30+02:00",
+            "end": "2023-10-13T17:30+02:00",
+            "objectives": [
+                "<p>Connaitre les actualités scientifiques en imagerie gynécologique</p>",
+                "<p>Connaitre les actualités scientifiques en imagerie sénologique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3fcc03ac-5eb6-4d03-9aed-a5d2906ed5e2",
+                        "title": "Caractéristiques IRM des tumeurs annexielles selon leur type histologique",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fc78c81d-9914-4599-b717-2fcb8fb398e0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/977/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/977/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/977/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dfa7565d-2613-497f-aea7-dd20fbf610ea",
+                        "title": "L’ADC de la portion tissulaire peut-il optimiser  la classification O-RADS MR des masses annexielles ?",
+                        "start": "2023-10-13T16:39+02:00",
+                        "end": "2023-10-13T16:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5a7c5042-18c4-48d1-adc0-8c3c55d298e9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/978/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/978/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/978/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "66886e07-24c0-460d-a2bf-86bac5ad95b1",
+                        "title": "Valeur prédictive négative de l’IRM pour exclure une atteinte ganglionnaire des cancers pelviens",
+                        "start": "2023-10-13T16:48+02:00",
+                        "end": "2023-10-13T16:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bee66670-31d6-42e0-8bc2-04dd32fdad00",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/979/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/979/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/979/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4af52001-3ac7-4166-8e15-8d669cfe893d",
+                        "title": "IRM préthérapeutique pour l'aide à la prédiction de la réponse pathologique complète des cancers mammaires",
+                        "start": "2023-10-13T16:57+02:00",
+                        "end": "2023-10-13T17:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b9d74343-0b37-4449-bc50-d1837a47c038",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/980/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/980/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/980/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "925e477f-73ce-41c9-9655-06cd1b6cad0c",
+                        "title": "Diagnostic value of Ultrafast DCE breast MRI in the screening setting of high-risk patients:Multireader Study",
+                        "start": "2023-10-13T17:06+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f9d24b4e-a40f-474a-b4ae-175046d95740",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/981/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/981/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/981/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "35e0827c-8b9d-4567-8843-ee2f2b68c2e2",
+                        "title": "Évaluation de la diffusion haute résolution à b2500 pour la détection du cancer du sein",
+                        "start": "2023-10-13T17:15+02:00",
+                        "end": "2023-10-13T17:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "61687a3c-94ef-40cf-b56b-be31a73dc547",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/982/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/982/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/982/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

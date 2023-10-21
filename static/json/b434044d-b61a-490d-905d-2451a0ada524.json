@@ -1,0 +1,256 @@
+{
+    "data": {
+        "event": {
+            "id": "b434044d-b61a-490d-905d-2451a0ada524",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1019/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en Management et qualité",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:15+02:00",
+            "objectives": [
+                "<p>Remise de la Médaille de la SFR : Lors de cette séance le Professeur Marie France Bellin &nbsp;remettra&nbsp;la Médaille d'Honneur de la SFR au Professeur Elisabeth Schouman Claeys</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "fcdd97bb-507f-444c-a5f0-8209b0125ac3",
+                        "title": "Remise de la Médaille d'Honneur de la SFR à Elisabeth Schouman Claeys",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f65f8bf6-3dd2-4aa6-a559-4087df225656",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1682/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1682/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1682/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a0fdc570-bd0d-470c-8b95-68b831b44e99",
+                        "title": "Renforcement de l’imagerie médicale dans la stratégie régionale de  Couverture Sanitaire Universelle en zone AFRO/OMS",
+                        "start": "2023-10-14T14:10+02:00",
+                        "end": "2023-10-14T14:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4a9344db-7ba2-4a3c-a028-ab55f8805812",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1018/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1018/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1018/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "62aad918-0c67-47a3-b7b6-f8b86c7ab0ec",
+                        "title": "Perceptions des médecins radiologues au cours de la pandémie COVID 19 en Afrique francophone",
+                        "start": "2023-10-14T14:18+02:00",
+                        "end": "2023-10-14T14:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0d732606-225f-40d2-b540-a461da6f1a7c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1019/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1019/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1019/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "699abe21-03a7-45f2-b223-d12beab15156",
+                        "title": "Evaluation du risque infectieux des gestes percutanés thérapeutiques scannoguidés réalisés hors-bloc : étude monocentrique",
+                        "start": "2023-10-14T14:26+02:00",
+                        "end": "2023-10-14T14:34+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6d295cdc-3ade-485b-901b-58e857306cc0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1020/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1020/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1020/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "283f0848-3e08-4511-a6a6-454847f84948",
+                        "title": "Intérêt des séquences rapides dans la prise en charge  Des demandes irm semi-urgentes",
+                        "start": "2023-10-14T14:34+02:00",
+                        "end": "2023-10-14T14:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f79796db-e18c-4fab-b72e-78474667806d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1021/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1021/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1021/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "835e521c-af48-4069-9d62-080ae4fdc778",
+                        "title": "A l'Est du Nouveau : le PIMM Neuf-Trois un exemple à suivre",
+                        "start": "2023-10-14T14:42+02:00",
+                        "end": "2023-10-14T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a609a489-1c00-4d64-bbdb-2de004622b6b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1022/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1022/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1022/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "402e44a2-2ab2-4cab-89b6-1718daf271e9",
+                        "title": "Contrôle de qualité quotidien en radiologie conventionnel",
+                        "start": "2023-10-14T14:50+02:00",
+                        "end": "2023-10-14T14:58+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8b9182a3-b242-42e8-abc8-3a9ea9bff981",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1023/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1023/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1023/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ed7e1557-9d60-4ffc-8999-4bb635bcd32e",
+                        "title": "L'information du patient en imagerie médicale",
+                        "start": "2023-10-14T14:58+02:00",
+                        "end": "2023-10-14T15:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6e0fc7b0-9fc2-487f-bf45-8ba46f11f833",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1024/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1024/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1024/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

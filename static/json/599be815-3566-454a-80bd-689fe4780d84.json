@@ -1,0 +1,114 @@
+{
+    "data": {
+        "event": {
+            "id": "599be815-3566-454a-80bd-689fe4780d84",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/988/video/thumbs/poster.jpg",
+            "title": "Audits par les pairs",
+            "start": "2023-10-13T09:15+02:00",
+            "end": "2023-10-13T10:15+02:00",
+            "objectives": [
+                "<p>Comprendre :</p>",
+                "<p>ce que sont les audits par les pairs.</p>",
+                "<p>Comment vont ils se mettre en place.</p>",
+                "<p>Quels vont etre les impacts pour les structures d imagerie.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "66e63c48-d81e-4497-9914-8b867422fd16",
+                        "title": "Historique des audits cliniques par les pairs : de la directive EURATOM 2013 59",
+                        "start": "2023-10-13T09:15+02:00",
+                        "end": "2023-10-13T09:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ec268fa5-ee7f-43aa-8600-afba13a62959",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/988/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/988/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/988/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ef74a94e-d8d2-45ff-963a-080d742c931a",
+                        "title": "Présentation du dispositif construit autour des professionnels et avec le CNP de radiologie 4.",
+                        "start": "2023-10-13T09:25+02:00",
+                        "end": "2023-10-13T09:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dbfccd3c-06bd-425b-866c-1dfec2c814f4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/990/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/990/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/990/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e9c54550-52a4-4171-a56f-5d26234c1bcd",
+                        "title": "Audits cliniques par les pairs : les enjeux et les attendus pour les centres",
+                        "start": "2023-10-13T09:40+02:00",
+                        "end": "2023-10-13T09:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "336526ec-09d6-4f0c-a960-5bc5de6851e6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/989/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/989/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/989/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

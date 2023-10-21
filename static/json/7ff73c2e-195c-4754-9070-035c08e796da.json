@@ -1,0 +1,66 @@
+{
+    "data": {
+        "event": {
+            "id": "7ff73c2e-195c-4754-9070-035c08e796da",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/245/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité d'imagerie digestive - Métastases hépatiques : diagnostic et pris en charge",
+            "start": "2023-10-14T14:15+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "dd809f14-5251-41b1-8ee9-7e1620d40243",
+                        "title": "Introduction",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "2f20799f-a9be-4c18-acc9-6d3be061facc",
+                        "title": "Métastases hépatiques : diagnostic et pris en charge",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9071f9fe-4cbf-461c-9c46-de0a094d3cd9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/245/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/245/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/245/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

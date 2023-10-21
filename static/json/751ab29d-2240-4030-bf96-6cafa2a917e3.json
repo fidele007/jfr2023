@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "751ab29d-2240-4030-bf96-6cafa2a917e3",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1636/video/thumbs/poster.jpg",
+            "title": "Exploration des artères des membres supérieurs",
+            "start": "2023-10-14T12:50+02:00",
+            "end": "2023-10-14T13:05+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "948b257e-df44-44aa-a77a-0ef6c86501d7",
+                        "title": "Exploration des artères des membres supérieurs",
+                        "start": "2023-10-14T12:50+02:00",
+                        "end": "2023-10-14T13:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "77d218c1-634f-4b43-97c8-a2ace9550bb3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1636/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1636/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1636/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

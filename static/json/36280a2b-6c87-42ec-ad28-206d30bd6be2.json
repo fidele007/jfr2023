@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "36280a2b-6c87-42ec-ad28-206d30bd6be2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1650/video/thumbs/poster.jpg",
+            "title": "Les ligaments du coude",
+            "start": "2023-10-15T10:55+02:00",
+            "end": "2023-10-15T11:25+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f0133031-ee58-47ae-b61a-8ec2708234bc",
+                        "title": "Les ligaments du coude",
+                        "start": "2023-10-15T10:55+02:00",
+                        "end": "2023-10-15T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "data": {
+        "event": {
+            "id": "7b2489ac-6629-4387-90a3-493040b2ba2f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/265/video/thumbs/poster.jpg",
+            "title": "Imagerie des voies aériennes : de la trachée aux bronchioles",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<p>Connaître les signes d’alerte cliniques orientant vers une pathologie des voies aériennes afin d’affiner la réalisation de l’exploration TDM</p>",
+                "<p>&nbsp;</p>",
+                "<p>Connaître les particularités techniques TDM adaptées à l’exploration des voies aériennes, incluant les acquisitions expiratoires et dynamiques</p>",
+                "<p>Connaître les techniques de reconstructions des acquisitions TDM adaptées à l’étude des voies aériennes : reformations fines, minIP, MIP</p>",
+                "<p>&nbsp;</p>",
+                "<p>Connaitre les principales anomalies affectant la trachée et les bronches principales</p>",
+                "<p>Connaitre les indications d’exploration par TDM des patients asthmatiques</p>",
+                "<p>Connaitre l’expression des différentes bronchiolites en TDM</p>",
+                "<p>connaitre l’expression des différentes bronchiolites en TDM</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "61acd1a0-fb07-4b82-8db8-6d891109dff3",
+                        "title": "Asthme sévère et scanner thoracique",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "da872b2f-0fa9-4232-89e0-05b23ca4c19b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/265/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/265/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/265/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f2385dcd-5ac4-4f8d-ad7d-bb5cfe4147ad",
+                        "title": "Imagerie des bronchiolites",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b4e5f7a2-8f5b-4dd6-9d3a-fd405c4e6bdf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/266/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/266/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/266/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ff0bee74-b3af-4223-b503-69b31a2d15e9",
+                        "title": "Imagerie des voies aériennes proximales",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c69812c2-ef0b-4e7d-9aec-5c43cd79ab85",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/267/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/267/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/267/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "67206892-6651-45d0-af6b-40a04aaace7f",
+                        "title": "Discussion générale :  Imagerie des voies aériennes : de la trachée aux bronchioles",
+                        "start": "2023-10-16T14:45+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "184a5f75-da8c-4aa0-bd58-ad128ef3df86",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/268/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/268/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/268/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

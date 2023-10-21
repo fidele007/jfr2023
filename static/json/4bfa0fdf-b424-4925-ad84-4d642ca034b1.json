@@ -1,0 +1,132 @@
+{
+    "data": {
+        "event": {
+            "id": "4bfa0fdf-b424-4925-ad84-4d642ca034b1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/379/video/thumbs/poster.jpg",
+            "title": "N’oubliez pas les muscles ! Trucs et astuces en IRM musculaire",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Evoquer une myopathie sur une imagerie rachidienne, pelvienne, articulaire voire de l’encéphale englobant le massif facial.</li>",
+                "\t<li>Quand et comment réaliser une exploration pour apporter des arguments en faveur d’ une myopathie</li>",
+                "\t<li>Proposer des hypothèses diagnostiques devant une ou des &nbsp;anomalie(s) musculaire(s) évocatrice(s) de myopathie</li>",
+                "\t<li>Connaitre la place de l’imagerie dans le diagnostic des myopathies</li>",
+                "\t<li>Connaitre la place de l’imagerie dans la prise en charge des myopathies</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8a613f08-a7aa-4ef2-b1a1-da3a3210cfb1",
+                        "title": "Quand évoquer une lésion neuromusculaire constitutionnelle ou acquise devant une ou des anomalie(s) musculaires ?",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5869b267-3368-4528-a984-7617390ba63a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/379/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/379/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/379/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0070d391-3fde-4ddf-bc5a-5625cce59e80",
+                        "title": "Myopathies : Les grands classiques et les indispensables",
+                        "start": "2023-10-15T14:15+02:00",
+                        "end": "2023-10-15T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d03836c1-7448-4138-b244-d42b1de73f07",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/380/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/380/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/380/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "52ebe09b-b550-44c3-8f34-a9d70f16afef",
+                        "title": "L’imagerie est indispensable pour le diagnostic et la prise en charge des myopathies",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b3c1bcc2-9493-403f-a584-90d92f63aed1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/381/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/381/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/381/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "217c52c2-3f75-4f9a-9c40-fdfb7d009e76",
+                        "title": "Discussion générale :  N’oubliez pas le muscles ! Trucs et astuces en IRM musculaire",
+                        "start": "2023-10-15T14:45+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

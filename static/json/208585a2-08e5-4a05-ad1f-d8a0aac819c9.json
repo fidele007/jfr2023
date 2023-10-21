@@ -1,0 +1,181 @@
+{
+    "data": {
+        "event": {
+            "id": "208585a2-08e5-4a05-ad1f-d8a0aac819c9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/511/video/thumbs/poster.jpg",
+            "title": "Communications scientifiques en Imagerie Pédiatrique et Prénatale",
+            "start": "2023-10-16T08:45+02:00",
+            "end": "2023-10-16T09:45+02:00",
+            "objectives": [
+                "<p>Séance de communications scientifiques en imagerie pédiatrique et fœtale</p>",
+                "<p>Présentations de séries de patients avec analyse descriptive des données d'imagerie et corrélation histologique et/ou pronostique</p>",
+                "<p>Evaluation de nouveaux outils d'aide au diagnostic (logiciel d'IA, segmentation)</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c3761d3b-8a61-4511-a2c0-869b7d303251",
+                        "title": "Atteintes biliaires diffuses chez les enfants drépanocytaires",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T08:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5e066a66-0144-42c0-aff0-2dc68acdae57",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/511/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/511/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/511/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3603fbf3-658b-4b42-9217-ddaacfa1f8e6",
+                        "title": "Recherche de critères échographiques prédictifs de non-viabilité dans les torsions testiculaires chez l’enfant",
+                        "start": "2023-10-16T08:54+02:00",
+                        "end": "2023-10-16T09:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c6c492b8-d2b4-470c-be52-5b8b26cf2586",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/512/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/512/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/512/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e369b9fd-e5b5-4928-a37d-39a0480e8480",
+                        "title": "Évaluation de l’IA dans la détection de fractures osseuses lors des suspicions de maltraitance",
+                        "start": "2023-10-16T09:03+02:00",
+                        "end": "2023-10-16T09:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "af097360-6f70-4a58-aba7-19cc301149bc",
+                        "title": "Apport de l’IRM cérébrale fœtale pour le diagnostic des agénésies septales isolées",
+                        "start": "2023-10-16T09:12+02:00",
+                        "end": "2023-10-16T09:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "15d9f581-a776-4e0e-99f9-d17626079d1d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/514/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/514/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/514/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a6e914f6-ec15-4eea-be2c-b3b0f9d6cac2",
+                        "title": "Caractéristiques en imagerie des adénomes hypophysaires de l’enfant",
+                        "start": "2023-10-16T09:21+02:00",
+                        "end": "2023-10-16T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "322283ed-5a23-4dbd-ad87-72dee7c99057",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/515/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/515/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/515/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bc0b945e-f861-4d82-a30a-0bba1623b3ca",
+                        "title": "Analyse automatique volumétrique et relaxométrique T1 du corps calleux des enfants avec retard neurodéveloppemental",
+                        "start": "2023-10-16T09:30+02:00",
+                        "end": "2023-10-16T09:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4eec133f-f90d-4875-9836-4ae933ca8e67",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/516/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/516/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/516/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

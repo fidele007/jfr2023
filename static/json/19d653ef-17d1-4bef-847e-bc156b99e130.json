@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "19d653ef-17d1-4bef-847e-bc156b99e130",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1862/video/thumbs/poster.jpg",
+            "title": "Super Démo - L'ablation percutanée assistée par le Robot EPIONE",
+            "start": "2023-10-15T13:25+02:00",
+            "end": "2023-10-15T13:40+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4ab9f385-ea8e-4e0a-934c-3bf3c3189770",
+                        "title": "L'ablation percutanée assistée par le Robot EPIONE",
+                        "start": "2023-10-15T13:25+02:00",
+                        "end": "2023-10-15T13:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "03062d4f-a792-49fe-9e3a-a2909132aab9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1862/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1862/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1862/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

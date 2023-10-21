@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "c8265f5c-c2fc-454e-bf11-21f522c3efaa",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/244/video/thumbs/poster.jpg",
+            "title": "Prise en charge des détresses vitales",
+            "start": "2023-10-14T14:15+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "91d31c03-1458-494d-bf84-558006f6e484",
+                        "title": "Prise en charge des détresses vitales",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "754eebcc-38c6-4a48-94d9-0d32b6777286",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/244/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/244/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/244/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

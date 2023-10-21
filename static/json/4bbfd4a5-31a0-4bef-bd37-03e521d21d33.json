@@ -1,0 +1,199 @@
+{
+    "data": {
+        "event": {
+            "id": "4bbfd4a5-31a0-4bef-bd37-03e521d21d33",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/593/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales -  Recherche en imagerie",
+            "start": "2023-10-15T17:00+02:00",
+            "end": "2023-10-15T18:00+02:00",
+            "objectives": [
+                "<p>Connaitre les dernières avancées en imagerie fonctionnelle</p>",
+                "<p>Connaitre la règlementation éthique et les outils du CERF en recherche clinique en imagerie</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c48e6e69-61ed-4314-a5f5-6303affcd74d",
+                        "title": "Imagerie à particules magnétiques : une nouvelle modalité d'imagerie moléculaire ultrasensible et non ionisante",
+                        "start": "2023-10-15T17:00+02:00",
+                        "end": "2023-10-15T17:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bca702c1-9f65-42d9-8775-f0de681c8d2e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/591/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/591/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/591/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e15fb25b-e32c-4661-84d1-d4905161d63e",
+                        "title": "Définition de la normalité du fer intracérébral par IRM/QSM pour le diagnostic des maladies neurodégénératives",
+                        "start": "2023-10-15T17:09+02:00",
+                        "end": "2023-10-15T17:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "72e5ab54-3352-460d-8143-8d45c717da58",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/593/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/593/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/593/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9f24c15a-bd39-40e3-a90e-b8ffddee3ef5",
+                        "title": "Sévérité de la Fibrose hépatique : performance diagnostique de la diffusion non-gaussienne dans l'hépatopathie stéatosique",
+                        "start": "2023-10-15T17:18+02:00",
+                        "end": "2023-10-15T17:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7e530932-9355-41ba-af90-f6e627d20cc7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/594/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/594/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/594/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ebb8ed37-245e-4157-8691-bfe0a4da5a7a",
+                        "title": "Les concentrations métaboliques cérébrales mesurées en SRM-1H évoluent-t-elles au cours de la journée ?",
+                        "start": "2023-10-15T17:27+02:00",
+                        "end": "2023-10-15T17:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "72bd8e00-841a-44b0-839a-cd98fc98b892",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/595/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/595/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/595/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3a264c2b-dba9-481b-8c97-6195b2550655",
+                        "title": "Analyse spectrale de l’atténuation des rayons X des lésions osseuses du rachis",
+                        "start": "2023-10-15T17:36+02:00",
+                        "end": "2023-10-15T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2255344e-bbda-4eb9-a0c2-255608d0f2e7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/596/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/596/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/596/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "74df7894-bebe-4e97-a4f0-403c11666795",
+                        "title": "Comité d’Ethique pour la Recherche en Imagerie Médicale (CERIM) : analyse des trois premières années",
+                        "start": "2023-10-15T17:45+02:00",
+                        "end": "2023-10-15T17:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6568bea8-94a2-4792-98d1-c60a35313f0e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/592/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/592/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/592/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

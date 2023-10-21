@@ -1,0 +1,66 @@
+{
+    "data": {
+        "event": {
+            "id": "8f3770a6-8c14-438b-9874-2d19f990ed15",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1109/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité d'imagerie digestive - Le péritoine: l'organe qui en dit beaucoup et qu'on écoute peu",
+            "start": "2023-10-16T14:15+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "94e72a4e-5c80-4ef9-a17d-232a6b0be494",
+                        "title": "Introduction",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "8e5e460a-3b97-4738-bf85-a4af928b20fa",
+                        "title": "Atelier multimodalité d'imagerie digestive - Le péritoine: l'organe qui en dit beaucoup et qu'on écoute peu",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5c533a58-faf7-4037-a08c-146e0d9c3876",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1109/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1109/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1109/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

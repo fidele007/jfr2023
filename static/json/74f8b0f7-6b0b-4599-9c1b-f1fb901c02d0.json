@@ -1,0 +1,202 @@
+{
+    "data": {
+        "event": {
+            "id": "74f8b0f7-6b0b-4599-9c1b-f1fb901c02d0",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/76/video/thumbs/poster.jpg",
+            "title": "Avis croisés urgentistes et radiologues en traumatologie",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:30+02:00",
+            "objectives": [
+                "<p>Connaitre la place des examens d'imagerie et leur pertinence dans les pathologies traumatiques suivantes : TC léger, Traumatisme sévère (grade B),Traumatisme instable (grade A)</p>",
+                "<p>Connaitre les algorithmes cliniques et biologiques de prise en charge de ces patholgies</p>",
+                "<p>TC non grave: fait on trop de scanner, applications des nouvelles recommandations, apport des marqueurs biologiques, place de l'IRM</p>",
+                "<p>Traumatisme grave: peut on diminuer le nombre de bodyscanners? Comment optimiser le tri? Comment optimiser l'examen? Risque dosimétrique à long terme?</p>",
+                "<p>Traumatisme instable: peut on faire mieux que le bilan au lit du patient, valeur de la FAST echo, peut on scanner même un patient instable?</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5c06129d-e8b6-4a7b-b783-b944908be12b",
+                        "title": "Traumatisme crânien non grave : avis de l'urgentiste",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f198d98-f2f1-4226-aef9-4102b8dbcd81",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/75/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/75/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/75/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6c31f49d-8739-47d3-b6d1-3ce85205d0f2",
+                        "title": "Traumatisme crânien non grave : avis du radiologue",
+                        "start": "2023-10-13T14:10+02:00",
+                        "end": "2023-10-13T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1859b3e8-ccc1-4c12-b119-af13e5cef1d4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/76/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/76/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/76/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e46ef0b-c48f-4b35-b866-8a85a43f5f9e",
+                        "title": "traumatisme grave : avis de l'urgentiste",
+                        "start": "2023-10-13T14:20+02:00",
+                        "end": "2023-10-13T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "89416273-8084-4d75-bc07-72f5ee42b47e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/77/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/77/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/77/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7a3b41ae-15a3-4cdb-a406-5a0739ffa2f1",
+                        "title": "Traumatisme grave : avis du radiologue",
+                        "start": "2023-10-13T14:30+02:00",
+                        "end": "2023-10-13T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57536b45-7447-4513-abd6-c457a4600594",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/78/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/78/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/78/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "65e03eb2-359d-436e-ac5c-8d96321aa865",
+                        "title": "Traumatisme instable: avis de l'urgentiste",
+                        "start": "2023-10-13T14:40+02:00",
+                        "end": "2023-10-13T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c7c09cb7-d8e1-4b03-a517-337390945cb0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/79/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/79/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/79/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b56361df-abe5-4433-ac78-824cf8cc3870",
+                        "title": "Traumatisme instable avis du radiologue",
+                        "start": "2023-10-13T14:50+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7c542105-2113-4a98-8aa1-c7da10773839",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/80/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/80/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/80/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

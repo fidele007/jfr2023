@@ -1,0 +1,134 @@
+{
+    "data": {
+        "event": {
+            "id": "2ff22091-fff4-4bd8-a9b0-69a698081162",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2072/video/thumbs/poster.jpg",
+            "title": "Le foie, centre de toutes les infections",
+            "start": "2023-10-16T08:30+02:00",
+            "end": "2023-10-16T09:30+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, le congressiste sera en mesure de :&nbsp;&nbsp;</p>",
+                "<p>Connaitre la sémiologie radiologique des différents types d'infections qui peuvent toucher le foie&nbsp;</p>",
+                "<p>Savoir évoquer une infection bactérienne, virale ou parasitaire hépatique&nbsp;&nbsp;</p>",
+                "<p>Connaitres les grandes lignes de la prise en charge des pathologies infectieuses hépatiques&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "08f32b96-3700-4e9d-8d9b-9cc34776adc3",
+                        "title": "Introduction",
+                        "start": "2023-10-16T08:30+02:00",
+                        "end": "2023-10-16T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b74a3002-0208-4cc6-89fa-58bf5e97d848",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2072/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2072/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2072/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d81dd209-3ba6-4cf5-887e-818c41927170",
+                        "title": "Le foie et les bactéries",
+                        "start": "2023-10-16T08:30+02:00",
+                        "end": "2023-10-16T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "0549927c-46d9-48a0-9177-9843a2d6a082",
+                        "title": "Le foie et les virus",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5f4d3ad8-8175-45bd-913c-d3887bd30fd2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/376/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/376/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/376/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "115b6a25-5fab-425c-82bb-16d2d8022225",
+                        "title": "Le foie et les parasites",
+                        "start": "2023-10-16T09:00+02:00",
+                        "end": "2023-10-16T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70e414d7-1e93-405c-ad11-9df61a7ad244",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/377/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/377/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/377/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dcf049fc-d07e-478b-a5d4-4b7ffbce0062",
+                        "title": "Discussion générale :  Le foie, centre de toutes les infections",
+                        "start": "2023-10-16T09:15+02:00",
+                        "end": "2023-10-16T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

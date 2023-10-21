@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "7cc0e326-8934-4cc3-a8ac-9c569c2ebed5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1656/video/thumbs/poster.jpg",
+            "title": "Micro biopsie mammaire :  trucs et astuces",
+            "start": "2023-10-15T13:10+02:00",
+            "end": "2023-10-15T13:40+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a3aebcba-1b00-44c2-adf2-51b62791567c",
+                        "title": "Micro biopsie mammaire :  trucs et astuces",
+                        "start": "2023-10-15T13:10+02:00",
+                        "end": "2023-10-15T13:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "data": {
+        "event": {
+            "id": "180ca6b5-8966-499b-ab0d-546abfd90948",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/969/video/thumbs/poster.jpg",
+            "title": "Comment se préparer aux injections mutlipatients de produits de contraste",
+            "start": "2023-10-15T11:00+02:00",
+            "end": "2023-10-15T12:00+02:00",
+            "objectives": [
+                "<p>• connaitre l'historique du multipatient en France et en Europe</p>",
+                "<p>• connaitre les procédures sécures pour injecter en multipatient</p>",
+                "<p>• connaitre les injecteurs multipatients</p>",
+                "<p>• connaitre les indications potentielles en scanner et IRM</p>",
+                "<p>• optimiser la dose injectée</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0d4a0031-44ef-48c8-9960-3cda95277d13",
+                        "title": "Conditions historiques et théoriques du Multipatient en France",
+                        "start": "2023-10-15T11:00+02:00",
+                        "end": "2023-10-15T11:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "00928c90-a612-40c5-87cc-8d85fb55c0aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/969/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/969/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/969/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "83da3bba-e2ae-461f-81c7-4b269b9e9c80",
+                        "title": "Les différents injecteurs multipatient",
+                        "start": "2023-10-15T11:12+02:00",
+                        "end": "2023-10-15T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e3090f7c-bd29-46e0-8762-e395ee53ce27",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/970/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/970/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/970/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "87c60f22-638b-4160-a74d-7b0869b86b98",
+                        "title": "Le multipatient en IRM",
+                        "start": "2023-10-15T11:24+02:00",
+                        "end": "2023-10-15T11:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c49dbfae-9a14-4a49-b33b-195a075873d8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/971/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/971/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/971/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7de47f7a-e2a2-4b59-bb19-9a79b3337e1d",
+                        "title": "Optimiser la dose d'iode injectée",
+                        "start": "2023-10-15T11:36+02:00",
+                        "end": "2023-10-15T11:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8bb7c8ee-fcee-4cc1-af3c-3ec2a2766567",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/972/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/972/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/972/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "733cfdb3-5d8d-4101-85cd-7a776cae7efe",
+                        "title": "Discussion générale :  Comment être prêt au 1er mars 2024 ?",
+                        "start": "2023-10-15T11:48+02:00",
+                        "end": "2023-10-15T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f8a067f6-aa58-4031-871a-90c9105633fe",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/973/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/973/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/973/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "data": {
+        "event": {
+            "id": "43455103-b1ab-4d0c-b2b8-d484bc6bd4bf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2059/video/thumbs/poster.jpg",
+            "title": "Imagerie des pathologies non tumorale des voies biliaires en 2023",
+            "start": "2023-10-14T11:15+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [
+                "<p>Connaître le protocole d’exploration en IRM d’une pathologie biliaire et les résultats attendus</p>",
+                "<p>Savoir diagnostiquer une Cholangite Sclérosante Primitive en l’absence de cause de cholangite sclérosante secondaire&nbsp;&nbsp;</p>",
+                "<p>Connaître les critères diagnostiques du LPAC (Low-Phospholipid-Associated Cholelithiasis)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "80bc9020-24e6-4ee8-9b21-08a0f8745630",
+                        "title": "Introduction",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8de85cd8-2f13-4b60-b2bf-1dca186f4038",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2059/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2059/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2059/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1b063fcf-6ecb-46c3-a73f-48ec04e5ac94",
+                        "title": "La Cholangio-IRM en pratique : séquences indispensables et points clés du compte-rendu",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1645789c-e14f-4dfb-9248-7bda7e6cfecf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/51/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/51/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/51/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b1a12651-f4a2-4830-b101-2c9c667107e8",
+                        "title": "La Cholangite slérosante primitive : diagnostic en imagerie, suivi et complications",
+                        "start": "2023-10-14T11:30+02:00",
+                        "end": "2023-10-14T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9596ee54-6c28-42a6-bc0d-c4a6f0a4ce01",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/52/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/52/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/52/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3ffe6edb-2538-4ac8-a1b8-e21ac68fe229",
+                        "title": "Le LPAC syndrome : diagnostic et place de la cholangio-IRM",
+                        "start": "2023-10-14T11:45+02:00",
+                        "end": "2023-10-14T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "70218092-b3f5-422d-ad02-ab81068f2de4",
+                        "title": "Discussion générale :  Imagerie des pathologies non tumorale des voies biliaires en 2023",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

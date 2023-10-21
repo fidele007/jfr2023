@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "5cfc9c5b-3396-4970-a732-ceb605fcefb1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1722/video/thumbs/poster.jpg",
+            "title": "Débat du VRI : La réforme de la Radiologie Interventionnelle Avancée",
+            "start": "2023-10-14T10:25+02:00",
+            "end": "2023-10-14T10:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "fe4663ce-ee52-4d48-bafb-25c2e8a4cc1c",
+                        "title": "Vers un nouveau métier ? - Discussion générale",
+                        "start": "2023-10-14T10:25+02:00",
+                        "end": "2023-10-14T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4f9e0484-f813-415f-a84c-7d816a36cc09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1722/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1722/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1722/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

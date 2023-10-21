@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "ef6bbf94-8717-4e4b-8765-1eb235da23a5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/86/video/thumbs/poster.jpg",
+            "title": "Réinventer l'imagerie du cancer avec l'IA : état de l'art et perspectives",
+            "start": "2023-10-13T11:15+02:00",
+            "end": "2023-10-13T12:15+02:00",
+            "objectives": [
+                "<p>Nous discutons état de l'art&nbsp; ,les défis ,&nbsp;opportunités et les perspectives de l'IA et du ML en imagerie du cancer&nbsp;</p>",
+                "<p>Comprendre&nbsp;le développement d'écosystème nécessaire pour promouvoir la croissance de l'IA et du ML dans l'imagerie du cancer.</p>",
+                "<p>Application de l'IA a 3 thématiques qui sont : le dépistage , l’évaluation thérapeutique et imagerie des biomarqueurs , et enfin l’IA en imagerie interventionnelle cancérologique&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e09a71ae-21c6-4a80-8702-a556e81d139c",
+                        "title": "Nouvelles preuves de la pertinence de l'IA pour le dépistage du cancer",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a3a99e34-98c0-4bce-b9c1-d2568f7e4aff",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/85/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/85/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/85/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0ec5de4e-26ad-42c5-944c-a6442a83afc1",
+                        "title": "Concepts émergents et évolutifs sur l'intelligence artificielle dans l’évaluation  du cancer",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0049c342-0efe-4719-8a8e-efcfed7dfb0d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/86/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/86/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/86/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "03ce49ba-ad77-45d1-bdb4-1617cf49314c",
+                        "title": "L'intelligence artificielle en radiologie  interventionnelle : Où en sommes-nous ?",
+                        "start": "2023-10-13T11:45+02:00",
+                        "end": "2023-10-13T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c2fc544c-9697-4087-b6d8-b70ee7060ebb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/87/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/87/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/87/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "396d63a5-ce69-43c4-b25f-e2b8f82eb0e7",
+                        "title": "Discussion générale : Réinventer l'imagerie du cancer avec l'IA : état de l'art et perspectives",
+                        "start": "2023-10-13T12:00+02:00",
+                        "end": "2023-10-13T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "12fd2675-35cd-4f9e-a138-ebf132440ffd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/88/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/88/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/88/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "data": {
+        "event": {
+            "id": "4957af6c-50ac-49e7-8cce-de0624e7dc7e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/492/video/thumbs/poster.jpg",
+            "title": "Hypertension pulmonaire : diagnostic et traitement en 2023",
+            "start": "2023-10-16T08:45+02:00",
+            "end": "2023-10-16T09:45+02:00",
+            "objectives": [
+                "<p>Connaître la définition et la classification de l'hypertension pulmonaire</p>",
+                "<p>&nbsp;</p>",
+                "<p>Savoir ce que le pneumologue attend du radiologue</p>",
+                "<p>Comprendre les rôles du scanner et de l'IRM dans l'hypertension pulmonaire</p>",
+                "<p>Connaître les possibilités de traitement endovasculaire dans l'hypertension pulmonaire</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "86658e66-fa71-4e21-8974-da2bd75d3273",
+                        "title": "Hypertension pulmonaire : les clés pour le radiologue",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T08:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "274f08f7-2162-4256-b3c6-b622c10ffc83",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/492/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/492/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/492/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2ada3e47-364b-414b-8c68-1f62ad36ff7b",
+                        "title": "Scanner dans l'hypertension pulmonaire",
+                        "start": "2023-10-16T08:57+02:00",
+                        "end": "2023-10-16T09:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "82ef1256-a51d-4103-a274-6c45cfad3bb3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/493/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/493/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/493/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a32c8d4f-9936-4f06-a6dc-7186bbe6ba5b",
+                        "title": "IRM dans l'hypertension pulmonaire",
+                        "start": "2023-10-16T09:09+02:00",
+                        "end": "2023-10-16T09:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "48a3f926-9d5e-4c75-b0c0-3d1b8c93bb04",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/494/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/494/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/494/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "93cb90d1-e514-4dc2-a21b-44a31ae41c75",
+                        "title": "Traitements endovasculaires dans l'hypertension pulmonaire",
+                        "start": "2023-10-16T09:21+02:00",
+                        "end": "2023-10-16T09:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "67c572ad-795d-4ce3-a1c8-2c2e2c944410",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/495/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/495/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/495/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2a0cf5c8-92c3-49c7-8ad7-3a047b17a0d7",
+                        "title": "Discussion générale :  Rôles de l'imagerie dans l'hypertension pulmonaire",
+                        "start": "2023-10-16T09:33+02:00",
+                        "end": "2023-10-16T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "949907b1-8008-42be-8630-0ea54505045e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/496/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/496/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/496/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

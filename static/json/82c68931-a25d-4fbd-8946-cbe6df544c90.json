@@ -1,0 +1,161 @@
+{
+    "data": {
+        "event": {
+            "id": "82c68931-a25d-4fbd-8946-cbe6df544c90",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2057/video/thumbs/poster.jpg",
+            "title": "Diagnostic intégré : au-delà des images",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Discuter la place des technologie d'intelligence artificielle en radiologie et anatomopathologie&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaître le rôle de la biologie moléculaire dans la prise en charge du CHC&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Comprendre le rôle croissant de l'intégration multisystème et multiéchelle dans la prise en charge des patients&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Discuter la notion de médecine personalisée</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a17f3963-a07c-4a27-ad6c-f6dcd0b5a79e",
+                        "title": "Introduction",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8122686e-e222-4d23-9a07-c87237aaaf02",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2057/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2057/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2057/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c36b07c5-455c-4fbc-b92a-2892885f5ceb",
+                        "title": "Le radiologue diagnostique augmenté",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "a013147a-0dee-4efb-8fbf-d08e838a2a96",
+                        "title": "L'anatomopathologiste augmentée",
+                        "start": "2023-10-13T16:25+02:00",
+                        "end": "2023-10-13T16:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "2acfd1cc-cc0f-48cc-b54f-c3cb1821a260",
+                        "title": "L'hépatologue biologiste moléculaire",
+                        "start": "2023-10-13T16:35+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "42490579-7905-4b28-8379-a6dad35a4dda",
+                        "title": "Le radiologue interventionnel augmenté",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "fef3932d-613c-4528-a1e4-37d411a3a4dd",
+                        "title": "Le chirurgien mini-invasif et robo-assisté",
+                        "start": "2023-10-13T16:55+02:00",
+                        "end": "2023-10-13T17:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "4752244e-31fd-483d-a0fb-9ea929cb7a0e",
+                        "title": "Discussion générale : Une RCP du CHC en 2035 : vers une discussion augmentée multi-échelle",
+                        "start": "2023-10-13T17:05+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "84ba20e2-d4a0-461c-ad7c-986c3d26e8c9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/148/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/148/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/148/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "3248583f-aecf-4239-8df5-9ec3770167cc",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/306/video/thumbs/poster.jpg",
+            "title": "Y'a-t'il (encore) de la place pour la radiographie osseuse aux urgences ?",
+            "start": "2023-10-15T09:45+02:00",
+            "end": "2023-10-15T10:45+02:00",
+            "objectives": [
+                "<p>Connaitre les performances de la radiographie standard et ses limites dans les traumatismes osseux périphériques aux urgences.</p>",
+                "<p>Connaître le retour d'expérience de l'APHM après 9 mois de&nbsp;déploiement d'un&nbsp;scanner pour&nbsp;la prise en charge en imagerie des traumatismes osseux périphériques.</p>",
+                "<p>Comprendre les différentes indications d'imagerie et les attentes des chirurgiens orthopédistes.</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7622939f-0f12-49d9-8d4c-1b87e137f137",
+                        "title": "Oui, la radiographie standard permet un triage efficace et rapide des patients avec des performances",
+                        "start": "2023-10-15T09:45+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "195f0d4e-56ee-4163-9218-012bb024c072",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/306/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/306/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/306/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d69b8321-edf2-4e24-a21e-69ae4984e304",
+                        "title": "Non, le scanner doit être la référence. Expérience de l'APHM.",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d61fa5f3-7c68-4ba5-a4e5-8af555acae5d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/307/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/307/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/307/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e6a76860-8f21-4e4b-8f86-b0d40fe20b49",
+                        "title": "Ça dépend : Justification des indications de scanner et IRM dans les traumatismes osseux périphériques.",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6600bddd-59b2-4520-8141-0c4092df6d1f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/308/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/308/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/308/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bab5bcee-6b35-4c1f-9548-3c9f61138922",
+                        "title": "Discussion générale :  Y'a-t'il (encore) de la place pour la radiographie osseuse aux urgences",
+                        "start": "2023-10-15T10:30+02:00",
+                        "end": "2023-10-15T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "855b76be-7d1a-4121-a627-56d8725843ff",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/309/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/309/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/309/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

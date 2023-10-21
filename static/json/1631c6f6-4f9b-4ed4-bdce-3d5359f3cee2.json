@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "1631c6f6-4f9b-4ed4-bdce-3d5359f3cee2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/319/video/thumbs/poster.jpg",
+            "title": "Prise en charge thérapeutique du nodule thyroïdien \"toxique\" en 2023 : radiofréquence, what else ?",
+            "start": "2023-10-15T11:00+02:00",
+            "end": "2023-10-15T12:00+02:00",
+            "objectives": [
+                "<p>Connaître la définition et les indications thérapeutiques pour les nodules thyroïdiens autonomes avec hyperthyroïdie</p>",
+                "<p>Connaître les indications thérapeutiques de l'iode 131, de la chirurgie et de la radiofréquence</p>",
+                "<p>Connaître les limites de ces trois techniques</p>",
+                "<p>Connaître les spécificités du traitement par radiofréquence de ces nodules</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e882acd3-5b1c-4ddd-9cd8-6d455a02e650",
+                        "title": "Indications et limites du traitement par iode 131",
+                        "start": "2023-10-15T11:00+02:00",
+                        "end": "2023-10-15T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cd9c96c5-6f29-4a30-a2de-70a11cdda460",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/319/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/319/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/319/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7536f624-3b84-48b0-9662-b3bd178b10ef",
+                        "title": "Indications et limites du traitement chirurgical",
+                        "start": "2023-10-15T11:15+02:00",
+                        "end": "2023-10-15T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b1772f8f-79fd-431d-b843-7d0ee10b2d3c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/320/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/320/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/320/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "542fd49d-4196-4a9a-855c-7dc4fc92b523",
+                        "title": "Indications, technique et limites de la radiofréquence",
+                        "start": "2023-10-15T11:30+02:00",
+                        "end": "2023-10-15T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fd852cf3-e238-4257-8e54-2e8b99035414",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/321/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/321/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/321/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e2f16029-0856-4ac6-996c-f57e647d0a24",
+                        "title": "Discussion générale :  Synthèse sur la prise en charge du nodule thyroïdien autonome avec hyperthyroïdie",
+                        "start": "2023-10-15T11:45+02:00",
+                        "end": "2023-10-15T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "76482776-6769-4ef9-9779-4ae46e1960c2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/322/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/322/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/322/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

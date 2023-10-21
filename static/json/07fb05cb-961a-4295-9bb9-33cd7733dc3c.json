@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "07fb05cb-961a-4295-9bb9-33cd7733dc3c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/362/video/thumbs/poster.jpg",
+            "title": "Densitométrie osseuse",
+            "start": "2023-10-15T16:15+02:00",
+            "end": "2023-10-15T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "33aafeec-e5d0-40dd-9614-002fde3eb142",
+                        "title": "Densitométrie osseuse et approche de l’architecture osseuse en pratique courante",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a0497163-b836-462a-a5a6-c8460d7d52f7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/362/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/362/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/362/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

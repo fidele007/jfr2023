@@ -1,0 +1,171 @@
+{
+    "data": {
+        "event": {
+            "id": "d5ba4cfe-1e79-4f82-9ce7-629c1b38fedb",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1591/video/thumbs/poster.jpg",
+            "title": "Ma console de travail me pourrit la vie, pourquoi en sommes-nous là, comment l’éviter ?",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<p>Savoir déterminer le périmètre&nbsp;réel&nbsp;d’un PACS aujourd’hui&nbsp;</p>",
+                "<p>Connaître les éléments constitutifs d'un PACS ayant un impact significatif sur la productivité, l'attractivité d'une structure et la QVT</p>",
+                "<p>Comment prévenir les difficultés de fonctionnement d'un PACS</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6859d798-4c36-4008-bb39-60140e2a7d82",
+                        "title": "Le point de vue du radiologue",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "90cb07b4-90d7-4f6e-9293-b92073d482a9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1591/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1591/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1591/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "45c6fd45-14d9-4b8a-8529-6d87576372f9",
+                        "title": "Le point de vue de l’assistance à maitrise d’ouvrage (AMO)",
+                        "start": "2023-10-15T14:12+02:00",
+                        "end": "2023-10-15T14:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7ed3546a-276c-4ffe-b1f6-40837d7862ac",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1592/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1592/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1592/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "810aa1bd-59b4-4a6e-9d08-21256f80b973",
+                        "title": "Le point de vue du responsable informatique",
+                        "start": "2023-10-15T14:24+02:00",
+                        "end": "2023-10-15T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70ddbda1-9141-4195-9a03-90da10f20b12",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1593/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1593/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1593/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "38a82b24-42b4-4693-b835-76e123e6a2d4",
+                        "title": "Le point de vue de l’industriel",
+                        "start": "2023-10-15T14:36+02:00",
+                        "end": "2023-10-15T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ea9ed19b-68f9-465c-8c4d-7c2c0993c5b0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1594/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1594/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1594/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "313e220d-b14e-403a-b96a-47ad5464ce54",
+                        "title": "Table ronde",
+                        "start": "2023-10-15T14:48+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5193154f-9c21-485a-8bbe-5fe006b65433",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1595/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1595/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1595/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

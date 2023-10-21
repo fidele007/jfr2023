@@ -1,0 +1,73 @@
+{
+    "data": {
+        "event": {
+            "id": "33744281-ce23-4625-a658-0b4f1cbd444e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1077/video/thumbs/poster.jpg",
+            "title": "Cours de DES - Pneumopathies interstitielles diffuses -  Partie 1",
+            "start": "2023-10-12T09:00+02:00",
+            "end": "2023-10-12T10:40+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Comprendre la formation des images élémentaires et leur association en patterns scanographiques</li>",
+                "\t<li>Connaitre les présentations TDM classiques des principales Pneumopathies Interstitielles Diffuses</li>",
+                "\t<li>Savoir intégrer les données clinico-biologiques aux images TDM afin de parvenir au diagnostic et proposer une conduite à tenir</li>",
+                "</ul>"
+            ],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7ec85bb6-a8d3-4e50-bea8-160d5fa2a907",
+                        "title": "Introduction",
+                        "start": "2023-10-12T09:00+02:00",
+                        "end": "2023-10-12T09:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "1ee61156-ed17-4e51-8e1d-244664974ae1",
+                        "title": "Pré-test :  10 cas cliniques",
+                        "start": "2023-10-12T09:10+02:00",
+                        "end": "2023-10-12T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "c06455be-af62-4ba1-9822-c2f46965b9b1",
+                        "title": "Comment raisonner devant une PID",
+                        "start": "2023-10-12T09:30+02:00",
+                        "end": "2023-10-12T09:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "0e58e364-da63-4ada-bdce-ae8fbba1b506",
+                        "title": "Acquisition et post traitements",
+                        "start": "2023-10-12T09:55+02:00",
+                        "end": "2023-10-12T10:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "47c38fbe-b6fb-467b-ac87-67b95f692fc8",
+                        "title": "Sémiologie, gammes étiologiques, patterns",
+                        "start": "2023-10-12T10:10+02:00",
+                        "end": "2023-10-12T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

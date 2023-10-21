@@ -1,0 +1,171 @@
+{
+    "data": {
+        "event": {
+            "id": "8b693f9a-3179-4db1-8fc5-271f69a85355",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2133/video/thumbs/poster.jpg",
+            "title": "IRM médullaire pédiatrique, de C1 à S5, de 0 à 936 SA",
+            "start": "2023-10-16T11:15+02:00",
+            "end": "2023-10-16T12:15+02:00",
+            "objectives": [
+                "<p>Diagnostiquer une myélite, connaître et distinguer les principales étiologies chez l'enfant</p>",
+                "<p>Savoir reconnaître et définir un dysraphisme</p>",
+                "<p>Connaître les grandes entités de tumeurs médullaires en pédiatrie</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ea784560-6f2d-474f-8087-1baf7bdbefe0",
+                        "title": "Introduction",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ed368b58-a990-4d85-a6bf-07e4c23943b2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2133/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2133/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2133/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4c9924e1-4c22-4ed4-9d5d-7797fcd9616e",
+                        "title": "Myélite Aiguë en cas cliniques : peut-on vraiment donner l'étiologie sur l'IRM ??",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4f86ad0b-62a0-4235-882f-f014c2b80762",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/415/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/415/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/415/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1a433b58-ebc6-4801-8364-49b9099f03a9",
+                        "title": "Dysraphismes en cas cliniques : vais-je enfin comprendre l'embryologie, la terminologie, et donc ces malformations-déconcertantes??",
+                        "start": "2023-10-16T11:33+02:00",
+                        "end": "2023-10-16T11:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d57cc1c8-ec48-4081-ab7b-2d3f828f269f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/416/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/416/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/416/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "70a3983d-b952-4356-a25c-34c8c608e578",
+                        "title": "Tumeurs Médullaires et péri-médullaires en cas cliniques : Vers l'astrocytome et au delà !",
+                        "start": "2023-10-16T11:51+02:00",
+                        "end": "2023-10-16T12:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6fceefd6-98cd-4135-be19-e3cd855766a2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/417/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/417/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/417/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cc48d563-6f06-4941-9d05-e0285e207df8",
+                        "title": "Discussion générale :  IRM médullaire pédiatrique, de C1 à S5, de 0 à 936 SA",
+                        "start": "2023-10-16T12:09+02:00",
+                        "end": "2023-10-16T12:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2fabd479-7071-4694-b266-5411e0ae425b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/418/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/418/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/418/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

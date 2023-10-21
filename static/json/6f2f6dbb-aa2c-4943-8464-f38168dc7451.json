@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "6f2f6dbb-aa2c-4943-8464-f38168dc7451",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1639/video/thumbs/poster.jpg",
+            "title": "La face postérieure de la hanche",
+            "start": "2023-10-14T15:15+02:00",
+            "end": "2023-10-14T15:45+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "82fd518d-1a62-428b-b4b8-d7f12e3b0a88",
+                        "title": "La face postérieure de la hanche",
+                        "start": "2023-10-14T15:15+02:00",
+                        "end": "2023-10-14T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "event": {
+            "id": "cc9c4a6d-124c-474a-a195-ae8c1089d917",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/358/video/thumbs/poster.jpg",
+            "title": "Imagerie du sein traité",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [
+                "<p>Savoir reconnaitre et prendre en charge les aspects post-thérapeutiques habituels, en fonction du temps, du post-opératoire immédiat au suivi à long terme.</p>",
+                "<p>Apprendre a reconnaitre des modes de présentation atypiques de récidives locales de cancer du sein.</p>",
+                "<p>Connaitre les aspects en imagerie des différents types de recontruction mammaire et les difficultés diagnostiques qui peuvent y être associées.</p>",
+                "<p>&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e37db952-7b19-418f-808c-124d5b50f39f",
+                        "title": "Récidives de cancer du sein : les pièges à connaitre",
+                        "start": "2023-10-15T15:45+02:00",
+                        "end": "2023-10-15T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "eb92cad2-82cf-4a87-8483-9be23f5a336d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/356/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/356/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/356/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

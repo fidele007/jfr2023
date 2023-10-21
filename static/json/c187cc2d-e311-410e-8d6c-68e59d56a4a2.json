@@ -1,0 +1,145 @@
+{
+    "data": {
+        "event": {
+            "id": "c187cc2d-e311-410e-8d6c-68e59d56a4a2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/351/video/thumbs/poster.jpg",
+            "title": "Imagerie des tumeurs bronchopulmonaires primitives et secondaires",
+            "start": "2023-10-15T09:30+02:00",
+            "end": "2023-10-15T10:30+02:00",
+            "objectives": [
+                "<p>Connaitre les différents aspects TDM des tumeurs primitives du poumon</p>",
+                "<p>Connaitre les différents aspects TDM des tumeurs bégnines</p>",
+                "<p>Connaître les différents aspects TDM des métastases pulmonaires&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre les éléments discriminants essentiels pour déterminer la probabilité de malignité devant une tumeur pulmonaire</p>",
+                "<p>Savoir éliminer l’origine maligne devant la découverte d’une tumeur&nbsp; pulmonaire</p>",
+                "<p>Savoir éviter les erreurs de surdiagnostic de métastase pulmonaire&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "553034b6-8d11-4bc8-bc20-a867a81640d6",
+                        "title": "Tout savoir sur les cancers bronchiques primitifs",
+                        "start": "2023-10-15T09:30+02:00",
+                        "end": "2023-10-15T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "12171d13-72b6-4a64-b3cc-096247cc59d3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/351/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/351/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/351/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4aec821-d7ea-4738-b2e1-1ebbc0964952",
+                        "title": "Tout savoir sur les tumeurs pulmonaires bénignes",
+                        "start": "2023-10-15T09:45+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9d30134b-8a9f-442c-a72b-41d1615e1ce8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/352/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/352/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/352/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d134a27e-1d46-407d-ad86-9a9008f177cd",
+                        "title": "Tout savoir sur les tumeurs pulmonaires secondaires",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "eb8fa8b0-e01b-4638-941b-808c4a677e2b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/353/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/353/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/353/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f83a11ac-bc0b-428f-8ec9-40ca108de042",
+                        "title": "Discussion générale : Imagerie des tumeurs bronchopulmonaires primitives et secondaires",
+                        "start": "2023-10-15T10:15+02:00",
+                        "end": "2023-10-15T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8931a522-d422-4545-a5e7-8aa61b755912",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/354/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/354/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/354/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

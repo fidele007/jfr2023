@@ -1,0 +1,90 @@
+{
+    "data": {
+        "event": {
+            "id": "24dd1e8c-e2b2-49e6-b52d-719adca3789e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1711/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur la veine porte",
+            "start": "2023-10-13T13:55+02:00",
+            "end": "2023-10-13T14:40+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0311b188-f368-4fbf-949e-6e3cc20dfeb6",
+                        "title": "TIPS",
+                        "start": "2023-10-13T13:55+02:00",
+                        "end": "2023-10-13T14:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19bc2b42-5d21-4b8c-abc5-6b6af3e8ed19",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1710/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1710/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1710/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "069c0959-15ce-4cf5-a565-e46c356430b3",
+                        "title": "Embo porte",
+                        "start": "2023-10-13T14:10+02:00",
+                        "end": "2023-10-13T14:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2c3ea1f3-2858-4f9f-b069-6e81c0278fa2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1711/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1711/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1711/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "21494a29-62c9-47c9-b48a-de0702ec2580",
+                        "title": "Reca veineuse",
+                        "start": "2023-10-13T14:25+02:00",
+                        "end": "2023-10-13T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "8aa48e3d-f912-4492-8724-bfe25616efbb",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1642/video/thumbs/poster.jpg",
+            "title": "JFR 365 Adénomes hépato-cellulaires :  où en sommes nous ?",
+            "start": "2023-10-15T08:15+02:00",
+            "end": "2023-10-15T09:15+02:00",
+            "objectives": [
+                "<p>- Connaître la dernière classification moléculaire des adénomes hépatocellulaires.</p>",
+                "<p>- Savoir caractériser en IRM les principaux sous-types.</p>",
+                "<p>- Connaître l’intérêt et les pièges de la phase hépatobiliaire.</p>",
+                "<p>- Connaître les principes de la prise en charge de ces lésions.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "68325825-cd41-43a1-9864-e62bb602401c",
+                        "title": "Introduction",
+                        "start": "2023-10-15T08:15+02:00",
+                        "end": "2023-10-15T08:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b20efa39-6403-4e95-8258-22ed2f25190e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2065/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2065/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2065/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "209205c1-5bf3-4276-bbdb-68b99b9311d5",
+                        "title": "Le point de vue de l’anatomopathologiste",
+                        "start": "2023-10-15T08:15+02:00",
+                        "end": "2023-10-15T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70d2fb21-2b81-41c1-9440-324b106398fd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1642/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1642/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1642/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8a4a2583-8ec7-4168-ae08-2eb120d7b64a",
+                        "title": "Le point de vue du radiologue",
+                        "start": "2023-10-15T08:30+02:00",
+                        "end": "2023-10-15T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7eaa545c-4f57-48d3-b8c3-ac0d52b58d04",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1643/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1643/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1643/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d5c036e8-0f5f-4c51-ba94-2e6b684a37c7",
+                        "title": "Le point de vue de l’hépatologue",
+                        "start": "2023-10-15T08:45+02:00",
+                        "end": "2023-10-15T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f21d111a-a96d-4524-b938-e40ece8d42d5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1641/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1641/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1641/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "037ca6a3-23d6-4420-b386-3655478c1cf7",
+                        "title": "Discussion générale : Adénomes hépato-cellulaires :  où en sommes nous ?",
+                        "start": "2023-10-15T09:00+02:00",
+                        "end": "2023-10-15T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "89cbb19f-3b1e-42c4-9d78-9e35635ada33",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1644/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1644/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1644/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "data": {
+        "event": {
+            "id": "60749f1f-ab64-4541-97e3-de7f13ad8762",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/431/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur la prise en charge des hémorragies digestives",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Connaitre les indications du traitement endovasculaire dans la prise en charge des hémorragies digestives.&nbsp;</li>",
+                "\t<li>Connaitre les modalités thérapeutiques endovasculaires des&nbsp;hémorragies digestives hautes, basses, et des hémorragies compliquant l’hypertension portale (HTP) chez le patient cirrhotique.</li>",
+                "\t<li>Connaitre les résultats et les complications potentielles en fonction des modalités thérapeutiques utilisées dans la prise en charge des hémorragies digestives.<br>",
+                "\t&nbsp;</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3bca4c63-0c07-49c2-92d6-7dd14c5d1a2d",
+                        "title": "Prise en charge des hémorragies digestives hautes par radiologie interventionnelle",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6a2e5fcb-61f0-4e28-b38b-221d93fbff29",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/431/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/431/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/431/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "68b307f9-f5c3-4af6-855c-a507683e31d0",
+                        "title": "Place de l’embolisation dans le traitement des hémorragies digestives basses",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "82f31df2-07b5-4fcb-afef-7d3ec86f5a65",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/432/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/432/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/432/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "65a93f73-5404-40c0-9e5b-63b61e8f032d",
+                        "title": "Traitement endovasculaire de l’hémorragie digestive chez le patient cirrhotique (en dehors des occlusions veineuses portes)",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e01cb437-916e-4280-aa2e-dd6629572162",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/433/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/433/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/433/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "13c7ac97-f848-40df-86bf-5f633621a8fb",
+                        "title": "Discussion générale :  Tout savoir sur la prise en charge des hémorragies digestives",
+                        "start": "2023-10-16T14:45+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
