@@ -2,7 +2,7 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import { browser } from '$app/environment';
-	import { friendlyDates } from '$lib/Constants.svelte';
+	import { friendlyDates, sanitizeFilename } from '$lib/Constants.svelte';
 
 	const searchParams = browser && $page.url.searchParams;
 	let sessionId: string | null;
@@ -38,8 +38,24 @@
 		currentVideoUrl = url;
 	};
 
+	const onDownload = (title: string, url: string) => {
+		const anchor = document.createElement("a");
+		anchor.href = url;
+
+		const urlSplit = url.split(".");
+		const fileExtension = "." + urlSplit[urlSplit.length - 1];
+		anchor.download = sanitizeFilename(title) + fileExtension;
+		// console.log("Downloaded file: " + anchor.download);
+
+		anchor.target = "_blank";
+
+		document.body.appendChild(anchor);
+		anchor.click();
+		document.body.removeChild(anchor);
+	}
+
 	onMount(async () => {
-		homeUrl = window.location.href.split("/session?")[0];
+		homeUrl = window.location.href.split('/session?')[0];
 
 		// await new Promise(r => setTimeout(r, 3000));
 
@@ -66,7 +82,7 @@
 				eventDetail.picture.split('/video/')[0] + '/video/y_1080p_4000kb.mp4';
 
 			const urlAlreadyIncluded = mediaList.some((item) => item.url === possibleVideoUrl);
-			if (!urlAlreadyIncluded) {
+			if (!urlAlreadyIncluded && fileExists(possibleVideoUrl)) {
 				mediaList.push({
 					title: '[Unlisted Video]',
 					url: possibleVideoUrl,
@@ -111,7 +127,9 @@
 			<div class="session-header">
 				<h1>{eventDetail.title}</h1>
 				<div class="date-time subtitle">
-					<div>🗓️ {friendlyDates[eventDetail.start.split('T')[0]] ?? eventDetail.start.split('T')[0]}</div>
+					<div>
+						🗓️ {friendlyDates[eventDetail.start.split('T')[0]] ?? eventDetail.start.split('T')[0]}
+					</div>
 					<div>
 						🕣 {eventDetail.start.split('T')[1].split('+')[0] +
 							' - ' +
@@ -148,7 +166,29 @@
 							</div>
 							<div class="video-details">
 								<div><strong>{item.title}</strong></div>
-								<div class="subtitle">{item.start}</div>
+								<div class="subtitle">
+									<span>{item.start}</span>
+									<button type="button" title="Télécharger" class="btn-download" on:click={() => onDownload(item.title, item.url)}>
+										<svg
+											width="16"
+											height="16"
+											viewBox="0 0 24 24"
+											fill="none"
+											class="svg-icon"
+											xmlns="http://www.w3.org/2000/svg"
+										>
+											<path
+												d="M11 5C11 4.44772 11.4477 4 12 4C12.5523 4 13 4.44772 13 5V12.1578L16.2428 8.91501L17.657 10.3292L12.0001 15.9861L6.34326 10.3292L7.75748 8.91501L11 12.1575V5Z"
+												fill="currentColor"
+											/>
+											<path
+												d="M4 14H6V18H18V14H20V18C20 19.1046 19.1046 20 18 20H6C4.89543 20 4 19.1046 4 18V14Z"
+												fill="currentColor"
+											/>
+										</svg>
+										<div>Télécharger</div>
+									</button>
+								</div>
 							</div>
 						</div>
 					{/each}
@@ -314,6 +354,20 @@
 		margin: 0;
 		max-width: 100%;
 		height: calc(100% - 30px);
+	}
+
+	.btn-download {
+		display: flex;
+		align-items: center;
+		border-radius: 5px;
+		border: none;
+		background-color: transparent;
+		height: 24px;
+
+		&:hover {
+			color: white;
+			background-color: #0077FF;
+		}
 	}
 
 	@media (max-width: 1000px) {

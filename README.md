@@ -14,5 +14,5 @@ This project aims to provide free media content for the [JFR 2023](https://www.j
 - [x] Video is cut off in some session detail page (e.g. https://fidele007.github.io/jfr2023/session?id=b43414db-bc2b-4642-817a-386cbb88b7e6)
 - [x] Search should be case-insensitive
 - [x] Style problem with playlist items on mobile (see image in Telegram). Debuggable with macOS's Safari.
-- [ ] Normalize search (https://stackoverflow.com/questions/5700636/using-javascript-to-perform-text-matches-with-without-accented-characters)
-- [ ] Add download button for each playlist item
+- [x] Normalize search (https://stackoverflow.com/questions/5700636/using-javascript-to-perform-text-matches-with-without-accented-characters)
+- [x] Add download button for each playlist item
