@@ -10,7 +10,7 @@
 	const searchSessions = (value: string) => {
 		const scopedSessions = sessionsByDate[selectedDate];
 		filteredSessions = value
-			? scopedSessions.filter((x: any) => x.title.includes(value))
+			? scopedSessions.filter((x: any) => x.title.toUpperCase().includes(value.toUpperCase()))
 			: scopedSessions;
 	};
 

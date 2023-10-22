@@ -81,6 +81,7 @@
 </svelte:head>
 
 <main>
+	<a href="./">〱 Retour</a>
 	{#if eventDetail}
 		<div class="detail">
 			<div class="date-time">
@@ -222,13 +223,14 @@
 	}
 
 	img {
-		height: auto;
+		height: 100%;
 		object-fit: contain;
 	}
 
 	video {
-		width: 100%;
-		height: auto;
+		margin: 0;
+		max-width: 100%;
+		height: calc(100% - 30px);
 	}
 
 	@media (max-width: 1000px) {
