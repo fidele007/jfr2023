@@ -2,26 +2,43 @@
 	import SessionCard from '$lib/SessionCard.svelte';
 	import { onMount } from 'svelte';
 
+	let loading = true;
 	let selectedDate: string = '';
 	let eventJson: any;
 	let sessionsByDate: any = {};
 	let filteredSessions: any;
 
-	const searchSessions = (value: string) => {
+	const debounce = (callback: Function, wait = 300) => {
+		let timeout: ReturnType<typeof setTimeout>;
+
+		return (...args: any[]) => {
+			clearTimeout(timeout);
+			timeout = setTimeout(() => callback(...args), wait);
+		};
+	};
+
+	const searchSessions = async (value: string) => {
+		filteredSessions = null;
+		loading = true;
+
+		await new Promise(r => setTimeout(r, 3000));
+
 		const scopedSessions = sessionsByDate[selectedDate];
 		filteredSessions = value
 			? scopedSessions.filter((x: any) => x.title.toUpperCase().includes(value.toUpperCase()))
 			: scopedSessions;
+
+		loading = false;
 	};
 
-	const onSearch = (event: Event) => {
+	const onSearch = async (event: Event) => {
 		const value = (event.target as HTMLInputElement).value;
-		searchSessions(value);
+		await searchSessions(value);
 	};
 
-	const onDateChange = (date: string) => {
+	const onDateChange = async (date: string) => {
 		selectedDate = date;
-		searchSessions((document.getElementById('search') as HTMLInputElement).value);
+		await searchSessions((document.getElementById('search') as HTMLInputElement).value);
 	};
 
 	onMount(async () => {
@@ -45,7 +62,7 @@
 			x.start.startsWith('2023-10-16')
 		);
 
-		searchSessions((document.getElementById('search') as HTMLInputElement).value);
+		await searchSessions((document.getElementById('search') as HTMLInputElement).value);
 	});
 </script>
 
@@ -59,7 +76,7 @@
 		<h1>JFR 2023</h1>
 	</div>
 	<div id="search-container">
-		<input id="search" type="text" placeholder="Search" on:input={onSearch} />
+		<input id="search" type="text" placeholder="Search" on:keyup={debounce(onSearch)} />
 	</div>
 
 	<ul id="menu">
@@ -112,8 +129,20 @@
 		</li>
 	</ul>
 
+	{#if loading}
+		<div id="loader">
+			<div class="ls-particles ls-part-1" />
+			<div class="ls-particles ls-part-2" />
+			<div class="ls-particles ls-part-3" />
+			<div class="ls-particles ls-part-4" />
+			<div class="ls-particles ls-part-5" />
+			<div class="lightsaber ls-left ls-green" />
+			<div class="lightsaber ls-right ls-red" />
+		</div>
+	{/if}
+
 	<div class="card-container">
-		{#if eventJson}
+		{#if filteredSessions}
 			{#each filteredSessions as item}
 				<SessionCard info={item} />
 			{/each}
