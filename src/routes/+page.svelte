@@ -17,6 +17,8 @@
 		};
 	};
 
+	const normalizeString = (str: string) => str.normalize('NFD').replace(/\p{Diacritic}/gu, '');
+
 	const searchSessions = async (value: string) => {
 		filteredSessions = null;
 		loading = true;
@@ -25,7 +27,7 @@
 
 		const scopedSessions = sessionsByDate[selectedDate];
 		filteredSessions = value
-			? scopedSessions.filter((x: any) => x.title.toUpperCase().includes(value.toUpperCase()))
+			? scopedSessions.filter((x: any) => normalizeString(x.title).toUpperCase().includes(normalizeString(value).toUpperCase()))
 			: scopedSessions;
 
 		loading = false;
