@@ -86,55 +86,46 @@
 		<input id="search" type="text" placeholder="Rechercher" on:input={onSearch} />
 	</div>
 
-	<ul id="menu">
-		<li>
-			<a
-				href="/"
-				class={selectedDate ? '' : 'selected'}
-				on:click|preventDefault={() => onDateChange('')}>Tout</a
-			>
-		</li>
-		|
-		<li>
-			<a
-				href="/"
-				class={selectedDate == '2023-10-12' ? 'selected' : ''}
-				on:click|preventDefault={() => onDateChange('2023-10-12')}>jeu. 12 oct.</a
-			>
-		</li>
-		|
-		<li>
-			<a
-				href="/"
-				class={selectedDate == '2023-10-13' ? 'selected' : ''}
-				on:click|preventDefault={() => onDateChange('2023-10-13')}>ven. 13 oct.</a
-			>
-		</li>
-		|
-		<li>
-			<a
-				href="/"
-				class={selectedDate == '2023-10-14' ? 'selected' : ''}
-				on:click|preventDefault={() => onDateChange('2023-10-14')}>sam. 14 oct.</a
-			>
-		</li>
-		|
-		<li>
-			<a
-				href="/"
-				class={selectedDate == '2023-10-15' ? 'selected' : ''}
-				on:click|preventDefault={() => onDateChange('2023-10-15')}>dim. 15 oct.</a
-			>
-		</li>
-		|
-		<li>
-			<a
-				href="/"
-				class={selectedDate == '2023-10-16' ? 'selected' : ''}
-				on:click|preventDefault={() => onDateChange('2023-10-16')}>lun. 16 oct.</a
-			>
-		</li>
-	</ul>
+	<nav class="navbar">
+		<ul class="menu">
+			<li class={selectedDate ? '' : 'selected'}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('')}>Tout</a
+				>
+			</li>
+			<li class={selectedDate == '2023-10-12' ? 'selected' : ''}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('2023-10-12')}>jeu. 12 oct.</a
+				>
+			</li>
+			<li class={selectedDate == '2023-10-13' ? 'selected' : ''}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('2023-10-13')}>ven. 13 oct.</a
+				>
+			</li>
+			<li class={selectedDate == '2023-10-14' ? 'selected' : ''}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('2023-10-14')}>sam. 14 oct.</a
+				>
+			</li>
+			<li class={selectedDate == '2023-10-15' ? 'selected' : ''}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('2023-10-15')}>dim. 15 oct.</a
+				>
+			</li>
+			<li class={selectedDate == '2023-10-16' ? 'selected' : ''}>
+				<a
+					href="/"
+					on:click|preventDefault={() => onDateChange('2023-10-16')}>lun. 16 oct.</a
+				>
+			</li>
+		</ul>
+	</nav>
 
 	{#if loading}
 		<div id="loader">
@@ -180,24 +171,60 @@
 	}
 
 	#search-container {
-		margin-bottom: 1em;
+		display: flex;
+		justify-content: center;
 		border-radius: 5px;
 	}
 
 	#search-container input {
 		height: 24px;
 		padding: 6px 12px;
-		line-height: 1.5;
 		font-size: 16px;
 		min-width: 300px;
 	}
 
-	ul#menu li {
-		display: inline;
+	.navbar {
+		background-color: #2849ea;
+		color: #ffffff;
+		border-radius: 5px;
+		max-width: 820px;
+		margin: auto;
 	}
 
-	a.selected {
-		text-decoration: underline;
+	.navbar .menu {
+		display: flex;
+		padding: 0;
+	}
+
+	.navbar .menu li {
+		flex: 1;
+		display: flex;
+		text-align: center;
+		align-items: center;
+		transition: background-color 0.5s ease;
+	}
+
+	.navbar .menu li:first-child {
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	.navbar .menu li:last-child {
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+	.navbar .menu a {
+		flex: 1;
+		justify-content: center;
+		display: inline-flex;
+		color: #ffffff;
+		text-decoration: none;
+		padding: 15px;
+		position: relative;
+	}
+
+	.navbar .menu li:hover, .navbar .menu li.selected {
+		background-color: #f94b65;
 	}
 
 	.card-container {
@@ -209,6 +236,21 @@
 	@media (max-width: 1000px) {
 		main {
 			max-width: 100%;
+			padding: 1rem;
+		}
+	}
+
+	@media (max-width: 500px) {
+		.navbar {
+			font-size: 90%;
+		}
+
+		.navbar .menu a {
+			padding: 4px;
+		}
+
+		#search-container input {
+			width: 100%;
 		}
 	}
 </style>
