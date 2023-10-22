@@ -36,7 +36,7 @@
 	};
 
 	onMount(async () => {
-		const response = await fetch(`/json/${sessionId}.json`);
+		const response = await fetch(`./json/${sessionId}.json`);
 		sessionDetail = await response.json();
 		eventDetail = sessionDetail.data.event;
 
