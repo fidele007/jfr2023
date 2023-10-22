@@ -1,6 +1,6 @@
 # Static JFR 2023
 
-This project aims to provide free media content for the [JFR 2023](https://jfr2023.org) conference, available for everyone.
+This project aims to provide free media content for the [JFR 2023](https://www.jfr.plus/jfr-2023/programme) conference, available for everyone.
 
 # TODO
 
