@@ -10,6 +10,8 @@
 	let sessionsByDate: any = {};
 	let filteredSessions: any;
 
+	const logoUrl = `${base}/jfr_2023.png`;
+
 	const debounce = (callback: Function, wait = 300) => {
 		let timeout: ReturnType<typeof setTimeout>;
 
@@ -76,7 +78,7 @@
 
 <main>
 	<div>
-		<img src="{base}/jfr_2023.png" class="logo" alt="JFR Logo" />
+		<img src={logoUrl} class="logo" alt="JFR Logo" />
 		<h1>JFR 2023</h1>
 	</div>
 	<div id="search-container">
