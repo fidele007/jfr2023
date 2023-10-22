@@ -16,3 +16,4 @@ This project aims to provide free media content for the [JFR 2023](https://www.j
 - [x] Style problem with playlist items on mobile (see image in Telegram). Debuggable with macOS's Safari.
 - [x] Normalize search (https://stackoverflow.com/questions/5700636/using-javascript-to-perform-text-matches-with-without-accented-characters)
 - [x] Add download button for each playlist item
+- [x] Better wrap date-time div on mobile screen (one line each)
