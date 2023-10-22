@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
-	import {browser} from "$app/environment";
+	import { browser } from '$app/environment';
 
 	const searchParams = browser && $page.url.searchParams;
 	let sessionId: string | null;
@@ -9,6 +9,7 @@
 		sessionId = searchParams.get('id');
 	}
 
+	let homeUrl: string;
 	let sessionDetail: any;
 	let eventDetail: any;
 	let currentVideoTitle: string;
@@ -36,6 +37,8 @@
 	};
 
 	onMount(async () => {
+		homeUrl = window.location.href.split("/session?")[0];
+
 		const response = await fetch(`./json/${sessionId}.json`);
 		sessionDetail = await response.json();
 		eventDetail = sessionDetail.data.event;
@@ -81,18 +84,23 @@
 </svelte:head>
 
 <main>
-	<a href="./">〱 Retour</a>
+	<a href={homeUrl} class="one-liner">
+		<i class="gg-chevron-left" /> Retour
+	</a>
+
 	{#if eventDetail}
 		<div class="detail">
-			<div class="date-time">
-				<div>🗓️ {eventDetail.start.split('T')[0]}</div>
-				<div>
-					🕣 {eventDetail.start.split('T')[1].split('+')[0] +
-						' - ' +
-						eventDetail.end.split('T')[1].split('+')[0]}
+			<div class="session-header">
+				<h1>{eventDetail.title}</h1>
+				<div class="date-time subtitle">
+					<div>🗓️ {eventDetail.start.split('T')[0]}</div>
+					<div>
+						🕣 {eventDetail.start.split('T')[1].split('+')[0] +
+							' - ' +
+							eventDetail.end.split('T')[1].split('+')[0]}
+					</div>
 				</div>
 			</div>
-			<h1>{eventDetail.title}</h1>
 			<div class="objectives">
 				<strong>Objectifs :</strong>
 				<div>
@@ -119,8 +127,8 @@
 							<img class="thumbnail" src={item.thumbnail} alt={item.title} />
 						</div>
 						<div class="video-details">
-							<div><strong>{item.start}</strong></div>
-							<div>{item.title}</div>
+							<div><strong>{item.title}</strong></div>
+							<div class="subtitle">{item.start}</div>
 						</div>
 					</div>
 				{/each}
@@ -134,6 +142,39 @@
 		box-sizing: border-box;
 	}
 
+	.one-liner {
+		display: flex;
+		align-items: center;
+	}
+
+	.gg-chevron-left {
+		box-sizing: border-box;
+		position: relative;
+		display: block;
+		transform: scale(var(--ggs, 1));
+		width: 22px;
+		height: 22px;
+		border: 2px solid transparent;
+		border-radius: 100px;
+	}
+	.gg-chevron-left::after {
+		content: '';
+		display: block;
+		box-sizing: border-box;
+		position: absolute;
+		width: 10px;
+		height: 10px;
+		border-bottom: 2px solid;
+		border-left: 2px solid;
+		transform: rotate(45deg);
+		left: 6px;
+		top: 4px;
+	}
+
+	.subtitle {
+		font-size: 80%;
+	}
+
 	main {
 		display: flex;
 		flex-direction: column;
@@ -145,11 +186,21 @@
 	}
 
 	.detail {
+		display: flex;
+		flex-direction: column;
 		flex-grow: 0;
+		gap: 10px;
+	}
+
+	.session-header {
+		display: flex;
+		flex-direction: column;
+		align-items: baseline;
 	}
 
 	.date-time {
-		font-size: 85%;
+		display: flex;
+		gap: 5px;
 	}
 
 	h1 {
@@ -220,6 +271,7 @@
 	.thumbnail-container {
 		display: flex;
 		height: 100px;
+		align-self: center;
 	}
 
 	img {
