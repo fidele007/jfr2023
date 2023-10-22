@@ -25,7 +25,7 @@
 	};
 
 	onMount(async () => {
-		const response = await fetch('/json/event.json');
+		const response = await fetch('./json/event.json');
 		eventJson = await response.json();
 
 		sessionsByDate[''] = eventJson.data.event.search.items;
@@ -55,7 +55,7 @@
 
 <main>
 	<div>
-		<img src="/jfr_2023.png" class="logo" alt="JFR Logo" />
+		<img src="./jfr_2023.png" class="logo" alt="JFR Logo" />
 		<h1>JFR 2023</h1>
 	</div>
 	<div id="search-container">

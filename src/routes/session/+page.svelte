@@ -1,9 +1,13 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
+	import {browser} from "$app/environment";
 
-	const url = $page.url;
-	const sessionId = url.searchParams.get('id');
+	const searchParams = browser && $page.url.searchParams;
+	let sessionId: string | null;
+	if (searchParams) {
+		sessionId = searchParams.get('id');
+	}
 
 	let sessionDetail: any;
 	let eventDetail: any;
@@ -173,6 +177,7 @@
 		/* Rounded corners for video */
 		border-radius: 5px;
 		overflow: hidden;
+		transform: translateZ(0);
 		-webkit-transform: translateZ(0);
 	}
 
