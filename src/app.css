@@ -42,6 +42,15 @@ h1 {
 	line-height: 1.0;
 }
 
+.date-time {
+	display: flex;
+	gap: 5px;
+}
+
+.subtitle {
+	font-size: 80%;
+}
+
 /* "Cool" loading animation */
 #loader {
 	width: 80px;

@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import { friendlyDates } from '$lib/Constants.svelte';
 
 	export let info: any;
 
@@ -12,11 +13,13 @@
 <!-- svelte-ignore a11y-no-static-element-interactions -->
 <div class="card" on:click={onSessionCardClick}>
 	<div class="card-info">
-		<div>🗓️ {info.start.split('T')[0]}</div>
-		<div>
-			🕣 {info.start.split('T')[1].split('+')[0] + ' - ' + info.end.split('T')[1].split('+')[0]}
-		</div>
 		<div>{info.title}</div>
+		<div class="date-time subtitle">
+			<div>🗓️ {friendlyDates[info.start.split('T')[0]] ?? info.start.split('T')[0]}</div>
+			<div>
+				🕣 {info.start.split('T')[1].split('+')[0] + ' - ' + info.end.split('T')[1].split('+')[0]}
+			</div>
+		</div>
 	</div>
 	<div class="thumbnail-container">
 		{#if info.picture}
@@ -51,6 +54,7 @@
 		flex-direction: column;
 		align-items: flex-start;
 		text-align: left;
+		gap: 5px;
 		flex-grow: 1;
 	}
 

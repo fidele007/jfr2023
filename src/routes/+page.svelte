@@ -21,7 +21,7 @@
 		filteredSessions = null;
 		loading = true;
 
-		await new Promise(r => setTimeout(r, 3000));
+		// await new Promise(r => setTimeout(r, 3000));
 
 		const scopedSessions = sessionsByDate[selectedDate];
 		filteredSessions = value
@@ -188,5 +188,11 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
+	}
+
+	@media (max-width: 1000px) {
+		main {
+			max-width: 100%;
+		}
 	}
 </style>

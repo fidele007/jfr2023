@@ -2,6 +2,7 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import { browser } from '$app/environment';
+	import { friendlyDates } from '$lib/Constants.svelte';
 
 	const searchParams = browser && $page.url.searchParams;
 	let sessionId: string | null;
@@ -9,6 +10,7 @@
 		sessionId = searchParams.get('id');
 	}
 
+	let loading = true;
 	let homeUrl: string;
 	let sessionDetail: any;
 	let eventDetail: any;
@@ -38,6 +40,8 @@
 
 	onMount(async () => {
 		homeUrl = window.location.href.split("/session?")[0];
+
+		// await new Promise(r => setTimeout(r, 3000));
 
 		const response = await fetch(`./json/${sessionId}.json`);
 		sessionDetail = await response.json();
@@ -76,6 +80,8 @@
 			currentVideoTitle = mediaList[0].title;
 			currentVideoUrl = mediaList[0].url;
 		}
+
+		loading = false;
 	});
 </script>
 
@@ -88,12 +94,24 @@
 		<i class="gg-chevron-left" /> Retour
 	</a>
 
+	{#if loading}
+		<div id="loader">
+			<div class="ls-particles ls-part-1" />
+			<div class="ls-particles ls-part-2" />
+			<div class="ls-particles ls-part-3" />
+			<div class="ls-particles ls-part-4" />
+			<div class="ls-particles ls-part-5" />
+			<div class="lightsaber ls-left ls-green" />
+			<div class="lightsaber ls-right ls-red" />
+		</div>
+	{/if}
+
 	{#if eventDetail}
 		<div class="detail">
 			<div class="session-header">
 				<h1>{eventDetail.title}</h1>
 				<div class="date-time subtitle">
-					<div>🗓️ {eventDetail.start.split('T')[0]}</div>
+					<div>🗓️ {friendlyDates[eventDetail.start.split('T')[0]] ?? eventDetail.start.split('T')[0]}</div>
 					<div>
 						🕣 {eventDetail.start.split('T')[1].split('+')[0] +
 							' - ' +
@@ -115,23 +133,26 @@
 					<track kind="captions" />
 				</video>
 			</div>
-			<div class="playlist">
-				{#each mediaList as item}
-					<!-- svelte-ignore a11y-click-events-have-key-events -->
-					<!-- svelte-ignore a11y-no-static-element-interactions -->
-					<div
-						class="playlist-item {item.url == currentVideoUrl ? 'selected' : ''}"
-						on:click={() => onClickPlaylistItem(item.title, item.url)}
-					>
-						<div class="thumbnail-container">
-							<img class="thumbnail" src={item.thumbnail} alt={item.title} />
+			<div class="playlist-container">
+				<div><strong>Liste de lecture :</strong></div>
+				<div class="playlist">
+					{#each mediaList as item}
+						<!-- svelte-ignore a11y-click-events-have-key-events -->
+						<!-- svelte-ignore a11y-no-static-element-interactions -->
+						<div
+							class="playlist-item {item.url == currentVideoUrl ? 'selected' : ''}"
+							on:click={() => onClickPlaylistItem(item.title, item.url)}
+						>
+							<div class="thumbnail-container">
+								<img class="thumbnail" src={item.thumbnail} alt={item.title} />
+							</div>
+							<div class="video-details">
+								<div><strong>{item.title}</strong></div>
+								<div class="subtitle">{item.start}</div>
+							</div>
 						</div>
-						<div class="video-details">
-							<div><strong>{item.title}</strong></div>
-							<div class="subtitle">{item.start}</div>
-						</div>
-					</div>
-				{/each}
+					{/each}
+				</div>
 			</div>
 		</div>
 	{/if}
@@ -140,6 +161,16 @@
 <style>
 	* {
 		box-sizing: border-box;
+	}
+
+	#loader {
+		width: 80px;
+		height: 40px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -20px -40px;
+		z-index: 1000;
 	}
 
 	.one-liner {
@@ -171,10 +202,6 @@
 		top: 4px;
 	}
 
-	.subtitle {
-		font-size: 80%;
-	}
-
 	main {
 		display: flex;
 		flex-direction: column;
@@ -196,11 +223,6 @@
 		display: flex;
 		flex-direction: column;
 		align-items: baseline;
-	}
-
-	.date-time {
-		display: flex;
-		gap: 5px;
 	}
 
 	h1 {
@@ -233,13 +255,18 @@
 		-webkit-transform: translateZ(0);
 	}
 
-	.playlist {
+	.playlist-container {
 		flex: 0 0 35%;
 		display: flex;
 		flex-direction: column;
 		gap: 10px;
-		margin-top: 25px;
 		max-height: 100%;
+	}
+
+	.playlist {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
 		overflow-y: auto;
 	}
 
@@ -272,6 +299,10 @@
 		display: flex;
 		height: 100px;
 		align-self: center;
+	}
+
+	.thumbnail {
+		border-radius: 5px;
 	}
 
 	img {
