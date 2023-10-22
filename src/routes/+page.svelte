@@ -188,7 +188,7 @@
 		height: 24px;
 		padding: 6px 12px;
 		line-height: 1.5;
-		font-size: 14px;
+		font-size: 16px;
 		min-width: 300px;
 	}
 
