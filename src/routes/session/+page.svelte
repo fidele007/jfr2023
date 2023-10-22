@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 	import { browser } from '$app/environment';
 	import { friendlyDates, sanitizeFilename } from '$lib/Constants.svelte';
@@ -11,7 +12,6 @@
 	}
 
 	let loading = true;
-	let homeUrl: string;
 	let sessionDetail: any;
 	let eventDetail: any;
 	let currentVideoTitle: string;
@@ -55,11 +55,9 @@
 	}
 
 	onMount(async () => {
-		homeUrl = window.location.href.split('/session?')[0];
-
 		// await new Promise(r => setTimeout(r, 3000));
 
-		const response = await fetch(`./json/${sessionId}.json`);
+		const response = await fetch(`${base}/json/${sessionId}.json`);
 		sessionDetail = await response.json();
 		eventDetail = sessionDetail.data.event;
 
@@ -106,7 +104,7 @@
 </svelte:head>
 
 <main>
-	<a href={homeUrl} class="one-liner">
+	<a href="{base}/" class="one-liner">
 		<i class="gg-chevron-left" /> Retour
 	</a>
 
