@@ -19,10 +19,11 @@ const config = {
 			fallback: undefined,
 			precompress: false,
 			strict: true
-		})
+		}),
+		paths: {
+            base: process.env.NODE_ENV === 'production' ? '/jfr2023' : '',
+        }
 	}
 };
-
-config.paths = { base: process.argv.includes('dev') ? '' : '/jfr2023' }
 
 export default config;

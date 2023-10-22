@@ -1,10 +1,11 @@
 <script lang="ts">
-  export let info: any;
+  import { base } from '$app/paths';
 
+  export let info: any;
 
   const onSessionCardClick = () => {
 	console.log(`Pressed session ${info.id}`)
-	window.location.assign(`/session?id=${info.id}`);
+	window.location.assign(`{base}/session?id=${info.id}`);
   }
 </script>
 
