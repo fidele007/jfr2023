@@ -4,17 +4,16 @@
 	import { onMount } from 'svelte';
 	import { base } from '$app/paths';
 
+	const logoUrl = `${base}/jfr_2023.png`;
+
 	let loading = true;
 	let selectedDate: string = '';
 	let eventJson: any;
 	let sessionsByDate: any = {};
 	let filteredSessions: any;
-
-	const logoUrl = `${base}/jfr_2023.png`;
+	let timeout: ReturnType<typeof setTimeout>;
 
 	const debounce = (callback: Function, wait = 300) => {
-		let timeout: ReturnType<typeof setTimeout>;
-
 		return (...args: any[]) => {
 			clearTimeout(timeout);
 			timeout = setTimeout(() => callback(...args), wait);
@@ -22,6 +21,7 @@
 	};
 
 	const searchSessions = async (value: string) => {
+		// console.log('Searching for: ', value);
 		filteredSessions = null;
 		loading = true;
 
@@ -39,7 +39,8 @@
 
 	const onSearch = async (event: Event) => {
 		const value = (event.target as HTMLInputElement).value;
-		await searchSessions(value);
+		loading = true;
+		debounce(searchSessions).call(null, value);
 	};
 
 	const onDateChange = async (date: string) => {
@@ -82,7 +83,7 @@
 		<h1>JFR 2023</h1>
 	</div>
 	<div id="search-container">
-		<input id="search" type="text" placeholder="Search" on:keyup={debounce(onSearch)} />
+		<input id="search" type="text" placeholder="Rechercher" on:input={onSearch} />
 	</div>
 
 	<ul id="menu">
@@ -148,10 +149,14 @@
 	{/if}
 
 	<div class="card-container">
-		{#if filteredSessions}
-			{#each filteredSessions as item}
-				<SessionCard info={item} />
-			{/each}
+		{#if !loading}
+			{#if filteredSessions && filteredSessions.length > 0}
+				{#each filteredSessions as item}
+					<SessionCard info={item} />
+				{/each}
+			{:else}
+				<p>Aucun résultat</p>
+			{/if}
 		{/if}
 	</div>
 </main>
@@ -176,9 +181,14 @@
 
 	#search-container {
 		margin-bottom: 1em;
+		border-radius: 5px;
 	}
 
 	#search-container input {
+		height: 24px;
+		padding: 6px 12px;
+		line-height: 1.5;
+		font-size: 14px;
 		min-width: 300px;
 	}
 
