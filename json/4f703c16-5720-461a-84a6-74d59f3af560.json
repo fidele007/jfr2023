@@ -1,0 +1,168 @@
+{
+    "data": {
+        "event": {
+            "id": "4f703c16-5720-461a-84a6-74d59f3af560",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/121/video/thumbs/poster.jpg",
+            "title": "Comment accompagner les évolutions réglementaires et l’innovation en Radiologie Interventionnelle Oncologique",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7881319a-fe8b-4799-9631-5249dc6dd556",
+                        "title": "Le point de vue de l’INCa",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "778fad95-a5a3-4614-b6d9-d650df378967",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/121/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/121/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/121/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9dc035de-05e7-4402-8009-6d4a61fd6476",
+                        "title": "Demande de création d’actes par les Conseils Nationaux Professionnels, mécanismes d’accompagnement des demandeurs, forfait innovation : les outils de la HAS pour promouvoir l’innovation",
+                        "start": "2023-10-13T14:12+02:00",
+                        "end": "2023-10-13T14:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "446d3551-d297-4393-985a-58851f3a97a8",
+                        "title": "Reconnaissance des actes sans nomenclatures : la voie du HCN",
+                        "start": "2023-10-13T14:24+02:00",
+                        "end": "2023-10-13T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "b814b8bf-9ab9-4c03-9af3-c24121fa7862",
+                        "title": "« Medical Regulation Device » : Innovation ou régression ?",
+                        "start": "2023-10-13T14:36+02:00",
+                        "end": "2023-10-13T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "893bf29c-2655-4b5a-8e32-417abfc3f00b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/124/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/124/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/124/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7b960ec3-0ea4-4278-9f45-cfa48e737d9b",
+                        "title": "L’expérience canadienne",
+                        "start": "2023-10-13T14:48+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d4b465a2-77b2-41ad-8f1c-1c0cc7cd60b5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/125/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/125/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/125/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7f09195e-f425-404e-a99d-5e8ad7e1bff4",
+                        "title": "Table ronde",
+                        "start": "2023-10-13T15:00+02:00",
+                        "end": "2023-10-13T15:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5e9018c7-67e8-4553-91b1-e72d046ceb35",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/126/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/126/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/126/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

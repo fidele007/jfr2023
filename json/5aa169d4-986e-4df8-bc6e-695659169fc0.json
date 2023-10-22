@@ -1,0 +1,157 @@
+{
+    "data": {
+        "event": {
+            "id": "5aa169d4-986e-4df8-bc6e-695659169fc0",
+            "picture": null,
+            "title": "Séance Internes :  Phase approfondissement/consolidation :  Passage de la vie étudiante à la vie professionnelle",
+            "start": "2023-10-13T16:30+02:00",
+            "end": "2023-10-13T17:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6334d15d-ac43-40a3-ad68-3bbb1c7a868c",
+                        "title": "Introduction",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "003f9447-cbce-46b3-befb-1a37b930cfc9",
+                        "title": "Critères de validation du DES ( dont phase approfondissement)",
+                        "start": "2023-10-13T16:35+02:00",
+                        "end": "2023-10-13T16:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "cd54a877-9f6b-4ffb-b357-e7f54bc5cd7d",
+                        "title": "Modules fondamentaux",
+                        "start": "2023-10-13T16:40+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "afe65000-9621-474a-b0c9-fb5f7127ef95",
+                        "title": "Sociétés d'organe et mentions de surspécialité",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T16:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "98dd8d34-111b-41f4-bda3-4dfd6af4888f",
+                        "title": "Spécificités de l'option RIA",
+                        "start": "2023-10-13T16:50+02:00",
+                        "end": "2023-10-13T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "7aba223c-ea17-4000-8d02-bfe4e5654d13",
+                        "title": "Plateforme ISIRAD :  tutoriel",
+                        "start": "2023-10-13T16:55+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "87755c83-ea01-4423-902e-aa39f4985e09",
+                        "title": "Intérêt de la cotisation SFR",
+                        "start": "2023-10-13T17:00+02:00",
+                        "end": "2023-10-13T17:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "47449e1a-fbf2-4d65-b775-00829d55bd42",
+                        "title": "Questions et discussions",
+                        "start": "2023-10-13T17:05+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "a2daaa10-e2ce-4bbd-8c2c-5fcee9585fe8",
+                        "title": "Echanges informels autour d'un verre",
+                        "start": "2023-10-13T17:15+02:00",
+                        "end": "2023-10-13T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

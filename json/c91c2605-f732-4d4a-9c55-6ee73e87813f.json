@@ -1,0 +1,140 @@
+{
+    "data": {
+        "event": {
+            "id": "c91c2605-f732-4d4a-9c55-6ee73e87813f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/442/video/thumbs/poster.jpg",
+            "title": "Imagerie des mouvements anormaux de l'enfant",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<p>- Connaître l'anatomie radiologique des noyaux gris centraux, leurs variations de signal en IRM&nbsp;en fonction de l'âge&nbsp;et leurs rapports fonctionnels avec les autres structures cérébrales( cortex, cervelet..).</p>",
+                "<p>- Savoir les principales phénoménologies cliniques des mouvements anormaux classés selon l'âge d'apparition, leur mode de survenue et leurs étiologies.</p>",
+                "<p>- Connaître la place que donne le&nbsp;neuropédiatre à l'IRM&nbsp;dans l'exploration des mouvements anormaux.</p>",
+                "<p>- Savoir établir une grille de lecture IRM pour l'enquête étiologiques de mouvements anormaux d'apparition aigue.</p>",
+                "<p>- Savoir les principales causes des anomalies de signal en IRM des noyaux gris centraux dans le cadre des mouvements anormaux d'évolution chronique.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "450a99e6-7879-4ba2-8f00-6b71ed98fb61",
+                        "title": "De l'anatomie à la phénoménologie clinique. Rôle de l'imagerie. Ce qu'attend le neuro-pédiatre.",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "8c403aa0-5167-401c-8b40-0b24b6b89e63",
+                        "title": "De l'anatomie à la phénoménologie clinique. Rôle de l'imagerie.",
+                        "start": "2023-10-16T14:10+02:00",
+                        "end": "2023-10-16T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0b294c65-88c5-4385-b061-92b3e6edc8fd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2172/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2172/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2172/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a6cc5428-bc0f-4fc6-a8c3-32767cd1dc7a",
+                        "title": "Imagerie des mouvements anormaux de l'enfant d'apparition aiguë",
+                        "start": "2023-10-16T14:20+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "96f36d51-07aa-488c-a309-4e3fdcd77e1d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/443/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/443/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/443/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1b839e13-4a22-4567-878e-6c0786d6d976",
+                        "title": "Imagerie des mouvements anormaux de l'enfant d'évolution chronique",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "31ce8a1e-13b9-47da-8866-ac9db83f6a58",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/444/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/444/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/444/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "86167ad9-11ce-4659-b588-b14cca35ab8e",
+                        "title": "Discussion générale : Imagerie des mouvements anormaux de l'enfant",
+                        "start": "2023-10-16T14:40+02:00",
+                        "end": "2023-10-16T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

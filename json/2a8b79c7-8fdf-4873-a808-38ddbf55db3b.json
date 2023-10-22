@@ -1,0 +1,109 @@
+{
+    "data": {
+        "event": {
+            "id": "2a8b79c7-8fdf-4873-a808-38ddbf55db3b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/446/video/thumbs/poster.jpg",
+            "title": "Imagerie de la femme : Sénologie - BIRADS 4 ou 5 multimodalités",
+            "start": "2023-10-16T14:15+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "616dd1e3-a9e9-474d-9ac4-448e08acbaf7",
+                        "title": "BIRADS 4 ou 5 multimodalités",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6de5ce9b-1d00-4a83-b445-2e218d24bd47",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2156/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2156/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2156/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ecdc7d9c-2349-49c9-878e-02c5e816fe3f",
+                        "title": "BIRADS 4 ou 5 multimodalités",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "04da2c53-9907-4a2b-be6f-1f99fa2195ea",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2155/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2155/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2155/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5f897c31-9164-480e-9356-2d8b29c5c406",
+                        "title": "BIRADS 4 ou 5 multimodalités",
+                        "start": "2023-10-16T14:45+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ad945925-ea6e-4449-9ec4-2ae5d931aa1c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/446/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/446/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/446/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "2dd8eca5-6dc5-4133-9bb4-a9d27c3fb0b4",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/398/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques :  Mes plus beaux cas de gardes : Traumatismes graves",
+            "start": "2023-10-16T10:15+02:00",
+            "end": "2023-10-16T11:15+02:00",
+            "objectives": [
+                "<p>Présenter au travers de cas cliniques interactifs des situations de traumatismes graves</p>",
+                "<p>Connaitre les pièges de réalisation et d'interprétation des scanners corps entiers</p>",
+                "<p>Savoir analyser les images dans le cadre de l'urgence et dépister les anomalies graves et/ou subtiles</p>",
+                "<p>Savoir compléter si besoin le bilan (acquisition scanner complémentaire, IRM, RI)</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3eda3a80-ed82-4ad9-8b89-ec331521f744",
+                        "title": "Séance de cas cliniques : Mes plus beaux cas de gardes : Traumatismes graves",
+                        "start": "2023-10-16T10:15+02:00",
+                        "end": "2023-10-16T10:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "de479f9e-ad95-427a-a7ac-1abf1f3efa9c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/398/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/398/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/398/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0aef3337-019e-46f3-8d7d-797215d9182e",
+                        "title": "Séance de cas cliniques : Mes plus beaux cas de gardes : Traumatismes graves",
+                        "start": "2023-10-16T10:27+02:00",
+                        "end": "2023-10-16T10:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6cb87f42-cddb-491a-9353-900e93473cc9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/399/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/399/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/399/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a9fe7e96-4b80-4bca-afac-aae5117e113e",
+                        "title": "Séance de cas cliniques : Mes plus beaux cas de gardes : Traumatismes graves",
+                        "start": "2023-10-16T10:39+02:00",
+                        "end": "2023-10-16T10:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4a08734e-9b33-44ad-85c0-97a1d8a68e43",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/400/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/400/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/400/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "245ca018-2c58-47f0-9d22-08afb148cea0",
+                        "title": "Séance de cas cliniques : Mes plus beaux cas de gardes : Traumatismes graves",
+                        "start": "2023-10-16T10:51+02:00",
+                        "end": "2023-10-16T11:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d5f0da7c-bde5-434e-b128-a8aca1066abd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/401/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/401/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/401/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dfcdc0cd-8eb9-4447-ac9a-f1611893e7bf",
+                        "title": "Caractéristiques tomodensitométriques d'une nécrose de l'intestin grêle due à une occlusion intestinale étranglée et à une occlusion mésentérique aiguë",
+                        "start": "2023-10-16T11:03+02:00",
+                        "end": "2023-10-16T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "14cd2f1a-ed4d-4169-9f68-cc88953f8b63",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2149/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2149/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2149/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

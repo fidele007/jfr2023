@@ -1,0 +1,82 @@
+{
+    "data": {
+        "event": {
+            "id": "6bee6bfc-fcab-405f-9296-5366488b8613",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/460/video/thumbs/poster.jpg",
+            "title": "Atelier de perfusion - Atelier de perfusion cérébrale",
+            "start": "2023-10-15T11:45+02:00",
+            "end": "2023-10-15T12:30+02:00",
+            "objectives": [
+                "<p>Avec le soutien des sociétés GE et Olea</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e1990a8c-4f15-4ca3-89ef-bb0e21be5ad4",
+                        "title": "Introduction",
+                        "start": "2023-10-15T11:45+02:00",
+                        "end": "2023-10-15T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e50257fa-4d31-48b3-928c-7e33129ca66e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/460/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/460/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/460/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7465d606-0d26-4607-9fa4-8d7ea4531dcf",
+                        "title": "Atelier de perfusion cérébrale",
+                        "start": "2023-10-15T11:45+02:00",
+                        "end": "2023-10-15T12:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "71c9e08e-caed-4cc9-85d7-a127202de702",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/461/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/461/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/461/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

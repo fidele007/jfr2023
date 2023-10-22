@@ -1,0 +1,227 @@
+{
+    "data": {
+        "event": {
+            "id": "4322dd38-9c9d-4b47-97de-0d926fb9e53b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/545/video/thumbs/poster.jpg",
+            "title": "Sécurité en IRM: Avancée de la SFR en 2023",
+            "start": "2023-10-15T14:30+02:00",
+            "end": "2023-10-15T15:30+02:00",
+            "objectives": [
+                "<p>Le groupe de Sécurité de la SFR&nbsp;est pluri-disciplinaire. Son rôle est d'informer sur les risques potentiels en IRM, de conseiller les professionnels de l'IRM afin&nbsp;prévenir au maximum les accidents en IRM.&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "852088ff-c88b-42f7-b5ea-558557ddc081",
+                        "title": "Pacemakers et IRM : Recommandations et retours d’expériences",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e057c16a-85d9-4335-8536-5eb0f6317577",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/544/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/544/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/544/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2ab714dc-615b-4d2c-ab42-fc79f5364a1d",
+                        "title": "Société Française de radioprotection et sécurité IRM",
+                        "start": "2023-10-15T14:39+02:00",
+                        "end": "2023-10-15T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b9de4ec9-f951-42bf-9f79-c14d1f291e09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/545/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/545/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/545/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4e30d37-fcde-48d7-83eb-1acc68cc77df",
+                        "title": "Vidéo SFR : Quelles diffusions et quels retours ?",
+                        "start": "2023-10-15T14:48+02:00",
+                        "end": "2023-10-15T14:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "779a09c5-96b5-4737-ae3d-4d78d9245aef",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/546/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/546/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/546/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dc0bdaf4-ccfa-4c95-b68c-d936379386a6",
+                        "title": "Diplôme d’Université en Sécurité IRM. Où en est-on ?",
+                        "start": "2023-10-15T14:57+02:00",
+                        "end": "2023-10-15T15:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "38f7c9d4-6e41-436f-bef1-98a255c8f485",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/547/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/547/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/547/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0187b0ff-ae1e-4d69-89b1-e114feb78285",
+                        "title": "MR Safety : Quelle organisation aux USA ?",
+                        "start": "2023-10-15T15:06+02:00",
+                        "end": "2023-10-15T15:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "94a90f2b-083f-4496-b842-32a60b2921f9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/548/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/548/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/548/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ebbda0c0-eb9f-44eb-8582-195ba07ad65c",
+                        "title": "Registre français de déclaration des accidents en IRM = Essai transformé ... sans pénalité !!",
+                        "start": "2023-10-15T15:15+02:00",
+                        "end": "2023-10-15T15:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4630e819-de8a-404f-ba90-28150e4d8fa8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/549/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/549/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/549/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a14e10ed-ef82-4ba5-9c85-7e86997f7516",
+                        "title": "Table ronde avec les questions des congressistes",
+                        "start": "2023-10-15T15:24+02:00",
+                        "end": "2023-10-15T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "26fe71bf-3b5f-41a0-bd1d-01efe2266d4d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/550/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/550/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/550/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

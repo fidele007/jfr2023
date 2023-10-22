@@ -1,0 +1,145 @@
+{
+    "data": {
+        "event": {
+            "id": "d9cdca10-a517-4768-811b-36b1e8af740c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/411/video/thumbs/poster.jpg",
+            "title": "Pathologie congénitale thyroïdienne (Tractus thyreoglosse et 4eme Arc) dans tous ses états chez l'adulte",
+            "start": "2023-10-16T11:15+02:00",
+            "end": "2023-10-16T12:15+02:00",
+            "objectives": [
+                "<p>Connaitre le trajet embryologique du tractus thyréoglosse (TTG), l'interet du dosage de la THYROGLOBULINE&nbsp;</p>",
+                "<p>Connaitre&nbsp; la pathologie (kyste, tissu ectopique, cancer) du TTG&nbsp; Sus ou&nbsp; sous hyoïdien et Ad Hyoïden&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre les complications possibles des Kystes du TTG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre l'aspect de l'os hyoïde normal et l'aspect classique post opératoire de la chirurgie du TTG (Sistrunk)&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>A la fin de la séance, vous serez en mesure d'analyser systématiquement l'ensemble du trajet du tractus thyréoglosse et d'évoquer une pathologie pas si rare chez l'adulte, place du dosage de la Thyroglobuline.<br>",
+                "A la fin de la séance, vous serez en mesure de faire le diagnostic positif de lithiase salivaire, le bilan des complications possibles et le bilan avant prise en charge de lithiase des glandes salivaires</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ce9f12eb-83b1-4107-a358-723f50552fbd",
+                        "title": "Embryologie pratique (TTG/ 4ème Arcs Branchiaux ); 4ème arc branchial chez l'adulte",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c4f45a19-97b9-4f66-a64c-9f1fed8530c1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/411/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/411/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/411/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5452a4cf-3b7b-4458-9aa0-72e0cd1e01b5",
+                        "title": "TTG sus et sous hyoïdien: Kyste TTG, thyroïde ectopique, thyroïde basilinguale;   Bénin/ Malin",
+                        "start": "2023-10-16T11:27+02:00",
+                        "end": "2023-10-16T11:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b31be9dc-0f25-42d6-be58-6202b2faa6d7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/412/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/412/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/412/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "69d92d62-e670-48be-acf2-d506ca0d233e",
+                        "title": "Tractus ad hyoïdien (Thyroïde sublinguale/sous Mandibulaire) et  thyroide ectopique médiastinale;     Kyste/ Bénin/ Malin",
+                        "start": "2023-10-16T11:39+02:00",
+                        "end": "2023-10-16T11:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7fe66db4-1e3b-40bc-a8f0-ccd818595e62",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/413/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/413/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/413/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9c0de0c7-eb6f-47e9-8922-5319188898e2",
+                        "title": "Discussion générale :  Tractus thyreo-glosse (TTG):  Analyse systématique lors d'une échographie thyroïdienne. Quelles implications ?",
+                        "start": "2023-10-16T11:51+02:00",
+                        "end": "2023-10-16T12:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4dfdcb0d-5042-4f1f-8763-8405e3881031",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/414/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/414/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/414/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

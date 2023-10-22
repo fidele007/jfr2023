@@ -1,0 +1,145 @@
+{
+    "data": {
+        "event": {
+            "id": "d1856f81-d501-478f-ad01-a241faa78f1e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/347/video/thumbs/poster.jpg",
+            "title": "Macro infos pour Microcancers thyroidiens",
+            "start": "2023-10-14T09:45+02:00",
+            "end": "2023-10-14T10:45+02:00",
+            "objectives": [
+                "<p>Connaitre l'aspect échographique des micronodules thyroidiens malins et leurs&nbsp;stades TIRADS et des adénopathies spécifiques.</p>",
+                "<p>Connaitre les étiologies des microcarcinomes mPTC et mMTC les plus fréquents.</p>",
+                "<p>Savoir effectuer la cytoponction diagnostique écho guidée en temps réel en technique \"in plane\" et \"out of plane\"&nbsp;, avec analyse cytologique&nbsp;&nbsp;et avec wash out de thyroglobuline (ganglion du mPTC) et de calcitonine (micronodule thyroïdien et ganglion du mMTC).</p>",
+                "<p>Connaitre le type de chirurgie proposée +/- IRAthérapie.</p>",
+                "<p>&nbsp;</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0f7f317e-f58a-45b3-93db-cf8163a22469",
+                        "title": "diagnostic échographique du microcarcinome thyroidien",
+                        "start": "2023-10-14T09:45+02:00",
+                        "end": "2023-10-14T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d6dcb141-c750-4b0c-a746-b57c8979f7d7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/347/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/347/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/347/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3dfb4ea3-c9f8-492f-a40e-1dc9e4813a0d",
+                        "title": "Diagnostic échographiques des ganglions normaux et suspects de malignité",
+                        "start": "2023-10-14T10:00+02:00",
+                        "end": "2023-10-14T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "415e3600-9caa-4d1f-a45a-3c20f1e20aa4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/348/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/348/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/348/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "758ee866-d325-4294-a400-da698787d75e",
+                        "title": "Chirurgie du microcancer thyroïdien",
+                        "start": "2023-10-14T10:15+02:00",
+                        "end": "2023-10-14T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0e5e35a3-19ac-462c-bd44-74e411afd00d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/349/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/349/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/349/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4b52312c-eed3-42d0-bbcd-fffb622dd650",
+                        "title": "Discussion générale :  Macro infos pour Microcancers thyroidiens",
+                        "start": "2023-10-14T10:30+02:00",
+                        "end": "2023-10-14T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "726d52e3-1e27-4bf4-a180-70405430bf1f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/350/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/350/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/350/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

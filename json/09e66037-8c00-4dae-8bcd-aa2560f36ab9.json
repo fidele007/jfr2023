@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "09e66037-8c00-4dae-8bcd-aa2560f36ab9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1442/video/thumbs/poster.jpg",
+            "title": "Endométriose",
+            "start": "2023-10-13T08:15+02:00",
+            "end": "2023-10-13T09:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f6aebec0-ac80-48ba-8862-3de722dd0cd3",
+                        "title": "Endometriose profonde des compartiments centraux : Interet du couple echo / IRM",
+                        "start": "2023-10-13T08:15+02:00",
+                        "end": "2023-10-13T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "42356c8f-49ee-4388-8638-2ef0466d56a8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1439/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1439/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1439/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bdab752e-f1bd-4443-bb8d-ca75b251fe80",
+                        "title": "Endometriose profonde des compartiments latéraux : Une bonne connaissance anatomique pour une bonne prise en charge thérapeutique",
+                        "start": "2023-10-13T08:30+02:00",
+                        "end": "2023-10-13T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cc801cb0-aaae-4e37-9500-3310fd3e9774",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1440/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1440/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1440/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e9bf484e-b6d4-4fb7-9b15-c547ed6d448e",
+                        "title": "Endometriose extra pelvienne : quels protocoles spécifiques pour guider le bon traitement ?",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d5af3d4b-1b0e-4e5b-9210-82a44db01096",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1441/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1441/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1441/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6da7f4c5-6dc2-4e1a-88fe-ef68a068d0d8",
+                        "title": "Discussion générale :  L'endometriose, quelles actualités en 2023 ?",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "67e2f1e1-05c2-45b0-a30a-17f68bbb9027",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1442/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1442/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1442/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "525b76ae-8de3-48fb-8948-a6909a68a8a6",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/154/video/thumbs/poster.jpg",
+            "title": "Le cancer bronchique : ce que le radiologue doit savoir des nouveaux traitements (immunothérapie, thérapies ciblées)",
+            "start": "2023-10-14T08:15+02:00",
+            "end": "2023-10-14T09:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de :</p>",
+                "<p>Connaitre les stratégies thérapeutiques en fonction du stade du cancer et des anomalies histo-génomiques d'un cancer du poumon</p>",
+                "<p>Avoir les bons reflexes dans l'évaluation initiale et sous traitement des patients qui ont un cancer bronchique&nbsp;</p>",
+                "<p>Comprendre les interactions entre anatomopathologiste et radiologue dans la prise en charge d'un patient avec un cancer du poumon</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "be4d60bf-5c95-4ac2-a81e-a9562662c308",
+                        "title": "Ce que l’oncologue attend du radiologue",
+                        "start": "2023-10-14T08:15+02:00",
+                        "end": "2023-10-14T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4b2192d9-88f4-4240-9068-78a47b2c07a0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/154/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/154/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/154/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5f8452db-581d-4617-a44e-72e445d51474",
+                        "title": "Comment adapter le compte rendu radiologique d'un patient",
+                        "start": "2023-10-14T08:30+02:00",
+                        "end": "2023-10-14T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "09319a67-75a0-445f-80b0-c895943ee228",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/155/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/155/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/155/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a8d0b6f1-2404-4047-a179-bb8a94b20684",
+                        "title": "Interactions anatomo-pathologiste / radiologue",
+                        "start": "2023-10-14T08:45+02:00",
+                        "end": "2023-10-14T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7a7bc3d4-a7ae-468d-a5da-cc4a77669c54",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/156/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/156/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/156/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b5d645f7-b320-46c4-83b4-00257cc1c652",
+                        "title": "Discussion générale :  Importance de la coordination multidisciplinaire autour de la prise en charge d'un patient atteint de cancer bronchique",
+                        "start": "2023-10-14T09:00+02:00",
+                        "end": "2023-10-14T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f32e072-bef1-42b0-9bb1-58577b0f4792",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/157/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/157/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/157/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "f167fa88-fccc-42d4-b7ef-7f779d59bcef",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/262/video/thumbs/poster.jpg",
+            "title": "Traumatismes balistiques et imagerie post mortem",
+            "start": "2023-10-14T17:00+02:00",
+            "end": "2023-10-14T18:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de:</p>",
+                "<p>Comprendre quels sont les questions posées par le magistrat lors d'un traumatisme balistique&nbsp;</p>",
+                "<p>Connaître les lésions élémentaires en lien avec un traumatisme balistique&nbsp;&nbsp;</p>",
+                "<p>Connaître les principaux types d'armes à feu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Reconnaître les lésions élémentaires en scanner&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "feab6b9a-826b-4e43-90b1-dd17686a131f",
+                        "title": "Armes à feu et projectiles balistiques",
+                        "start": "2023-10-14T17:00+02:00",
+                        "end": "2023-10-14T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2261937c-719e-485b-b20f-a727446b83a6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/261/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/261/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/261/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1fd43845-9dca-46a1-ba45-a921380accd7",
+                        "title": "Lésions balistiques élémentaires en scanner post mortem",
+                        "start": "2023-10-14T17:15+02:00",
+                        "end": "2023-10-14T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "88a271f3-3208-4d71-bf38-9c4961ebc38e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/262/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/262/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/262/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "645c8f3a-eed4-48f7-94c3-56bd74b25c84",
+                        "title": "Corrélation autopsie-scanner dans le traumatisme balistique",
+                        "start": "2023-10-14T17:30+02:00",
+                        "end": "2023-10-14T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f6204677-72f7-4af0-acdb-659f2948bd15",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/263/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/263/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/263/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f45f73b7-8f7f-4d34-93c8-9b82eabc548e",
+                        "title": "Discussion générale :  Attentes de la justice dans le cadre des traumatismes balistiques",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6508213f-2fed-474a-b2ff-266a36ae566b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/264/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/264/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/264/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

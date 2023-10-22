@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "eca5335e-1ff6-486b-9302-7f9141d0a276",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2097/video/thumbs/poster.jpg",
+            "title": "Comment bien choisir sa plateforme d'Intelligence Artificielle",
+            "start": "2023-10-14T17:00+02:00",
+            "end": "2023-10-14T17:15+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "cfe308ff-8ee3-4b62-8053-f57fa2704cc7",
+                        "title": "Comment bien choisir sa plateforme d'Intelligence Artificielle",
+                        "start": "2023-10-14T17:00+02:00",
+                        "end": "2023-10-14T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

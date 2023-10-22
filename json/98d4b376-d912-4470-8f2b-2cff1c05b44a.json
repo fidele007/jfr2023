@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "98d4b376-d912-4470-8f2b-2cff1c05b44a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/168/video/thumbs/poster.jpg",
+            "title": "Traumatismes de la hanche et du bassin – Les fondamentaux",
+            "start": "2023-10-14T08:15+02:00",
+            "end": "2023-10-14T09:15+02:00",
+            "objectives": [
+                "<p>Connaître les principaux mécanismes lésionnels</p>",
+                "<p>Connaître l’anatomie normale de l’anneau pelvien et de la hanche</p>",
+                "<p>Savoir reconnaitre et décrire une fracture de l’extrémité proximale du fémur</p>",
+                "<p>Savoir reconnaitre et décrire une fracture de l’acetabulum</p>",
+                "<p>Savoir reconnaitre et décrire une fracture de l’anneau pelvien</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "fb20ba68-7b1a-484c-a73c-cf102f4a435b",
+                        "title": "Fractures de l’extrémité proximale du fémur",
+                        "start": "2023-10-14T08:15+02:00",
+                        "end": "2023-10-14T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ba4f619e-57da-45ae-b96f-c14c6498aff1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/168/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/168/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/168/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c2e514fd-a8d2-4200-9a20-25d8e40f5c83",
+                        "title": "Fractures de l’acetabulum",
+                        "start": "2023-10-14T08:30+02:00",
+                        "end": "2023-10-14T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d3a3b1f9-1de7-4177-85cd-cbda79196df1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/169/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/169/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/169/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c78b33b5-1163-4cd2-836f-659092bd50e0",
+                        "title": "Fractures de l’anneau pelvien",
+                        "start": "2023-10-14T08:45+02:00",
+                        "end": "2023-10-14T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6e93346c-c6b0-4750-ad73-a4ad30542032",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/170/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/170/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/170/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c6dfb965-b6ae-487c-b782-9c9d6536dde3",
+                        "title": "Discussion générale :  Traumatismes de la hanche et du bassin – Les fondamentaux",
+                        "start": "2023-10-14T09:00+02:00",
+                        "end": "2023-10-14T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b6ec1139-7e66-405d-b2aa-3d7815e11de1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/171/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/171/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/171/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

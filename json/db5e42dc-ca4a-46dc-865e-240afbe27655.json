@@ -1,0 +1,152 @@
+{
+    "data": {
+        "event": {
+            "id": "db5e42dc-ca4a-46dc-865e-240afbe27655",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/160/video/thumbs/poster.jpg",
+            "title": "Séance du Président des JFR :  La saga du Nutri-Score : santé publique vs intérêts économiques",
+            "start": "2023-10-15T12:00+02:00",
+            "end": "2023-10-15T13:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "dee0bc03-e89e-41f6-b96f-605e165e421c",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/160/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/160/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/160/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d3a95206-74ae-4f85-b6f1-5dd7fb640fd8",
+                        "title": "Introduction par le Président des JFR 2023",
+                        "start": "2023-10-15T12:00+02:00",
+                        "end": "2023-10-15T12:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4356c0ac-dc86-4d62-b8e9-8083e1a69ea8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1534/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1534/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1534/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e7326a41-be95-4449-86a6-567156fa1049",
+                        "title": "La saga du Nutri-Score : santé publique vs intérêts économiques",
+                        "start": "2023-10-15T12:03+02:00",
+                        "end": "2023-10-15T12:38+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2705473a-c11f-4d9c-b93b-e2eb767a7b32",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1535/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1535/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1535/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7447df56-084d-488c-b255-1b7cdc01e8b1",
+                        "title": "Questions/réponses",
+                        "start": "2023-10-15T12:38+02:00",
+                        "end": "2023-10-15T12:58+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "31a6fbb2-e982-4308-be2b-fe2ad443f165",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1606/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1606/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1606/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "06564f16-81be-4980-ba9b-8c647ac84d06",
+                        "title": "Conclusion",
+                        "start": "2023-10-15T12:58+02:00",
+                        "end": "2023-10-15T13:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57e91a7c-7762-4190-8645-308098da89d1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1536/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1536/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1536/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

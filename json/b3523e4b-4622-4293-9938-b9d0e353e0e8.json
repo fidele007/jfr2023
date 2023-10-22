@@ -1,0 +1,167 @@
+{
+    "data": {
+        "event": {
+            "id": "b3523e4b-4622-4293-9938-b9d0e353e0e8",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1542/video/thumbs/poster.jpg",
+            "title": "JFR 365 - Le décret de radiologie : l’actualité à chaud. Vos questions - nos réponses",
+            "start": "2023-10-13T16:00+02:00",
+            "end": "2023-10-13T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0e508e1a-2885-48c4-88f4-eb8b8484f2ad",
+                        "title": "Le décret de radiologie : quels changements par rapport au régime préalable pour la radiologie diagnostique et interventionnelle ?",
+                        "start": "2023-10-13T16:00+02:00",
+                        "end": "2023-10-13T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dbf06098-16be-4b45-b03a-c8b5db6991a0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1542/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1542/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1542/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a15db2d9-3013-4a20-843b-06554cf41fad",
+                        "title": "L’historique des travaux avec la DGOS sur le décret de RI",
+                        "start": "2023-10-13T16:10+02:00",
+                        "end": "2023-10-13T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a4f370c8-5a48-41f5-990c-48bf4c596ced",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1544/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1544/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1544/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d4346d10-1958-44d6-bb92-31324749bff6",
+                        "title": "L’historique des travaux avec la DGOS versant diagnostic",
+                        "start": "2023-10-13T16:20+02:00",
+                        "end": "2023-10-13T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "76e80383-c727-4003-bb52-f0b4d031dbe8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1545/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1545/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1545/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e03c0ced-9ae3-4bb1-8d4e-5df76a228c48",
+                        "title": "La position du G4 à ce jour",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c5cf5208-61e5-4699-ba74-86a6a7675d07",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1546/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1546/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1546/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "31098285-1db0-4a50-ba23-c193943d568b",
+                        "title": "Questions-Réponses",
+                        "start": "2023-10-13T16:40+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "92c0e945-8961-47c8-8ff1-c8e701f6af76",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1547/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1547/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1547/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

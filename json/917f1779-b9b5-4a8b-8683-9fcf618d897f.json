@@ -1,0 +1,202 @@
+{
+    "data": {
+        "event": {
+            "id": "917f1779-b9b5-4a8b-8683-9fcf618d897f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/182/video/thumbs/poster.jpg",
+            "title": "Sclérose en plaques: regards croisés sur le diagnostic et le suivi en IRM",
+            "start": "2023-10-14T16:00+02:00",
+            "end": "2023-10-14T17:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, le congressistes sera en mesure de :&nbsp;&nbsp;</p>",
+                "<p>Connaitre les critères diagnostics actualisés de la sclérose en plaques</p>",
+                "<p>Connaitre les recommendations pour le diagnostic et le suivi en IRM dans la sclérose en plaques</p>",
+                "<p>Reconnaitre les principaux diagnostcs différentiels de la sclérose en plaques</p>",
+                "<p>Appréhender l'utilisation d'un outil d'IA integré en routine clinique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f7d6914a-81a2-4605-864e-2a3a824cab4d",
+                        "title": "Introduction",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "14ebbd69-be2b-4e19-a156-8871baa3b68d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2026/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2026/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2026/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "03eeb939-712a-4ef8-8023-2b79a367c28f",
+                        "title": "Diagnostic de la sclérose en plaques",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5a9b3329-7b8d-4594-8428-984acae40bad",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/182/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/182/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/182/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aa8fa73c-0c90-42c5-9812-44e047b5baba",
+                        "title": "Recommandations IRM et nouvelles séquences dans la sclérose en plaques",
+                        "start": "2023-10-14T16:12+02:00",
+                        "end": "2023-10-14T16:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1b664f26-dcc9-46f2-af17-1155c431982c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/183/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/183/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/183/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5c0899f1-3197-4294-b689-3d5b6f03aec0",
+                        "title": "Cas cliniques illustrant les principaux drapeaux rouges de la sclérose en plaques",
+                        "start": "2023-10-14T16:24+02:00",
+                        "end": "2023-10-14T16:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "270fb8a4-137f-4f45-876b-e8e7e6858df6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/184/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/184/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/184/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "738c9c74-0d57-448a-bef7-f7f528e17e17",
+                        "title": "Utilisation d'un outil d'IA en routine clinique dans le suivi de la sclérose en plaques",
+                        "start": "2023-10-14T16:36+02:00",
+                        "end": "2023-10-14T16:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "146d9509-6105-46be-997f-0d2521ad95b3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/185/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/185/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/185/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "532638b7-c363-4e17-adda-a82af470283b",
+                        "title": "Discussion générale :  Regards croisés sur le diagnotic, les recommandations, les nouvelles séquences et l'intégration de l'IA dans l'imagerie de la sclérose en plaques",
+                        "start": "2023-10-14T16:48+02:00",
+                        "end": "2023-10-14T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "deaec50b-23e6-4bd1-a93b-ad7490da0690",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/186/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/186/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/186/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

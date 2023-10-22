@@ -1,0 +1,129 @@
+{
+    "data": {
+        "event": {
+            "id": "4fd1ecb5-bd50-4b1e-a7fb-4101f4168cef",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/367/video/thumbs/poster.jpg",
+            "title": "Traumatismes du poignet et de la main – Les fondamentaux",
+            "start": "2023-10-16T08:30+02:00",
+            "end": "2023-10-16T09:30+02:00",
+            "objectives": [
+                "<p>Connaitre la radio-anatomie normale sur les incidences de bases</p>",
+                "<p>Connaitre les mécanismes lésionnels</p>",
+                "<p>Connaitre lésions les plus fréquentes</p>",
+                "<p>Savoir reconnaitre et décrire les principales anomalies traumatiques</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "42b51d23-8c83-4fec-9c09-4eca5df1e330",
+                        "title": "Fractures du poignet",
+                        "start": "2023-10-16T08:30+02:00",
+                        "end": "2023-10-16T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b918c38d-ba40-432c-88c4-8b9fb259a8ed",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/367/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/367/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/367/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2626fe8f-a09b-4c77-9b80-088cd5126df8",
+                        "title": "Entorses et luxations du poignet",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9ce946f0-bb15-4cf3-9e44-5d649200b004",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/368/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/368/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/368/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5c3bdf01-9eed-4373-a4eb-84f85fc0cd22",
+                        "title": "Fractures et luxations de la main",
+                        "start": "2023-10-16T09:00+02:00",
+                        "end": "2023-10-16T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "900225ca-7db2-4f50-a055-153105c2e8cf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/369/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/369/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/369/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d27f1ac4-9fe4-44a7-b50b-9571dbb6b0e2",
+                        "title": "Discussion générale :  Traumatismes du poignet et de la main – Les fondamentaux",
+                        "start": "2023-10-16T09:15+02:00",
+                        "end": "2023-10-16T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

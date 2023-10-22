@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "08b2b537-9129-402a-a1fa-99483b06d660",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/424/video/thumbs/poster.jpg",
+            "title": "Imagerie cardiovasculaire -  Cas cliniques en radiologie interventionnelle",
+            "start": "2023-10-16T11:45+02:00",
+            "end": "2023-10-16T12:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b068093c-75ac-4981-8d5a-8afb61379898",
+                        "title": "Cas cliniques en radiologie interventionnelle",
+                        "start": "2023-10-16T11:45+02:00",
+                        "end": "2023-10-16T12:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "40417023-86e5-4dc7-93e8-37917815c83a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/424/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/424/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/424/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

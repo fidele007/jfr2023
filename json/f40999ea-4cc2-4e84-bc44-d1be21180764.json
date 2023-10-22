@@ -1,0 +1,148 @@
+{
+    "data": {
+        "event": {
+            "id": "f40999ea-4cc2-4e84-bc44-d1be21180764",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/518/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques - Imagerie des tumeurs du reins",
+            "start": "2023-10-14T09:45+02:00",
+            "end": "2023-10-14T10:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "77606b01-706f-420d-82e2-2ea09068abc0",
+                        "title": "Dossiers commentés en imagerie des tumeurs du rein",
+                        "start": "2023-10-14T09:45+02:00",
+                        "end": "2023-10-14T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4dc0ed58-393c-4de9-9ad5-be5d775b0d17",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/518/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/518/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/518/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2197b673-0d53-41de-bbf1-315095a23f8c",
+                        "title": "Dossiers commentés en imagerie des tumeurs du rein",
+                        "start": "2023-10-14T10:00+02:00",
+                        "end": "2023-10-14T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c572e2dd-f181-4ec9-8bbf-b23cb1fbde06",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1791/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1791/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1791/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "381677e2-0594-4e77-a91b-0a808c66a740",
+                        "title": "Dossiers commentés en imagerie des tumeurs du rein",
+                        "start": "2023-10-14T10:15+02:00",
+                        "end": "2023-10-14T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c859c081-c47d-4dc1-a328-e1c24334a579",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1792/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1792/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1792/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0bf3ccfc-b286-41c1-a229-248a7a106f80",
+                        "title": "Dossiers commentés en imagerie des tumeurs du rein",
+                        "start": "2023-10-14T10:30+02:00",
+                        "end": "2023-10-14T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6738b410-934f-4fc4-bff6-b98cdf398cac",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1793/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1793/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1793/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bbb722b4-787f-4ef6-bbc2-fbdd4c46abf5",
+                        "title": "Dossiers commentés en imagerie des tumeurs du rein",
+                        "start": "2023-10-14T10:45+02:00",
+                        "end": "2023-10-14T10:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

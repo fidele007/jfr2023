@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "937a0e26-03d0-4571-bf48-cd3fb76fffe1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1633/video/thumbs/poster.jpg",
+            "title": "Hernie inguinale",
+            "start": "2023-10-14T11:30+02:00",
+            "end": "2023-10-14T11:35+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "056a71dc-4587-4ccd-9881-d6bbc9ce8142",
+                        "title": "Hernie inguinale",
+                        "start": "2023-10-14T11:30+02:00",
+                        "end": "2023-10-14T11:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "28362b30-4bc6-422e-a900-6407bfdd6c2f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1633/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1633/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1633/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

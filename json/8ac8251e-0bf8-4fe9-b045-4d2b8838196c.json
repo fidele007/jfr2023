@@ -1,0 +1,146 @@
+{
+    "data": {
+        "event": {
+            "id": "8ac8251e-0bf8-4fe9-b045-4d2b8838196c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/90/video/thumbs/poster.jpg",
+            "title": "La radiographie du thorax pédiatrique pour tous",
+            "start": "2023-10-13T11:15+02:00",
+            "end": "2023-10-13T12:15+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Ce cours a pour objectif de proposer un entraînement à la lecture systématique de la radiographie de thorax pédiatrique, à travers une série de cas interactifs.</li>",
+                "\t<li>Connaître les particularités du thorax pédiatrique et ses pièges principaux</li>",
+                "\t<li>Connaître les principales indications du cliché de face et des acquisitions complémentaires chez l’enfant.</li>",
+                "\t<li>Savoir quand recontrôler une radio de thorax et quand et comment aller plus loin</li>",
+                "\t<li>Savoir évoquer les diagnostics urgents ou graves et différentiels chez l’enfant.&nbsp;</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4596a99a-f2e1-499f-843c-05d72bc28c62",
+                        "title": "La radiographie du thorax normale chez l'enfant: particularités et pièges",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5fab14ff-a2e3-4849-bd31-609b44822a5b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/89/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/89/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/89/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4b641ccd-6be6-426d-91a1-bcb5c4cfc471",
+                        "title": "La radiographie thoracique pédiatrique en urgence",
+                        "start": "2023-10-13T11:32+02:00",
+                        "end": "2023-10-13T11:49+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8a21a734-37c5-482e-b76d-ad7f78c556e7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/90/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/90/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/90/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "656a36d5-b5d5-4b1a-a8f0-7d5cbaeb0f13",
+                        "title": "Anomalies persistantes ou récidivantes sur la radiographie du thorax de l'enfant",
+                        "start": "2023-10-13T11:49+02:00",
+                        "end": "2023-10-13T12:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "86d1d440-7f72-43d6-89bf-7cff214484a8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/91/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/91/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/91/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "11872e42-1095-4b52-aef0-7e5bba531e24",
+                        "title": "Discussion générale :  La radiographie du thorax pédiatrique pour tous",
+                        "start": "2023-10-13T12:06+02:00",
+                        "end": "2023-10-13T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "daa1aa05-1ca6-48e7-82db-246b578c2ffe",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/92/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/92/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/92/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

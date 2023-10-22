@@ -1,0 +1,109 @@
+{
+    "data": {
+        "event": {
+            "id": "a621089d-cb3f-496f-92ee-1eaf91bfb58b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1670/video/thumbs/poster.jpg",
+            "title": "Anatomie des VADS",
+            "start": "2023-10-16T08:30+02:00",
+            "end": "2023-10-16T09:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "94021863-aeeb-457f-94a5-54c0d93b7aad",
+                        "title": "Anatomie du massif facial et du nasopharynx",
+                        "start": "2023-10-16T08:30+02:00",
+                        "end": "2023-10-16T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "677aa8a0-9595-41c3-a6b0-92b479b2baab",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1670/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1670/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1670/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "90a41fb6-6344-4515-ab6a-e4889ff38828",
+                        "title": "Anatomie de la cavité buccale et de l'oropharynx",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "206cc2e2-ff79-46da-b1d6-bd3855be6eac",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1671/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1671/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1671/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2229f0c7-2da4-4d5a-8e7a-f399fc9d0d90",
+                        "title": "Anatomie du larynx et de l'hypopharynx",
+                        "start": "2023-10-16T09:00+02:00",
+                        "end": "2023-10-16T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "24fd5a6c-a09b-4731-8806-4c49a0cfeff3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1669/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1669/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1669/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

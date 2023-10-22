@@ -1,0 +1,130 @@
+{
+    "data": {
+        "event": {
+            "id": "ea280076-5ae9-4ad0-beff-397c23825d18",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/304/video/thumbs/poster.jpg",
+            "title": "JFR365-Nodules pulmonaires: de la découverte à la prise en charge pré thérapeutique",
+            "start": "2023-10-15T16:00+02:00",
+            "end": "2023-10-15T17:00+02:00",
+            "objectives": [
+                "<p>- Fleischner, Lung Rads, BTS… Quelle recommandation choisir en fonction du contexte : Nodule fortuit ou dépistage</p>",
+                "<p>- Savoir utiliser les recommandations actuelles pour la mesure d’un nodule pulmonaire incident ou dans le cadre du dépistage et pouvoir proposer une prise en charge adaptée</p>",
+                "<p>- Comment aborder les difficultés en pratique pour le radiologue dans l’organisation du dépistage en France</p>",
+                "<p>- Pouvoir mettre en place un corridor de santé du nodule pulmonaire dans un service d’imagerie</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e13efb9a-8dfa-40dd-bf01-a0ce759e77fd",
+                        "title": "Nodules pulmonaires quelles recommandations choisir pour la mesure et le suivi d’un nodule",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c6af5cac-338c-419d-aa0e-8cc6e0a5a434",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/302/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/302/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/302/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3b1c24da-1eb6-42dd-ad0f-91decf956210",
+                        "title": "Implémentation du dépistage en France : premières leçons de l’étude CASCADE",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1ea46034-f223-414b-84e6-e6c831d0eea2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/303/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/303/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/303/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "178efa56-b0da-401d-9595-117203fae626",
+                        "title": "Corridor de santé du nodule : Comment et pourquoi le radiologue peut organiser cette filière de soin",
+                        "start": "2023-10-15T16:30+02:00",
+                        "end": "2023-10-15T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5388b8bb-bfa8-4388-a794-d0264d9a85be",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/304/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/304/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/304/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d4a76d7c-9653-4284-bdd6-a3ae07c1d3ee",
+                        "title": "Discussion générale : Nodules pulmonaires: de la découverte à la prise en charge pré thérapeutique",
+                        "start": "2023-10-15T16:45+02:00",
+                        "end": "2023-10-15T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

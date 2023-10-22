@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "fb8c5d9a-586f-4964-b344-1a429a7540e0",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1673/video/thumbs/poster.jpg",
+            "title": "Que représente le référentiel métier pour vous",
+            "start": "2023-10-13T10:25+02:00",
+            "end": "2023-10-13T10:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2d0ad2a4-5604-437f-a491-75d4020b1956",
+                        "title": "Que représente le référentiel métier pour vous",
+                        "start": "2023-10-13T10:25+02:00",
+                        "end": "2023-10-13T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9291332f-82bb-4d9f-936c-489dacf3ab65",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1673/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1673/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1673/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1488d157-4f32-43ac-b999-92d5498a0190",
+                        "title": "Que représente le référentiel métier pour vous",
+                        "start": "2023-10-13T10:50+02:00",
+                        "end": "2023-10-13T10:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ce955a59-92c6-4072-90ce-4034cb6d0f33",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2105/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2105/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2105/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

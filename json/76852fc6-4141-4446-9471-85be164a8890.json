@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "76852fc6-4141-4446-9471-85be164a8890",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2096/video/thumbs/poster.jpg",
+            "title": "Super Démo - Guidage pédiculaire sous imagerie : Le radiologue en première ligne",
+            "start": "2023-10-15T16:05+02:00",
+            "end": "2023-10-15T16:20+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d6d0af0b-2dde-4806-89bd-2020f76c2b5a",
+                        "title": "Guidage pédiculaire sous imagerie : Le radiologue en première ligne",
+                        "start": "2023-10-15T16:05+02:00",
+                        "end": "2023-10-15T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

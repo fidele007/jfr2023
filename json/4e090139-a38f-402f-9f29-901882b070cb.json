@@ -1,0 +1,55 @@
+{
+    "data": {
+        "event": {
+            "id": "4e090139-a38f-402f-9f29-901882b070cb",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1559/video/thumbs/poster.jpg",
+            "title": "Gestion des risques et Responsabilités en Imagerie Interventionnelle",
+            "start": "2023-10-14T09:45+02:00",
+            "end": "2023-10-14T10:45+02:00",
+            "objectives": [
+                "<p>comprendre les enjeux principaux de la responsabilité civile médicale</p>",
+                "<p>comprendre les éléments particuliers de la responsabilité en imagerie interventionnelle</p>",
+                "<p>initier une stratégie de gestion des risques adaptée à votre organisation de soins</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7c00d346-9d86-4cab-9023-409b59b412bc",
+                        "title": "Gestion des risques et responsabilités en imagerie interventionnelle",
+                        "start": "2023-10-14T09:45+02:00",
+                        "end": "2023-10-14T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4d81766a-c614-4b21-9b39-691483205499",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1559/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1559/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1559/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

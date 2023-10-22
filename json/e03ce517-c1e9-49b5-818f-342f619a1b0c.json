@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "e03ce517-c1e9-49b5-818f-342f619a1b0c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2170/video/thumbs/poster.jpg",
+            "title": "Débrief des industriels",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "50db791a-1320-4366-96c4-0fce02923ac1",
+                        "title": "Débrief des industriels",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

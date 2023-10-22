@@ -1,0 +1,157 @@
+{
+    "data": {
+        "event": {
+            "id": "571e846c-6898-4fcc-8df7-c227f3d8a5e5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1121/video/thumbs/poster.jpg",
+            "title": "Nouveautés dans les pneumopathies interstitielles du fumeur: quid en 2023?",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:30+02:00",
+            "objectives": [
+                "<p>Connaître la définition et les aspects d'entités récemment décrites dans les pathologies interstitielles du fumeur</p>",
+                "<p>Connaître les aspects classiques et particuliers des histiocytoses langheransiennes</p>",
+                "<p>Connaître les nouvelles définitions et aspects dans les syndromes emphysème et fibrose</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7a77ed38-d496-4e4b-9cba-eaf9e182fa06",
+                        "title": "Smoking-related interstitial fibrosis",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "83d48e64-3c89-4a06-9240-d20c3d84c934",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1121/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1121/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1121/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e0aae6bc-6fcf-43dc-a908-3bc7bbe778f0",
+                        "title": "SRIF, AEF, DIP, RBILD: KESAKO?",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "53bf32c7-9546-4008-9f95-f6ee0ee11fa5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/30/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/30/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/30/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b3edb5bd-5d65-4587-b963-2342025e542e",
+                        "title": "Actualités dans les Histiocytoses Langheransiennes",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bbad1e31-e295-43a9-a187-96e43759ec33",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/529/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/529/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/529/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3906b4c5-3b80-40a4-8915-460c1acdcfb3",
+                        "title": "Syndrome Emphysème - Fibrose: que retenir en 2023",
+                        "start": "2023-10-13T17:00+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5b5ad1d3-171e-4da9-9dc3-a3c7a702c0d3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/530/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/530/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/530/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0a08652a-41a2-4137-b0b0-369b0f46f966",
+                        "title": "Discussion générale :  Nouveautés dans les pneumopathies interstitielles du fumeur: quid en 2023?",
+                        "start": "2023-10-13T17:15+02:00",
+                        "end": "2023-10-13T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

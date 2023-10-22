@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "9a5e218b-be70-49e5-9a1a-c5fd34315268",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1874/video/thumbs/poster.jpg",
+            "title": "Comparison between 3D Deep Learning and Velocity-based Level Sets Aortic Segmentation in 4D flow MRI",
+            "start": "2023-10-14T16:20+02:00",
+            "end": "2023-10-14T16:35+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6e3a0755-ec19-4b34-b5f2-78d8a6ee5dea",
+                        "title": "Comparison between 3D Deep Learning and Velocity-based Level Sets Aortic Segmentation in 4D flow MRI",
+                        "start": "2023-10-14T16:20+02:00",
+                        "end": "2023-10-14T16:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

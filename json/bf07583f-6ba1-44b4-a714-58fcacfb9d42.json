@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "bf07583f-6ba1-44b4-a714-58fcacfb9d42",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/392/video/thumbs/poster.jpg",
+            "title": "Traitement des tumeurs osseuses par ablation, ostéoplastie et fixation: comment débuter",
+            "start": "2023-10-16T10:00+02:00",
+            "end": "2023-10-16T11:00+02:00",
+            "objectives": [
+                "<p>Apprehender les differentes techniques de traitement des tumeurs osseuses.</p>",
+                "<p>Savoir selectionner les patients et les techniques.</p>",
+                "<p>Comprendre l'interet d'utiliser les differents outils de guidage.</p>",
+                "<p>Connaitre les developpements à venir.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d3c5c226-8845-4847-8e8d-a81f60549169",
+                        "title": "Les ablations osseuses",
+                        "start": "2023-10-16T10:00+02:00",
+                        "end": "2023-10-16T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "97ae333a-f6ba-411c-9a0b-fc7e6941a3e8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/392/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/392/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/392/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c12e2042-9298-4811-9b52-7de60cd749c4",
+                        "title": "Cimentoplastie et Ostéoplastie",
+                        "start": "2023-10-16T10:15+02:00",
+                        "end": "2023-10-16T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "be78d6e1-ff24-4820-b061-444aad4d160f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/393/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/393/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/393/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4b98cc20-d510-4d25-9ef3-c6cb5424b09a",
+                        "title": "Fixation osseuse percutanée",
+                        "start": "2023-10-16T10:30+02:00",
+                        "end": "2023-10-16T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "52076e86-6f26-4441-ac36-e43290f91d93",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/394/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/394/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/394/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b411de6d-934e-424b-be74-f5826a87bc9c",
+                        "title": "Discussion générale :  Traitement des tumeurs osseuses par ablation, ostéoplastie et fixation: comment débuter",
+                        "start": "2023-10-16T10:45+02:00",
+                        "end": "2023-10-16T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "76208621-8a4c-44bd-bc2c-4314be65de9d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/395/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/395/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/395/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

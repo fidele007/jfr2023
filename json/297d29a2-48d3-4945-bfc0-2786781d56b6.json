@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "297d29a2-48d3-4945-bfc0-2786781d56b6",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1679/video/thumbs/poster.jpg",
+            "title": "Architecture d'un espace radiologique adapté",
+            "start": "2023-10-15T15:10+02:00",
+            "end": "2023-10-15T15:40+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6bfa698c-366b-4e0f-a0c1-9b42c40ae02d",
+                        "title": "Architecture d'un espace radiologique adapté",
+                        "start": "2023-10-15T15:10+02:00",
+                        "end": "2023-10-15T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d1e706d1-c631-4930-adde-123337221e3f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1679/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1679/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1679/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

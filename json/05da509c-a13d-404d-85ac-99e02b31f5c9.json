@@ -1,0 +1,215 @@
+{
+    "data": {
+        "event": {
+            "id": "05da509c-a13d-404d-85ac-99e02b31f5c9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1073/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques en imagerie cardiovasculaire",
+            "start": "2023-10-14T11:15+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [
+                "<p>- Mettre en avant l’intérêt de combiner l’anamnèse, l’histoire clinique, l’ensemble des&nbsp;données biologiques et les antécédentes d’imagerie pour parvenir au diagnostic correct</p>",
+                "<p>- Surligner l’importance d’analyser de manière systématique toutes les structures&nbsp;anatomiques du massif cardiaque et du thorax</p>",
+                "<p>- Comprendre l’utilité clinique des innovations technologiques des différentes méthodes&nbsp;d’imagerie en coupes en imagerie cardiovasculaire</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1ad4c61c-42fe-4b0e-a984-e25973eb0e20",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "02c62313-651d-4cf1-941b-03e7f6f2d688",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1073/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1073/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1073/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "23d8a55c-6903-403c-95cd-c0a7dd603773",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:18+02:00",
+                        "end": "2023-10-14T11:28+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "707fe9d7-3aee-4a7e-bb8f-052ad3d134c7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1802/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1802/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1802/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "45737897-7d0d-4565-b2f1-d57d5304a5d4",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:28+02:00",
+                        "end": "2023-10-14T11:38+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a9a9af58-96af-4a69-a8a1-fe9cc845b612",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1800/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1800/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1800/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "19bae7f4-19aa-49db-be02-30bc95a53696",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:38+02:00",
+                        "end": "2023-10-14T11:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0995645d-122b-43bd-b096-65ba9b703c4c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1806/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1806/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1806/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4b9f8b76-d9bc-44e0-a612-7ccb6d7cbbbe",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:48+02:00",
+                        "end": "2023-10-14T11:58+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "851f5740-c60c-4c9d-9ecc-04b7aa652201",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1804/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1804/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1804/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9a776c05-f5d5-4db8-9678-4ceb2971002c",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T11:58+02:00",
+                        "end": "2023-10-14T12:08+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0849117b-911e-4144-979c-6cf2a62513d1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1801/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1801/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1801/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3a603664-746c-40a0-887f-f0f7ac186ae3",
+                        "title": "Dossiers commentés en imagerie cardiovasculaire",
+                        "start": "2023-10-14T12:04+02:00",
+                        "end": "2023-10-14T12:11+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

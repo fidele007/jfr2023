@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "e3e49e27-33ee-4e94-b015-40e188a9b25f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1765/video/thumbs/poster.jpg",
+            "title": "Session 2 du JURI :  Splash : Embolisation tronculaire vs Surveillance",
+            "start": "2023-10-13T15:25+02:00",
+            "end": "2023-10-13T15:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "55406aab-46fd-4a8c-9ef5-595bc153f31a",
+                        "title": "Introduction",
+                        "start": "2023-10-13T15:25+02:00",
+                        "end": "2023-10-13T15:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "33421145-36e4-452d-bf52-e75ad3ffab2d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2089/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2089/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2089/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ba7011af-bb87-466d-a304-534a6e842192",
+                        "title": "Pour et Contre",
+                        "start": "2023-10-13T15:25+02:00",
+                        "end": "2023-10-13T15:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cc41d3c0-58a9-4c29-ae40-fbe785962d58",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1765/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1765/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1765/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

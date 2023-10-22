@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "7eb51cfe-00ef-4c01-925e-f59b09def802",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2029/video/thumbs/poster.jpg",
+            "title": "Imagerie ophtalmologique intégrée actuelle et future : de l'œil au cerveau",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<p>comprendre le vaste panel de modalités d'imagerie en ophtalmologie et leur synergie</p>",
+                "<p>connaître les principales applications des modalités d'imagerie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>connaître les principales nouveautés en imagerie ophtalmologique&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>comprendre les innovations futures en imagerie ophtalmologique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9527d6a2-5d80-480e-b914-95355527fc92",
+                        "title": "Introduction",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "720239a2-5aad-4b15-8b7d-8912070a65e1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2029/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2029/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2029/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e3bd670a-4a1a-4abb-9f4b-f5eecc661cae",
+                        "title": "IRM ophtalmologique : nouveautés en pratique clinique et futur (proche !)",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f5ffc493-cc2e-49ad-84f4-955fee8956cb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1028/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1028/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1028/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6c50f760-05e6-4422-b0ad-0a51e95527b1",
+                        "title": "Imagerie optique, vers l'ultra haute résolution !",
+                        "start": "2023-10-15T14:15+02:00",
+                        "end": "2023-10-15T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e59251b5-25af-4e79-86c3-9e237612faa4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1029/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1029/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1029/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e0d111a7-f9c6-4a33-aaf9-535226df6f7b",
+                        "title": "Quoi de neuf en dehors de l'IRM ? Echo, scanner, IA",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "019623ec-8a29-4d98-85ed-fa88cb1755cd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1030/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1030/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1030/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c897be51-e1bd-471d-b053-ef932570539e",
+                        "title": "Discussion générale: L'imagerie ophtalmologique vue par les radiologues ou les ophtalmologistes : compétition ou synergie ?",
+                        "start": "2023-10-15T14:45+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "54256eec-2d16-48bf-a1fe-e527a0da6a27",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1031/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1031/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1031/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

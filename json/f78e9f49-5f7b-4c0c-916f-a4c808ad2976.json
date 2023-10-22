@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "f78e9f49-5f7b-4c0c-916f-a4c808ad2976",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/273/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité des urgences abdominales et pelviennes - Imagerie du syndrome occlusif",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "88f2cf6f-f637-447e-865a-cce97db3bc1d",
+                        "title": "Imagerie du syndrome occlusif",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f1683c5b-cd7b-45bf-af57-2c3b047ecebd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/273/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/273/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/273/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

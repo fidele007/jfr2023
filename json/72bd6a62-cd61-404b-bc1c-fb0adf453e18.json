@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "72bd6a62-cd61-404b-bc1c-fb0adf453e18",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1869/video/thumbs/poster.jpg",
+            "title": "MammoScreen en pratique",
+            "start": "2023-10-14T12:20+02:00",
+            "end": "2023-10-14T12:35+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "a71eb24d-e994-4882-a555-2f23247b0b54",
+                        "title": "MammoScreen en pratique",
+                        "start": "2023-10-14T12:20+02:00",
+                        "end": "2023-10-14T12:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

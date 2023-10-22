@@ -1,0 +1,112 @@
+{
+    "data": {
+        "event": {
+            "id": "7d90b710-f86c-4387-9802-4a2f8da3c3bd",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1552/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques internationale -  L'imagerie musculosquelettique",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [
+                "<p>Apprendre le raisonnement diagnostique à propos de l’imagerie de trois cas de pathologies musculosquelettiques</p>",
+                "<p>Observer la stratégie diagnostique de trois équipes de jeunes radiologues français, italiens et argentins&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "95987b92-fdde-4353-b832-129b165b6613",
+                        "title": "Dossiers commentés en imagerie musculosquelettique",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a446b68b-06fb-455a-8af3-b5a7a981ae90",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1552/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1552/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1552/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6f873905-c538-49dc-8b88-950a6cc01804",
+                        "title": "Dossiers commentés en imagerie musculosquelettique",
+                        "start": "2023-10-14T15:50+02:00",
+                        "end": "2023-10-14T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f73fb7b8-b8b8-403f-a6ef-a5b34f9dd3f7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1815/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1815/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1815/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "877e02c8-55f7-4a84-9695-9d4cf3313b78",
+                        "title": "Dossiers commentés en imagerie musculosquelettique",
+                        "start": "2023-10-14T16:10+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9261c2c4-350d-48c9-86e1-c0ed9ee04ff1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1816/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1816/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1816/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

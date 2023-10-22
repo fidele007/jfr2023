@@ -1,0 +1,182 @@
+{
+    "data": {
+        "event": {
+            "id": "445088a5-5c61-4c91-a316-5d4a9b86c183",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1049/video/thumbs/poster.jpg",
+            "title": "Varices pelviennes : qu'est ce que c'est ? quoi en faire ?",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:15+02:00",
+            "objectives": [
+                "<p>Comprendre la classification SVP des&nbsp;pathologie veineuse pelvienne PVP&nbsp;</p>",
+                "<p>Connaitre les recommandations du groupe de travail - chapitre 1 (définition, clinique des PVP)</p>",
+                "<p>Connaitre les recommandations du groupe de travail - chapitre 2 (imageries des PVP)</p>",
+                "<p>Connaitre les recommandations du groupe de travail : chapitre 3 (prise en charge des PVP en radiologie interventionnelle)&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "18b8219c-0efa-4714-8fc9-5586c59a3c6e",
+                        "title": "Classification SVP des PVP",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c94c08fc-7fa3-458c-97f1-acfd1bade872",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1049/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1049/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1049/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "727d0450-b43b-4964-ac34-bc945a0a376f",
+                        "title": "Méthodologie du groupe de travail, définition, clinique des PVP",
+                        "start": "2023-10-13T16:25+02:00",
+                        "end": "2023-10-13T16:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "1e4e2830-34be-41a7-bef4-b6b780c4c312",
+                        "title": "Imageries des PVP",
+                        "start": "2023-10-13T16:35+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dbd6e27a-9cc9-49ff-aa9c-d254ddff4860",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1051/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1051/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1051/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cba93b48-480e-4314-9d3e-83d1a8a39756",
+                        "title": "Prise en charge des PVP",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "028c3f71-957c-4063-a7aa-3d850bd8d0ee",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1052/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1052/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1052/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c08cefbf-c3be-4f3e-8c2b-bd96bea683b0",
+                        "title": "Embolisation et suivi des PVP",
+                        "start": "2023-10-13T16:55+02:00",
+                        "end": "2023-10-13T17:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4131435e-fb2b-4f14-8342-a770a9e52c24",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1053/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1053/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1053/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bb06b3bf-a26c-4c07-94ad-04440b7a20fa",
+                        "title": "Discussion générale :  Des recommandations pour être plus performants",
+                        "start": "2023-10-13T17:05+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "37fd6920-85b8-4e81-93bc-14959e8adfe3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1054/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1054/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1054/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "81468199-5cab-404c-a212-55c8638b2d28",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/419/video/thumbs/poster.jpg",
+            "title": "Electroporation irréversible tumorale hépatique : ablation radicalement douce",
+            "start": "2023-10-16T09:30+02:00",
+            "end": "2023-10-16T10:30+02:00",
+            "objectives": [
+                "<p>Connaître le principe</p>",
+                "<p>Connaître les indications</p>",
+                "<p>Connaître les contraintes et les solutions</p>",
+                "<p>Savoir évaluer les résultats</p>",
+                "<p>&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2eb18e83-3de3-4967-917a-15c52ec80613",
+                        "title": "Principe",
+                        "start": "2023-10-16T09:30+02:00",
+                        "end": "2023-10-16T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6ee11c90-6d7c-48d6-9b9a-863eb974579e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/419/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/419/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/419/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fcfe2086-802e-4318-bf85-9afcf1a76f57",
+                        "title": "Contraintes et solutions",
+                        "start": "2023-10-16T09:45+02:00",
+                        "end": "2023-10-16T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4837b75b-aa96-487c-b27c-90cd99f26b61",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/420/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/420/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/420/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "62a0ba56-49ee-439d-9a21-fec8702aa174",
+                        "title": "Resultats en image",
+                        "start": "2023-10-16T10:00+02:00",
+                        "end": "2023-10-16T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "db5d377c-b399-41ae-a548-c999f095a89e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/421/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/421/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/421/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "38ddf963-fe59-49f7-891a-1a4653595793",
+                        "title": "Discussion générale : Electroporation irréversible tumorale hépatique : ablation radicalement douce",
+                        "start": "2023-10-16T10:15+02:00",
+                        "end": "2023-10-16T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bfeeff06-cd1c-4c2c-bc65-16ba430ddc6b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/422/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/422/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/422/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

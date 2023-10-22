@@ -1,0 +1,211 @@
+{
+    "data": {
+        "event": {
+            "id": "e2b6ef80-16c0-4b31-b4b2-33665a8e282d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1163/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie digestive",
+            "start": "2023-10-16T11:15+02:00",
+            "end": "2023-10-16T12:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "233887f0-736d-42dd-a977-e48a885ca093",
+                        "title": "Introduction",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "2af015e4-c6e4-4fa9-8e3c-f76aa59b3a22",
+                        "title": "Facteurs prédictifs de survie sans résection après revascularisation première dans les ischémies artérielles mésentériques",
+                        "start": "2023-10-16T11:17+02:00",
+                        "end": "2023-10-16T11:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c79d34b5-d853-42c4-84cb-2e640ec3dbeb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1163/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1163/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1163/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ee18ff6d-3fda-458c-9f6d-93b45449fd83",
+                        "title": "Comparaison des formes sténosantes et occlusives des ischémies mésentériques aiguës artérielles",
+                        "start": "2023-10-16T11:26+02:00",
+                        "end": "2023-10-16T11:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cd32d803-ae3c-4183-bdc6-c5017ddfd403",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1164/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1164/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1164/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d52ff070-411a-49d2-a977-30f8aa86f51b",
+                        "title": "Value of DECT in the Diagnosis of Bowel Ischemia in Mechanical Small Bowel Occlusion",
+                        "start": "2023-10-16T11:35+02:00",
+                        "end": "2023-10-16T11:44+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "93c58951-94dd-462f-bcba-09054ea240c2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1165/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1165/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1165/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "039c30a2-c28e-4caa-92b9-e89cb116199e",
+                        "title": "Energy level of virtual monenergetic images in dual-source CT for bowel obstruction and colitis diagnosis",
+                        "start": "2023-10-16T11:44+02:00",
+                        "end": "2023-10-16T11:53+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4851e509-3200-48ca-a7c1-aff179dfd00c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1166/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1166/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1166/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "57f8b020-b700-4f4c-90b6-8dd7aa76d5ff",
+                        "title": "Fat in mass detection using Multimaterial Decomposition Algorithm Using Dual-Energy CT: Clinical Evaluation",
+                        "start": "2023-10-16T11:53+02:00",
+                        "end": "2023-10-16T12:02+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6fd72995-4373-4fb2-9478-d028cf891fd4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1167/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1167/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1167/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2e3289ac-53f3-49c6-a88d-18cf7e561ea3",
+                        "title": "MRI as an alternative to CT scan in acute abdominal pain in young women",
+                        "start": "2023-10-16T12:02+02:00",
+                        "end": "2023-10-16T12:11+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "11775959-915b-43c4-b590-d5e3c62167fd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1168/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1168/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1168/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

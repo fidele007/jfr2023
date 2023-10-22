@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "a9cf6603-fe9a-416e-ad1d-e65c785711b9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1614/video/thumbs/poster.jpg",
+            "title": "Coude : Les tendons épicondyliens médiaux",
+            "start": "2023-10-13T10:55+02:00",
+            "end": "2023-10-13T11:25+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "275ee506-8217-417a-b568-2d586e7b9526",
+                        "title": "Coude : Les tendons épicondyliens médiaux",
+                        "start": "2023-10-13T10:55+02:00",
+                        "end": "2023-10-13T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

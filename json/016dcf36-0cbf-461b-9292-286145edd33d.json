@@ -1,0 +1,116 @@
+{
+    "data": {
+        "event": {
+            "id": "016dcf36-0cbf-461b-9292-286145edd33d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/97/video/thumbs/poster.jpg",
+            "title": "Imagerie cardiaque post-infarctus et imagerie du cœur diabétique",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Connaître les recommandations cliniques concernant le risque d'arythmies graves chez les patients post-infarctus, notamment relatives à l'implantation de défibrillateurs cardiaques</p>",
+                "<p>Comprendre le lien entre les modifications structurelles du myocarde observées à l'IRM et les circuits réentrants de tachycardie ventriculaire identifiés en cathétérisme interventionnel</p>",
+                "<p>Connaitre l'état de l'art des méthodes d'analyse d'image pour la prédiction du risque rythmique à partir de l'IRM de rétention tardive</p>",
+                "<p>Identifier les biomarqueurs IRM/SRM disponibles pour une analyse multi-échelle du coeur diabétique: chez l'homme et l'animal.</p>",
+                "<p>Questionner les éléments de diversité de la cardiomyopathie diabétique en recherche&nbsp;: l’effet du genre, l’exposome (nutrition, sport) et les perspectives thérapeutiques</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7d5fe793-ef51-42dd-89e6-6bbc0b18c8e5",
+                        "title": "Dépistage par IRM du risque d'arythmie ventriculaire post-infarctus",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8822d3fe-093a-4143-a601-ebec75042943",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/97/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/97/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/97/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f5ff1484-f4cb-49f8-ba91-8f89968b77c4",
+                        "title": "Étudier le cœur diabétique avec l'imagerie et la spectroscopie",
+                        "start": "2023-10-13T14:20+02:00",
+                        "end": "2023-10-13T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "29d19127-e7b7-4474-9541-a55bb244c2e6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/98/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/98/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/98/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3de1e198-fc34-4816-94a2-9b1a91ae504f",
+                        "title": "Discussion générale :  Apport de l'IRM dans le dépistage du risque d'arythmie ventriculaire post-infarctus et dans l'étude du cœur diabétique",
+                        "start": "2023-10-13T14:40+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "88ce183a-569e-46d4-99ed-a9aa8d48f794",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/99/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/99/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/99/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

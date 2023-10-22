@@ -1,0 +1,111 @@
+{
+    "data": {
+        "event": {
+            "id": "737662af-2341-4df9-acf1-9cef1285e66d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2035/video/thumbs/poster.jpg",
+            "title": "Imagerie médicale pour le manipulateur :  de la numérisation à l'Intelligence Artificielle",
+            "start": "2023-10-12T09:30+02:00",
+            "end": "2023-10-12T12:00+02:00",
+            "objectives": [
+                "<p>Apprécier l'apport des dispositifes numériques<br>",
+                "Comprendre les enjeux de l'Intelligence Artificielle<br>",
+                "Développer des connaissance technologiques</p>"
+            ],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e94a0d86-a203-4eb2-9496-49d38836ab5d",
+                        "title": "Introduction",
+                        "start": "2023-10-12T09:30+02:00",
+                        "end": "2023-10-12T09:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "b7ec2698-e790-40ef-951d-b8a3b820250c",
+                        "title": "Numérisation de l'image :  principes et application",
+                        "start": "2023-10-12T09:35+02:00",
+                        "end": "2023-10-12T09:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "2cba73a3-dc7d-4405-ab0b-83f94bbf0edd",
+                        "title": "Administrateur PACS et Intelligence Artificielle -  Rôles, boite à outils et pratique de terrain",
+                        "start": "2023-10-12T09:55+02:00",
+                        "end": "2023-10-12T10:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "21731a99-b703-49d0-aeeb-56b6157aa74c",
+                        "title": "De l’imagerie spectrale vers le scanner à comptage photonique",
+                        "start": "2023-10-12T10:15+02:00",
+                        "end": "2023-10-12T10:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "b2a49c3b-5cc3-456c-a869-ab6ca949694c",
+                        "title": "Pause",
+                        "start": "2023-10-12T10:35+02:00",
+                        "end": "2023-10-12T10:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "940c1fe9-f7cf-46c5-a9e2-55a11cb2fedb",
+                        "title": "Où trouver l'Intelligence Artificielle aujourd'hui ?",
+                        "start": "2023-10-12T10:55+02:00",
+                        "end": "2023-10-12T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "6c597334-2d3e-4fe7-96ff-45ddf3f648f8",
+                        "title": "L'intelligence Artificielle demain",
+                        "start": "2023-10-12T11:15+02:00",
+                        "end": "2023-10-12T11:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "ca222abe-a7d9-40da-93eb-9a3f202022c1",
+                        "title": "Retour d’ascenseur : l'Intelligence Artificielle, peut-elle nous apprendre quelque chose ?",
+                        "start": "2023-10-12T11:35+02:00",
+                        "end": "2023-10-12T11:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "fdf45a6e-f833-43c4-8b0c-2c621dab963b",
+                        "title": "Questions/Réponses -  Temps d'évaluation par QCM",
+                        "start": "2023-10-12T11:55+02:00",
+                        "end": "2023-10-12T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

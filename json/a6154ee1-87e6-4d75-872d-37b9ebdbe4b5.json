@@ -1,0 +1,283 @@
+{
+    "data": {
+        "event": {
+            "id": "a6154ee1-87e6-4d75-872d-37b9ebdbe4b5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1123/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie digestive",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "55c1712a-8a3a-4c6e-8fc6-4ced24efe9bf",
+                        "title": "Introduction",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b902e91d-56de-4a97-a8c5-f6140630a321",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2069/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2069/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2069/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "738b052e-7077-46af-b34b-5970e0ee61e8",
+                        "title": "Cancer hépatobiliaire et pancréatique. approche interventionnelle.",
+                        "start": "2023-10-15T15:32+02:00",
+                        "end": "2023-10-15T15:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fef96109-ed18-4253-aafd-322398278fee",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1402/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1402/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1402/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e3c5978d-dbdb-48f4-a20f-df8a2d4f67db",
+                        "title": "Améliorer l'identification des bons candidats à une radioembolisation pour le traitement du CHC intermédiaire/avancé",
+                        "start": "2023-10-15T15:47+02:00",
+                        "end": "2023-10-15T15:56+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e2db3c19-bd47-48f9-a0b9-6541c311ccb9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1123/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1123/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1123/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e1843a8c-3e34-477e-81f4-a824edbfbee4",
+                        "title": "Critères de jugement des essais de CEH du CHC: quelques concepts mesurés de multiples façons",
+                        "start": "2023-10-15T15:56+02:00",
+                        "end": "2023-10-15T16:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "00bd3c68-9a07-43fa-b315-336a63444bd9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1124/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1124/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1124/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a5d449c3-8295-41a2-b868-68a635aba77b",
+                        "title": "Différenciation des cirrhoses avec ou sans CHC : modèle basé sur l'analyse de texture scanographique",
+                        "start": "2023-10-15T16:05+02:00",
+                        "end": "2023-10-15T16:14+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4ff44654-bf09-47b7-a86d-9bc774b1e3ab",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1125/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1125/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1125/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4750b0b-a1d2-4710-bbaa-4224a1547e2c",
+                        "title": "Imagerie et caractérisation pronostique des sous-types de carcinome hépatocellulaire contenant de la graisse",
+                        "start": "2023-10-15T16:14+02:00",
+                        "end": "2023-10-15T16:23+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "37a703c4-4ac8-4647-bd43-d0dc211f0b22",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1126/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1126/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1126/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "bdb2def6-ab0e-4be4-912a-a925dfc656bd",
+                        "title": "Caractéristiques en imagerie du carcinome hépatocellulaire en fonction des taux sériques de PIVKA-II et d'AFP",
+                        "start": "2023-10-15T16:23+02:00",
+                        "end": "2023-10-15T16:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "22159fd5-0fd0-498d-848e-d6ae12f2d3f6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1127/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1127/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1127/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d02b1a37-54fc-4526-8b59-1fd4f2e112a0",
+                        "title": "Caractéristiques du scanner préopératoire associées au textbook outcome après résection pour CHC",
+                        "start": "2023-10-15T16:32+02:00",
+                        "end": "2023-10-15T16:41+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c3ea6cfb-b112-41d4-8349-d8d88d86f776",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1128/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1128/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1128/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8ed7139d-8ea6-40cd-8e70-791695743744",
+                        "title": "Synthèse de la séance",
+                        "start": "2023-10-15T16:41+02:00",
+                        "end": "2023-10-15T16:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f5fb363-98c5-4723-b8ac-88e63cf471ca",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1403/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1403/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1403/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "ee332a9f-81aa-45ed-8d8b-6fd7f35964fa",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/287/video/thumbs/poster.jpg",
+            "title": "Interventionnel du bassin : du diagnostic au traitement",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<p>Connaître les critères diagnostics des lésions instables du bassin post traumatique.</p>",
+                "<p>Connaître les possibilités thérapeutiques en radiologie interventionnelle.</p>",
+                "<p>Connaître les critères diagnostics des lésions métastatiques du bassin à risque de complications.</p>",
+                "<p>Connaître les critères&nbsp;de verticalisation après rétablissement de la continuité de l'anneau pelvien.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3d4aaee4-b304-4f47-ad16-43eaea9a0cb2",
+                        "title": "fracture par insuffisance osseuse du sacrum: du diagnostic à la sacroplastie",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "86e50887-0402-42dc-8d96-0f9cfa15a31a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/284/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/284/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/284/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "08a1d9e4-4aa8-4584-82d0-05e8df42c419",
+                        "title": "Fracture cotyloidienne, disjonctions sacro-iliaque: du diagnostic à l'ostéoasynthèse sous scanner",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9b2fccc7-c569-4478-be52-ebb825170c8e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/285/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/285/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/285/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "42dc670e-093a-454f-a207-589878c74bb8",
+                        "title": "Lésions tumorales de l'anneau pelvien: analyse lésionnelle et critères de verticalisation post interventionnel",
+                        "start": "2023-10-14T18:15+02:00",
+                        "end": "2023-10-14T18:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d885d688-6714-4225-8c7a-ddf67679ffcc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/286/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/286/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/286/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "47e1fd58-c6ec-4f25-8071-e08f81707698",
+                        "title": "Discussion générale : Interventionnel du bassin : du diagnostic au traitement",
+                        "start": "2023-10-14T18:30+02:00",
+                        "end": "2023-10-14T18:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "293a50bc-0725-475a-82f6-59c2256e38a5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/287/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/287/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/287/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

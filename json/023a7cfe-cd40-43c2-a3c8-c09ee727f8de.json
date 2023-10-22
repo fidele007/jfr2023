@@ -1,0 +1,77 @@
+{
+    "data": {
+        "event": {
+            "id": "023a7cfe-cd40-43c2-a3c8-c09ee727f8de",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/18/video/thumbs/poster.jpg",
+            "title": "Rencontre SFR-SFC - Coeur et inflammation",
+            "start": "2023-10-12T14:00+02:00",
+            "end": "2023-10-12T15:20+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "56e3e2f0-01ec-4f09-a101-d53075e4a166",
+                        "title": "Cas cliniques juniors cardio radio Marseille",
+                        "start": "2023-10-12T14:00+02:00",
+                        "end": "2023-10-12T14:14+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "8f68e5d1-58f5-4ad5-999b-1b5e56974109",
+                        "title": "Evaluation de l'inflammation dans la myocardite",
+                        "start": "2023-10-12T14:14+02:00",
+                        "end": "2023-10-12T14:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "5ce989c7-aa92-4bb3-8027-124fc402028f",
+                        "title": "Place de la génétique dans les cardiomyopathies et myocardites",
+                        "start": "2023-10-12T14:27+02:00",
+                        "end": "2023-10-12T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "d88f02e0-5ebc-433c-91f6-335ce38c085f",
+                        "title": "Place de l'IRM dans la prise en charge en soins des atteinte cardiaques des maladies auto immunes et inflammatoires",
+                        "start": "2023-10-12T14:40+02:00",
+                        "end": "2023-10-12T14:53+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "b8fdce3b-dee6-487b-9c42-e73ad3d0578f",
+                        "title": "Onco cardiologie :  myocardites immunoinduites",
+                        "start": "2023-10-12T14:53+02:00",
+                        "end": "2023-10-12T15:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "eb9f9bab-7967-4215-ad4d-4d5c3b58f455",
+                        "title": "Solution du cas cliniques",
+                        "start": "2023-10-12T15:06+02:00",
+                        "end": "2023-10-12T15:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

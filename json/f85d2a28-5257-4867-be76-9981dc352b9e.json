@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "f85d2a28-5257-4867-be76-9981dc352b9e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1102/video/thumbs/poster.jpg",
+            "title": "Echographie musculosquelettique - Muscles de la cuisse en 10 points",
+            "start": "2023-10-14T16:15+02:00",
+            "end": "2023-10-14T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8c80e736-bc25-48c1-a2e0-c1c6c25e6260",
+                        "title": "Echographie des muscles de la cuisse",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d676c394-88b7-4672-8517-d2f01408a13d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1102/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1102/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1102/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

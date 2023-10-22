@@ -1,0 +1,196 @@
+{
+    "data": {
+        "event": {
+            "id": "17063635-b270-44b5-8b79-90aaa28e015a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1515/video/thumbs/poster.jpg",
+            "title": "Retours d’expérience des équipes depuis leur entrée dans le dispositif",
+            "start": "2023-10-14T10:30+02:00",
+            "end": "2023-10-14T11:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ddfced4f-e503-4714-8d7f-9a96385f4ccf",
+                        "title": "Démarche d'accréditation des équipes :  retours d'expérience de la Pitiè Salpétrière - Tenon",
+                        "start": "2023-10-14T10:30+02:00",
+                        "end": "2023-10-14T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c6ae597f-680e-4f85-98a0-4f2bf1c8284e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1515/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1515/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1515/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6d3860ff-451a-4f90-9fd0-aefa4be7cdd6",
+                        "title": "Deux EIAS déclarés par l'équipe du Groupe Hospitalier Paris St Joseph",
+                        "start": "2023-10-14T10:40+02:00",
+                        "end": "2023-10-14T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "89e7c566-e2ba-4eb4-9799-d08bb980488a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1517/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1517/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1517/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8e3ef9d5-5970-47ff-b7b4-5ce19fa549f4",
+                        "title": "Equipe Qualité : Construction, Réticences, Pertinence",
+                        "start": "2023-10-14T10:50+02:00",
+                        "end": "2023-10-14T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "288f8e70-8942-4a11-9633-c853622ce31a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1516/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1516/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1516/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3b87671a-7961-4659-b602-0a1d092da52f",
+                        "title": "Que fait on des EIAS ...  Des solutions sécurités patients ? - Retours des experts et des référents",
+                        "start": "2023-10-14T11:00+02:00",
+                        "end": "2023-10-14T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4b9a1606-a514-45b0-916c-e8071aeba505",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1561/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1561/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1561/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8452688d-2d93-4cf1-a73d-6c2ead4a6bae",
+                        "title": "Point d'actualité : lien entre accréditation des équipes et certification périodique",
+                        "start": "2023-10-14T11:10+02:00",
+                        "end": "2023-10-14T11:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9adbe51b-6416-43e4-971e-1712f9d1423a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1562/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1562/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1562/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c7d5daa5-75a8-4f38-bf56-596cece81ff2",
+                        "title": "Discussion générale et échanges : Qu'est ce qu'un EIAS et comment mieux les déclarer ?",
+                        "start": "2023-10-14T11:20+02:00",
+                        "end": "2023-10-14T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2e8d4185-5a35-4101-82b8-b31807f3f2b6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1518/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1518/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1518/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

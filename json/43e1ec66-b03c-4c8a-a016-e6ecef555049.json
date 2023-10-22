@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "43e1ec66-b03c-4c8a-a016-e6ecef555049",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/425/video/thumbs/poster.jpg",
+            "title": "Réactions allergiques aux produits de contraste - Prise en charge des réactions allergiques aux produits de contraste",
+            "start": "2023-10-16T11:45+02:00",
+            "end": "2023-10-16T12:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "64b4885b-bc16-41b6-8f53-279d4099df19",
+                        "title": "Prise en charge des réactions allergiques aux produits de contraste",
+                        "start": "2023-10-16T11:45+02:00",
+                        "end": "2023-10-16T12:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5b433a0b-d679-4227-9905-f9e999414fed",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/425/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/425/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/425/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4962e693-4d5a-4b20-9eb6-6da0d0659fc1",
+                        "title": "Traitement des réactions",
+                        "start": "2023-10-16T12:05+02:00",
+                        "end": "2023-10-16T12:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "65940d0c-1142-4fa6-9b9d-3a479746c950",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/426/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/426/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/426/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

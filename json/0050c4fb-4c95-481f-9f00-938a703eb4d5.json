@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "0050c4fb-4c95-481f-9f00-938a703eb4d5",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1619/video/thumbs/poster.jpg",
+            "title": "Thyroïde: Doppler et Elastographie en pratique",
+            "start": "2023-10-13T12:50+02:00",
+            "end": "2023-10-13T13:05+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b36269f9-7890-43e7-864d-7f32e5217554",
+                        "title": "Thyroïde: Doppler et Elastographie en pratique",
+                        "start": "2023-10-13T12:50+02:00",
+                        "end": "2023-10-13T13:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d3eb4536-3f9f-43e7-8d1d-608256a136d1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1619/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1619/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1619/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

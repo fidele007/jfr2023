@@ -1,0 +1,186 @@
+{
+    "data": {
+        "event": {
+            "id": "c144f4a4-ef31-4959-9ec9-a7bc7543140d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/663/video/thumbs/poster.jpg",
+            "title": "Manipulateurs du monde :  Argentine et Italie",
+            "start": "2023-10-15T09:45+02:00",
+            "end": "2023-10-15T10:45+02:00",
+            "objectives": [
+                "<p>Comparer le rôle du manipulateur à l'international<br>",
+                "Découvrir la formation du manipulateur en dehors de nos frontières<br>",
+                "Identifier des techniques nouvelles</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e27c9a72-9cd4-4163-af4f-e3f533389d4c",
+                        "title": "Introduction",
+                        "start": "2023-10-15T09:45+02:00",
+                        "end": "2023-10-15T09:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dd27d855-1a94-41d2-850b-ec342d4f6c0c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/663/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/663/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/663/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b92b8cce-9b7d-43f5-897a-9302da9f824e",
+                        "title": "The radiographer role in Italy :  historical evolution and future persectives",
+                        "start": "2023-10-15T09:47+02:00",
+                        "end": "2023-10-15T09:59+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a4a8ac42-cd88-4082-8291-88bb8096794c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/664/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/664/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/664/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d127c548-a157-49a0-8005-5a05be7252aa",
+                        "title": "Radiographers training in Italy",
+                        "start": "2023-10-15T09:59+02:00",
+                        "end": "2023-10-15T10:11+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cff486ac-fe39-4856-9b83-d4aa18280267",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/665/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/665/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/665/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "25b23d5a-260c-4435-942d-1374c8b45b0a",
+                        "title": "L'association bioimages FAARDIT et actualités en Argentine",
+                        "start": "2023-10-15T10:11+02:00",
+                        "end": "2023-10-15T10:23+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "adeac0b8-67f0-4bb8-81cd-f294acc19e4c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/666/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/666/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/666/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4da27278-b15b-4bc6-a106-1d08c88b4bbc",
+                        "title": "La formation en radioprotection en argentine",
+                        "start": "2023-10-15T10:23+02:00",
+                        "end": "2023-10-15T10:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ad7658a6-7259-4bcf-9659-1a9d241cdedb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/667/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/667/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/667/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "133b4dbc-a48b-4cff-be89-61e04d9febdb",
+                        "title": "Temps d'évaluation par QCM -  Enquête de satisfaction",
+                        "start": "2023-10-15T10:35+02:00",
+                        "end": "2023-10-15T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

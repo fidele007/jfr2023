@@ -1,0 +1,211 @@
+{
+    "data": {
+        "event": {
+            "id": "acbf29b9-458a-4899-a510-d7cbb8f36039",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1421/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales : Imagerie musculo-squelettique : Avancées en Imagerie Diagnostique",
+            "start": "2023-10-14T11:00+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e892a47c-4446-4103-ab5b-99ffaaab7003",
+                        "title": "Sports related injuries in the muscles of the lower limb",
+                        "start": "2023-10-14T11:00+02:00",
+                        "end": "2023-10-14T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57362c26-6927-43f8-a8fb-0925ae471da9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1421/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1421/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1421/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e8e92b81-e454-4cf8-a52c-ea2f4a1ea281",
+                        "title": "Apport de la diffusion en IRM musculaire corps entier pour le diagnostic de la SLA",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e408edac-882e-49e8-a4b7-217adf7d0ccb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1422/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1422/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1422/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c50d24cd-c2d4-4c25-b8eb-9be81d5ba938",
+                        "title": "Apport du Zéro-Temps-Écho dans les tendinopathies calcifiantes de la coiffe des rotateurs en IRM",
+                        "start": "2023-10-14T11:24+02:00",
+                        "end": "2023-10-14T11:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70e26d4c-079e-437d-82f8-6ef3f032ad87",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1423/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1423/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1423/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aabcfcba-d2fb-402c-97ed-a1216b839dd2",
+                        "title": "Etude anatomique du paratendon d'Achille en échographie haute résolution",
+                        "start": "2023-10-14T11:33+02:00",
+                        "end": "2023-10-14T11:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "73d8ebf2-d943-41c8-85c3-33e5fc9af51f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1424/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1424/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1424/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "07e97f00-8787-4b26-8283-279abed77690",
+                        "title": "Scanner de la cheville en première intention chez les patients admis aux urgences",
+                        "start": "2023-10-14T11:42+02:00",
+                        "end": "2023-10-14T11:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "1bfcd4c6-41ae-4585-a79a-734b55da7900",
+                        "title": "Vieillissement et équilibre sagittal du rachis, corrélation à la densité minérale osseuse/musculaire. Apport de l'IA",
+                        "start": "2023-10-14T11:51+02:00",
+                        "end": "2023-10-14T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "17943f9b-48ed-4cbe-a9f7-6082170d16fb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1426/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1426/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1426/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4d392ad-b3da-44fb-b393-c81c4e45d5c1",
+                        "title": "Automatisation de la coxométrie avec un algorithme d’intelligence artificielle",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c7cc9745-abb9-404b-804e-ea2dd672a379",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1427/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1427/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1427/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

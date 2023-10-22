@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "31f611c0-0a21-4cf1-bddb-3916ec878bdf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/235/video/thumbs/poster.jpg",
+            "title": "Gérer les demandes d'examens d'imagerie aux urgences : un management multidisciplinaire",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:00+02:00",
+            "objectives": [
+                "<p>Connaitre le principe d'urgence et de délai d'examen du point de vue de l'urgentiste.</p>",
+                "<p>Savoir retrouver les outils permettant de décider des prises en charges en imagerie.</p>",
+                "<p>Connaitre les schémas techniques et managériaux innovants.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9915ae15-edc2-41c8-a5a9-c528d834c503",
+                        "title": "Bon usage des examens d’imagerie du point de vue de l’urgentiste : notion de délai",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "49d41dff-b8bd-44e7-a4c0-c92637f45360",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/235/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/235/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/235/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c9315639-88cf-4141-b93b-016876ddeeb6",
+                        "title": "Bon usage des examens d’imagerie du point de vue du radiologue : Principes et Réalités.",
+                        "start": "2023-10-14T14:15+02:00",
+                        "end": "2023-10-14T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a8ecbdaa-3556-4c3b-90fd-62df58d826b9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/236/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/236/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/236/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "04e23020-5826-4fed-8595-bfed7fc112a4",
+                        "title": "Gestion des demandes d’examen : innovations organisationnelles. Exemple du Hub Poitevin",
+                        "start": "2023-10-14T14:30+02:00",
+                        "end": "2023-10-14T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cfd60cb2-5ce2-4734-8839-75e61188563b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/237/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/237/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/237/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "589d55de-2b5c-4f20-af3f-aa6ae13785d9",
+                        "title": "Discussion générale :  Gérer les demandes d'examens d'imagerie aux urgences : un management multidisciplinaire",
+                        "start": "2023-10-14T14:45+02:00",
+                        "end": "2023-10-14T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0446438b-5387-4405-aa7e-3f178f33523c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/238/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/238/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/238/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

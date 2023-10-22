@@ -1,0 +1,186 @@
+{
+    "data": {
+        "event": {
+            "id": "984ba3e0-9452-4382-8614-9575869968e9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2032/video/thumbs/poster.jpg",
+            "title": "Malformation Vasculaire cérébrale : Imagerie & Surveillance",
+            "start": "2023-10-16T09:45+02:00",
+            "end": "2023-10-16T10:45+02:00",
+            "objectives": [
+                "<p>Rédiger un compte rendu descriptif et informatif d'une malformation vasculiare cérébrale</p>",
+                "<p>Rappeler des élements sémiologiques pertinents de la prise en charge</p>",
+                "<p>Proposer une prise en charge cliniqu</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b2e904b9-749a-4e22-b337-cfa588d3a6f2",
+                        "title": "Introduction",
+                        "start": "2023-10-16T09:45+02:00",
+                        "end": "2023-10-16T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6c7920e8-51bb-4b85-acd4-da763f1bccfc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2032/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2032/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2032/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ca1b3830-72cd-49e0-945e-91b2d841153e",
+                        "title": "Anévrismes intra crâniens : Imagerie initiale",
+                        "start": "2023-10-16T09:45+02:00",
+                        "end": "2023-10-16T09:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a9a2ccab-69a2-4e51-9bbc-0c7d470c3118",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1301/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1301/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1301/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "60d20293-0c14-405a-9d8a-27e5afe37538",
+                        "title": "Anévrismes intra crâniens : Quelle surveillance ? (spontanée ou post thérapeutique)",
+                        "start": "2023-10-16T09:55+02:00",
+                        "end": "2023-10-16T10:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "89d8742c-db5e-4ddd-b78f-0a846f7ed2f2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1302/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1302/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1302/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "86ea552b-46bb-4abc-9617-bea9b1efb33c",
+                        "title": "Imagerie des Shunts  Artério-veineuses cérébraux (malformation, fistule durale)",
+                        "start": "2023-10-16T10:05+02:00",
+                        "end": "2023-10-16T10:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7b1f1914-672a-45cb-b6e8-610a623cee4a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1303/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1303/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1303/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "47573a55-4ab6-404c-9dd2-47a7f42cb2a8",
+                        "title": "Autres Malformations vasculaires cérébrales: télangiectasie, cavernome, anomalie veineuse de dvpt, variantes anatomique",
+                        "start": "2023-10-16T10:20+02:00",
+                        "end": "2023-10-16T10:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1027c66b-6838-40fc-8ca3-923158fc9ddd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1304/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1304/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1304/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fcd9c100-7318-40e6-90d3-3c8754eb0353",
+                        "title": "Discussion générale :  Malformation Vasculaire cérébrale : Imagerie & Surveillanc",
+                        "start": "2023-10-16T10:35+02:00",
+                        "end": "2023-10-16T10:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

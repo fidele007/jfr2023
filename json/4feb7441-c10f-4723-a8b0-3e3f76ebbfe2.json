@@ -1,0 +1,171 @@
+{
+    "data": {
+        "event": {
+            "id": "4feb7441-c10f-4723-a8b0-3e3f76ebbfe2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1046/video/thumbs/poster.jpg",
+            "title": "Recommandations destruction des lésions de la thyroïde",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:00+02:00",
+            "objectives": [
+                "<p>Connaître les indications de la destruction de nodules thyroïdiens</p>",
+                "<p>Connaître les techniques de destructions thyroïdiennes</p>",
+                "<p>Savoir éviter les complications lors des destructions thyroïdiennes</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "db262ca3-8566-4a33-8960-2b8d68bcc857",
+                        "title": "Technique de l'ablation  des nodules thyroïdiens par radiofréquence",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "69acd896-905d-4892-9ba1-d383ab648682",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1045/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1045/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1045/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "092efd76-7683-4bb5-aded-e7f6b1a7de97",
+                        "title": "Ablation par radiofréquence des nodules thyroïdiens benins et nodule sécrétant",
+                        "start": "2023-10-13T14:12+02:00",
+                        "end": "2023-10-13T14:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0d650a73-84dc-4502-9dc4-d54286ebf2dd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1046/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1046/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1046/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b22b89f4-1ae8-47e7-a47b-4e72ff3f08b5",
+                        "title": "Thermo-ablation du cancer thyroïdien à faible risque",
+                        "start": "2023-10-13T14:24+02:00",
+                        "end": "2023-10-13T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "856c7b91-1966-4619-af95-7c152cb99147",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1047/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1047/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1047/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ab5c4c76-fac7-4150-8fd8-ca8010b563c6",
+                        "title": "Complications de l'ablation des nodules thyroidiens par radiofréquence",
+                        "start": "2023-10-13T14:36+02:00",
+                        "end": "2023-10-13T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "32932379-db07-4feb-907d-6fa7e507cb85",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1048/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1048/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1048/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9200c380-2e7f-4807-a74a-0c50d2c12166",
+                        "title": "Discussion générale : Recommandations destruction des lésions de la thyroïde",
+                        "start": "2023-10-13T14:48+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b02ae026-b6ab-41a6-aae4-7d5d15fe0cd1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1704/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1704/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1704/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

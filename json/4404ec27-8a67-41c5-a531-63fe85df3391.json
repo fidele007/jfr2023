@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "4404ec27-8a67-41c5-a531-63fe85df3391",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/324/video/thumbs/poster.jpg",
+            "title": "Radiologie interventionnelle des tassements vertébraux",
+            "start": "2023-10-15T11:00+02:00",
+            "end": "2023-10-15T12:00+02:00",
+            "objectives": [
+                "<p>Connaître l'anatomie de la colonne vertébrale utile en radiologie interventionnelle</p>",
+                "<p>Connaître la biomécanique de la colonne vertébrale et ses impications dans les tasssements et leurs prises en charge</p>",
+                "<p>Connaître les indications de traitement percutané des tassements vertébraux</p>",
+                "<p>Savoir effectuer un bilan pré-thérapeutique des tassements vertébraux</p>",
+                "<p>Connaître les techniques percutanées de traitement des tassements vertébraux</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0668c885-6647-49ad-b87e-885ef4c9739d",
+                        "title": "Anatomie et biomécanique de la colonne vertébrale appliquée à l'imagerie interventionnelle",
+                        "start": "2023-10-15T11:00+02:00",
+                        "end": "2023-10-15T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "86f49425-9e33-47d7-9443-90ce16794c3d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/324/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/324/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/324/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "79340bba-b142-45ba-88dd-e515104bcbd5",
+                        "title": "Bilan préthérapeutique des tassements vertébraux",
+                        "start": "2023-10-15T11:15+02:00",
+                        "end": "2023-10-15T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7eace47e-1446-415d-8b2b-514673d8ae5d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/325/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/325/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/325/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b272b98f-e390-4b62-bba9-da742d30b30d",
+                        "title": "Traitement percutané des tassements vertébraux",
+                        "start": "2023-10-15T11:30+02:00",
+                        "end": "2023-10-15T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "64327eb1-f288-4144-bb20-8f67b08a19eb",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/326/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/326/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/326/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9bb01cdd-8ce5-40d7-a191-9af1dcc04714",
+                        "title": "Discussion générale :  Radiologie interventionnelle des tassements vertébraux",
+                        "start": "2023-10-15T11:45+02:00",
+                        "end": "2023-10-15T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b03eeafd-8302-42bd-aad4-5f15018b7881",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/327/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/327/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/327/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

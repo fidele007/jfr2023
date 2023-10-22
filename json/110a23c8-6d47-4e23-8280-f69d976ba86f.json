@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "110a23c8-6d47-4e23-8280-f69d976ba86f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/472/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Echographie Doppler des fistules artério veineuses d’hémodialyse",
+            "start": "2023-10-14T16:15+02:00",
+            "end": "2023-10-14T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4250f6fb-2d37-4d89-8b11-ea824726ed07",
+                        "title": "Echographie Doppler des fistules artério veineuses d’hémodialyse",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "92a13362-0e79-4036-9b05-2c2b0f8b4d91",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/472/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/472/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/472/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

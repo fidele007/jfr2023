@@ -1,0 +1,81 @@
+{
+    "data": {
+        "event": {
+            "id": "2408fda9-fd40-4e84-9b1c-29879ed8348d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/463/video/thumbs/poster.jpg",
+            "title": "Oncologie de précision : Prise en charge du patient du diagnostic à l’'intervention",
+            "start": "2023-10-13T12:30+02:00",
+            "end": "2023-10-13T13:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "68612875-248b-4dd6-9e62-787dc75b3191",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/463/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/463/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/463/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e068a68c-303c-4fb6-af7e-813776067c3c",
+                        "title": "Apport du Deep learning pour le diagnostic des lésions hépatiques en IRM et Scanner",
+                        "start": "2023-10-13T12:30+02:00",
+                        "end": "2023-10-13T12:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "577d3d5d-72a9-4647-ba49-65192b19c3a7",
+                        "title": "Des solutions interventionnelles innovantes pour les traitements hépatiques",
+                        "start": "2023-10-13T12:50+02:00",
+                        "end": "2023-10-13T13:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "04d9742e-caa3-44fb-90da-6d376edf4611",
+                        "title": "Point de vue en sénologie avec une innovation organisationnelle : One Stop clinic",
+                        "start": "2023-10-13T13:10+02:00",
+                        "end": "2023-10-13T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

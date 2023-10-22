@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "850ba5cb-f92d-4b85-a5cb-059420e0d4a4",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/128/video/thumbs/poster.jpg",
+            "title": "Intelligence Artificielle et diagnostic médical. Quels enjeux éthiques ?",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:30+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, le congressiste est en mesure de&nbsp; :</p>",
+                "<p>Connaitre l'essentiel de l'avis 141 du Comité Consultatif National d'Ethique (CCNE)/ avis 4 du CNPEN</p>",
+                "<p>S'approprier le vocabulaire de l'IA en médecine&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre précisément les principaux enjeux éthiques posés par l'introduction d'outils d'IA en médecine et en radiologie&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "73524226-e4c3-4b11-a734-fc10d8c54624",
+                        "title": "Présentation de l'avis 141 du CCNE/avis 4 CNPEN",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3d8c722b-752f-4f8b-aad3-f2b1848def0e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/128/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/128/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/128/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "972755ba-236b-4f52-8a54-e8d9157ecd3a",
+                        "title": "Limites et fantasmes, le point de vue du chercheur",
+                        "start": "2023-10-13T14:20+02:00",
+                        "end": "2023-10-13T14:34+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2460b933-ffe1-4633-9455-060470496c9b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/129/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/129/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/129/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "33a4daa6-a046-4ee1-a75a-943d310797e0",
+                        "title": "Ethique by design : Quels points de vigilance ?",
+                        "start": "2023-10-13T14:34+02:00",
+                        "end": "2023-10-13T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "21e10506-0821-475e-8e64-98651dce1b11",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/130/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/130/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/130/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4ec376a2-3d1a-4517-957f-2be9ef12ec4f",
+                        "title": "Discussion générale :  Quelles déclinaisons en pratique radiologique de l'avis 141  ?",
+                        "start": "2023-10-13T14:48+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "75364a35-2d85-405b-9139-b87f21a29d59",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/131/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/131/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/131/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

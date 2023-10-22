@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "62454367-28e7-492f-a557-8da40f8fb205",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/974/video/thumbs/poster.jpg",
+            "title": "Your JFR : Imaging Crohn’s disease: all you need to know",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "66311bbb-5f68-4bf5-8a45-a7f2032fe3f2",
+                        "title": "Introduction",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cf9a4229-6ad8-4529-9724-30ed8268db43",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2056/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2056/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2056/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "94bc1e76-7b1c-4a2c-8439-c82f97cf5a54",
+                        "title": "Cross-sectional Small Bowel imaging in Inflammatory Bowel Disease: ESGAR recommendations for performance and optimized reporting",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8c81e5be-c12f-409d-85f6-c02095ecebaf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/974/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/974/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/974/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "1484287b-567d-478d-9149-d414032cd86b",
+                        "title": "Imaging fibrosis in Crohn's disease at MRI: current status and future perspectives",
+                        "start": "2023-10-13T16:35+02:00",
+                        "end": "2023-10-13T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "322c9d52-011f-4591-ad71-7de28ca70484",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/975/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/975/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/975/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9b9e1e00-e2e3-41de-b364-386eb63c580d",
+                        "title": "MRI of Crohn’s perianal fistulas: what the clinician wants to know",
+                        "start": "2023-10-13T16:55+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "18e79aae-355e-4aa3-a61e-d2be52e95922",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/976/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/976/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/976/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

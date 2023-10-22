@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "fd5cd2f1-55e1-47a9-8cd4-534331be9c73",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1648/video/thumbs/poster.jpg",
+            "title": "Echographie interventionnelle musculosquelettique sur un fantome fait maison",
+            "start": "2023-10-14T16:35+02:00",
+            "end": "2023-10-14T16:40+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2a2ac2ec-2700-4e9b-a078-eeb8328b218f",
+                        "title": "Echographie interventionnelle musculosquelettique sur un fantome fait maison",
+                        "start": "2023-10-14T16:35+02:00",
+                        "end": "2023-10-14T16:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "740834b1-0f1e-4006-ad59-5a4f4e9b9d1a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1648/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1648/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1648/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

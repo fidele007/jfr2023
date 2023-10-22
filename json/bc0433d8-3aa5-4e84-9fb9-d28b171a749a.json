@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "bc0433d8-3aa5-4e84-9fb9-d28b171a749a",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2101/video/thumbs/poster.jpg",
+            "title": "RemedyLogic Radiology AI for spine",
+            "start": "2023-10-14T17:40+02:00",
+            "end": "2023-10-14T17:55+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6485404f-b48a-4bcf-a708-c472c48baf26",
+                        "title": "RemedyLogic Radiology AI for spine",
+                        "start": "2023-10-14T17:40+02:00",
+                        "end": "2023-10-14T17:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

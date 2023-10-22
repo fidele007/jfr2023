@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "6b547d0c-f7a3-4f91-95c9-15a4753c08d4",
+            "picture": null,
+            "title": "JFR Internationales",
+            "start": "2023-10-16T09:15+02:00",
+            "end": "2023-10-16T17:00+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9e0ee9f4-1d15-41a7-8513-f4097359c0b2",
+                        "title": "JFR Internationales",
+                        "start": "2023-10-16T09:15+02:00",
+                        "end": "2023-10-16T09:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

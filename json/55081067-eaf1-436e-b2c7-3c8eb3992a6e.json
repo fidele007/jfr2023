@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "55081067-eaf1-436e-b2c7-3c8eb3992a6e",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/359/video/thumbs/poster.jpg",
+            "title": "Atelier d'échographie -  Prise en charge échographique des hyperthyroïdies",
+            "start": "2023-10-15T16:15+02:00",
+            "end": "2023-10-15T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "91c7fffb-465d-47b5-8b78-63babb988035",
+                        "title": "Prise en charge échographique des hyperthyroïdies",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "93232bd4-e005-446e-9457-a0435188ae18",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/359/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/359/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/359/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

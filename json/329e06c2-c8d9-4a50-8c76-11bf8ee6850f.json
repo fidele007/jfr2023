@@ -1,0 +1,196 @@
+{
+    "data": {
+        "event": {
+            "id": "329e06c2-c8d9-4a50-8c76-11bf8ee6850f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1307/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en Radiologie Interventionnelle",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "57d3e487-1ac4-4c5f-9d6f-9fe30eb7b19d",
+                        "title": "Vis cimentées dans les lésions lytiques du bassin : évaluation à long terme",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8320b093-e7ed-4ed8-9e38-0271c48c0e00",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1307/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1307/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1307/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a0bdfc46-d651-404c-a929-fcd0b929f879",
+                        "title": "Preoperative transcatheter arterial embolization of hypervascular musculoskeletal tumors",
+                        "start": "2023-10-15T15:39+02:00",
+                        "end": "2023-10-15T15:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f9edeba9-a4a2-4a90-bfa8-41b45b4c35a4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1308/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1308/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1308/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "825db3b3-2c50-4378-bde6-a155774a09d2",
+                        "title": "Bland embolization in patients with intrahepatic cholangiocarcinoma: Analysis of parameters associated with overall survival",
+                        "start": "2023-10-15T15:48+02:00",
+                        "end": "2023-10-15T15:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4810347c-6eaa-473c-97cf-1f04ea71d747",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1309/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1309/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1309/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "44efb527-269a-484c-b05a-71e4e5f34491",
+                        "title": "Clinical benchmarking of Radiation Dose Monitor® use for patient skin dose estimation in interventional radiology",
+                        "start": "2023-10-15T15:57+02:00",
+                        "end": "2023-10-15T16:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "81cb1647-2097-4d69-86a2-7729222be3ef",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1310/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1310/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1310/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9e510377-51ba-4031-8963-c3e295f6d7c9",
+                        "title": "Embolisation portale sous guidage tridimensionnel avec logiciel de détection automatique des vaisseaux: faisabilité et sécurité",
+                        "start": "2023-10-15T16:06+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cc500ad4-e1ee-46b2-9c57-7e9c2b245ddc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1311/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1311/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1311/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d762f1fc-8618-4433-9ab1-023f4e624dd0",
+                        "title": "Interventional radiology-operated endoscopy technique using Holmium laser in treatment of intrahepatic and choledochal biliary stones:",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T16:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4c385743-4604-46a2-a48f-9f3d1eea4356",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1312/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1312/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1312/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

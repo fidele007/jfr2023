@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "e4591103-63a4-4b54-87ac-acc0e0a43547",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/293/video/thumbs/poster.jpg",
+            "title": "La pubalgie du sportif ; définitions et imagerie utile",
+            "start": "2023-10-15T08:15+02:00",
+            "end": "2023-10-15T09:15+02:00",
+            "objectives": [
+                "<p>Connaitre les principales structures anatomiques du carrefour inguino-pubien</p>",
+                "<p>Savoir l'aspect échographique normal des éléments à analyser en cas de pubalgie</p>",
+                "<p>Connaitre l'importance de l'IRM pour l'étude de la symphyse et des tendons de voisinage</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "41b0a90e-81dd-4fbc-905b-7addabbaaf7f",
+                        "title": "Qu'est-ce que la pubalgie du sportif ; définitions et anatomie",
+                        "start": "2023-10-15T08:15+02:00",
+                        "end": "2023-10-15T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d276d02c-0fcb-4c11-a345-e32bd7005d6b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/293/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/293/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/293/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9690af8a-ff6c-430b-817e-5ee1abe56266",
+                        "title": "L'échographie dans la pubalgie du sportif",
+                        "start": "2023-10-15T08:30+02:00",
+                        "end": "2023-10-15T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e377d973-f974-4c55-90fb-9a995d978f22",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/294/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/294/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/294/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d62a54b9-5cd6-487f-a529-8e02517b6cec",
+                        "title": "IRM des pubalgies",
+                        "start": "2023-10-15T08:45+02:00",
+                        "end": "2023-10-15T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b94bb346-35eb-4123-a7d5-a7ba727078cc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/295/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/295/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/295/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a13fb261-2ba5-492d-acd2-9c5e65bc54fa",
+                        "title": "Discussion générale : La pubalgie du sportif ; définitions et imagerie utile",
+                        "start": "2023-10-15T09:00+02:00",
+                        "end": "2023-10-15T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "95c05d27-1712-43fe-97f6-c93129d5c194",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/296/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/296/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/296/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

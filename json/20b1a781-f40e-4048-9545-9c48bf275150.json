@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "20b1a781-f40e-4048-9545-9c48bf275150",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/562/video/thumbs/poster.jpg",
+            "title": "Le BaBA de la recherche en imagerie médico-légale",
+            "start": "2023-10-14T11:15+02:00",
+            "end": "2023-10-14T12:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Connaître les principales problématiques soulevées en recherche en imagerie forensique</p>",
+                "<p>Aborder les contraintes réglementaires à connaître avant de débuter un travail de recherche en imagerie forensique</p>",
+                "<p>Aborder les notions de méthologies pertinentes à mettre en oeuvre</p>",
+                "<p>Découvrir des exemples de travaux menés en imagerie forensique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "eae0540d-661f-4766-aebd-95494d12fc98",
+                        "title": "La recherche en imagerie médico-légale : comment ? Pour qui ? Pourquoi ?",
+                        "start": "2023-10-14T11:15+02:00",
+                        "end": "2023-10-14T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bf99966f-ba94-417b-b45e-b16fbb67f09b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/562/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/562/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/562/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fe2f6f5b-8ddd-4873-afdb-4ea7a99adf2a",
+                        "title": "Enjeux réglementaires, éthiques et déontologiques de la recherche en imagerie forensique",
+                        "start": "2023-10-14T11:30+02:00",
+                        "end": "2023-10-14T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ae07c786-4b29-4b99-a575-4a9226583c9c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/563/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/563/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/563/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c95bfc86-0ef6-42af-8c40-00d2ccc8d126",
+                        "title": "Cas concret : exemple d'un travail bicentrique portant sur l'imagerie des morts violentes de l'enfant",
+                        "start": "2023-10-14T11:45+02:00",
+                        "end": "2023-10-14T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "442c67d0-61a4-4b67-bcb8-3aacbf14e2d0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/564/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/564/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/564/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "01211448-5fa1-4627-9d73-4877344911d9",
+                        "title": "Discussion générale :  Je souhaite débuter un travail de recherche en imagerie médico-légale : quel raisonnement et quelle méthodologie envisager ?",
+                        "start": "2023-10-14T12:00+02:00",
+                        "end": "2023-10-14T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1fd841af-7a86-4452-975a-59bfaf86133b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/565/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/565/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/565/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

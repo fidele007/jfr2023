@@ -1,0 +1,56 @@
+{
+    "data": {
+        "event": {
+            "id": "9637a7b8-e86e-4ede-80f7-ed732d6cddd2",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1585/video/thumbs/poster.jpg",
+            "title": "Radiologie Augmentée à l'heure de GPT:  l'IA Générative change-t-elle la donne ?",
+            "start": "2023-10-14T10:35+02:00",
+            "end": "2023-10-14T11:05+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Avoir des notions de bases sur les Large langage model (LLM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre des potentiels applications des LLM&nbsp; dans le champs de la médecin et en particulier de la radiologie&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaitre les limites de ces outils et la complexité associé à l'evaluation de leur performances&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6ed4afc8-31ad-4487-816e-a5b8a07c0624",
+                        "title": "Radiologie Augmentée à l'heure de GPT:  l'IA Générative change-t-elle la donne ?",
+                        "start": "2023-10-14T10:35+02:00",
+                        "end": "2023-10-14T11:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6fd2a1ae-0906-4d5e-8ad4-e064049525e5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1585/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1585/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1585/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

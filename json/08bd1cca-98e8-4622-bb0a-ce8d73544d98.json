@@ -1,0 +1,186 @@
+{
+    "data": {
+        "event": {
+            "id": "08bd1cca-98e8-4622-bb0a-ce8d73544d98",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1113/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie thoracique",
+            "start": "2023-10-13T08:15+02:00",
+            "end": "2023-10-13T09:15+02:00",
+            "objectives": [
+                "<p>\"- Connaître les derniers développements scientifiques en imagerie thoracique</p>",
+                "<p>- Être&nbsp;au fait des potentielles innovations technologiques en imagerie thoracique</p>",
+                "<p>- Savoir évaluer l'intérêt clinique d'une nouvelle technologie/nouveau logiciel/nouvelle méthodologie en imagerie thoracique\"</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8aa2cb43-5fc4-42fc-8d48-dcf512daf69c",
+                        "title": "Non-contrast-Enhanced Functional Lung MRI to evaluate treatment response of ABPA in CF patients",
+                        "start": "2023-10-13T08:15+02:00",
+                        "end": "2023-10-13T08:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "78fcc5b7-d73a-4a6c-b98d-1f66b5954d93",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1113/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1113/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1113/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7fdd67b0-cb36-4f74-b9c7-bfcfea7badcb",
+                        "title": "Dépistage du cancer broncho-pulmonaire chez des sujets exposés professionnellement (LUCSO): un dépistage \"holistique\" ?",
+                        "start": "2023-10-13T08:24+02:00",
+                        "end": "2023-10-13T08:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "96c7f396-b454-4dc1-91ab-2bb74dca0812",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1114/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1114/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1114/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2d8e39b3-60a1-45d3-91a8-4847d86405dc",
+                        "title": "Additional Value of Lung Ultra-High-Resolution Photon-Counting CT imaging for Multidisciplinary Classification of Idiopathic Pulmonary Fibrosis",
+                        "start": "2023-10-13T08:33+02:00",
+                        "end": "2023-10-13T08:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "bdb4bd53-b1ba-4725-bf5f-966f16b782a5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1115/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1115/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1115/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "df2e0930-ee31-4570-9d2f-9f408cbbb912",
+                        "title": "Analyse automatisée de la fonction diaphragmatique par IRM",
+                        "start": "2023-10-13T08:42+02:00",
+                        "end": "2023-10-13T08:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2082914d-6a2a-42bd-b424-5840b06cb87f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1116/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1116/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1116/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8520b10d-f07f-4093-a89b-ee70844375a7",
+                        "title": "Impact of Mechanical Thrombectomy on Lung Perfusion in Acute Pulmonary Embolism using Dual-Energy CT",
+                        "start": "2023-10-13T08:51+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "78b22af2-c993-4898-a7cd-0754a706b8b8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1117/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1117/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1117/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c1573340-be36-44cc-b54e-217b3ff1eae9",
+                        "title": "Scanner versus radiographie standard du thorax en première intention chez les patients admis aux urgences",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

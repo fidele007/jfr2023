@@ -1,0 +1,146 @@
+{
+    "data": {
+        "event": {
+            "id": "157ea920-66d5-430b-83c7-916a9d4614a1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/269/video/thumbs/poster.jpg",
+            "title": "Gestion endovasculaire de l’hypertension portale : Au-delà du TIPS",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<ul>",
+                "\t<li>Connaître l’imagerie de l’hypertension portale par blocage pré-hépatique</li>",
+                "\t<li>Savoir positionner le traitement endovasculaire, en dehors du TIPS, dans la stratégie thérapeutique globale de l’hémorragie digestive sur hypertension portale pré-hépatique ou sur varices ectopiques.</li>",
+                "\t<li>Savoir planifier le traitement&nbsp;endovasculaire de l'hypertension portale pré-hépatique et des&nbsp;VE en se basant sur des éléments anatomiques de l’imagerie pré-interventionnelle.</li>",
+                "\t<li>Connaitre les différentes techniques de traitement endovasculaire de l'hypertension portale pré-hépatique&nbsp;ainsi que les modalités de guidage.</li>",
+                "\t<li>Connaitre les résultats et les complications potentielles en fonction de la modalité thérapeutique choisie.</li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ebf02a51-534c-4184-b4f3-11b9514090a3",
+                        "title": "Comprendre par l’imagerie l’hypertension portale par blocage pré-hépatique",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "366e633c-4a65-43f5-bf3e-132e4739a700",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/269/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/269/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/269/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7b3ca832-39ff-4d5b-aab1-4ae9ae2948d7",
+                        "title": "Quand et comment recanaliser une occlusion chronique du système porte?",
+                        "start": "2023-10-14T18:00+02:00",
+                        "end": "2023-10-14T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "852526ea-9e2a-4e45-a037-fc45bb1d3b2c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/270/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/270/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/270/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f9806bc1-6a6f-411d-847d-57880b614ce7",
+                        "title": "Quand et comment emboliser les varices ectopiques ?",
+                        "start": "2023-10-14T18:15+02:00",
+                        "end": "2023-10-14T18:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5d8699a3-03eb-49c5-9099-c9da4af6b9d8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/271/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/271/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/271/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "24709abe-1dce-43e7-ac45-b50170d431a5",
+                        "title": "Discussion générale :  Gestion endovasculaire de l’hypertension portale : Au-delà du TIPS",
+                        "start": "2023-10-14T18:30+02:00",
+                        "end": "2023-10-14T18:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "526eb63e-a9de-4f00-8a38-0b2624f7ffd0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/272/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/272/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/272/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

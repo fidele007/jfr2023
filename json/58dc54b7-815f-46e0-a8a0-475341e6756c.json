@@ -1,0 +1,97 @@
+{
+    "data": {
+        "event": {
+            "id": "58dc54b7-815f-46e0-a8a0-475341e6756c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2038/video/thumbs/poster.jpg",
+            "title": "Comité d’harmonisation des centres de formation de manipulateurs d’électroradiologie médicale",
+            "start": "2023-10-16T10:00+02:00",
+            "end": "2023-10-16T17:00+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "08cf07f2-31e3-41fe-b36c-af749c740992",
+                        "title": "Comité d'harmonisation matin",
+                        "start": "2023-10-16T10:00+02:00",
+                        "end": "2023-10-16T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "2ef9cc46-852a-4374-999c-f33528009824",
+                        "title": "Introduction matin",
+                        "start": "2023-10-16T12:00+02:00",
+                        "end": "2023-10-16T12:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "d37e94d6-b78b-427f-9bbc-fcb20565d558",
+                        "title": "Comité d'harmonisation après-midi",
+                        "start": "2023-10-16T12:05+02:00",
+                        "end": "2023-10-16T12:17+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "6c6db9d2-e181-48b9-9174-d380f02f984c",
+                        "title": "Introduction après-midi",
+                        "start": "2023-10-16T12:17+02:00",
+                        "end": "2023-10-16T12:22+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "e0a4c0d4-ae4c-490f-8a78-e28cb251da44",
+                        "title": "Mission d'accompagnement à l'universitarisation",
+                        "start": "2023-10-16T12:22+02:00",
+                        "end": "2023-10-16T12:52+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "4d96209e-ec3e-4d09-bb10-e0bf4d4cdb20",
+                        "title": "De merm-formateur à enseignant-chercheur",
+                        "start": "2023-10-16T12:52+02:00",
+                        "end": "2023-10-16T13:04+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "7316eee6-9e4d-4926-94e1-da988cabb94a",
+                        "title": "Tests de positionnement",
+                        "start": "2023-10-16T13:04+02:00",
+                        "end": "2023-10-16T13:34+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "2fe02c8a-e64c-42d4-a7cd-06bcca4e53e4",
+                        "title": "Enquêtes 2023",
+                        "start": "2023-10-16T13:34+02:00",
+                        "end": "2023-10-16T13:46+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "911e87d3-728e-4673-b282-2d41199c272c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/470/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Echo-doppler veineux des membres inférieurs",
+            "start": "2023-10-16T14:15+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5d6dca3e-3b9d-4828-90de-8fe21df49b1b",
+                        "title": "Echo Doppler - Echo-doppler veineux des membres inférieurs",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e82f191d-e1d1-4290-91df-652f7bf038d2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/470/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/470/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/470/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

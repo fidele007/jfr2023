@@ -1,0 +1,39 @@
+{
+    "data": {
+        "event": {
+            "id": "9ca9d295-11f1-4a6e-a14f-3d0a8fdc097f",
+            "picture": null,
+            "title": "Séance DPC : Coroscanner",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T18:00+02:00",
+            "objectives": [
+                "<p>Cette séance est accessible uniquement sur inscription auprès de l'ODPCRIM</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "606c3d15-a722-40af-95d7-d7e0882c553f",
+                        "title": "Coroscanner",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

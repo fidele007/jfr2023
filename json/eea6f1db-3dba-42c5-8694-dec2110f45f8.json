@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "eea6f1db-3dba-42c5-8694-dec2110f45f8",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2161/video/thumbs/poster.jpg",
+            "title": "Debrief des JFR",
+            "start": "2023-10-16T08:15+02:00",
+            "end": "2023-10-16T09:15+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "2453020b-b2ee-404c-bd72-a9d27dda9113",
+                        "title": "Debrief des JFR",
+                        "start": "2023-10-16T08:15+02:00",
+                        "end": "2023-10-16T08:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

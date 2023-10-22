@@ -1,0 +1,71 @@
+{
+    "data": {
+        "event": {
+            "id": "ddf5f230-37fd-42db-95a2-68925b434975",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1936/video/thumbs/poster.jpg",
+            "title": "Séance qualité/Accréditation",
+            "start": "2023-10-16T11:05+02:00",
+            "end": "2023-10-16T11:50+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "64554d23-6616-434f-a19f-d1364a72d076",
+                        "title": "Introduction",
+                        "start": "2023-10-16T11:05+02:00",
+                        "end": "2023-10-16T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c8c8e213-de74-4502-9bd6-d0547836d3c6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1936/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1936/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1936/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "02110fa3-c4a9-496f-936d-6a01358e5645",
+                        "title": "Présentation des SSP",
+                        "start": "2023-10-16T11:15+02:00",
+                        "end": "2023-10-16T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "35f0a96c-14fc-4353-b441-7864ddfa6dfc",
+                        "title": "Echanges et discussion",
+                        "start": "2023-10-16T11:25+02:00",
+                        "end": "2023-10-16T11:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

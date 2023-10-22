@@ -1,0 +1,77 @@
+{
+    "data": {
+        "event": {
+            "id": "8b59a500-ecd4-40ee-85ff-f850b9f42a5c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/12/video/thumbs/poster.jpg",
+            "title": "Rencontre SFR-SFC - Evaluation du risque coronaire et prédiction du risque",
+            "start": "2023-10-12T11:30+02:00",
+            "end": "2023-10-12T12:50+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "45e0beaf-68d1-4be9-9b49-ff1b16293c40",
+                        "title": "Cas cliniques juniors cardio radio Lille",
+                        "start": "2023-10-12T11:30+02:00",
+                        "end": "2023-10-12T11:44+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "4e3e31e3-5c64-4916-999d-8c8976924f8e",
+                        "title": "Intérêt et limites des scores de risques cliniques",
+                        "start": "2023-10-12T11:44+02:00",
+                        "end": "2023-10-12T11:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "354036dc-01cf-4e36-88ae-9e3ba78a8195",
+                        "title": "Score calcique",
+                        "start": "2023-10-12T11:57+02:00",
+                        "end": "2023-10-12T12:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "fc5e0c1d-a698-4911-8b6c-bb9a1f01dadf",
+                        "title": "Coroscanner",
+                        "start": "2023-10-12T12:10+02:00",
+                        "end": "2023-10-12T12:23+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "58c2439a-4038-4ec4-b7b1-8c1b46aafb5f",
+                        "title": "Quantification de la graisse épicardique et pericoronaire",
+                        "start": "2023-10-12T12:23+02:00",
+                        "end": "2023-10-12T12:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "676e1a7a-6bb1-4df5-9638-011d5aa413cf",
+                        "title": "Solution du cas cliniques",
+                        "start": "2023-10-12T12:36+02:00",
+                        "end": "2023-10-12T12:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

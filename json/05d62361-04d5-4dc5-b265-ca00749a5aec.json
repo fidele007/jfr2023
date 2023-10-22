@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "05d62361-04d5-4dc5-b265-ca00749a5aec",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/475/video/thumbs/poster.jpg",
+            "title": "Echo-Doppler -  Caractérisations des plaques avec injection de PCUS",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d89e4a58-4e77-40fd-991d-845290b51645",
+                        "title": "Echo-Doppler -  Caractérisations des plaques avec injection de PCUS",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c2f43aec-9080-48dc-bd66-c982a09a73d4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/475/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/475/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/475/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

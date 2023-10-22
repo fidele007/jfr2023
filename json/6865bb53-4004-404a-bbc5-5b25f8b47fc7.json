@@ -1,0 +1,115 @@
+{
+    "data": {
+        "event": {
+            "id": "6865bb53-4004-404a-bbc5-5b25f8b47fc7",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/435/video/thumbs/poster.jpg",
+            "title": "L'avant-pied: du classique à l'inhabituel",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<p>- Connaitre les avantages et les limites de chaque modalité d'imagerie pour explorer une douleur mécanique de l'avant-pied.</p>",
+                "<p>- Savoir reconnaître les présentations et localisations privilégiées des atteintes rhumatismales à l'avant-pied pour en faire un diagnostic précoce.</p>",
+                "<p>- Connaitre les manifestations typiques et les pièges des affections microcristallines.</p>",
+                "<p>- Savoir reconnaitre les pseudo-lésions tumorales de l'avant-pied en imagerie.</p>",
+                "<p>- Connaitre les signes d'alerte nécessitant un avis spécialisé devant une lésion d'allure tumorale de l'avant-pied.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4539a521-86da-41a2-accd-92a0139d667e",
+                        "title": "L'avant-pied mécanique: du classique à l'inhabituel",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "70493136-1a82-406d-8a1a-9e3e88b479c4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/435/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/435/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/435/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f499793b-6da5-4029-a9fb-86a1c7cbbd21",
+                        "title": "L'avant-pied inflammatoire: du classique à l'inhabituel",
+                        "start": "2023-10-16T14:15+02:00",
+                        "end": "2023-10-16T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a6f79126-0b2b-4322-80be-2192be80891e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/436/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/436/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/436/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c5e655cb-5a27-421c-a97c-438b8d14ecb7",
+                        "title": "L'avant-pied tumoral: du classique à l'inhabituel",
+                        "start": "2023-10-16T14:30+02:00",
+                        "end": "2023-10-16T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "84a76142-3fe0-4d2a-b31e-127ee43cf1ee",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/437/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/437/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/437/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

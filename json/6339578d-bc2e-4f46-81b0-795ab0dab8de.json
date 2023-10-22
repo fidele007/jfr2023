@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "6339578d-bc2e-4f46-81b0-795ab0dab8de",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/447/video/thumbs/poster.jpg",
+            "title": "Petites malformations et/ou variantes de l'oreille en imagerie",
+            "start": "2023-10-16T15:00+02:00",
+            "end": "2023-10-16T16:00+02:00",
+            "objectives": [
+                "<p>Les petites malformations de l'oreille sont le plus souvent détectées à l’âge adulte.</p>",
+                "<p>Selon qu'il s'agit d'une découverte fortuite ou d'un bilan de surdité, il est très important de les reconnaitre car leur détection peut changer radicalement la prise en charge thérapeutique.&nbsp;</p>",
+                "<p>Il est important de les distinguer de simples variantes de l'anatomie normale (la plus commune).&nbsp;</p>",
+                "<p>Celles-ci doivent également être repérées car potentiellement à l'origine de diagnostics erronés ou voire de complications post opératoires.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "017521ad-172b-4d95-9e28-e0b61d40cc7b",
+                        "title": "Malformations de l'oreille interne",
+                        "start": "2023-10-16T15:00+02:00",
+                        "end": "2023-10-16T15:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6503e827-e69b-48e9-bd9c-a18cc3f0bb72",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/447/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/447/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/447/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "442a6daa-94c1-4f8a-9125-d2472ab6329a",
+                        "title": "Malformations de l'oreille moyenne",
+                        "start": "2023-10-16T15:15+02:00",
+                        "end": "2023-10-16T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cd0eda72-7cf7-4f93-b847-01e118b4ebf7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/448/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/448/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/448/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f46f7e4e-e02e-42e6-aadc-1acfc36a0139",
+                        "title": "Variantes à risque chirurgical ou à l'origine d'erreurs diagnostiques",
+                        "start": "2023-10-16T15:30+02:00",
+                        "end": "2023-10-16T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cebff435-86ce-411b-9e1a-6886b07c6071",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/449/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/449/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/449/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3ed0faac-64be-4ec6-b858-efdf8781078b",
+                        "title": "Discussion générale :  Petites malformations et/ou variantes de l'oreille en imagerie",
+                        "start": "2023-10-16T15:45+02:00",
+                        "end": "2023-10-16T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4a881a78-5398-45fc-a23b-87ac449a8127",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/491/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/491/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/491/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "edc3b7e0-6c52-418b-974f-b4d1312dfb67",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/66/video/thumbs/poster.jpg",
+            "title": "Imagerie cardiovasculaire - 4d Flow",
+            "start": "2023-10-13T10:15+02:00",
+            "end": "2023-10-13T11:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "879794ea-c374-40c9-bc92-82f0b1af7b3a",
+                        "title": "4d Flow",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T10:37+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d758b13a-27b2-4fff-b611-be9648881fc4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/66/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/66/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/66/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b654c1a9-d51c-4655-a69d-0e48a08265d9",
+                        "title": "4d Flow",
+                        "start": "2023-10-13T10:37+02:00",
+                        "end": "2023-10-13T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "49d8d358-ec7b-48a9-b9cc-11e3c1855a28",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2077/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2077/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2077/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

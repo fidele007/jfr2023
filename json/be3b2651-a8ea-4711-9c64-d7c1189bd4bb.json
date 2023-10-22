@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "be3b2651-a8ea-4711-9c64-d7c1189bd4bb",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1660/video/thumbs/poster.jpg",
+            "title": "Macrobiopsie sous guidage échographique",
+            "start": "2023-10-15T13:45+02:00",
+            "end": "2023-10-15T14:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "81327e31-939f-4c68-ab6a-05feaad6f844",
+                        "title": "Macrobiopsie sous guidage échographique",
+                        "start": "2023-10-15T13:45+02:00",
+                        "end": "2023-10-15T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "225efdf0-16c9-4df4-b6e5-e6b2884dfd3e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1660/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1660/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1660/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

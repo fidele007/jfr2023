@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "c34c7c28-480c-49ff-a1d4-9c1a21990b53",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1627/video/thumbs/poster.jpg",
+            "title": "Echographie de contraste hépatique  :  cas cliniques commentés",
+            "start": "2023-10-13T16:40+02:00",
+            "end": "2023-10-13T17:10+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e0f9fe30-9a51-4856-bb47-75af4ec820ab",
+                        "title": "Echographie de contraste hépatique  :  cas cliniques commentés",
+                        "start": "2023-10-13T16:40+02:00",
+                        "end": "2023-10-13T17:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fa64a5e8-4f81-4663-bbe2-25f3372fc7e4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1627/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1627/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1627/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

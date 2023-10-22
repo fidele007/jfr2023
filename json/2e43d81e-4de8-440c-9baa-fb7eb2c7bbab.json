@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "2e43d81e-4de8-440c-9baa-fb7eb2c7bbab",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/63/video/thumbs/poster.jpg",
+            "title": "Atelier  EU-TIRADS",
+            "start": "2023-10-13T14:15+02:00",
+            "end": "2023-10-13T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "48e972fa-5b0f-4c01-b54c-8e83bfbbf5fe",
+                        "title": "Eu-Tirads",
+                        "start": "2023-10-13T14:15+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "decb96c2-ea13-470f-91d3-818997288310",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/63/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/63/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/63/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

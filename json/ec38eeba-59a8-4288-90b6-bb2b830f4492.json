@@ -1,0 +1,196 @@
+{
+    "data": {
+        "event": {
+            "id": "ec38eeba-59a8-4288-90b6-bb2b830f4492",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1522/video/thumbs/poster.jpg",
+            "title": "Séance académique : Les meilleurs papiers de l'année :  les pépites de l'Intelligence Artificelle en 2023 :  publications conjointes radiologues français et partenaires industriels",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "bf4b4758-5be3-46cd-be3f-97c2e31cc06d",
+                        "title": "Learning from the machine: AI assistance is not an effective learning tool for resident education in chest x-ray interpretatio",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2fa5dae7-9e95-4871-b786-cb59d2f4cc11",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1522/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1522/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1522/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d8635521-14e0-4af4-988e-c45121cc62ca",
+                        "title": "Assessment of a combined musculo-skeletal and chest deep learning-based detection solution in an emergency setting",
+                        "start": "2023-10-15T14:20+02:00",
+                        "end": "2023-10-15T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9562dc0c-9777-4f46-b0a6-768fea47f864",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1521/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1521/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1521/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7539e5f7-7346-41c3-a0c1-fd081343bf3e",
+                        "title": "Impact of artificial intelligence in breast cancer screening with mammography",
+                        "start": "2023-10-15T14:40+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0d3aa3ac-4056-4226-bcd2-5dba57875f5b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1520/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1520/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1520/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c54c7568-1130-456b-b3cf-70f3ad99ab9d",
+                        "title": "Automatic Detection of Pancreatic Lesions and Main Pancreatic Duct Dilatation on Portal Venous CT Scans Using Deep Learning",
+                        "start": "2023-10-15T15:00+02:00",
+                        "end": "2023-10-15T15:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "22f1fab7-88bb-4e0c-b9a6-c06266999c60",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1519/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1519/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1519/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aee393a1-d83c-449d-8c72-f567489c129e",
+                        "title": "Deep learning-assisted model-based off-resonance correction for non-Cartesian SWI",
+                        "start": "2023-10-15T15:20+02:00",
+                        "end": "2023-10-15T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "74d6af0c-b130-4085-af9d-7cc64e3345da",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1523/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1523/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1523/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c6fb8f6c-1d4e-423a-bfc7-a8577d4017d8",
+                        "title": "Conclusion",
+                        "start": "2023-10-15T15:40+02:00",
+                        "end": "2023-10-15T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "570fc860-6f4d-4f35-8fa5-8db7ef12cc3f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1879/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1879/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1879/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "4d6a0716-68ca-4027-b7af-a1230de2e0de",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/149/video/thumbs/poster.jpg",
+            "title": "Traumatologie: les moins fréquents, à ne pas rater !",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:15+02:00",
+            "objectives": [
+                "<p>-Savoir reconnaître une luxation carpo-métacarpienne et prescrire les examens complémentaires pertinents</p>",
+                "<p>-Connaître les diagnostics différentiels d'une entorse de cheville</p>",
+                "<p>-Savoir reconnaître une fracture une l'extrémité distale de l'humérus chez l'adulte et les principales lésions associées aux luxations du coude</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "d0241554-5bbb-45d7-8b51-f750a0986a0c",
+                        "title": "Luxations carpo-métacarpiennes: comment ne pas les rater",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ed4e7c4b-3285-4de4-8685-dfd747871cf6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/149/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/149/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/149/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "62a48ef6-4a17-49f0-8ac6-407a1a5946d6",
+                        "title": "Fractures du coude \"moins fréquentes\"",
+                        "start": "2023-10-13T16:30+02:00",
+                        "end": "2023-10-13T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a972cbb8-d738-40dd-b291-67f727510869",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/150/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/150/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/150/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "46b2f510-8159-4038-bb09-f35d076d2474",
+                        "title": "Diagnostic différentiels et lésions associées aux entorses de cheville",
+                        "start": "2023-10-13T16:45+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "070bb5d4-d89c-4996-ae90-a22c9912d406",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/151/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/151/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/151/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "39835884-5243-43da-9dc7-95a4cff9b45d",
+                        "title": "Discussion générale : Traumatologie: les moins fréquents, à ne pas rater !",
+                        "start": "2023-10-13T17:00+02:00",
+                        "end": "2023-10-13T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f74451a-a84b-4d6d-801a-ba7c6600ebe9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/152/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/152/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/152/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

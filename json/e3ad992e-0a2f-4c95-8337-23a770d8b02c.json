@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "e3ad992e-0a2f-4c95-8337-23a770d8b02c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1587/video/thumbs/poster.jpg",
+            "title": "La radiologie interventionnelle passe au vert : La vision écolo",
+            "start": "2023-10-15T10:25+02:00",
+            "end": "2023-10-15T10:55+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b0034c32-1c51-40a0-8a2d-d39cb777f0e3",
+                        "title": "Frugal innovation",
+                        "start": "2023-10-15T10:25+02:00",
+                        "end": "2023-10-15T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "abe7c8f0-6300-40d9-98b3-66e0873734ed",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1586/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1586/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1586/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "db4248d5-2116-4b79-8eaf-05c1e75a09c9",
+                        "title": "Eco responsabilité en Radiologie Interventionnelle",
+                        "start": "2023-10-15T10:40+02:00",
+                        "end": "2023-10-15T10:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b1bb2d10-f68f-4652-8637-f1902bc53861",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1587/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1587/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1587/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

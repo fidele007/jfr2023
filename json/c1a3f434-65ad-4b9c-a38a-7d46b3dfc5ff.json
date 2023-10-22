@@ -1,0 +1,57 @@
+{
+    "data": {
+        "event": {
+            "id": "c1a3f434-65ad-4b9c-a38a-7d46b3dfc5ff",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1037/video/thumbs/poster.jpg",
+            "title": "Atelier dento-maxilaire :   Imagerie dento-maxillaire : Imagerie des dents incluses",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:00+02:00",
+            "objectives": [
+                "<p>Savoir adapter le protocole d’exploration en fonction de la dent incluse</p>",
+                "<p>Analyser la morphologie et la topologie de la dent incluse ainsi que ses rapports avec les dents voisines</p>",
+                "<p>Analyser les proximités avec les obstacles anatomiques et fournir les images les plus utiles à la planification chirurgicale</p>",
+                "<p>Savoir détecter les complications associées, notamment les résorptions radiculaires, l’ankylose, ou encore une éventuelle lésion osseuse</p>",
+                "<p>Dégager dans le compte-rendu les informations contributives en termes de diagnostic et de planification chirurgicale</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0f0750cf-d7b1-418d-835e-d07519a0c5a7",
+                        "title": "Imagerie dento-maxillaire : Imagerie des dents incluses",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T17:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f1ba62e0-fde3-46a3-a429-fe220679c4a7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1037/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1037/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1037/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

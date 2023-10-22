@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "84aa90d5-c74e-4f34-8a46-aaa0efb97b7b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1313/video/thumbs/poster.jpg",
+            "title": "Simulation en radiologie :  où en sommes nous ?",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [
+                "<p>Engager un état des lieux et une discussion collégiale sur les organisations et les moyens nécessaires à la mise en place d’une offre structurée pour la formation en simulation en radiologie</p>",
+                "<p>Engager un état des lieux et des propositions sur un programme commun</p>",
+                "<p>Engager un état des lieux et des échanges sur les outils disponibles, utiles, nécessaires…</p>",
+                "<p>Engager un état des lieux et des réflexions sur la nécessité et / ou l’intérêt de partenariats institutionnels, pédagogiques, industriels…</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "920c923c-81df-4587-b946-5c52fe516d90",
+                        "title": "Formation en simulation en radiologie :  quels programmes ?",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f572d91e-3155-4e70-be19-d18206d5e7e5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1313/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1313/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1313/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "20892eb7-a34d-4a6c-b80c-e639e4309b37",
+                        "title": "Formation en simulation en radiologie :  quels outils ?",
+                        "start": "2023-10-15T15:45+02:00",
+                        "end": "2023-10-15T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "739e1d49-dbe5-4573-a867-1a9af0f91c90",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1314/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1314/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1314/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6746e5d7-015d-4ab4-b942-4dbac07ef6ff",
+                        "title": "Formation en simulation en radiologie :  quels partenariats ?",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b8bfd1e5-5e90-452b-8487-970e79286329",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1315/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1315/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1315/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9c77f322-5d1d-445d-9fae-81702341a5d8",
+                        "title": "Table ronde : où en sommes nous ?",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "792f1eed-c365-40d8-a549-8d01f7373047",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1316/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1316/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1316/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

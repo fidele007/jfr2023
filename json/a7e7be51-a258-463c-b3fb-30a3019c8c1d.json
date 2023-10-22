@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "a7e7be51-a258-463c-b3fb-30a3019c8c1d",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2166/video/thumbs/poster.jpg",
+            "title": "Data Challenge 2023 : séance de clôture et remise des prix",
+            "start": "2023-10-16T11:00+02:00",
+            "end": "2023-10-16T12:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "ec32fad6-2742-453f-b49e-e73db8fd9019",
+                        "title": "Data challenge 2023",
+                        "start": "2023-10-16T11:00+02:00",
+                        "end": "2023-10-16T12:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "967be461-a8bb-4f40-a799-96d3ec3f6893",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2166/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2166/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2166/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

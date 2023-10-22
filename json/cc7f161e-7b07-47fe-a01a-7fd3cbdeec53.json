@@ -1,0 +1,133 @@
+{
+    "data": {
+        "event": {
+            "id": "cc7f161e-7b07-47fe-a01a-7fd3cbdeec53",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2051/video/thumbs/poster.jpg",
+            "title": "Les incidentalomes ignorés de l'abdomen",
+            "start": "2023-10-13T08:30+02:00",
+            "end": "2023-10-13T09:30+02:00",
+            "objectives": [
+                "<p>Connaitre la gamme diagnostique des incidentalomes de la rate, du peritoine et du tube digestif.</p>",
+                "<p>Connaitre la semiologie radiologique des incidentalomes don’t le diagnostic non invasif est possible</p>",
+                "<p>Connaitre la conduite a tenir face aux incidentalomes et savoir quel(s) examen(s) proposer pour avancer dans le diagnostic non invasif.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "aa5d6890-361b-491e-9409-2e180cd25905",
+                        "title": "Introduction",
+                        "start": "2023-10-13T08:30+02:00",
+                        "end": "2023-10-13T08:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ee6e81b6-6417-4fb4-b38d-a0a92a5494a9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2051/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2051/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2051/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e50f0c30-004d-4bd5-95a8-e3040222d368",
+                        "title": "Les incidentalomes spléniques",
+                        "start": "2023-10-13T08:42+02:00",
+                        "end": "2023-10-13T08:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "e5926d2f-ed75-473c-9cb9-42914de89e57",
+                        "title": "Les incidentalomes digestifs",
+                        "start": "2023-10-13T08:57+02:00",
+                        "end": "2023-10-13T09:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b7a95d9c-2ad1-420e-8a53-c8b544f649a0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/32/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/32/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/32/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c637f8ed-211b-4edb-8d85-e675921e4dac",
+                        "title": "Les incidentalomes péritoneaux",
+                        "start": "2023-10-13T09:12+02:00",
+                        "end": "2023-10-13T09:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0f6c65ef-a5ad-4a10-920a-d89fc993f373",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/33/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/33/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/33/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a55a232f-e647-4c07-b414-cd44b8fe0070",
+                        "title": "Discussion générale : Les incidentalomes ignorés de l'abdomen",
+                        "start": "2023-10-13T09:27+02:00",
+                        "end": "2023-10-13T09:42+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

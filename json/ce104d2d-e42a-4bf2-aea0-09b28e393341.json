@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "ce104d2d-e42a-4bf2-aea0-09b28e393341",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1613/video/thumbs/poster.jpg",
+            "title": "Le ligament collatéral médial et le spring ligament",
+            "start": "2023-10-13T10:10+02:00",
+            "end": "2023-10-13T10:40+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c8fcc7f1-073e-4040-9fce-a6325a34f2ad",
+                        "title": "Le ligament collatéral médial et le spring ligament",
+                        "start": "2023-10-13T10:10+02:00",
+                        "end": "2023-10-13T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

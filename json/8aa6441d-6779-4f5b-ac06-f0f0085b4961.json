@@ -1,0 +1,113 @@
+{
+    "data": {
+        "event": {
+            "id": "8aa6441d-6779-4f5b-ac06-f0f0085b4961",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/59/video/thumbs/poster.jpg",
+            "title": "Sein inflammatoire, l'essentiel à retenir du diagnostic au traitement",
+            "start": "2023-10-14T17:45+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<p>Savoir reconnaitre un sein inflammatoire, les imageries à demander et les différentes étiologies.&nbsp;</p>",
+                "<p>Connaitre les&nbsp;traitements en fonction des étiologies et être capable de prescrire un traitement adapté.&nbsp;</p>",
+                "<p>Connaitre le cas particulier du sein inflammatoire ou douloureux chez les enfants, les adolescentes et les hommes.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1de420a7-320d-4dc4-bd57-ecdceee99374",
+                        "title": "diagnostic, aspects radiologiques et traitements",
+                        "start": "2023-10-14T17:45+02:00",
+                        "end": "2023-10-14T18:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ce5c28a0-e7ef-459d-a808-427f1d73ddfc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/59/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/59/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/59/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2a6c8498-67d8-4a86-94ac-83a91afd0d35",
+                        "title": "Cas particuliers de l'enfant, de l'adolescent et de l'homme",
+                        "start": "2023-10-14T18:15+02:00",
+                        "end": "2023-10-14T18:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "26ec45e0-9f2b-42d4-947a-6e49999927b5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/61/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/61/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/61/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "72ab8dd4-9708-4406-976b-4c8fb338bbaf",
+                        "title": "Discussion générale :  Sein inflammatoire, l'essentiel à retenir du diagnostic au traitement",
+                        "start": "2023-10-14T18:30+02:00",
+                        "end": "2023-10-14T18:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2c2b6e34-c09c-4d43-9e76-7504eed2bf09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/62/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/62/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/62/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

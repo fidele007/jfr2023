@@ -1,0 +1,241 @@
+{
+    "data": {
+        "event": {
+            "id": "27b5f7ed-366d-43cc-a37e-564fccfe7bca",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1558/video/thumbs/poster.jpg",
+            "title": "Grande conférence :  La structuration de la filière radiologie et imagerie en France :  un écosystème vertueux, utile, au service de l'innovation dans les soins !",
+            "start": "2023-10-13T11:00+02:00",
+            "end": "2023-10-13T12:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0db57615-4be1-4e21-994a-724f1c518a49",
+                        "title": "Introduction et ouverture du congrès par le Directeur Général de la Direction Générale des Entreprises, Thomas Courbe",
+                        "start": "2023-10-13T11:00+02:00",
+                        "end": "2023-10-13T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "50ab7bf3-2a31-488e-bfc8-7002a0d6526f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1553/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1553/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1553/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c917b891-c2b4-47c9-9fe0-7d96da0ccf9e",
+                        "title": "Ouverture de la session",
+                        "start": "2023-10-13T11:10+02:00",
+                        "end": "2023-10-13T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "c8d28f4a-3f6b-429e-835d-8cb5fbcf24e6",
+                        "title": "1ère table ronde : Les grands défis de santé de demain",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "c272fa76-b9fb-4d81-a691-2d74714548af",
+                        "title": "Les enjeux de santé publique de demain",
+                        "start": "2023-10-13T11:15+02:00",
+                        "end": "2023-10-13T11:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "7130432d-8846-4f8d-a2f5-776f4e9eeccf",
+                        "title": "Les cohortes en imagerie",
+                        "start": "2023-10-13T11:20+02:00",
+                        "end": "2023-10-13T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "55a947fa-5319-48de-94d8-aed2ca16c032",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2004/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2004/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2004/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7658df54-ed88-4d54-ab72-a20311a03690",
+                        "title": "-\tRecherche et innovation",
+                        "start": "2023-10-13T11:25+02:00",
+                        "end": "2023-10-13T11:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5cdc29b8-d63b-4a5c-adeb-3ed9629137c9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2005/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2005/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2005/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e495df76-0bfa-4b2f-9f11-32ca8e5fc0c9",
+                        "title": "2ème table ronde :: la filière radiologie et imagerie en France : un écosystème vertueux, utile, performant !",
+                        "start": "2023-10-13T11:30+02:00",
+                        "end": "2023-10-13T11:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "191123c6-cf24-4767-b97d-06aad0ea4048",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1556/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1556/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1556/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0660b2a7-998a-4f24-b27f-b698d76f35b2",
+                        "title": "3ème table ronde : l’innovation en radiologie et imagerie médicale en France : de l’invention à l’implémentation et à l’optimisation",
+                        "start": "2023-10-13T11:50+02:00",
+                        "end": "2023-10-13T12:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "afea6ca5-7614-44cc-a501-e6cd9246510d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1557/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1557/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1557/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e34c643a-6af4-4881-ab38-44007ecbfc4f",
+                        "title": "Conclusion",
+                        "start": "2023-10-13T12:15+02:00",
+                        "end": "2023-10-13T12:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "97f34d01-6dcc-4565-9acb-f63da8bc7241",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1558/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1558/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1558/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

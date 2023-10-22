@@ -1,0 +1,100 @@
+{
+    "data": {
+        "event": {
+            "id": "0864b06b-78c6-45ab-96b9-3642720d2d54",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1583/video/thumbs/poster.jpg",
+            "title": "Séance QVCT :  Femmes et carrière hospitalo-universitaire",
+            "start": "2023-10-16T10:30+02:00",
+            "end": "2023-10-16T11:00+02:00",
+            "objectives": [
+                "<p>Connaître la contribution des femmes en santé</p>",
+                "<p>Connaître les spécificités de la gestion d'un staff féminin dans un service de radiologie interventionnelle, dans une enrteprise</p>",
+                "<p>Les défis au féminin d'une carrière hospitalo-universitaire</p>",
+                "<p>Actions concretes pour promouvoir les carrières hospitalo-universitaires des femmes&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "12cb2b36-e211-4a2e-b4c9-e82e7d2eba9c",
+                        "title": "Carrières des femmes en entreprise : la vision de la directrice générale d'Albingia",
+                        "start": "2023-10-16T10:30+02:00",
+                        "end": "2023-10-16T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "8e7f0bad-6b0a-4f7a-be01-f9ce4f4ee171",
+                        "title": "Carrières des femmes en radiologie itnerventionnelle : la vision d'un chef de service en radiologie intervenntionnelle",
+                        "start": "2023-10-16T10:40+02:00",
+                        "end": "2023-10-16T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f66b931-e418-416c-91fb-9ec9db94c60d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1583/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1583/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1583/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b8dfcb1e-a32a-4d24-be55-3e709845505b",
+                        "title": "Carrières des femmes en radiologie interventionnelle : la vision d'une PUPH récemment nommée",
+                        "start": "2023-10-16T10:50+02:00",
+                        "end": "2023-10-16T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "83975357-1fcd-476b-acbc-26d58d5fd717",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1584/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1584/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1584/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

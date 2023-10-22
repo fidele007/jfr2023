@@ -1,0 +1,80 @@
+{
+    "data": {
+        "event": {
+            "id": "14aa35f8-f2a1-419a-ae5a-32555bc227f1",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1749/video/thumbs/poster.jpg",
+            "title": "Tout savoir sur le vasculaire du membre inférieur",
+            "start": "2023-10-16T10:55+02:00",
+            "end": "2023-10-16T11:25+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0263e6dc-1511-49eb-9f8a-1991f8d90dc3",
+                        "title": "Comment je fais jusqu'au genou",
+                        "start": "2023-10-16T10:55+02:00",
+                        "end": "2023-10-16T11:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7f375fc4-3dbb-497f-a1da-7d64f8e3d31d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1748/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1748/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1748/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "06a249dc-992f-4527-a587-99c380f1f8e9",
+                        "title": "Comment je fais sous le genou",
+                        "start": "2023-10-16T11:10+02:00",
+                        "end": "2023-10-16T11:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "615b3154-c173-4336-a0e5-03d1a0649b3e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1749/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1749/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1749/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

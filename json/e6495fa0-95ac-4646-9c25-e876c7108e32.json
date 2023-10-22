@@ -1,0 +1,189 @@
+{
+    "data": {
+        "event": {
+            "id": "e6495fa0-95ac-4646-9c25-e876c7108e32",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2023/video/thumbs/poster.jpg",
+            "title": "Causes méconnues de céphalées : du diagnostic au traitement",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:00+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de :&nbsp;</p>",
+                "<p>Reconnaître les signes IRM d'HTIC idiopathique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Reconnaître les signes IRM hypotension du LCR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaître la prise en charge des anévrismes de découverte fortuite&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaître les étiologies des HSA corticales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "<p>Connaître les modalités de prises en charge mini-invasive des hyptension du LCR et de l'HTIC idiopathique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "4b264379-2c94-4938-92b7-42a73e6c5ed1",
+                        "title": "Introduction",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "78946a4d-89b6-4bb0-8238-92287cb34e6c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2023/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2023/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2023/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "916f724e-5f2a-4596-be16-3f30d4409c79",
+                        "title": "Hypotension intra-crânienne : du diagnostic au traitement",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a982d133-c297-433c-9b29-f63d39240c5c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/100/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/100/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/100/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "83f7a722-3513-42fd-8f90-91c150e0579a",
+                        "title": "HTIC idiopathique : aspect en IRM ; stratégies thérapeutiques",
+                        "start": "2023-10-13T14:12+02:00",
+                        "end": "2023-10-13T14:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6481d5e1-c777-429b-933a-bc8f5f80f380",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/101/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/101/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/101/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dbe54876-a716-43ef-9e28-1fb4cd0ab866",
+                        "title": "Anévrisme cérébral découvert sur des céphalées, sans HSA : que dire au patient ? que faire ?",
+                        "start": "2023-10-13T14:24+02:00",
+                        "end": "2023-10-13T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "37f65c4e-4c54-4d24-b12d-681223e98949",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/102/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/102/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/102/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "62c0b055-b6f2-4a98-b585-37ab7e9a2d28",
+                        "title": "HSA corticale : que rechercher ? quel bilan complémentaire ?",
+                        "start": "2023-10-13T14:36+02:00",
+                        "end": "2023-10-13T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1b730888-cc99-4176-bac8-a1bb48f240c3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/103/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/103/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/103/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "961c9e88-3b54-4156-b4c5-41ffa6c70c34",
+                        "title": "Discussion générale :  Comment reconnaître les causes rares de céphalées ; comment les traiter ?",
+                        "start": "2023-10-13T14:48+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

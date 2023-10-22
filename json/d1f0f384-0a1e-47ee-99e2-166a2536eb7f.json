@@ -1,0 +1,27 @@
+{
+    "data": {
+        "event": {
+            "id": "d1f0f384-0a1e-47ee-99e2-166a2536eb7f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1861/video/thumbs/poster.jpg",
+            "title": "Super Démo - \"Quality Ablation\" driven by AI",
+            "start": "2023-10-15T11:30+02:00",
+            "end": "2023-10-15T11:45+02:00",
+            "objectives": [],
+            "vod": null,
+            "schedule": {
+                "items": [
+                    {
+                        "id": "17f399bb-1e59-42ff-810d-dc9cfbee4745",
+                        "title": "\"Quality Ablation\" driven by AI",
+                        "start": "2023-10-15T11:30+02:00",
+                        "end": "2023-10-15T11:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    }
+                ]
+            }
+        }
+    }
+}

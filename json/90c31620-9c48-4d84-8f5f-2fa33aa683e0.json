@@ -1,0 +1,254 @@
+{
+    "data": {
+        "event": {
+            "id": "90c31620-9c48-4d84-8f5f-2fa33aa683e0",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1563/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie neuroradiologie -  NRD",
+            "start": "2023-10-13T16:15+02:00",
+            "end": "2023-10-13T17:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "0fe4d8dd-d8c8-4d29-a931-ef80c32233cf",
+                        "title": "Introduction",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "28a6793d-d080-4e5e-bbc5-2bc2a7062667",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2024/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2024/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2024/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d9a83475-6887-4a49-8787-a947c74278da",
+                        "title": "Deep-learning BrainAGE demonstrates accelerated brain aging in Systemic Lupus Erythematosus patients",
+                        "start": "2023-10-13T16:15+02:00",
+                        "end": "2023-10-13T16:23+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "400acaf0-b22d-487c-8cb4-c666b05bf8c2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1563/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1563/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1563/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e9bca917-b3aa-45e7-9512-b8b17b835a28",
+                        "title": "FLAIR synthétique en substitution du FLAIR dans l'AVC ischémique aigu : étude de validation multicentrique",
+                        "start": "2023-10-13T16:23+02:00",
+                        "end": "2023-10-13T16:31+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4180f221-1f4a-4201-a972-8e2a23fdd40b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1590/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1590/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1590/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e7be02bf-36bf-4747-aeba-b9355e04d97b",
+                        "title": "Impact de l'IRM avec injection de gadopiclenol sur la prise en charge des métastases cérébrales",
+                        "start": "2023-10-13T16:31+02:00",
+                        "end": "2023-10-13T16:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a85b396e-d0cf-4a08-a8ef-554a5b6adb8a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1564/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1564/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1564/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fe94e74e-3050-4acd-bf34-e3a20e187e98",
+                        "title": "Evaluation en DTI des lésions microstructurelles dans la maladie de Susac",
+                        "start": "2023-10-13T16:39+02:00",
+                        "end": "2023-10-13T16:47+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0eb26cb4-1bc6-48a9-9903-568ab41d43ab",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1565/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1565/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1565/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0fc05630-358a-4b24-8484-71c128160e29",
+                        "title": "Apport de l’IRM dans la compréhension de la méditation de pleine conscience et de l’hypnose",
+                        "start": "2023-10-13T16:47+02:00",
+                        "end": "2023-10-13T16:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ca61fe1b-7892-4c0d-8a73-ace9d6167af3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1566/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1566/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1566/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aff996f4-8ce2-47c4-8972-60fe9694a98e",
+                        "title": "Approche diagnostique en IRM des encephalites auto-immunes",
+                        "start": "2023-10-13T16:55+02:00",
+                        "end": "2023-10-13T17:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3c78062b-fe92-4e41-8102-073cbbaaf9ba",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1567/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1567/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1567/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "060e308c-ee85-4433-9757-3418d4e7cc09",
+                        "title": "Vulnérabilité des noyaux thalamiques au contact du LCR au cours de la sclérose en plaques",
+                        "start": "2023-10-13T17:03+02:00",
+                        "end": "2023-10-13T17:11+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3203c99d-dfeb-4357-a552-da3b14b9d56f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1568/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1568/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1568/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

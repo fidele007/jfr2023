@@ -1,0 +1,66 @@
+{
+    "data": {
+        "event": {
+            "id": "1c6841d1-6d7b-46e5-8859-60d551b8a4df",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/36/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité d'imagerie digestive - Diagnostic des kystes pancréatiques",
+            "start": "2023-10-13T08:45+02:00",
+            "end": "2023-10-13T09:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b3f26ef4-97e6-4425-ac3e-9b26f6520ae4",
+                        "title": "Introduction",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "838612d7-e335-402a-9bcd-bbd01242a733",
+                        "title": "Diagnostic des kystes pancréatiques",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3800113d-1345-4cf3-a3ae-eb3d42b30777",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/36/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/36/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/36/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

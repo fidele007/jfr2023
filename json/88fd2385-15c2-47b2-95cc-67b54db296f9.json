@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "88fd2385-15c2-47b2-95cc-67b54db296f9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/38/video/thumbs/poster.jpg",
+            "title": "Intelligence Artificielle (IA) et détection des fractures : miracle ou mirage ?",
+            "start": "2023-10-13T08:45+02:00",
+            "end": "2023-10-13T09:45+02:00",
+            "objectives": [
+                "<p>Faire le point sur l'efficacité des logiciels d'IA de détection des fractures</p>",
+                "<p>Analyser les points faibles et les points forts des solutions d'IA chez l'enfant et chez l'adulte</p>",
+                "<p>Discuter de l'apport de ces solutions, de leur intégration dans la prise en charge SAU-Imagerie et des modifications de pratique</p>",
+                "<p>Souligner les implications médico-légales et éthique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "170a9be6-3d1c-4d6b-9769-7d506c36ea8a",
+                        "title": "Intelligence artificielle et fracture chez l'enfant",
+                        "start": "2023-10-13T08:45+02:00",
+                        "end": "2023-10-13T09:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "340b94cf-29a0-4b1a-8741-7b106e6eed81",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/37/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/37/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/37/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a770d0d5-3f7e-40e3-9898-d273b3e675fc",
+                        "title": "Intelligence artificielle chez l'adulte",
+                        "start": "2023-10-13T09:00+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "83bf4437-6d46-4f94-9a69-42cb1621aafc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/38/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/38/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/38/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b7ce6bea-f417-44ec-8e75-e10a10f927ac",
+                        "title": "Ethique et implications médico-légales",
+                        "start": "2023-10-13T09:15+02:00",
+                        "end": "2023-10-13T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "118c883d-0e6f-4611-a93a-d9b72b33e747",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/39/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/39/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/39/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dd3013ac-c59e-4c6c-8826-9e1044c9a68e",
+                        "title": "Discussion générale : Intelligence Artificielle et fractures : miracle ou mirage ?",
+                        "start": "2023-10-13T09:30+02:00",
+                        "end": "2023-10-13T09:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e3c6afba-9b67-44ec-9261-cd0339842ac7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/40/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/40/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/40/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

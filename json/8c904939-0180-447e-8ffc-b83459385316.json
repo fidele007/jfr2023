@@ -1,0 +1,94 @@
+{
+    "data": {
+        "event": {
+            "id": "8c904939-0180-447e-8ffc-b83459385316",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/338/video/thumbs/poster.jpg",
+            "title": "Les outils de guidage avancés en Radiologie Interventionnelle",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<p>Apprehender les differents outils actuellement disponibles.</p>",
+                "<p>Comprendre l'interet d'utiliser ces outils de guidage.</p>",
+                "<p>Connaitre les developpements à venir.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "3ca88275-b03b-4be0-9bcd-028f7aa892c5",
+                        "title": "Scanner: navigation électromagnétique et robotique",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "566219f5-e264-4d94-b941-98642a9b3322",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/338/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/338/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/338/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "7ac821eb-0f15-45df-b802-fb4269a7bd59",
+                        "title": "Cone Beam CT et navigation endovasculaire",
+                        "start": "2023-10-15T14:15+02:00",
+                        "end": "2023-10-15T14:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "c525b530-a6e1-4495-9a4a-e59b271a702e",
+                        "title": "Echographie et fusion",
+                        "start": "2023-10-15T14:30+02:00",
+                        "end": "2023-10-15T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0bbf729d-140e-4de1-b3c1-7d6ccf9e8d99",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/340/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/340/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/340/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

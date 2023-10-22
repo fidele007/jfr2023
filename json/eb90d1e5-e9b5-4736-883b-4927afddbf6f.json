@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "eb90d1e5-e9b5-4736-883b-4927afddbf6f",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1601/video/thumbs/poster.jpg",
+            "title": "Imagerie post-mortem et armes blanches",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de : …..</p>",
+                "<p>Connaître les particularités de l’examen de corps et de l’examen autopsique dans les cas d’atteinte lésionnelle par arme blanche et surtout connaître les besoins du médecin légiste pour optimiser les résultats de l’autopsie suite au scanner.</p>",
+                "<p>Connaître les particularités de l’analyse scanographique post-mortem&nbsp;et principales lésions létales retrouvées.</p>",
+                "<p>Découvrir ce métier peu connu, et pourtant fort utile, de morpho-analyste de tâches de sang&nbsp;: quel est l’apport de son expertise dans ces dossiers complexes</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "96c688d8-3343-462e-9fe8-0291d54bdb24",
+                        "title": "Ce qu’attend le médecin légiste du scanner pour optimiser sa prise en charge autopsique",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7fc68195-85c6-4b29-99ca-856b415cf88e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1601/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1601/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1601/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9119d300-0ec7-455b-89a3-970125d6f520",
+                        "title": "Comment interpréter un scanner post-mortem dans le cas de plaie par armes blanches",
+                        "start": "2023-10-14T15:45+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8e8811a2-fa10-415c-bd7b-5e4997b3a12d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1602/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1602/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1602/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b4139fe6-ee57-4aca-b158-9e3f5b56f94a",
+                        "title": "Analyse de la scène de crime par le prisme du morphoanalyste de tâches de sang",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fb03169c-dd20-4818-a287-ff84dcc3b00a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1603/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1603/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1603/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "233be765-edc2-4ba6-a0a5-5f3599423b39",
+                        "title": "Discussion générale : comment travailler en multi disciplinaire dans les cas de lésions létales par arme blanche : expertise légiste, radiologique, et morphoanalyste des tâches de sang",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0f4852a2-d3b9-4748-9a9d-80986c8ddb9a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1604/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1604/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1604/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

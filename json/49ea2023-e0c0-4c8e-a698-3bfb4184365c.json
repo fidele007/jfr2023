@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "49ea2023-e0c0-4c8e-a698-3bfb4184365c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/471/video/thumbs/poster.jpg",
+            "title": "Echo Doppler - Eléments d'hémodynamique artérielle",
+            "start": "2023-10-13T10:15+02:00",
+            "end": "2023-10-13T11:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "88e5bbf2-f457-4b99-9c62-70532f9b0f42",
+                        "title": "Eléments d'hémodynamique artérielle",
+                        "start": "2023-10-13T10:15+02:00",
+                        "end": "2023-10-13T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "afe2ec8c-787e-45b6-b878-5de38b7005be",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/471/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/471/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/471/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

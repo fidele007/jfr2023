@@ -1,0 +1,157 @@
+{
+    "data": {
+        "event": {
+            "id": "7aae3f71-8d46-4710-93b3-a51e49929150",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/612/video/thumbs/poster.jpg",
+            "title": "Désescalade thérapeutique :  du diagnostic à la radiologie Interventionnelle",
+            "start": "2023-10-16T14:00+02:00",
+            "end": "2023-10-16T15:00+02:00",
+            "objectives": [
+                "<p>Connaitre les évolutions dans la prise en charge des lésions mammaires</p>",
+                "<p>Connaitre les évolutions dans la prise en charge des pathologies gynécologiques</p>",
+                "<p>Connaitre les nouvelles techniques en radiologie interventionnelles</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "c10509a8-7a59-49eb-b3fd-96150f4ef30c",
+                        "title": "Embolisation de myomes et des anomalies vasculaires",
+                        "start": "2023-10-16T14:00+02:00",
+                        "end": "2023-10-16T14:12+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "07a0eaca-39f1-4ff7-aa7c-2e56b59689d3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/612/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/612/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/612/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6b9673ec-5076-4caf-90e7-4682797d5a2f",
+                        "title": "Les macrobiopsies exérèses mammaires",
+                        "start": "2023-10-16T14:12+02:00",
+                        "end": "2023-10-16T14:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fe4630db-6eb3-4174-bdcd-08b47eb9c515",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/613/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/613/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/613/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "52b75dba-5297-47fc-a08b-5b745ad2a2b3",
+                        "title": "Cancer du sein chez la femme âgée",
+                        "start": "2023-10-16T14:24+02:00",
+                        "end": "2023-10-16T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "79ee1fab-4576-4e54-aa8a-583921b840a9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/614/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/614/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/614/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e9b38c69-55f0-41ba-83d9-38bcc74a679f",
+                        "title": "Registre national de cryothérapie d’endométriose pariétale",
+                        "start": "2023-10-16T14:36+02:00",
+                        "end": "2023-10-16T14:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "51aafedb-af66-4bdd-8c54-74d296583fb3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/615/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/615/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/615/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a59f38da-2f6f-4a5e-baa6-3c5293305c34",
+                        "title": "Discussion générale : Nouvelles stratégies thérapeutiques en sénologie et gynécologie",
+                        "start": "2023-10-16T14:48+02:00",
+                        "end": "2023-10-16T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

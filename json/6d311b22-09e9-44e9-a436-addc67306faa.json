@@ -1,0 +1,66 @@
+{
+    "data": {
+        "event": {
+            "id": "6d311b22-09e9-44e9-a436-addc67306faa",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/383/video/thumbs/poster.jpg",
+            "title": "Atelier multimodalité d'imagerie digestive - Les voies biliaires",
+            "start": "2023-10-16T08:45+02:00",
+            "end": "2023-10-16T09:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "9091b04a-0b4d-47e9-bde6-ee988e9f4897",
+                        "title": "Introduction",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T08:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "12d19d64-b85c-4ed6-8ebe-33b6ba5d6ed9",
+                        "title": "Les voies biliaires",
+                        "start": "2023-10-16T08:45+02:00",
+                        "end": "2023-10-16T09:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b70b7fcf-a41f-4238-a07f-0105cf9e1517",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/383/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/383/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/383/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

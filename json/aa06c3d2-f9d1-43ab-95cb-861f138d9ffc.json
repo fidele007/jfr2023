@@ -1,0 +1,229 @@
+{
+    "data": {
+        "event": {
+            "id": "aa06c3d2-f9d1-43ab-95cb-861f138d9ffc",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2030/video/thumbs/poster.jpg",
+            "title": "Avancées en imagerie psychiatrique : du diagnostic intégré au traitement",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [
+                "<p>- Comprendre les principales techniques d'imagerie avancée utilisées pour la prise en charge des pathologies psychiatriques</p>",
+                "<p>- Intégrer les nouvelles possibilités techniques basées sur&nbsp;l'imagerie en 2023</p>",
+                "<p>- Connaître les principaux réseaux nationaux et internationaux mis en place&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "486e93de-e3ed-4b1a-982c-01586e0e60fe",
+                        "title": "Introduction",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "11055913-3365-4a71-833e-23666aac3fd0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2030/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2030/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2030/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8ad60a86-1282-406c-84f1-f183aca98f63",
+                        "title": "Traitement des hallucinations : nouvelles possibilités grâce à l’imagerie",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3d5f29cb-65a6-4eed-aa76-9809d8958d37",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/485/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/485/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/485/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "720a99fe-5e6a-4edd-9de1-071ee164effb",
+                        "title": "PREDIPSY : les radiologues au cœur de l’organisation territoriale",
+                        "start": "2023-10-15T15:40+02:00",
+                        "end": "2023-10-15T15:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c5b63316-2df0-4507-9f8c-b429a98bc3e6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/486/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/486/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/486/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "173ea28a-5122-40db-b920-f91c8668245e",
+                        "title": "Imagerie des troubles bipolaires : de la recherche  à la pratique clinique",
+                        "start": "2023-10-15T15:50+02:00",
+                        "end": "2023-10-15T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7e1d05e6-e4af-4194-ab73-9bab576a940b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/487/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/487/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/487/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f1f8a271-1dce-43a0-9395-55b389a359be",
+                        "title": "Imagerie psychiatrique en grande Aquitaine : le rôle de l’ARS",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b1e9f3a3-be21-4f86-a334-f9f2828d91aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/488/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/488/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/488/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ee5e5bc1-e4ae-4646-96c6-42fb718744da",
+                        "title": "Organisation de l’imagerie psychiatrique aux États-Unis",
+                        "start": "2023-10-15T16:10+02:00",
+                        "end": "2023-10-15T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3e1e836a-4ead-4dd8-85f8-b50419feb867",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/489/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/489/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/489/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "30ee6eb3-8e58-4a69-b8c7-325107bd36d9",
+                        "title": "Un plan pour l’imagerie psychiatrique en France",
+                        "start": "2023-10-15T16:20+02:00",
+                        "end": "2023-10-15T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "3e9cecca-47aa-4abd-85a8-0d5b6ffb8541",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/490/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/490/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/490/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "data": {
+        "event": {
+            "id": "668da87d-fa6a-4e0f-a240-0cd2f75b3c0b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1/video/thumbs/poster.jpg",
+            "title": "Hyperparathyroïdie primaire : repérer l’adénome en 2023",
+            "start": "2023-10-14T16:00+02:00",
+            "end": "2023-10-14T17:00+02:00",
+            "objectives": [
+                "<p>1.Savoir que l'imagerie n'est recommandée que si l'hyperparathyroidie primaire est confirmée et connaître les critères diagnostiques de base.</p>",
+                "<p>2.Connaître la sémiologie échographique de l'adénome parathyroidien, de l'hyperplasie multiglandulaire, du carcinome parathyroidien;&nbsp;</p>",
+                "<p>3.Connaître la zone P (zone de recherche des parathyroïdes pathologiques) à partir des mécanismes embryologiques ou acquis.</p>",
+                "<p>4.Connaître les autres techniques de localisation (scintigraphie, PET-TDM Choline, TDM, IRM, dosage de PTH in situ) et savoir qu'il faut une concordance imagerie morphologique + imagerie fonctionnelle pour assurer la localisation précise.;&nbsp;</p>",
+                "<p>5.Savoir que l'imagerie permet un abord mini-invasif et que, même en cas d'abord conventionnel, elle permet de réduire le temps opératoire et les complications périopératoires.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "97ced2d9-d60a-40de-8763-2057c268816d",
+                        "title": "diagnostic positif et démarche de repérage lésionnel",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b6642450-1052-45d4-b4e2-1b91a82c81d1",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "78ceb7ac-0c2e-4d09-aada-7c805320faf0",
+                        "title": "Aspects échographiques classiques et inhabituels des parathyroïdes pathologiques",
+                        "start": "2023-10-14T16:15+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "546ca802-08db-4216-80b9-cb294933d8bd",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/527/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/527/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/527/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "210299a1-bd2b-464f-b24c-ecff2b935e1f",
+                        "title": "Progrès de l'imagerie fonctionnelle: PET/TDM à la 18 Fluorocholine…avant ou après l’échographie ?",
+                        "start": "2023-10-14T16:30+02:00",
+                        "end": "2023-10-14T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "cad7f667-2db1-4132-8915-762b5ba23f94",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/528/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/528/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/528/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

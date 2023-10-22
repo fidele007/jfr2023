@@ -1,0 +1,209 @@
+{
+    "data": {
+        "event": {
+            "id": "d32b1d24-c945-4f10-89de-60a3f5fdcd08",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2028/video/thumbs/poster.jpg",
+            "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+            "start": "2023-10-15T10:00+02:00",
+            "end": "2023-10-15T11:00+02:00",
+            "objectives": [
+                "<p>Avec l’appui du réseau Rénoclip de relecture nationale de cas neurooncologiques, la session proposée vise à analyser des cas neurooncologiques difficiles afin d’avoir la démarche diagnostique face à une lésion tumorale, et abordera la notion de diagnostic intégré que ce soit dans la confrontation des données Imagerie et Anatomopathologie, ou au sein de l’imagerie avec l’adjonction de techniques avancées en plus de l’analyse morphologique.</p>",
+                "<p>Venez tester vos connaissances sur ces cas didactiques&nbsp;!</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "b2599478-215f-4500-b44b-07f0816fe790",
+                        "title": "Introduction",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "90ac003c-db03-468a-8845-4a25d0d1419e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2028/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2028/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2028/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "a7bb0cd1-ff0e-40da-92b9-d3c950fc9bc6",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:00+02:00",
+                        "end": "2023-10-15T10:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "d9e57a85-c70a-4d25-8ca0-0c7efc41facf",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1605/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1605/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1605/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "dfedd6b0-ec1d-4b3e-bd08-5b63ad7c887f",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:10+02:00",
+                        "end": "2023-10-15T10:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "6050d223-1de6-4791-a9fd-2f1f36819172",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1835/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1835/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1835/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "980698dc-6653-456d-86ff-db84bed977b5",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:20+02:00",
+                        "end": "2023-10-15T10:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b4597788-fd2a-49d3-a936-c53d8251f5d3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1836/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1836/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1836/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0875ccd1-2e24-451b-b233-b408345637a1",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:30+02:00",
+                        "end": "2023-10-15T10:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "73a5140c-f185-4555-98d6-604ff73944a3",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:40+02:00",
+                        "end": "2023-10-15T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "44e66a90-c857-477f-ba6f-b57159d7f38c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1838/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1838/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1838/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "fc9f5cf7-e93a-433e-97f4-928ddeaec441",
+                        "title": "Diagnostic intégré et tumeurs cérébrales: quizz et challenge diagnostic",
+                        "start": "2023-10-15T10:50+02:00",
+                        "end": "2023-10-15T11:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f5a09f66-5a76-48a7-b428-b85d0251905b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1839/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1839/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1839/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

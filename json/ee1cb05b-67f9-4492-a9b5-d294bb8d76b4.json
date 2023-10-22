@@ -1,0 +1,142 @@
+{
+    "data": {
+        "event": {
+            "id": "ee1cb05b-67f9-4492-a9b5-d294bb8d76b4",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/428/video/thumbs/poster.jpg",
+            "title": "Séance d'interprétation en imagerie oncologique",
+            "start": "2023-10-16T12:30+02:00",
+            "end": "2023-10-16T13:30+02:00",
+            "objectives": [
+                "<p>Apprendre à analyser et à décrire la sémiologie radiologique</p>",
+                "<p>Savoir établir une stratégie diagnostique</p>",
+                "<p>Savoir discuter les diagnostics différentiels</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "32280666-4fd2-422f-87c0-7ae160488b87",
+                        "title": "Cas clinique 1",
+                        "start": "2023-10-16T12:30+02:00",
+                        "end": "2023-10-16T12:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4c8e312a-0456-45cc-80b0-5625067abed4",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/427/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/427/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/427/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "356e81e3-ddf7-49c4-b8d7-7a56d93cbac2",
+                        "title": "Cas clinique 2",
+                        "start": "2023-10-16T12:45+02:00",
+                        "end": "2023-10-16T13:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a33b2f81-2ad0-42e2-abe4-fb59af610016",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/428/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/428/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/428/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "27ef280f-3104-4174-9cd2-35ea6c9712be",
+                        "title": "Cas clinique 3",
+                        "start": "2023-10-16T13:00+02:00",
+                        "end": "2023-10-16T13:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "4b1acaf5-510b-4474-9fc2-acb51b4ecde7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/429/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/429/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/429/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "5dcaf31c-1b4a-4d7b-939f-ae0f16384b54",
+                        "title": "Cas clinique 4",
+                        "start": "2023-10-16T13:15+02:00",
+                        "end": "2023-10-16T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "33d12305-188c-4ab5-898a-c6672d88ce2a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/430/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/430/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/430/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

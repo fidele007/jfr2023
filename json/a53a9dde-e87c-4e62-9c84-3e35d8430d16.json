@@ -1,0 +1,235 @@
+{
+    "data": {
+        "event": {
+            "id": "a53a9dde-e87c-4e62-9c84-3e35d8430d16",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2025/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie neuroradiologique -  NRI",
+            "start": "2023-10-14T14:00+02:00",
+            "end": "2023-10-14T15:15+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "5cd3a613-9214-427c-83c3-3382e2d457fe",
+                        "title": "Introduction",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8ea32ab2-830b-4873-b226-77e2f8f3adcc",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2025/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2025/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2025/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "278dadeb-093a-4715-b757-9d51e95d0249",
+                        "title": "Evaluation du Risque de Rupture par Localisation : le Cas des Anévrysmes Carotido-Ophtalmiques",
+                        "start": "2023-10-14T14:00+02:00",
+                        "end": "2023-10-14T14:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b1568ddf-a2b2-4960-a50f-34a9dc63892d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1569/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1569/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1569/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d3c5d179-87fb-4e53-81a9-a3ac27b746cf",
+                        "title": "Embolisation des artères méningées moyennes sous CBCT avec un logiciel de navigation endovasculaire",
+                        "start": "2023-10-14T14:09+02:00",
+                        "end": "2023-10-14T14:18+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "994e1966-8478-4445-ba29-9f774071cc76",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1570/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1570/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1570/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4d20c09b-bc65-4cfa-bb10-a4b3ddae3e24",
+                        "title": "Evolution angio-architecturales des malformations artério-veineuses cérébrales après traitement endovasculaire partiel",
+                        "start": "2023-10-14T14:18+02:00",
+                        "end": "2023-10-14T14:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": null
+                    },
+                    {
+                        "id": "e4ab7e39-a00e-4092-814e-8465d17d62f0",
+                        "title": "Embolisation préopératoire des compressions médullaires métastatiques avec du N-butyle cyanoacrylate",
+                        "start": "2023-10-14T14:18+02:00",
+                        "end": "2023-10-14T14:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a895f429-6da7-4390-84c7-35ac82b0c128",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1571/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1571/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1571/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "02c920bc-9bc1-480f-bb04-281239a2eda6",
+                        "title": "Evolution angio-architecturales des malformations artério-veineuses cérébrales après traitement endovasculaire partiel",
+                        "start": "2023-10-14T14:27+02:00",
+                        "end": "2023-10-14T14:36+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e7f75267-d01f-4432-ad54-53715eb40b67",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1572/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1572/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1572/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2607edcd-81f8-4870-907e-cba60b8f8ed0",
+                        "title": "Robotically assisted deployment of flow diverter stents for the treatment of cerebral and cervical aneurysms",
+                        "start": "2023-10-14T14:36+02:00",
+                        "end": "2023-10-14T14:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "87293a2e-4d86-49ee-81e5-35ea76045915",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1574/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1574/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1574/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "eefa4493-5242-4f7b-98ea-6dce017b4eed",
+                        "title": "Suivi longitudinal radiologique des lésions non ischémiques cérébrales granulomateuses post traitement endovasculaire d’anévrisme",
+                        "start": "2023-10-14T14:45+02:00",
+                        "end": "2023-10-14T14:54+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "df2961fc-e6de-4a28-9147-2a9cedae9d1f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1575/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1575/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1575/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

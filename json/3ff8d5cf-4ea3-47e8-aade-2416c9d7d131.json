@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "3ff8d5cf-4ea3-47e8-aade-2416c9d7d131",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1941/video/thumbs/poster.jpg",
+            "title": "Les radiologues investis au delà de leur communauté",
+            "start": "2023-10-15T09:15+02:00",
+            "end": "2023-10-15T10:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "e217e1fd-6b4c-470c-859a-f9e42a920a4c",
+                        "title": "Les radiologues investis au delà de leur communauté",
+                        "start": "2023-10-15T09:15+02:00",
+                        "end": "2023-10-15T10:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "7db46d0e-61a4-4303-931d-58e03f4dc7af",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1941/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1941/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1941/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

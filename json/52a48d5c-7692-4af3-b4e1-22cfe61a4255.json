@@ -1,0 +1,171 @@
+{
+    "data": {
+        "event": {
+            "id": "52a48d5c-7692-4af3-b4e1-22cfe61a4255",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1672/video/thumbs/poster.jpg",
+            "title": "Imagerie Interventionnelle en Gériatrie",
+            "start": "2023-10-15T14:00+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [
+                "<p>Aborder les conséquences des données démographiques récentes avec des besoins de soins radiologiques accrus des patients dits âgés y&nbsp;&nbsp;compris en Radiologie Interventionnelle.&nbsp;</p>",
+                "<p>Connaitre les possibilités de prise en charge en Radiologie&nbsp;Interventionnelle dans 3 situations cliniques fréquemment rencontrées en gériatrie&nbsp;: les accidents hémorragiques de patients âgés sous anticoagulants, les symptômes du bas appareil urinaire&nbsp;: embolisation des hypertrophies bénignes de la prostate et la gestion de la douleur en gériatrie.</p>",
+                "<p>La place de la Radiologie Interventionnelle dans la prise en charge des patients âgés doit être connue et partagée car les patients âgés et leur entourage disposent de canaux&nbsp;&nbsp;d’informations multiples dans le domaine de la santé, et s’adressent parfois directement en consultation d’Imagerie Interventionnelle&nbsp;!</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "019a4c5a-4063-4e70-9e6c-6bac18a549d3",
+                        "title": "Présentation de la séance",
+                        "start": "2023-10-15T14:00+02:00",
+                        "end": "2023-10-15T14:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dcfcee6f-36fb-4f94-a338-d39aa6a1612b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1672/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1672/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1672/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d3689fa1-3f75-4e61-8684-5715b67180cb",
+                        "title": "Gestion des accidents hémorragiques chez la patientes âgés sous anticoagulants",
+                        "start": "2023-10-15T14:05+02:00",
+                        "end": "2023-10-15T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "63726f48-7955-477a-8eb0-01e140427b09",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/211/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/211/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/211/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "9d64e246-e814-4330-ae3b-332f0dfcf922",
+                        "title": "Gestion de la douleur en Imagerie Interventionnelle",
+                        "start": "2023-10-15T14:20+02:00",
+                        "end": "2023-10-15T14:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "de3450a5-5d26-41a9-a9c8-2f0d34dfd740",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/212/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/212/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/212/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "94958662-9092-4e94-8101-0a0dad9045ac",
+                        "title": "Gestion des symptômes du bas appareil urinaire  : embolisation des hypertrophies bénignes de la prostate",
+                        "start": "2023-10-15T14:35+02:00",
+                        "end": "2023-10-15T14:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "beb8f9a6-86c9-4e3a-befd-09b47a4cfb39",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/213/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/213/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/213/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "28fcbc4d-2c06-467c-bb76-4fa1049ee8d4",
+                        "title": "Discussion générale  :  Imagerie Interventionnelle en gériatrie",
+                        "start": "2023-10-15T14:50+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "75c5814b-7dfa-49cc-af67-efb8715f9e18",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/214/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/214/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/214/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

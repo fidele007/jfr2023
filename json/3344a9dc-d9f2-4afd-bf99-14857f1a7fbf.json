@@ -1,0 +1,172 @@
+{
+    "data": {
+        "event": {
+            "id": "3344a9dc-d9f2-4afd-bf99-14857f1a7fbf",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/158/video/thumbs/poster.jpg",
+            "title": "Adénomyose utérine : de l’image au traitement",
+            "start": "2023-10-14T08:15+02:00",
+            "end": "2023-10-14T09:15+02:00",
+            "objectives": [
+                "<p>A la fin de la séance, vous serez en mesure de :</p>",
+                "<p>Diagnostiquer une adenoyose en imagerie,</p>",
+                "<p>Proposer une stratégie thérapeutique&nbsp;en fonction de contexte,</p>",
+                "<p>Indiquer une embolisation&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "fc6d2e8a-6fea-4011-93b7-70483ef5e318",
+                        "title": "L’adénomyose qu’est ce que c’est...",
+                        "start": "2023-10-14T08:15+02:00",
+                        "end": "2023-10-14T08:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f08a694e-3fd0-4038-b4e1-f7332cf6ef52",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/158/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/158/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/158/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "effdc803-1575-4e01-a36f-43556e74493c",
+                        "title": "Imagerie écho et IRM",
+                        "start": "2023-10-14T08:25+02:00",
+                        "end": "2023-10-14T08:35+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "79f4997c-d9fc-4aed-a9c3-c41b29e462d0",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/159/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/159/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/159/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cb78aa15-dce4-4bde-9b9e-1c45a6a52f46",
+                        "title": "Traitement médical, chirurgical et endo-utérin",
+                        "start": "2023-10-14T08:35+02:00",
+                        "end": "2023-10-14T08:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "020c9c2b-d56a-4b24-9483-1c677f9aa757",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/160/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/160/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/160/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0132bde1-e0a8-425e-871a-e89620a37007",
+                        "title": "Traitement par embolisation",
+                        "start": "2023-10-14T08:55+02:00",
+                        "end": "2023-10-14T09:05+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c9ef022a-9826-45df-b3c0-ec03213a4711",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/162/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/162/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/162/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "37b9fdf8-fa51-4d55-b361-e240b884ab82",
+                        "title": "Discussion générale : Adénomyose utérine : de l’image au traitement",
+                        "start": "2023-10-14T09:05+02:00",
+                        "end": "2023-10-14T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "1e370550-9684-4756-b550-4e8aef802ec8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/163/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/163/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/163/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

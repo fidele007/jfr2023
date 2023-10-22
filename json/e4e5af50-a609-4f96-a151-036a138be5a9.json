@@ -1,0 +1,175 @@
+{
+    "data": {
+        "event": {
+            "id": "e4e5af50-a609-4f96-a151-036a138be5a9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1560/video/thumbs/poster.jpg",
+            "title": "Séance d'interprétation en imagerie pédiatrique",
+            "start": "2023-10-13T08:15+02:00",
+            "end": "2023-10-13T09:15+02:00",
+            "objectives": [
+                "<p><em>Cette séance interactive est destinée à tous les radiologues. Quatre binômes, venus de toute la France, composés d’un juniors et d’un référent en radiopédiatrie sernior, présenteront des cas cliniques avec des questions posées à l’assistance sous forme de QCM. Les dossiers seront commentés en insistant sur la démarche diagnostique à partir des données cliniques et la place des examens radiologiques utiles à la prise en charge. Une brève présentation de la pathologie sera proposée en fin de présentation, accompagnée des principaux diagnostics différentiels.</em></p>",
+                "<p><strong><em>Objectifs&nbsp;:</em></strong></p>",
+                "<ul>",
+                "\t<li><em>Promouvoir le transfert de compétences en permettant à des juniors de présenter et de discuter de cas cliniques en collaboration avec un senior.</em></li>",
+                "\t<li><em>Connaitre la démarche diagnostique à partir de cas cliniques choisis sur différents thèmes de radiologie pédiatrique : pathologie neurologique et ORL, oncologie pédiatrique, pathologie digestive, pathologie osseuse, pathologie thoracique etc</em></li>",
+                "\t<li><em>Améliorer les pratiques en proposant à travers les cas cliniques choisis une prise en charge radiologique adaptée et rationnelle, basée sur l’expérience du terrain et la littérature actuelle</em></li>",
+                "</ul>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8f73b6fe-4b4a-4ae6-a149-d2fa77e4458a",
+                        "title": "Dossiers commentés en imagerie pédiatrique",
+                        "start": "2023-10-13T08:15+02:00",
+                        "end": "2023-10-13T08:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "0c50691f-b9fa-45e5-85d0-7c0d8afedc20",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1538/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1538/video/1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1538/video/480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0a7b6066-6ec1-4395-ab86-aad40dda6cae",
+                        "title": "Dossiers commentés en imagerie pédiatrique",
+                        "start": "2023-10-13T08:27+02:00",
+                        "end": "2023-10-13T08:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "43a82022-7624-48c5-a4d4-39610e4d8b5c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1539/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1539/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1539/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f185b785-889d-4457-897a-0fd920e1c4ab",
+                        "title": "Dossiers commentés en imagerie pédiatrique",
+                        "start": "2023-10-13T08:39+02:00",
+                        "end": "2023-10-13T08:51+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "925faefe-bbc5-414c-a432-4ce583b77b10",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1540/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1540/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1540/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "746395d3-6d09-41b0-8cfe-a08820bb19c9",
+                        "title": "Dossiers commentés en imagerie pédiatrique",
+                        "start": "2023-10-13T08:51+02:00",
+                        "end": "2023-10-13T09:03+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "57365582-468d-4f94-a2bd-c64509f17700",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1541/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1541/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1541/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "104d492a-2648-4a1e-9c3e-62779723c2bf",
+                        "title": "Dossiers commentés en imagerie pédiatrique",
+                        "start": "2023-10-13T09:03+02:00",
+                        "end": "2023-10-13T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "323f6172-dae4-4ffa-b14b-fd445503c87b",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1560/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1560/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1560/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

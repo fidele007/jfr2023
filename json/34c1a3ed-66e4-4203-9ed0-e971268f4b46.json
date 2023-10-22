@@ -1,0 +1,211 @@
+{
+    "data": {
+        "event": {
+            "id": "34c1a3ed-66e4-4203-9ed0-e971268f4b46",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/580/video/thumbs/poster.jpg",
+            "title": "Séance de communications orales en imagerie des urgences",
+            "start": "2023-10-15T08:15+02:00",
+            "end": "2023-10-15T09:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "190f8746-7bc7-4f48-87bb-990d9b73b512",
+                        "title": "CT-guided drainages in the emergency",
+                        "start": "2023-10-15T08:15+02:00",
+                        "end": "2023-10-15T08:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "756e56d6-66f0-44d5-9b81-b7c169edd3a6",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1419/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1419/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1419/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2b42c0c9-6a80-40ec-8d89-4e20260b3c9d",
+                        "title": "Sepsis sans point d’appel : facteurs prédictifs de la positivité de l’examen TDM TAP",
+                        "start": "2023-10-15T08:30+02:00",
+                        "end": "2023-10-15T08:39+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "255b8455-6bbf-426d-80c2-b696ebc4d515",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/579/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/579/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/579/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ba4c4c84-4ded-4ee4-93ec-3a6a1838845d",
+                        "title": "Lésion vasculaire splénique secondaire aux traumatismes fermés : facteurs prédictifs d’apparition ou d’aggravation",
+                        "start": "2023-10-15T08:39+02:00",
+                        "end": "2023-10-15T08:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2eca2ced-09ab-491a-af4d-67709ef51f41",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/580/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/580/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/580/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4927b025-5a01-4ad7-a4a7-a4702c8e9512",
+                        "title": "Améliorer la description des occlusions de l’artère mésentérique supérieure occlusive : proposition de classification anatomique",
+                        "start": "2023-10-15T08:48+02:00",
+                        "end": "2023-10-15T08:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "457d0986-05c4-4c79-9817-19fd1c1a3955",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/581/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/581/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/581/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "4c540d4c-3005-4f5a-ae7e-4aa32042c2f1",
+                        "title": "CT features of small bowel necrosis due to strangulated bowel obstruction and acute occlusive mesenteric",
+                        "start": "2023-10-15T08:57+02:00",
+                        "end": "2023-10-15T09:06+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "649b3a01-4086-4373-aea1-e6153c5cec63",
+                        "title": "The fabulous destination of proper diagnosis in mesenteric ischemia Tomographic signs that we should know",
+                        "start": "2023-10-15T09:06+02:00",
+                        "end": "2023-10-15T09:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "38472b1a-2329-4ce7-ad3f-2d482536c357",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/583/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/583/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/583/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ce43d2c4-bd2a-48ff-91b3-e3840d46999a",
+                        "title": "Intérêt de la relecture des body-scanners traumatiques des patients du déchocage",
+                        "start": "2023-10-15T09:15+02:00",
+                        "end": "2023-10-15T09:24+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fb5556d5-76f5-4faf-b9bd-66e0718086f2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/584/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/584/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/584/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

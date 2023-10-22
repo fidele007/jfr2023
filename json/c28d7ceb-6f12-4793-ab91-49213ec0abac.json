@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "c28d7ceb-6f12-4793-ab91-49213ec0abac",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1039/video/thumbs/poster.jpg",
+            "title": "Imagerie dento maxilaire :  \n\nImagerie dento-maxillaire : Pathologies maxillo-mandibulaires",
+            "start": "2023-10-15T14:15+02:00",
+            "end": "2023-10-15T15:00+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "368aa51d-471f-4692-8820-025c3e0d2043",
+                        "title": "Imagerie dento-maxillaire : Pathologies maxillo-mandibulaires",
+                        "start": "2023-10-15T14:15+02:00",
+                        "end": "2023-10-15T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9553bebb-fe82-4a30-9a9a-fdf49142e8db",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1039/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1039/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1039/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

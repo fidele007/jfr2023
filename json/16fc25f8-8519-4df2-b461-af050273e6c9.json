@@ -1,0 +1,51 @@
+{
+    "data": {
+        "event": {
+            "id": "16fc25f8-8519-4df2-b461-af050273e6c9",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1616/video/thumbs/poster.jpg",
+            "title": "Coude : Les tendons épicondyliens médiaux",
+            "start": "2023-10-13T10:45+02:00",
+            "end": "2023-10-13T10:50+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "12d96559-4532-4af2-826f-2e6922c161fe",
+                        "title": "Coude : Les tendons épicondyliens médiaux",
+                        "start": "2023-10-13T10:45+02:00",
+                        "end": "2023-10-13T10:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8d187608-a390-4daa-874b-9c2bb8ec6b86",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1616/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1616/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1616/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

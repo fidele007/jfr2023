@@ -1,0 +1,203 @@
+{
+    "data": {
+        "event": {
+            "id": "ff3f01aa-461d-47e8-bd6f-9b961b479b9b",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1684/video/thumbs/poster.jpg",
+            "title": "Audits par les pairs",
+            "start": "2023-10-14T15:30+02:00",
+            "end": "2023-10-14T16:30+02:00",
+            "objectives": [
+                "<p>Remise de la Médaille de la SFR : Lors de cette séance le Docteur Jean Philippe Masson remettra&nbsp;la Médaille d'Honneur de la SFR au Docteur Jean Charles Leclerc</p>",
+                "<p>&nbsp;</p>",
+                "<p>Comprendre :</p>",
+                "<p>ce que sont les audits par les pairs.</p>",
+                "<p>Comment vont ils se mettre en place.</p>",
+                "<p>Quels vont etre les impacts pour les structures d imagerie.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "1f35e727-6fde-4664-b904-1b0538d56c6a",
+                        "title": "Remise de la Médaille d'Honneur de la SFR à Jean Charles Leclerc",
+                        "start": "2023-10-14T15:30+02:00",
+                        "end": "2023-10-14T15:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a6b6e452-215a-4350-85b1-8be6fca25d51",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1683/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1683/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1683/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c11e698f-7010-4801-8776-a5224958d82a",
+                        "title": "Historique des audits cliniques par les pairs : de la directive EURATOM 2013 59",
+                        "start": "2023-10-14T15:40+02:00",
+                        "end": "2023-10-14T15:50+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f1e159ad-2b03-40d6-93f3-296dcb10adab",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1684/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1684/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1684/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d4569fc8-1778-475e-8605-90daf41ad1b0",
+                        "title": "Audits cliniques par les pairs : les enjeux et les attendus pour les centres",
+                        "start": "2023-10-14T15:50+02:00",
+                        "end": "2023-10-14T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b510ae4b-8eca-4a47-95d0-310fefa93cc7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1685/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1685/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1685/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "2b57ec8c-e019-438a-902d-65c0fc23e14a",
+                        "title": "Présentation du dispositif construit autour des professionnels et avec le CNP de radiologie 4",
+                        "start": "2023-10-14T16:00+02:00",
+                        "end": "2023-10-14T16:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "ea01ce4e-6267-425c-a587-e6bd5221abf3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1686/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1686/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1686/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8aaaefc9-ab30-49b2-8b20-e8cfb0792c6c",
+                        "title": "Le point de vue de l'Autoorité de Sureté Nucléaire",
+                        "start": "2023-10-14T16:10+02:00",
+                        "end": "2023-10-14T16:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "baffde2e-ff26-4908-938e-53ab00ec902c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1905/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1905/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1905/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c1551856-aeab-4bf1-86d0-36215514c6b8",
+                        "title": "Le point de vue de la direction générale de la santé",
+                        "start": "2023-10-14T16:20+02:00",
+                        "end": "2023-10-14T16:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "fdacca65-9ac2-4669-8b3e-9d47f2b97a92",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1687/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1687/video/s_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1687/video/s_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

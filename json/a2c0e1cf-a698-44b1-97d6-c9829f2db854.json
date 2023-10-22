@@ -1,0 +1,200 @@
+{
+    "data": {
+        "event": {
+            "id": "a2c0e1cf-a698-44b1-97d6-c9829f2db854",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2033/video/thumbs/poster.jpg",
+            "title": "Nouvelles thérapeutiques cérébrales sous IRM :  vers l'IRM interventionnelle",
+            "start": "2023-10-16T15:45+02:00",
+            "end": "2023-10-16T16:45+02:00",
+            "objectives": [
+                "<p>Connaitre la technique de laser, ces applications actuelles et ces perspectives</p>",
+                "<p>Connaitre la&nbsp;technique des ultrasons focalisés,&nbsp;</p>",
+                "<p>Discuter la place du radiologue et des manipulateurs en electroradiologie&nbsp;par rapport aux developpement de ces nouvelles techniques, leurs nouvelles roles et les&nbsp;interaction avec le&nbsp;neurochirurgien et l'équipe pluridisciplinaire&nbsp;</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "f42c76db-0a6a-42ad-9a41-f437825e22a2",
+                        "title": "Introduction",
+                        "start": "2023-10-16T15:45+02:00",
+                        "end": "2023-10-16T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "dc944980-d222-4ef5-9777-62bd5fe3e200",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2033/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2033/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/2033/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e5946b3-0d90-4bff-ad99-79afc21bbe21",
+                        "title": "Thermocoagulation laser sous IRM : une nouvelle possibilité thérapeutique",
+                        "start": "2023-10-16T15:45+02:00",
+                        "end": "2023-10-16T15:57+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "56562151-8045-4396-ba65-a388ef6be23d",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/450/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/450/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/450/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6bc813c3-0204-4345-9b16-e47747082eca",
+                        "title": "Traitement par des ultrasons focalisés sous IRM des pathologies neurologiques : aujourd’hui et demain",
+                        "start": "2023-10-16T15:57+02:00",
+                        "end": "2023-10-16T16:09+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b84a947a-30d8-4a21-955d-edd7ed8c2a9f",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/451/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/451/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/451/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "39738b3c-5931-4ec1-874a-3215960dc115",
+                        "title": "La place de Nouvelles thérapeutiques cérébrales sous l’IRM en neurochirurgie",
+                        "start": "2023-10-16T16:09+02:00",
+                        "end": "2023-10-16T16:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "255fe2c0-6b2c-42de-ba90-14adeaf97b52",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/452/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/452/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/452/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e8476414-1674-4082-bfff-6f750b68b824",
+                        "title": "Clinical Application of QSM in Neuroimaging",
+                        "start": "2023-10-16T16:21+02:00",
+                        "end": "2023-10-16T16:33+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "c3b5c1bc-8d00-4aaf-9b6d-405f03b8a8c5",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1169/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1169/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1169/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d98c062a-e344-4fa5-936b-8d835735e81b",
+                        "title": "Discussion générale :  Nouvelles thérapeutiques cérébrales sous IRM :  vers l'IRM interventionnelle",
+                        "start": "2023-10-16T16:33+02:00",
+                        "end": "2023-10-16T16:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "49e13575-d7f7-457e-8358-140170fe6f88",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/453/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/453/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/453/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

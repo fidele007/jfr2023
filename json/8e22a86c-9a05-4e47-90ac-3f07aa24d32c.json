@@ -1,0 +1,262 @@
+{
+    "data": {
+        "event": {
+            "id": "8e22a86c-9a05-4e47-90ac-3f07aa24d32c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/480/video/thumbs/poster.jpg",
+            "title": "Séance de cas cliniques en imagerie thoracique",
+            "start": "2023-10-14T17:15+02:00",
+            "end": "2023-10-14T18:45+02:00",
+            "objectives": [
+                "<p><strong>Objectifs pédagogiques:</strong></p>",
+                "<p>- Connaitre les bases sémiologiques de l’imagerie thoracique</p>",
+                "<p>- Savoir raisonner par gamme diagnostique</p>",
+                "<p>- Connaitre les principaux diagnostics différentiels&nbsp;</p>",
+                "<p>&nbsp;</p>",
+                "<p><strong>Texte de présentation:</strong></p>",
+                "<p>Cette séance a pour objectif de proposer une approche interactive de l’imagerie thoracique à partir de cas sélectionnés.&nbsp;Les cas cliniques présentés permettront de revoir la démarche diagnostique dans diverses situations.</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "8bcdcd6b-bb7b-4f25-8bb2-a3826a4ae74a",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T17:15+02:00",
+                        "end": "2023-10-14T17:26+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "9a953a04-513d-43d4-b2db-fa4ae646a484",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/480/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/480/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/480/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ff7c4652-5431-4fb9-ae5d-436d3d479f99",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T17:26+02:00",
+                        "end": "2023-10-14T17:37+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "19859638-4d4e-4c9a-92ab-66ea48a90107",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1818/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1818/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1818/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ab8d32d5-cfc3-46d8-8b71-2f970b5b3fc4",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T17:37+02:00",
+                        "end": "2023-10-14T17:48+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e2983bbc-fff5-4673-b11d-22a9e7e3a26c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1820/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1820/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1820/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "50881c1b-769d-42b0-9ea1-d104d9008dee",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T17:48+02:00",
+                        "end": "2023-10-14T17:59+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "43dff4e3-5165-4970-ba46-59bb7ec58aa3",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1824/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1824/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1824/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "cb3e0f83-b817-4646-a42f-4e13d795159f",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T17:59+02:00",
+                        "end": "2023-10-14T18:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f5a91586-c946-4a03-afe6-80de26058d34",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1825/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1825/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1825/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "def45def-21e1-4cf5-98d2-cdac459b4943",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T18:10+02:00",
+                        "end": "2023-10-14T18:21+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "62543f8f-4cd1-4b9c-b08a-ce5d62a7c8c9",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1826/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1826/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1826/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "37be3a5b-00b6-404a-b9ec-744e3fb982a3",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T18:21+02:00",
+                        "end": "2023-10-14T18:32+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a68fffb0-ca53-4962-9f44-e5f6473dde25",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1828/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1828/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1828/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8e7b8bbd-581d-43e8-bf88-cee157c5bb28",
+                        "title": "Dossiers commentés en imagerie thoracique",
+                        "start": "2023-10-14T18:32+02:00",
+                        "end": "2023-10-14T18:43+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "86375160-b418-4a52-84b7-ca482ef9a3ce",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1829/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1829/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1829/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

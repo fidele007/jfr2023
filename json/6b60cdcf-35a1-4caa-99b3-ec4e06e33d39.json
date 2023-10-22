@@ -1,0 +1,111 @@
+{
+    "data": {
+        "event": {
+            "id": "6b60cdcf-35a1-4caa-99b3-ec4e06e33d39",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/296/video/thumbs/poster.jpg",
+            "title": "Le Cone Beam CT au service de l’ostéo-articulaire",
+            "start": "2023-10-14T12:30+02:00",
+            "end": "2023-10-14T13:30+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": {
+                    "id": "eea907f1-fa47-4fd5-998f-6122add97a20",
+                    "type": "VIDEO",
+                    "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/296/video/thumbs/poster.jpg",
+                    "element": {
+                        "sources": [
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/296/video/y_1080p_4000kb.mp4"
+                            },
+                            {
+                                "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023-WHOLE/296/video/y_480p_800kb.mp4"
+                            }
+                        ]
+                    }
+                }
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "6207194e-fb01-464d-84a8-0e8f813e6aca",
+                        "title": "Introduction",
+                        "start": "2023-10-14T12:30+02:00",
+                        "end": "2023-10-14T12:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "5eaf57d6-f4e2-4961-821a-4d077d173ad2",
+                        "title": "Cas cliniques 1",
+                        "start": "2023-10-14T12:40+02:00",
+                        "end": "2023-10-14T12:55+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "290c9e01-0e05-41d5-b022-185e18b8f1a4",
+                        "title": "Cas cliniques 2",
+                        "start": "2023-10-14T12:55+02:00",
+                        "end": "2023-10-14T13:10+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "ed18cf22-d8ea-4e5f-936e-4827a4ac24d1",
+                        "title": "Cas cliniques 3",
+                        "start": "2023-10-14T13:10+02:00",
+                        "end": "2023-10-14T13:25+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    },
+                    {
+                        "id": "9b885644-b694-4149-ac05-dc18832c65f9",
+                        "title": "Conclusion",
+                        "start": "2023-10-14T13:25+02:00",
+                        "end": "2023-10-14T13:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": null
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "data": {
+        "event": {
+            "id": "79fce416-3011-42a5-9454-427ee6c38eb8",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1003/video/thumbs/poster.jpg",
+            "title": "Intelligence artificielle et poumon",
+            "start": "2023-10-13T14:00+02:00",
+            "end": "2023-10-13T15:45+02:00",
+            "objectives": [],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "22065fc1-013a-46be-9357-80aa3c8880c9",
+                        "title": "Apport de l'intelligence Artificielle pour le cancer du poumon. Le point de vue du clinicien oncologue",
+                        "start": "2023-10-13T14:00+02:00",
+                        "end": "2023-10-13T14:20+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "b4f3d159-4db2-40ab-a538-a4c65ed770d8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1002/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1002/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1002/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "d27f6176-86f6-43e3-ad20-fe9011c376d6",
+                        "title": "Intelligence Artificielle et pneumopathie interstitielle :  vers de nouveaux biomarqueurs ?",
+                        "start": "2023-10-13T14:20+02:00",
+                        "end": "2023-10-13T14:40+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "e67ba272-3fa4-467b-b03e-8b728acd165e",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1003/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1003/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1003/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "f9f5bf2d-1f2e-4fe7-8827-c430fdc18b9e",
+                        "title": "L'intelligence Artificielle pour l'étude des pneumopathies chroniques",
+                        "start": "2023-10-13T14:40+02:00",
+                        "end": "2023-10-13T15:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "a014d162-2a0a-49ea-aebc-e06101de07a2",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1004/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1004/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1004/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "af5d0832-bdf7-47b0-91f6-f8eeee6b34a7",
+                        "title": "Table ronde",
+                        "start": "2023-10-13T15:00+02:00",
+                        "end": "2023-10-13T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "8e52db8d-d018-4878-81f3-ca6661d7d1c8",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1005/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1005/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1005/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

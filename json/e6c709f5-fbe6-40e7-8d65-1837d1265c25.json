@@ -1,0 +1,143 @@
+{
+    "data": {
+        "event": {
+            "id": "e6c709f5-fbe6-40e7-8d65-1837d1265c25",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/371/video/thumbs/poster.jpg",
+            "title": "IRM cardiaque en cardio-oncologie",
+            "start": "2023-10-15T17:00+02:00",
+            "end": "2023-10-15T18:00+02:00",
+            "objectives": [
+                "<p>Connaitre la sémiologie IRM des cardiotoxicités</p>",
+                "<p>Connaitre les nouvelles recommandations concernant la place de l'IRM en cardiooncologie&nbsp;</p>",
+                "<p>Connaitre l'intérêt pronostic de l'IRM cardiaque en cardiooncologie&nbsp;</p>",
+                "<p>Connaitre l'intérêt d'une approche multiparamétrique thoracique</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "95c874e8-e1f5-4140-b274-ecf60980c65a",
+                        "title": "Aspects IRM des myocardites aux ICI",
+                        "start": "2023-10-15T17:00+02:00",
+                        "end": "2023-10-15T17:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "155759a3-a14c-4be7-94cc-47e444266199",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/371/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/371/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/371/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "93295b71-e892-4015-8bd1-051d0d8ffd59",
+                        "title": "IRM des autres cardiotoxicités en oncologie",
+                        "start": "2023-10-15T17:15+02:00",
+                        "end": "2023-10-15T17:30+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "69280e79-278f-447b-ab4a-0b8db58d04b7",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/372/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/372/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/372/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6f9cd6fb-4a8c-4fcb-a73b-b49347b48170",
+                        "title": "Approche multiparamétrique cardiothoracique en cardio-oncologie",
+                        "start": "2023-10-15T17:30+02:00",
+                        "end": "2023-10-15T17:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "49271dce-7ae2-40e6-9712-39763a273f07",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/373/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/373/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/373/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "6fc22106-9d77-4296-89ed-980c4e040c52",
+                        "title": "Discussion générale :  IRM cardiaque en cardio-oncologie",
+                        "start": "2023-10-15T17:45+02:00",
+                        "end": "2023-10-15T18:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "070c65d3-1e66-4b83-9c39-eccd0b3d957c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/374/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/374/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/374/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

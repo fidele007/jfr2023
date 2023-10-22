@@ -1,0 +1,144 @@
+{
+    "data": {
+        "event": {
+            "id": "45fb38dd-8031-4c2f-864d-28a7f90a188c",
+            "picture": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/503/video/thumbs/poster.jpg",
+            "title": "Prise en charge multidisciplinaire d'un tableau d'urgence :  le polytraumatisé",
+            "start": "2023-10-15T15:30+02:00",
+            "end": "2023-10-15T16:30+02:00",
+            "objectives": [
+                "<p>- Comprendre les nouvelles techniques de stabilisation hémodynamique</p>",
+                "<p>- Comprendre les enjeux du bilan lésionnel sur la prise en charge thérapeutique</p>",
+                "<p>- Optimiser les protocoles de scanner</p>",
+                "<p>- Standardiser la lecture en imagerie</p>",
+                "<p>- Connaître les techniques et indications de radiologie interventionnelle d'hémostase</p>"
+            ],
+            "vod": {
+                "checkPermissions": [
+                    "media:view"
+                ],
+                "media": null
+            },
+            "schedule": {
+                "items": [
+                    {
+                        "id": "7cb8255e-596a-4196-81f8-a1c0c3112174",
+                        "title": "Up to date de la prise en charge hospitalière",
+                        "start": "2023-10-15T15:30+02:00",
+                        "end": "2023-10-15T15:45+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "f2930b93-b14a-4a28-a2fd-a3be9b4234aa",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/503/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/503/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/503/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "db018e3d-80e5-4d79-a9e6-7e7e091d4954",
+                        "title": "Le bodyscanner : quand, comment, pourquoi ?",
+                        "start": "2023-10-15T15:45+02:00",
+                        "end": "2023-10-15T16:00+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "37650c72-dfbf-4bbb-a389-86cbd23d2f91",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/504/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/504/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/504/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "3e3a1e23-14df-410f-99bd-79ca210f51f0",
+                        "title": "Indications et techniques de l’embolisation.",
+                        "start": "2023-10-15T16:00+02:00",
+                        "end": "2023-10-15T16:15+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "2a27ae7e-650b-4b4d-b105-e0b2aa464c7c",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/505/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/505/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/505/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "034b0cdc-a8de-483e-b7d4-9c4d974eb38e",
+                        "title": "Discussion générale:  Prise en charge multidisciplinaire d'un tableau d'urgence :  le polytraumatisé",
+                        "start": "2023-10-15T16:15+02:00",
+                        "end": "2023-10-15T16:27+02:00",
+                        "speakers": {
+                            "items": []
+                        },
+                        "vod": {
+                            "checkPermissions": [
+                                "media:view"
+                            ],
+                            "media": {
+                                "id": "5523b3cc-f756-4fbf-b4c4-190e3140e75a",
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/506/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/506/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/506/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
