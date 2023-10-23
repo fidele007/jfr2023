@@ -62,9 +62,9 @@ h1 {
 /* "Cool" loading animation */
 .DNA_cont {
 	display: flex;
-	position: relative;
 	transform: scale(0.15);
-	margin: auto;
+	justify-content: center;
+	align-self: center;
 	margin-top: 50px;
 }
 .nucleobase {
