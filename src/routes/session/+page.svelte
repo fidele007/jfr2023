@@ -109,18 +109,21 @@
 	</a>
 
 	{#if loading}
-		<div id="loader">
-			<div class="ls-particles ls-part-1" />
-			<div class="ls-particles ls-part-2" />
-			<div class="ls-particles ls-part-3" />
-			<div class="ls-particles ls-part-4" />
-			<div class="ls-particles ls-part-5" />
-			<div class="lightsaber ls-left ls-green" />
-			<div class="lightsaber ls-right ls-red" />
+		<div class="DNA_cont">
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
+			<div class="nucleobase"></div>
 		</div>
 	{/if}
 
-	{#if eventDetail}
+	{#if !loading && eventDetail}
 		<div class="detail">
 			<div class="session-header">
 				<h1>{eventDetail.title}</h1>
