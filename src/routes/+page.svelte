@@ -1,17 +1,24 @@
 <script lang="ts">
 	import SessionCard from '$lib/SessionCard.svelte';
 	import { normalizeString } from '$lib/Constants.svelte';
-	import { onMount } from 'svelte';
+	import { onDestroy, onMount } from 'svelte';
 	import { base } from '$app/paths';
+
+	let searchInput: HTMLInputElement;
 
 	const logoUrl = `${base}/jfr_2023.png`;
 
+	const FETCH_LIMIT = 25;
+
 	let loading = true;
+	let timeout: ReturnType<typeof setTimeout>;
+
 	let selectedDate: string = '';
+
 	let eventJson: any;
 	let sessionsByDate: any = {};
 	let filteredSessions: any;
-	let timeout: ReturnType<typeof setTimeout>;
+	let displaySessions: any;
 
 	const debounce = (callback: Function, wait = 300) => {
 		return (...args: any[]) => {
@@ -22,7 +29,6 @@
 
 	const searchSessions = async (value: string) => {
 		// console.log('Searching for: ', value);
-		filteredSessions = null;
 		loading = true;
 
 		// await new Promise(r => setTimeout(r, 3000));
@@ -33,6 +39,8 @@
 					normalizeString(x.title).toUpperCase().includes(normalizeString(value).toUpperCase())
 			  )
 			: scopedSessions;
+
+		displaySessions = filteredSessions.slice(0, FETCH_LIMIT);
 
 		loading = false;
 	};
@@ -45,7 +53,31 @@
 
 	const onDateChange = async (date: string) => {
 		selectedDate = date;
-		await searchSessions((document.getElementById('search') as HTMLInputElement).value);
+		await searchSessions(searchInput.value);
+	};
+
+	const loadMore = () => {
+		// console.log('Loading more...');
+
+		if (filteredSessions) {
+			for (let index = 0; index < FETCH_LIMIT; index++) {
+				if (filteredSessions.length == displaySessions.length) {
+					break;
+				}
+
+				displaySessions = [...displaySessions, filteredSessions[displaySessions.length]];
+			}
+		}
+
+		// console.log('Display count: ' + displaySessions.length);
+	};
+
+	const onScroll = () => {
+		const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
+
+		if (window.scrollY >= scrollableHeight) {
+			loadMore();
+		}
 	};
 
 	onMount(async () => {
@@ -69,7 +101,15 @@
 			x.start.startsWith('2023-10-16')
 		);
 
-		await searchSessions((document.getElementById('search') as HTMLInputElement).value);
+		document.addEventListener('scroll', onScroll);
+
+		await searchSessions(searchInput.value);
+	});
+
+	onDestroy(() => {
+		if (typeof document !== 'undefined') {
+			document.removeEventListener('scroll', onScroll);
+		}
 	});
 </script>
 
@@ -83,69 +123,57 @@
 		<h1>JFR 2023</h1>
 	</div>
 	<div id="search-container">
-		<input id="search" type="text" placeholder="Rechercher" on:input={onSearch} />
+		<input
+			id="search"
+			type="text"
+			placeholder="Rechercher"
+			bind:this={searchInput}
+			on:input={onSearch}
+		/>
 	</div>
 
 	<nav class="navbar">
 		<ul class="menu">
 			<li class={selectedDate ? '' : 'selected'}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('')}>Tout</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('')}>Tout</a>
 			</li>
 			<li class={selectedDate == '2023-10-12' ? 'selected' : ''}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('2023-10-12')}>jeu. 12 oct.</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('2023-10-12')}>jeu. 12 oct.</a>
 			</li>
 			<li class={selectedDate == '2023-10-13' ? 'selected' : ''}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('2023-10-13')}>ven. 13 oct.</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('2023-10-13')}>ven. 13 oct.</a>
 			</li>
 			<li class={selectedDate == '2023-10-14' ? 'selected' : ''}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('2023-10-14')}>sam. 14 oct.</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('2023-10-14')}>sam. 14 oct.</a>
 			</li>
 			<li class={selectedDate == '2023-10-15' ? 'selected' : ''}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('2023-10-15')}>dim. 15 oct.</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('2023-10-15')}>dim. 15 oct.</a>
 			</li>
 			<li class={selectedDate == '2023-10-16' ? 'selected' : ''}>
-				<a
-					href="/"
-					on:click|preventDefault={() => onDateChange('2023-10-16')}>lun. 16 oct.</a
-				>
+				<a href="/" on:click|preventDefault={() => onDateChange('2023-10-16')}>lun. 16 oct.</a>
 			</li>
 		</ul>
 	</nav>
 
 	{#if loading}
 		<div class="DNA_cont">
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
-			<div class="nucleobase"></div>
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
+			<div class="nucleobase" />
 		</div>
 	{/if}
 
 	<div class="card-container">
 		{#if !loading}
-			{#if filteredSessions && filteredSessions.length > 0}
-				{#each filteredSessions as item}
+			{#if displaySessions && displaySessions.length > 0}
+				{#each displaySessions as item}
 					<SessionCard info={item} />
 				{/each}
 			{:else}
@@ -179,7 +207,7 @@
 		border-radius: 5px;
 	}
 
-	#search-container input {
+	#search {
 		height: 24px;
 		padding: 6px 12px;
 		font-size: 16px;
@@ -226,7 +254,8 @@
 		position: relative;
 	}
 
-	.navbar .menu li:hover, .navbar .menu li.selected {
+	.navbar .menu li:hover,
+	.navbar .menu li.selected {
 		background-color: #f94b65;
 	}
 
@@ -252,7 +281,7 @@
 			padding: 4px;
 		}
 
-		#search-container input {
+		#search {
 			width: 100%;
 		}
 	}
