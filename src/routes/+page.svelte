@@ -3,6 +3,7 @@
 	import { normalizeString } from '$lib/Constants.svelte';
 	import { onDestroy, onMount } from 'svelte';
 	import { base } from '$app/paths';
+	import BackToTop from '$lib/BackToTop.svelte';
 
 	let searchInput: HTMLInputElement;
 
@@ -181,6 +182,8 @@
 			{/if}
 		{/if}
 	</div>
+
+	<BackToTop />
 </main>
 
 <style>
