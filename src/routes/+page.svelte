@@ -46,10 +46,16 @@
 		loading = false;
 	};
 
-	const onSearch = async (event: Event) => {
-		const value = (event.target as HTMLInputElement).value;
+	const onSearch = async () => {
 		loading = true;
-		debounce(searchSessions).call(null, value);
+		debounce(searchSessions).call(null, searchInput.value);
+	};
+
+	const onDeleteSearch = () => {
+		if (searchInput.value) {
+			searchInput.value = '';
+			onSearch();
+		}
 	};
 
 	const onDateChange = async (date: string) => {
@@ -131,6 +137,7 @@
 			bind:this={searchInput}
 			on:input={onSearch}
 		/>
+		<button class="btn-delete-search" on:click={onDeleteSearch}>❌</button>
 	</div>
 
 	<nav class="navbar">
@@ -207,7 +214,6 @@
 	#search-container {
 		display: flex;
 		justify-content: center;
-		border-radius: 5px;
 	}
 
 	#search {
@@ -215,6 +221,22 @@
 		padding: 6px 12px;
 		font-size: 16px;
 		min-width: 300px;
+	}
+
+	.btn-delete-search {
+		border: 1px solid #f94b65;
+		border-left: none;
+		outline: none;
+		background-color: transparent;
+		min-width: 40px;
+		max-width: 40px;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+		cursor: pointer;
+	}
+
+	.btn-delete-search:hover {
+		background-color: #3b3b3b;
 	}
 
 	.navbar {
@@ -266,6 +288,12 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
+	}
+
+	@media (prefers-color-scheme: light) {
+		.btn-delete-search:hover {
+			background-color: #ffffff;
+		}
 	}
 
 	@media (max-width: 1000px) {
