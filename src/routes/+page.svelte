@@ -313,6 +313,7 @@
 		}
 
 		#search {
+			min-width: initial;
 			width: 100%;
 		}
 	}

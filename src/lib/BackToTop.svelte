@@ -2,7 +2,8 @@
 	export let showOnPx = 150;
 	let hidden = true;
 	function goTop() {
-		document.body.scrollIntoView();
+		// document.body.scrollIntoView();
+		window.scrollTo({top: 0, behavior: 'smooth'});
 	}
 	function scrollContainer() {
 		return document.documentElement || document.body;
@@ -36,6 +37,9 @@
 		border: none;
 		border-radius: 5px;
 		padding: 0.05rem;
+		width: 40px;
+		height: 40px;
+		cursor: pointer;
 		background-color: lightgray;
 	}
 	.back-to-top.hidden {
