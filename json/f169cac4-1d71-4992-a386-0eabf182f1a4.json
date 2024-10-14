@@ -18,7 +18,22 @@
                         "speakers": {
                             "items": []
                         },
-                        "vod": null
+                        "vod": {
+                            "media": {
+                                "type": "VIDEO",
+                                "thumbnail": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1752/video/thumbs/poster.jpg",
+                                "element": {
+                                    "sources": [
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1752/video/y_1080p_4000kb.mp4"
+                                        },
+                                        {
+                                            "uri": "https://services.medicalcongress.online/congress/medias/2023/JFR-2023/1752/video/y_480p_800kb.mp4"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
                     },
                     {
                         "id": "f956b29f-12c6-4484-97d8-c6b0b6cf1011",
